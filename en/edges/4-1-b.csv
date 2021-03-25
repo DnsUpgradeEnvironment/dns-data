@@ -1,4 +1,4 @@
 From,To
-display,title
-title,Sex
-Sex,Bundesland
+Display,Time series
+Time series,Sex
+Sex,Region
