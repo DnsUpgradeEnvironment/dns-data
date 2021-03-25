@@ -1,41 +1,13 @@
 Disaggregation,Number of indicators,Number of values
-activities,1,5
-age of mother,1,2
-age,13,26
-area of law,1,4
-area,1,2
-classification,1,4
-conversion,1,2
-disability,1,1
-economic sector,2,5
-education level,1,2
-facilities,1,4
-form of abuse,1,2
-form of exploitation,1,2
-indicator,1,3
-level of proficiency,1,2
-level of risk of extinction,1,5
-level of waterstress,1,2
-mode of transport,1,6
-profession,1,4
-region,3,16
-sea,1,2
-sector,1,2
-sex,21,4
-skill,1,2
-speed,1,5
-standard accounting system,1,2
-subject,1,2
-substance,1,2
-technological intensity,1,2
-technology,1,2
-timeseries,50,128
-title,1,2
-treatment,1,2
-type of account,1,2
-type of disease,2,7
-type of flow,1,5
-type of waste treatment,1,4
-type of waste water,1,2
-type of waste,1,2
-type of water body,1,2
+age,5,21
+air pollutants,1,6
+area,2,3
+Bundesland,25,17
+criminal offences,1,5
+dimension,2,5
+display,45,4
+Kreis,2,402
+sea,2,2
+sex,8,5
+title,28,74
+typification,2,3

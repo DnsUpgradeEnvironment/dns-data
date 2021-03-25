@@ -1,93 +1,61 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-ab,"title, sex, area",3
-#10-1-1,timeseries,1
-#10-2-1,"sex, age",2
-#10-5-1,timeseries,1
-#10-b-1,type of flow,1
-#11-1-1,timeseries,1
-#11-2-1,"timeseries, sex, age, disability",4
-#11-3-1,timeseries,1
-#11-4-1,timeseries,1
-#11-6-1,timeseries,1
-#12-4-1,timeseries,1
-#12-4-2,"timeseries, type of waste treatment",2
-#12-5-1,"timeseries, type of waste",2
-#12-b-1,standard accounting system,1
-#14-4-1,"timeseries, sea",2
-#14-5-1,timeseries,1
-#15-1-2,timeseries,1
-#15-2-1,timeseries,1
-#15-4-2,classification,1
-#15-7-1,timeseries,1
-#15-a-1,timeseries,1
-#15-b-1,timeseries,1
-#15-c-1,timeseries,1
-#16-1-1,"sex, age",2
-#16-1-3,"timeseries, sex, age",3
-#16-2-1,"sex, form of abuse",2
-#16-2-2,"sex, age, form of exploitation",3
-#16-3-1,timeseries,1
-#16-5-1,"timeseries, sex",2
-#16-7-1,timeseries,1
-#16-7-2,sex,1
-#17-1-2,timeseries,1
-#17-13-1,timeseries,1
-#17-15-1,timeseries,1
-#17-19-1,timeseries,1
-#17-19-2,timeseries,1
-#17-2-1,timeseries,1
-#17-6-1,speed,1
-#17-7-1,sector,1
-#17-8-1,"sex, age",2
-#17-9-1,timeseries,1
-#2-2-2,timeseries,1
-#2-3-1,economic sector,1
-#2-4-1,timeseries,1
-#2-5-2,"timeseries, level of risk of extinction",2
-#3-1-2,timeseries,1
-#3-2-1,age,1
-#3-3-1,sex,1
-#3-4-1,type of disease,1
-#3-5-1,"sex, substance",2
-#3-5-2,conversion,1
-#3-7-2,age of mother,1
-#3-9-2,type of disease,1
-#3-a-1,"timeseries, sex",2
-#3-b-1,timeseries,1
-#3-c-1,profession,1
-#4-1-1,"education level, subject",2
-#4-2-2,sex,1
-#4-3-1,"sex, age",2
-#4-4-1,"age, activities",2
-#4-5-1,indicator,1
-#4-6-1,"skill, level of proficiency",2
-#4-a-1,facilities,1
-#4-b-1,timeseries,1
-#5-1-1,area of law,1
-#5-3-1,age,1
-#5-4-1,"sex, age",2
-#5-5-1,"timeseries, region",2
-#5-b-1,timeseries,1
-#6-1-1,timeseries,1
-#6-2-1,timeseries,1
-#6-3-1,"treatment, type of waste water",2
-#6-3-2,type of water body,1
-#6-4-1,economic sector,1
-#6-4-2,level of waterstress,1
-#6-a-1,timeseries,1
-#7-1-1,timeseries,1
-#7-2-1,timeseries,1
-#8-10-1,timeseries,1
-#8-10-2,type of account,1
-#8-5-1,"timeseries, sex, region",3
-#8-5-2,"sex, age",2
-#8-6-1,sex,1
-#8-7-1,"sex, age",2
-#8-8-1,"timeseries, sex",2
-#8-a-1,timeseries,1
-#9-1-2,"timeseries, mode of transport",2
-#9-4-1,timeseries,1
-#9-5-1,region,1
-#9-a-1,timeseries,1
-#9-b-1,technological intensity,1
-#9-c-1,technology,1
+#10-1-a,"title, sex, Bundesland",3
+#10-2-a,"title, area",2
+#11-1-a,"title, display",2
+#11-1-b,"Bundesland, typification",2
+#11-1-c,"Bundesland, typification",2
+#11-2-a,"title, display",2
+#11-2-b,"title, display",2
+#11-2-c,"Bundesland, dimension",2
+#11-3-a,display,1
+#11-4-a,"title, display",2
+#12-1-a,display,1
+#12-1-b,title,1
+#12-2-a,"title, Bundesland, display",3
+#12-3-ab,"title, display",2
+#13-1-a,"Bundesland, display",2
+#13-1-b,display,1
+#14-1-a,"display, sea",2
+#14-1-b,"title, display, sea",3
+#15-1-a,"title, display",2
+#15-2-a,display,1
+#15-3-ab,title,1
+#16-1-a,"Bundesland, display, criminal offences",3
+#16-2-a,display,1
+#16-3-ab,title,1
+#17-1-a,"title, display",2
+#17-2-a,"title, Bundesland, display",3
+#17-3-a,"title, display",2
+#2-1-a,"title, display",2
+#2-1-b,"title, Bundesland, display",3
+#2-2-a,display,1
+#3-1-ab,"sex, Bundesland, display",3
+#3-1-cd,"Bundesland, display, age",3
+#3-1-e,"sex, dimension, age",3
+#3-1-f,"sex, Bundesland, age",3
+#3-2-a,"display, air pollutants",2
+#3-2-b,display,1
+#3-3-a,title,1
+#4-1-a,"sex, Bundesland, display",3
+#4-1-b,"title, sex, Bundesland, display",4
+#4-2-ab,"Bundesland, display, age, Kreis",4
+#5-1-a,"Bundesland, display",2
+#5-1-bc,"title, display",2
+#5-1-d,"Bundesland, display",2
+#5-1-e,display,1
+#6-1-a,display,1
+#6-1-b,"Bundesland, display",2
+#6-2-ab,"title, display",2
+#7-1-ab,"title, Bundesland, display",3
+#7-2-a,"Bundesland, display",2
+#7-2-b,"Bundesland, display",2
+#8-1-a,"title, display",2
+#8-2-ab,"title, display",2
+#8-2-c,display,1
+#8-3-a,Bundesland,1
+#8-4-a,"Bundesland, Kreis",2
+#8-5-ab,"sex, Bundesland, display, age",4
+#8-6-a,title,1
+#9-1-a,"Bundesland, display",2
+#9-1-b,"title, display",2
