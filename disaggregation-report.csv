@@ -1,8 +1,9 @@
 Disaggregation,Number of indicators,Number of values
 activities,1,5
 age of mother,1,2
-age,15,26
+age,13,26
 area of law,1,4
+area,1,2
 classification,1,4
 conversion,1,2
 disability,1,1
@@ -20,7 +21,7 @@ profession,1,4
 region,3,16
 sea,1,2
 sector,1,2
-sex,22,4
+sex,21,4
 skill,1,2
 speed,1,5
 standard accounting system,1,2
@@ -28,7 +29,8 @@ subject,1,2
 substance,1,2
 technological intensity,1,2
 technology,1,2
-timeseries,54,137
+timeseries,50,128
+title,1,2
 treatment,1,2
 type of account,1,2
 type of disease,2,7
