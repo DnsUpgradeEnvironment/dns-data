@@ -2,60 +2,60 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-ab,"title, sex, area",3
 #10-1-a,"title, sex, Bundesland",3
 #10-2-a,"title, area",2
-#11-1-a,"title, display",2
-#11-1-b,"Bundesland, typification",2
-#11-1-c,"Bundesland, typification",2
-#11-2-a,"title, display",2
-#11-2-b,"title, display",2
-#11-2-c,"Bundesland, dimension",2
+#11-1-a,"display, title",2
+#11-1-b,"typification, Bundesland",2
+#11-1-c,"typification, Bundesland",2
+#11-2-a,"display, title",2
+#11-2-b,"display, title",2
+#11-2-c,"dimension, Bundesland",2
 #11-3-a,display,1
-#11-4-a,"title, display",2
+#11-4-a,"display, title",2
 #12-1-a,display,1
 #12-1-b,title,1
-#12-2-a,"title, Bundesland, display",3
-#12-3-ab,"title, display",2
-#13-1-a,"Bundesland, display",2
+#12-2-a,"display, title, Bundesland",3
+#12-3-ab,"display, title",2
+#13-1-a,"display, Bundesland",2
 #13-1-b,display,1
 #14-1-a,"display, sea",2
-#14-1-b,"title, display, sea",3
-#15-1-a,"title, display",2
+#14-1-b,"display, title, sea",3
+#15-1-a,"display, title",2
 #15-2-a,display,1
 #15-3-ab,title,1
-#16-1-a,"Bundesland, display, criminal offences",3
+#16-1-a,"display, Bundesland, criminal offences",3
 #16-2-a,display,1
 #16-3-ab,title,1
-#17-1-a,"title, display",2
-#17-2-a,"title, Bundesland, display",3
-#17-3-a,"title, display",2
-#2-1-a,"title, display",2
-#2-1-b,"title, Bundesland, display",3
+#17-1-a,"display, title",2
+#17-2-a,"display, title, Bundesland",3
+#17-3-a,"display, title",2
+#2-1-a,"display, title",2
+#2-1-b,"display, title, Bundesland",3
 #2-2-a,display,1
-#3-1-ab,"sex, Bundesland, display",3
-#3-1-cd,"Bundesland, display, age",3
-#3-1-e,"sex, dimension, age",3
-#3-1-f,"sex, Bundesland, age",3
+#3-1-ab,"display, sex, Bundesland",3
+#3-1-cd,"display, age, Bundesland",3
+#3-1-e,"dimension, sex, age",3
+#3-1-f,"sex, age, Bundesland",3
 #3-2-a,"display, air pollutants",2
 #3-2-b,display,1
 #3-3-a,title,1
-#4-1-a,"sex, Bundesland, display",3
-#4-1-b,"title, sex, Bundesland, display",4
-#4-2-ab,"Bundesland, display, age, Kreis",4
-#5-1-a,"Bundesland, display",2
-#5-1-bc,"title, display",2
-#5-1-d,"Bundesland, display",2
+#4-1-a,"display, sex, Bundesland",3
+#4-1-b,"display, title, sex, Bundesland",4
+#4-2-ab,"display, age, Bundesland, Kreis",4
+#5-1-a,"display, Bundesland",2
+#5-1-bc,"display, title",2
+#5-1-d,"display, Bundesland",2
 #5-1-e,display,1
 #6-1-a,display,1
-#6-1-b,"Bundesland, display",2
-#6-2-ab,"title, display",2
-#7-1-ab,"title, Bundesland, display",3
-#7-2-a,"Bundesland, display",2
-#7-2-b,"Bundesland, display",2
-#8-1-a,"title, display",2
-#8-2-ab,"title, display",2
+#6-1-b,"display, Bundesland",2
+#6-2-ab,"display, title",2
+#7-1-ab,"display, title, Bundesland",3
+#7-2-a,"display, Bundesland",2
+#7-2-b,"display, Bundesland",2
+#8-1-a,"display, title",2
+#8-2-ab,"display, title",2
 #8-2-c,display,1
 #8-3-a,Bundesland,1
 #8-4-a,"Bundesland, Kreis",2
-#8-5-ab,"sex, Bundesland, display, age",4
+#8-5-ab,"display, sex, age, Bundesland",4
 #8-6-a,title,1
-#9-1-a,"Bundesland, display",2
-#9-1-b,"title, display",2
+#9-1-a,"display, Bundesland",2
+#9-1-b,"display, title",2
