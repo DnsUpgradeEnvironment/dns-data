@@ -2077,19 +2077,7 @@
             "title": "Jahr"
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Zeitreihe",
-                "Ziel"
-              ]
-            },
-            "title": "Anzeigen"
-          },
-          {
-            "name": "title",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2098,7 +2086,7 @@
                 "Daten des Statistischen Bundesamtes"
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           }
         ]
       },

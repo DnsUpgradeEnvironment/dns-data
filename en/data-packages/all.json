@@ -2040,19 +2040,7 @@
             "title": "Units"
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Time series",
-                "Target",
-                ""
-              ]
-            },
-            "title": "Display"
-          },
-          {
-            "name": "title",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2061,7 +2049,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Bundesland",
@@ -3875,7 +3863,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

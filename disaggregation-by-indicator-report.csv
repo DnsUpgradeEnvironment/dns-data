@@ -27,7 +27,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-1-a,"title, display",2
 #17-2-a,"title, display, Bundesland",3
 #17-3-a,"title, display",2
-#2-1-b,"title, display, Bundesland",3
+#2-1-b,"Bundesland, timeseries",2
 #2-2-a,display,1
 #3-1-ab,"display, sex, Bundesland",3
 #3-1-cd,"display, Bundesland, age",3

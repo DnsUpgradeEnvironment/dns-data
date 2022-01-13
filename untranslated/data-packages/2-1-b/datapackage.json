@@ -25,18 +25,7 @@
             }
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
