@@ -29,16 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "b) calculated annual values",
                 "a) moving five-year average, referring to the middle year",
                 ""

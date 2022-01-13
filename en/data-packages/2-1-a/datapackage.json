@@ -31,23 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Calculated annual values",
                 "Moving five-year average, referring to the middle year",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

@@ -16,7 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Zeitreihe"
+                "a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr",
+                "b) Berechnete jährliche Werte"
               ]
             },
             "title": "Series"
@@ -41,18 +42,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr",
-                "b) Berechnete jährliche Werte"
-              ]
-            },
-            "title": "Zeitreihe"
           }
         ]
       }
