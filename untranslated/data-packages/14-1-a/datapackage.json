@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mg/l",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "north sea",
+                "baltic sea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-1-a",
+  "title": "Stickstoffeintrag über die Zuflüsse in Nord- und Ostsee"
+}

@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Time series",
+                "Target",
+                ""
+              ]
+            },
+            "title": "Display"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Drinking water and sanitation",
+                "Drinking water",
+                "Sanitation",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-ab",
+  "title": "Entwicklungszusammenarbeit für Trinkwasser- und Sanitärversorgung"
+}

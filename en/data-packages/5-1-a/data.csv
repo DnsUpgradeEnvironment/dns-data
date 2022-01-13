@@ -1,0 +1,269 @@
+Year,Units,Display,Region,GeoCode,Value
+1995,Percentage,Time series,Germany,,21.0
+1996,Percentage,Time series,Germany,,21.0
+1997,Percentage,Time series,Germany,,21.0
+1998,Percentage,Time series,Germany,,22.0
+1999,Percentage,Time series,Germany,,19.0
+2000,Percentage,Time series,Germany,,21.0
+2001,Percentage,Time series,Germany,,21.0
+2002,Percentage,Time series,Germany,,22.0
+2003,Percentage,Time series,Germany,,23.0
+2004,Percentage,Time series,Germany,,23.0
+2005,Percentage,Time series,Germany,,22.0
+2006,Percentage,Time series,Germany,,23.0
+2007,Percentage,Time series,Germany,,23.0
+2008,Percentage,Time series,Germany,,23.0
+2009,Percentage,Time series,Germany,,23.0
+2010,Percentage,Time series,Germany,,22.0
+2011,Percentage,Time series,Germany,,22.0
+2012,Percentage,Time series,Germany,,23.0
+2013,Percentage,Time series,Germany,,22.0
+2014,Percentage,Time series,Germany,,22.0
+2015,Percentage,Time series,Germany,,22.0
+2016,Percentage,Time series,Germany,,21.0
+2017,Percentage,Time series,Germany,,20.0
+2018,Percentage,Time series,Germany,,20.0
+2019,Percentage,Time series,Germany,,19.0
+2020,Percentage,Time series,Germany,,18.0
+2020,Percentage,Target,Germany,,10.0
+2030,Percentage,Target,Germany,,10.0
+2006,Percentage,Time series,Baden-Wuerttemberg,code08,28.0
+2007,Percentage,Time series,Baden-Wuerttemberg,code08,28.0
+2008,Percentage,Time series,Baden-Wuerttemberg,code08,28.0
+2009,Percentage,Time series,Baden-Wuerttemberg,code08,27.0
+2010,Percentage,Time series,Baden-Wuerttemberg,code08,27.0
+2011,Percentage,Time series,Baden-Wuerttemberg,code08,27.0
+2012,Percentage,Time series,Baden-Wuerttemberg,code08,27.0
+2013,Percentage,Time series,Baden-Wuerttemberg,code08,27.0
+2014,Percentage,Time series,Baden-Wuerttemberg,code08,27.0
+2015,Percentage,Time series,Baden-Wuerttemberg,code08,26.0
+2016,Percentage,Time series,Baden-Wuerttemberg,code08,26.0
+2017,Percentage,Time series,Baden-Wuerttemberg,code08,25.0
+2018,Percentage,Time series,Baden-Wuerttemberg,code08,24.0
+2019,Percentage,Time series,Baden-Wuerttemberg,code08,23.0
+2020,Percentage,Time series,Baden-Wuerttemberg,code08,23.0
+2006,Percentage,Time series,Bavaria,code09,23.0
+2007,Percentage,Time series,Bavaria,code09,24.0
+2008,Percentage,Time series,Bavaria,code09,25.0
+2009,Percentage,Time series,Bavaria,code09,25.0
+2010,Percentage,Time series,Bavaria,code09,26.0
+2011,Percentage,Time series,Bavaria,code09,25.0
+2012,Percentage,Time series,Bavaria,code09,25.0
+2013,Percentage,Time series,Bavaria,code09,25.0
+2014,Percentage,Time series,Bavaria,code09,25.0
+2015,Percentage,Time series,Bavaria,code09,24.0
+2016,Percentage,Time series,Bavaria,code09,24.0
+2017,Percentage,Time series,Bavaria,code09,24.0
+2018,Percentage,Time series,Bavaria,code09,24.0
+2019,Percentage,Time series,Bavaria,code09,23.0
+2020,Percentage,Time series,Bavaria,code09,22.0
+2006,Percentage,Time series,Berlin,code11,14.0
+2007,Percentage,Time series,Berlin,code11,14.0
+2008,Percentage,Time series,Berlin,code11,16.0
+2009,Percentage,Time series,Berlin,code11,15.0
+2010,Percentage,Time series,Berlin,code11,14.0
+2011,Percentage,Time series,Berlin,code11,15.0
+2012,Percentage,Time series,Berlin,code11,15.0
+2013,Percentage,Time series,Berlin,code11,14.0
+2014,Percentage,Time series,Berlin,code11,14.0
+2015,Percentage,Time series,Berlin,code11,14.0
+2016,Percentage,Time series,Berlin,code11,12.0
+2017,Percentage,Time series,Berlin,code11,10.0
+2018,Percentage,Time series,Berlin,code11,10.0
+2019,Percentage,Time series,Berlin,code11,10.0
+2020,Percentage,Time series,Berlin,code11,10.0
+2006,Percentage,Time series,Brandenburg,code12,6.0
+2007,Percentage,Time series,Brandenburg,code12,7.0
+2008,Percentage,Time series,Brandenburg,code12,7.0
+2009,Percentage,Time series,Brandenburg,code12,7.0
+2010,Percentage,Time series,Brandenburg,code12,7.0
+2011,Percentage,Time series,Brandenburg,code12,6.0
+2012,Percentage,Time series,Brandenburg,code12,7.0
+2013,Percentage,Time series,Brandenburg,code12,5.0
+2014,Percentage,Time series,Brandenburg,code12,7.0
+2015,Percentage,Time series,Brandenburg,code12,5.0
+2016,Percentage,Time series,Brandenburg,code12,6.0
+2017,Percentage,Time series,Brandenburg,code12,6.0
+2018,Percentage,Time series,Brandenburg,code12,6.0
+2019,Percentage,Time series,Brandenburg,code12,7.0
+2020,Percentage,Time series,Brandenburg,code12,6.0
+2006,Percentage,Time series,Bremen,code04,25.0
+2007,Percentage,Time series,Bremen,code04,27.0
+2008,Percentage,Time series,Bremen,code04,27.0
+2009,Percentage,Time series,Bremen,code04,24.0
+2010,Percentage,Time series,Bremen,code04,24.0
+2011,Percentage,Time series,Bremen,code04,24.0
+2012,Percentage,Time series,Bremen,code04,27.0
+2013,Percentage,Time series,Bremen,code04,25.0
+2014,Percentage,Time series,Bremen,code04,25.0
+2015,Percentage,Time series,Bremen,code04,25.0
+2016,Percentage,Time series,Bremen,code04,24.0
+2017,Percentage,Time series,Bremen,code04,24.0
+2018,Percentage,Time series,Bremen,code04,23.0
+2019,Percentage,Time series,Bremen,code04,25.0
+2020,Percentage,Time series,Bremen,code04,22.0
+2006,Percentage,Time series,Hamburg,code02,20.0
+2007,Percentage,Time series,Hamburg,code02,22.0
+2008,Percentage,Time series,Hamburg,code02,22.0
+2009,Percentage,Time series,Hamburg,code02,23.0
+2010,Percentage,Time series,Hamburg,code02,23.0
+2011,Percentage,Time series,Hamburg,code02,22.0
+2012,Percentage,Time series,Hamburg,code02,24.0
+2013,Percentage,Time series,Hamburg,code02,23.0
+2014,Percentage,Time series,Hamburg,code02,22.0
+2015,Percentage,Time series,Hamburg,code02,22.0
+2016,Percentage,Time series,Hamburg,code02,21.0
+2017,Percentage,Time series,Hamburg,code02,21.0
+2018,Percentage,Time series,Hamburg,code02,21.0
+2019,Percentage,Time series,Hamburg,code02,21.0
+2020,Percentage,Time series,Hamburg,code02,21.0
+2006,Percentage,Time series,Hesse,code06,23.0
+2007,Percentage,Time series,Hesse,code06,24.0
+2008,Percentage,Time series,Hesse,code06,24.0
+2009,Percentage,Time series,Hesse,code06,24.0
+2010,Percentage,Time series,Hesse,code06,25.0
+2011,Percentage,Time series,Hesse,code06,25.0
+2012,Percentage,Time series,Hesse,code06,24.0
+2013,Percentage,Time series,Hesse,code06,23.0
+2014,Percentage,Time series,Hesse,code06,24.0
+2015,Percentage,Time series,Hesse,code06,23.0
+2016,Percentage,Time series,Hesse,code06,22.0
+2017,Percentage,Time series,Hesse,code06,22.0
+2018,Percentage,Time series,Hesse,code06,21.0
+2019,Percentage,Time series,Hesse,code06,19.0
+2020,Percentage,Time series,Hesse,code06,18.0
+2006,Percentage,Time series,Mecklenburg Western Pomerania,code13,2.0
+2007,Percentage,Time series,Mecklenburg Western Pomerania,code13,2.0
+2008,Percentage,Time series,Mecklenburg Western Pomerania,code13,3.0
+2009,Percentage,Time series,Mecklenburg Western Pomerania,code13,3.0
+2010,Percentage,Time series,Mecklenburg Western Pomerania,code13,4.0
+2011,Percentage,Time series,Mecklenburg Western Pomerania,code13,6.0
+2012,Percentage,Time series,Mecklenburg Western Pomerania,code13,7.0
+2013,Percentage,Time series,Mecklenburg Western Pomerania,code13,6.0
+2014,Percentage,Time series,Mecklenburg Western Pomerania,code13,8.0
+2015,Percentage,Time series,Mecklenburg Western Pomerania,code13,7.0
+2016,Percentage,Time series,Mecklenburg Western Pomerania,code13,6.0
+2017,Percentage,Time series,Mecklenburg Western Pomerania,code13,6.0
+2018,Percentage,Time series,Mecklenburg Western Pomerania,code13,6.0
+2019,Percentage,Time series,Mecklenburg Western Pomerania,code13,6.0
+2020,Percentage,Time series,Mecklenburg Western Pomerania,code13,6.0
+2006,Percentage,Time series,Lower Saxony,code03,25.0
+2007,Percentage,Time series,Lower Saxony,code03,24.0
+2008,Percentage,Time series,Lower Saxony,code03,23.0
+2009,Percentage,Time series,Lower Saxony,code03,22.0
+2010,Percentage,Time series,Lower Saxony,code03,22.0
+2011,Percentage,Time series,Lower Saxony,code03,22.0
+2012,Percentage,Time series,Lower Saxony,code03,21.0
+2013,Percentage,Time series,Lower Saxony,code03,20.0
+2014,Percentage,Time series,Lower Saxony,code03,22.0
+2015,Percentage,Time series,Lower Saxony,code03,22.0
+2016,Percentage,Time series,Lower Saxony,code03,21.0
+2017,Percentage,Time series,Lower Saxony,code03,21.0
+2018,Percentage,Time series,Lower Saxony,code03,21.0
+2019,Percentage,Time series,Lower Saxony,code03,21.0
+2020,Percentage,Time series,Lower Saxony,code03,19.0
+2006,Percentage,Time series,North Rhine-Westphalia,code05,24.0
+2007,Percentage,Time series,North Rhine-Westphalia,code05,24.0
+2008,Percentage,Time series,North Rhine-Westphalia,code05,24.0
+2009,Percentage,Time series,North Rhine-Westphalia,code05,23.0
+2010,Percentage,Time series,North Rhine-Westphalia,code05,23.0
+2011,Percentage,Time series,North Rhine-Westphalia,code05,23.0
+2012,Percentage,Time series,North Rhine-Westphalia,code05,24.0
+2013,Percentage,Time series,North Rhine-Westphalia,code05,23.0
+2014,Percentage,Time series,North Rhine-Westphalia,code05,23.0
+2015,Percentage,Time series,North Rhine-Westphalia,code05,23.0
+2016,Percentage,Time series,North Rhine-Westphalia,code05,22.0
+2017,Percentage,Time series,North Rhine-Westphalia,code05,21.0
+2018,Percentage,Time series,North Rhine-Westphalia,code05,20.0
+2019,Percentage,Time series,North Rhine-Westphalia,code05,19.0
+2020,Percentage,Time series,North Rhine-Westphalia,code05,18.0
+2006,Percentage,Time series,Rhineland Palatinate,code07,21.0
+2007,Percentage,Time series,Rhineland Palatinate,code07,22.0
+2008,Percentage,Time series,Rhineland Palatinate,code07,22.0
+2009,Percentage,Time series,Rhineland Palatinate,code07,22.0
+2010,Percentage,Time series,Rhineland Palatinate,code07,22.0
+2011,Percentage,Time series,Rhineland Palatinate,code07,22.0
+2012,Percentage,Time series,Rhineland Palatinate,code07,22.0
+2013,Percentage,Time series,Rhineland Palatinate,code07,22.0
+2014,Percentage,Time series,Rhineland Palatinate,code07,21.0
+2015,Percentage,Time series,Rhineland Palatinate,code07,20.0
+2016,Percentage,Time series,Rhineland Palatinate,code07,20.0
+2017,Percentage,Time series,Rhineland Palatinate,code07,19.0
+2018,Percentage,Time series,Rhineland Palatinate,code07,18.0
+2019,Percentage,Time series,Rhineland Palatinate,code07,17.0
+2020,Percentage,Time series,Rhineland Palatinate,code07,15.0
+2006,Percentage,Time series,Saarland,code10,24.0
+2007,Percentage,Time series,Saarland,code10,26.0
+2008,Percentage,Time series,Saarland,code10,26.0
+2009,Percentage,Time series,Saarland,code10,25.0
+2010,Percentage,Time series,Saarland,code10,25.0
+2011,Percentage,Time series,Saarland,code10,25.0
+2012,Percentage,Time series,Saarland,code10,25.0
+2013,Percentage,Time series,Saarland,code10,24.0
+2014,Percentage,Time series,Saarland,code10,23.0
+2015,Percentage,Time series,Saarland,code10,24.0
+2016,Percentage,Time series,Saarland,code10,24.0
+2017,Percentage,Time series,Saarland,code10,24.0
+2018,Percentage,Time series,Saarland,code10,23.0
+2019,Percentage,Time series,Saarland,code10,22.0
+2020,Percentage,Time series,Saarland,code10,20.0
+2006,Percentage,Time series,Saxony,code14,9.0
+2007,Percentage,Time series,Saxony,code14,9.0
+2008,Percentage,Time series,Saxony,code14,9.0
+2009,Percentage,Time series,Saxony,code14,9.0
+2010,Percentage,Time series,Saxony,code14,9.0
+2011,Percentage,Time series,Saxony,code14,10.0
+2012,Percentage,Time series,Saxony,code14,11.0
+2013,Percentage,Time series,Saxony,code14,11.0
+2014,Percentage,Time series,Saxony,code14,11.0
+2015,Percentage,Time series,Saxony,code14,11.0
+2016,Percentage,Time series,Saxony,code14,10.0
+2017,Percentage,Time series,Saxony,code14,9.0
+2018,Percentage,Time series,Saxony,code14,8.0
+2019,Percentage,Time series,Saxony,code14,7.0
+2020,Percentage,Time series,Saxony,code14,7.0
+2006,Percentage,Time series,Saxony-Anhalt,code15,3.0
+2007,Percentage,Time series,Saxony-Anhalt,code15,3.0
+2008,Percentage,Time series,Saxony-Anhalt,code15,3.0
+2009,Percentage,Time series,Saxony-Anhalt,code15,3.0
+2010,Percentage,Time series,Saxony-Anhalt,code15,4.0
+2011,Percentage,Time series,Saxony-Anhalt,code15,5.0
+2012,Percentage,Time series,Saxony-Anhalt,code15,5.0
+2013,Percentage,Time series,Saxony-Anhalt,code15,4.0
+2014,Percentage,Time series,Saxony-Anhalt,code15,5.0
+2015,Percentage,Time series,Saxony-Anhalt,code15,4.0
+2016,Percentage,Time series,Saxony-Anhalt,code15,4.0
+2017,Percentage,Time series,Saxony-Anhalt,code15,6.0
+2018,Percentage,Time series,Saxony-Anhalt,code15,8.0
+2019,Percentage,Time series,Saxony-Anhalt,code15,7.0
+2020,Percentage,Time series,Saxony-Anhalt,code15,8.0
+2006,Percentage,Time series,Schleswig-Holstein,code01,18.0
+2007,Percentage,Time series,Schleswig-Holstein,code01,18.0
+2008,Percentage,Time series,Schleswig-Holstein,code01,19.0
+2009,Percentage,Time series,Schleswig-Holstein,code01,18.0
+2010,Percentage,Time series,Schleswig-Holstein,code01,18.0
+2011,Percentage,Time series,Schleswig-Holstein,code01,17.0
+2012,Percentage,Time series,Schleswig-Holstein,code01,18.0
+2013,Percentage,Time series,Schleswig-Holstein,code01,18.0
+2014,Percentage,Time series,Schleswig-Holstein,code01,17.0
+2015,Percentage,Time series,Schleswig-Holstein,code01,16.0
+2016,Percentage,Time series,Schleswig-Holstein,code01,16.0
+2017,Percentage,Time series,Schleswig-Holstein,code01,14.0
+2018,Percentage,Time series,Schleswig-Holstein,code01,14.0
+2019,Percentage,Time series,Schleswig-Holstein,code01,13.0
+2020,Percentage,Time series,Schleswig-Holstein,code01,13.0
+2006,Percentage,Time series,Thuringia,code16,6.0
+2007,Percentage,Time series,Thuringia,code16,5.0
+2008,Percentage,Time series,Thuringia,code16,5.0
+2009,Percentage,Time series,Thuringia,code16,6.0
+2010,Percentage,Time series,Thuringia,code16,6.0
+2011,Percentage,Time series,Thuringia,code16,7.0
+2012,Percentage,Time series,Thuringia,code16,8.0
+2013,Percentage,Time series,Thuringia,code16,9.0
+2014,Percentage,Time series,Thuringia,code16,8.0
+2015,Percentage,Time series,Thuringia,code16,9.0
+2016,Percentage,Time series,Thuringia,code16,7.0
+2017,Percentage,Time series,Thuringia,code16,6.0
+2018,Percentage,Time series,Thuringia,code16,6.0
+2019,Percentage,Time series,Thuringia,code16,6.0
+2020,Percentage,Time series,Thuringia,code16,5.0

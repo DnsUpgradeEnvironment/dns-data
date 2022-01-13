@@ -1,0 +1,385 @@
+Year,Units,Sex,Age group,Region,GeoCode,Value
+1999,Percentage,Total,,Germany,,10.7
+2003,Percentage,Total,,Germany,,11.7
+2005,Percentage,Total,,Germany,,12.5
+2009,Percentage,Total,,Germany,,13.3
+2013,Percentage,Total,,Germany,,14.1
+2017,Percentage,Total,,Germany,,14.79
+1999,Percentage,Total,,Baden-Wuerttemberg,code08,9.78
+2003,Percentage,Total,,Baden-Wuerttemberg,code08,10.91
+2005,Percentage,Total,,Baden-Wuerttemberg,code08,11.37
+2009,Percentage,Total,,Baden-Wuerttemberg,code08,12.26
+2013,Percentage,Total,,Baden-Wuerttemberg,code08,12.92
+2017,Percentage,Total,,Baden-Wuerttemberg,code08,13.77
+1999,Percentage,Total,,Bavaria,code09,10.73
+2003,Percentage,Total,,Bavaria,code09,11.67
+2005,Percentage,Total,,Bavaria,code09,11.83
+2009,Percentage,Total,,Bavaria,code09,12.78
+2013,Percentage,Total,,Bavaria,code09,13.25
+2017,Percentage,Total,,Bavaria,code09,13.73
+1999,Percentage,Total,,Berlin,code11,9.21
+2003,Percentage,Total,,Berlin,code11,10.18
+2005,Percentage,Total,,Berlin,code11,11.23
+2009,Percentage,Total,,Berlin,code11,11.19
+2013,Percentage,Total,,Berlin,code11,11.73
+2017,Percentage,Total,,Berlin,code11,11.91
+1999,Percentage,Total,,Brandenburg,code12,13.05
+2003,Percentage,Total,,Brandenburg,code12,13.12
+2005,Percentage,Total,,Brandenburg,code12,13.81
+2009,Percentage,Total,,Brandenburg,code12,14.84
+2013,Percentage,Total,,Brandenburg,code12,14.93
+2017,Percentage,Total,,Brandenburg,code12,15.47
+1999,Percentage,Total,,Bremen,code04,8.86
+2003,Percentage,Total,,Bremen,code04,10.82
+2005,Percentage,Total,,Bremen,code04,10.15
+2009,Percentage,Total,,Bremen,code04,11.74
+2013,Percentage,Total,,Bremen,code04,13.55
+2017,Percentage,Total,,Bremen,code04,16.94
+1999,Percentage,Total,,Hamburg,code02,8.32
+2003,Percentage,Total,,Hamburg,code02,9.04
+2005,Percentage,Total,,Hamburg,code02,9.7
+2009,Percentage,Total,,Hamburg,code02,9.91
+2013,Percentage,Total,,Hamburg,code02,10.51
+2017,Percentage,Total,,Hamburg,code02,11.48
+1999,Percentage,Total,,Hesse,code06,10.81
+2003,Percentage,Total,,Hesse,code06,11.6
+2005,Percentage,Total,,Hesse,code06,11.94
+2009,Percentage,Total,,Hesse,code06,13.29
+2013,Percentage,Total,,Hesse,code06,14.23
+2017,Percentage,Total,,Hesse,code06,14.9
+1999,Percentage,Total,,Mecklenburg Western Pomerania,code13,13.85
+2003,Percentage,Total,,Mecklenburg Western Pomerania,code13,16.33
+2005,Percentage,Total,,Mecklenburg Western Pomerania,code13,17.17
+2009,Percentage,Total,,Mecklenburg Western Pomerania,code13,17.26
+2013,Percentage,Total,,Mecklenburg Western Pomerania,code13,17.32
+2017,Percentage,Total,,Mecklenburg Western Pomerania,code13,18.84
+1999,Percentage,Total,,Lower Saxony,code03,9.5
+2003,Percentage,Total,,Lower Saxony,code03,10.48
+2005,Percentage,Total,,Lower Saxony,code03,11.36
+2009,Percentage,Total,,Lower Saxony,code03,12.76
+2013,Percentage,Total,,Lower Saxony,code03,14.22
+2017,Percentage,Total,,Lower Saxony,code03,15.24
+1999,Percentage,Total,,North Rhine-Westphalia,code05,10.39
+2003,Percentage,Total,,North Rhine-Westphalia,code05,11.62
+2005,Percentage,Total,,North Rhine-Westphalia,code05,12.57
+2009,Percentage,Total,,North Rhine-Westphalia,code05,13.59
+2013,Percentage,Total,,North Rhine-Westphalia,code05,14.87
+2017,Percentage,Total,,North Rhine-Westphalia,code05,15.12
+1999,Percentage,Total,,Rhineland Palatinate,code07,11.1
+2003,Percentage,Total,,Rhineland Palatinate,code07,12.23
+2005,Percentage,Total,,Rhineland Palatinate,code07,13.22
+2009,Percentage,Total,,Rhineland Palatinate,code07,14.01
+2013,Percentage,Total,,Rhineland Palatinate,code07,15.19
+2017,Percentage,Total,,Rhineland Palatinate,code07,16.1
+1999,Percentage,Total,,Saarland,code10,9.58
+2003,Percentage,Total,,Saarland,code10,10.31
+2005,Percentage,Total,,Saarland,code10,13.11
+2009,Percentage,Total,,Saarland,code10,14.11
+2013,Percentage,Total,,Saarland,code10,14.13
+2017,Percentage,Total,,Saarland,code10,14.69
+1999,Percentage,Total,,Saxony,code14,11.84
+2003,Percentage,Total,,Saxony,code14,13.37
+2005,Percentage,Total,,Saxony,code14,13.69
+2009,Percentage,Total,,Saxony,code14,13.96
+2013,Percentage,Total,,Saxony,code14,14.29
+2017,Percentage,Total,,Saxony,code14,15.45
+1999,Percentage,Total,,Saxony-Anhalt,code15,13.14
+2003,Percentage,Total,,Saxony-Anhalt,code15,15.01
+2005,Percentage,Total,,Saxony-Anhalt,code15,15.93
+2009,Percentage,Total,,Saxony-Anhalt,code15,16.27
+2013,Percentage,Total,,Saxony-Anhalt,code15,17.15
+2017,Percentage,Total,,Saxony-Anhalt,code15,17.6
+1999,Percentage,Total,,Schleswig-Holstein,code01,9.25
+2003,Percentage,Total,,Schleswig-Holstein,code01,10.3
+2005,Percentage,Total,,Schleswig-Holstein,code01,11.31
+2009,Percentage,Total,,Schleswig-Holstein,code01,12.14
+2013,Percentage,Total,,Schleswig-Holstein,code01,13.32
+2017,Percentage,Total,,Schleswig-Holstein,code01,14.36
+1999,Percentage,Total,,Thuringia,code16,13.77
+2003,Percentage,Total,,Thuringia,code16,13.16
+2005,Percentage,Total,,Thuringia,code16,14.53
+2009,Percentage,Total,,Thuringia,code16,14.92
+2013,Percentage,Total,,Thuringia,code16,15.39
+2017,Percentage,Total,,Thuringia,code16,17.73
+2013,Percentage,Total,18 - 20 years,Germany,,3.47
+2017,Percentage,Total,18 - 20 years,Germany,,4.24
+2013,Percentage,Total,20 - 25 years,Germany,,5.6
+2017,Percentage,Total,20 - 25 years,Germany,,6.01
+2013,Percentage,Total,25 - 30 years,Germany,,8.02
+2017,Percentage,Total,25 - 30 years,Germany,,9.42
+2013,Percentage,Total,30 - 35 years,Germany,,10.89
+2017,Percentage,Total,30 - 35 years,Germany,,11.87
+2013,Percentage,Total,35 - 40 years,Germany,,12.71
+2017,Percentage,Total,35 - 40 years,Germany,,13.31
+2013,Percentage,Total,40 - 45 years,Germany,,14.26
+2017,Percentage,Total,40 - 45 years,Germany,,15.67
+2013,Percentage,Total,45 - 50 years,Germany,,15.22
+2017,Percentage,Total,45 - 50 years,Germany,,16.24
+2013,Percentage,Total,50 - 55 years,Germany,,17.71
+2017,Percentage,Total,50 - 55 years,Germany,,17.99
+2013,Percentage,Total,55 - 60 years,Germany,,19.98
+2017,Percentage,Total,55 - 60 years,Germany,,19.67
+2013,Percentage,Total,60 - 56 years,Germany,,22.7
+2017,Percentage,Total,60 - 56 years,Germany,,21.98
+2013,Percentage,Total,65 - 70 years,Germany,,21.94
+2017,Percentage,Total,65 - 70 years,Germany,,23.51
+2013,Percentage,Total,70 - 75 years,Germany,,20.26
+2017,Percentage,Total,70 - 75 years,Germany,,21.16
+2013,Percentage,Total,75 and over,Germany,,17.4
+2017,Percentage,Total,75 and over,Germany,,17.84
+1999,Percentage,Women,,Germany,,10.2
+2003,Percentage,Women,,Germany,,11.2
+2005,Percentage,Women,,Germany,,11.8
+2009,Percentage,Women,,Germany,,12.4
+2013,Percentage,Women,,Germany,,12.8
+2017,Percentage,Women,,Germany,,13.05
+1999,Percentage,Women,,Baden-Wuerttemberg,code08,9.25
+2003,Percentage,Women,,Baden-Wuerttemberg,code08,10.13
+2005,Percentage,Women,,Baden-Wuerttemberg,code08,11.24
+2009,Percentage,Women,,Baden-Wuerttemberg,code08,11.29
+2013,Percentage,Women,,Baden-Wuerttemberg,code08,11.24
+2017,Percentage,Women,,Baden-Wuerttemberg,code08,12.12
+1999,Percentage,Women,,Bavaria,code09,10.0
+2003,Percentage,Women,,Bavaria,code09,11.11
+2005,Percentage,Women,,Bavaria,code09,11.38
+2009,Percentage,Women,,Bavaria,code09,11.57
+2013,Percentage,Women,,Bavaria,code09,11.38
+2017,Percentage,Women,,Bavaria,code09,11.59
+1999,Percentage,Women,,Berlin,code11,9.52
+2003,Percentage,Women,,Berlin,code11,10.68
+2005,Percentage,Women,,Berlin,code11,11.15
+2009,Percentage,Women,,Berlin,code11,10.86
+2013,Percentage,Women,,Berlin,code11,11.15
+2017,Percentage,Women,,Berlin,code11,11.14
+1999,Percentage,Women,,Brandenburg,code12,13.23
+2003,Percentage,Women,,Brandenburg,code12,13.7
+2005,Percentage,Women,,Brandenburg,code12,14.34
+2009,Percentage,Women,,Brandenburg,code12,14.31
+2013,Percentage,Women,,Brandenburg,code12,14.34
+2017,Percentage,Women,,Brandenburg,code12,14.41
+1999,Percentage,Women,,Bremen,code04,8.64
+2003,Percentage,Women,,Bremen,code04,10.0
+2005,Percentage,Women,,Bremen,code04,13.51
+2009,Percentage,Women,,Bremen,code04,12.35
+2013,Percentage,Women,,Bremen,code04,13.51
+2017,Percentage,Women,,Bremen,code04,15.55
+1999,Percentage,Women,,Hamburg,code02,8.4
+2003,Percentage,Women,,Hamburg,code02,8.45
+2005,Percentage,Women,,Hamburg,code02,9.46
+2009,Percentage,Women,,Hamburg,code02,9.38
+2013,Percentage,Women,,Hamburg,code02,9.46
+2017,Percentage,Women,,Hamburg,code02,10.15
+1999,Percentage,Women,,Hesse,code06,10.32
+2003,Percentage,Women,,Hesse,code06,10.83
+2005,Percentage,Women,,Hesse,code06,12.74
+2009,Percentage,Women,,Hesse,code06,12.12
+2013,Percentage,Women,,Hesse,code06,12.74
+2017,Percentage,Women,,Hesse,code06,12.85
+1999,Percentage,Women,,Mecklenburg Western Pomerania,code13,13.91
+2003,Percentage,Women,,Mecklenburg Western Pomerania,code13,16.04
+2005,Percentage,Women,,Mecklenburg Western Pomerania,code13,16.55
+2009,Percentage,Women,,Mecklenburg Western Pomerania,code13,17.3
+2013,Percentage,Women,,Mecklenburg Western Pomerania,code13,16.55
+2017,Percentage,Women,,Mecklenburg Western Pomerania,code13,16.69
+1999,Percentage,Women,,Lower Saxony,code03,8.66
+2003,Percentage,Women,,Lower Saxony,code03,9.61
+2005,Percentage,Women,,Lower Saxony,code03,13.14
+2009,Percentage,Women,,Lower Saxony,code03,11.72
+2013,Percentage,Women,,Lower Saxony,code03,13.14
+2017,Percentage,Women,,Lower Saxony,code03,13.13
+1999,Percentage,Women,,North Rhine-Westphalia,code05,9.79
+2003,Percentage,Women,,North Rhine-Westphalia,code05,10.58
+2005,Percentage,Women,,North Rhine-Westphalia,code05,13.28
+2009,Percentage,Women,,North Rhine-Westphalia,code05,12.41
+2013,Percentage,Women,,North Rhine-Westphalia,code05,13.28
+2017,Percentage,Women,,North Rhine-Westphalia,code05,13.28
+1999,Percentage,Women,,Rhineland Palatinate,code07,10.48
+2003,Percentage,Women,,Rhineland Palatinate,code07,11.14
+2005,Percentage,Women,,Rhineland Palatinate,code07,13.09
+2009,Percentage,Women,,Rhineland Palatinate,code07,12.62
+2013,Percentage,Women,,Rhineland Palatinate,code07,13.09
+2017,Percentage,Women,,Rhineland Palatinate,code07,13.99
+1999,Percentage,Women,,Saarland,code10,9.64
+2003,Percentage,Women,,Saarland,code10,10.15
+2005,Percentage,Women,,Saarland,code10,11.77
+2009,Percentage,Women,,Saarland,code10,12.61
+2013,Percentage,Women,,Saarland,code10,11.77
+2017,Percentage,Women,,Saarland,code10,10.88
+1999,Percentage,Women,,Saxony,code14,12.19
+2003,Percentage,Women,,Saxony,code14,13.58
+2005,Percentage,Women,,Saxony,code14,14.3
+2009,Percentage,Women,,Saxony,code14,14.51
+2013,Percentage,Women,,Saxony,code14,14.3
+2017,Percentage,Women,,Saxony,code14,15.08
+1999,Percentage,Women,,Saxony-Anhalt,code15,12.71
+2003,Percentage,Women,,Saxony-Anhalt,code15,15.25
+2005,Percentage,Women,,Saxony-Anhalt,code15,16.79
+2009,Percentage,Women,,Saxony-Anhalt,code15,16.76
+2013,Percentage,Women,,Saxony-Anhalt,code15,16.79
+2017,Percentage,Women,,Saxony-Anhalt,code15,16.32
+1999,Percentage,Women,,Schleswig-Holstein,code01,8.37
+2003,Percentage,Women,,Schleswig-Holstein,code01,9.5
+2005,Percentage,Women,,Schleswig-Holstein,code01,11.62
+2009,Percentage,Women,,Schleswig-Holstein,code01,10.25
+2013,Percentage,Women,,Schleswig-Holstein,code01,11.62
+2017,Percentage,Women,,Schleswig-Holstein,code01,11.67
+1999,Percentage,Women,,Thuringia,code16,13.19
+2003,Percentage,Women,,Thuringia,code16,13.1
+2005,Percentage,Women,,Thuringia,code16,14.89
+2009,Percentage,Women,,Thuringia,code16,14.25
+2013,Percentage,Women,,Thuringia,code16,14.89
+2017,Percentage,Women,,Thuringia,code16,16.74
+2013,Percentage,Women,18 - 20 years,Germany,,2.81
+2017,Percentage,Women,18 - 20 years,Germany,,3.4
+2013,Percentage,Women,20 - 25 years,Germany,,4.95
+2017,Percentage,Women,20 - 25 years,Germany,,4.89
+2013,Percentage,Women,25 - 30 years,Germany,,7.15
+2017,Percentage,Women,25 - 30 years,Germany,,8.04
+2013,Percentage,Women,30 - 35 years,Germany,,9.54
+2017,Percentage,Women,30 - 35 years,Germany,,10.14
+2013,Percentage,Women,35 - 40 years,Germany,,10.4
+2017,Percentage,Women,35 - 40 years,Germany,,10.83
+2013,Percentage,Women,40 - 45 years,Germany,,11.42
+2017,Percentage,Women,40 - 45 years,Germany,,12.25
+2013,Percentage,Women,45 - 50 years,Germany,,12.21
+2017,Percentage,Women,45 - 50 years,Germany,,12.74
+2013,Percentage,Women,50 - 55 years,Germany,,15.03
+2017,Percentage,Women,50 - 55 years,Germany,,14.77
+2013,Percentage,Women,55 - 60 years,Germany,,17.31
+2017,Percentage,Women,55 - 60 years,Germany,,16.55
+2013,Percentage,Women,60 - 56 years,Germany,,20.75
+2017,Percentage,Women,60 - 56 years,Germany,,19.48
+2013,Percentage,Women,65 - 70 years,Germany,,20.32
+2017,Percentage,Women,65 - 70 years,Germany,,21.72
+2013,Percentage,Women,70 - 75 years,Germany,,19.42
+2017,Percentage,Women,70 - 75 years,Germany,,19.85
+2013,Percentage,Women,75 and over,Germany,,17.94
+2017,Percentage,Women,75 and over,Germany,,18.03
+1999,Percentage,Men,,Germany,,11.1
+2003,Percentage,Men,,Germany,,12.3
+2005,Percentage,Men,,Germany,,13.0
+2009,Percentage,Men,,Germany,,14.2
+2013,Percentage,Men,,Germany,,15.4
+2017,Percentage,Men,,Germany,,16.42
+1999,Percentage,Men,,Baden-Wuerttemberg,code08,10.27
+2003,Percentage,Men,,Baden-Wuerttemberg,code08,11.69
+2005,Percentage,Men,,Baden-Wuerttemberg,code08,12.05
+2009,Percentage,Men,,Baden-Wuerttemberg,code08,13.27
+2013,Percentage,Men,,Baden-Wuerttemberg,code08,14.52
+2017,Percentage,Men,,Baden-Wuerttemberg,code08,15.31
+1999,Percentage,Men,,Bavaria,code09,11.48
+2003,Percentage,Men,,Bavaria,code09,12.19
+2005,Percentage,Men,,Bavaria,code09,12.62
+2009,Percentage,Men,,Bavaria,code09,13.96
+2013,Percentage,Men,,Bavaria,code09,15.02
+2017,Percentage,Men,,Bavaria,code09,15.66
+1999,Percentage,Men,,Berlin,code11,8.87
+2003,Percentage,Men,,Berlin,code11,9.64
+2005,Percentage,Men,,Berlin,code11,11.39
+2009,Percentage,Men,,Berlin,code11,11.52
+2013,Percentage,Men,,Berlin,code11,12.31
+2017,Percentage,Men,,Berlin,code11,12.72
+1999,Percentage,Men,,Brandenburg,code12,12.89
+2003,Percentage,Men,,Brandenburg,code12,12.56
+2005,Percentage,Men,,Brandenburg,code12,13.83
+2009,Percentage,Men,,Brandenburg,code12,15.35
+2013,Percentage,Men,,Brandenburg,code12,15.5
+2017,Percentage,Men,,Brandenburg,code12,16.44
+1999,Percentage,Men,,Bremen,code04,9.35
+2003,Percentage,Men,,Bremen,code04,11.64
+2005,Percentage,Men,,Bremen,code04,11.05
+2009,Percentage,Men,,Bremen,code04,11.17
+2013,Percentage,Men,,Bremen,code04,13.58
+2017,Percentage,Men,,Bremen,code04,18.33
+1999,Percentage,Men,,Hamburg,code02,8.2
+2003,Percentage,Men,,Hamburg,code02,9.84
+2005,Percentage,Men,,Hamburg,code02,11.12
+2009,Percentage,Men,,Hamburg,code02,10.45
+2013,Percentage,Men,,Hamburg,code02,11.51
+2017,Percentage,Men,,Hamburg,code02,12.85
+1999,Percentage,Men,,Hesse,code06,11.32
+2003,Percentage,Men,,Hesse,code06,12.38
+2005,Percentage,Men,,Hesse,code06,13.03
+2009,Percentage,Men,,Hesse,code06,14.52
+2013,Percentage,Men,,Hesse,code06,15.72
+2017,Percentage,Men,,Hesse,code06,16.84
+1999,Percentage,Men,,Mecklenburg Western Pomerania,code13,13.71
+2003,Percentage,Men,,Mecklenburg Western Pomerania,code13,16.47
+2005,Percentage,Men,,Mecklenburg Western Pomerania,code13,17.02
+2009,Percentage,Men,,Mecklenburg Western Pomerania,code13,17.15
+2013,Percentage,Men,,Mecklenburg Western Pomerania,code13,18.04
+2017,Percentage,Men,,Mecklenburg Western Pomerania,code13,20.76
+1999,Percentage,Men,,Lower Saxony,code03,10.33
+2003,Percentage,Men,,Lower Saxony,code03,11.33
+2005,Percentage,Men,,Lower Saxony,code03,12.23
+2009,Percentage,Men,,Lower Saxony,code03,13.76
+2013,Percentage,Men,,Lower Saxony,code03,15.23
+2017,Percentage,Men,,Lower Saxony,code03,17.17
+1999,Percentage,Men,,North Rhine-Westphalia,code05,11.0
+2003,Percentage,Men,,North Rhine-Westphalia,code05,12.67
+2005,Percentage,Men,,North Rhine-Westphalia,code05,13.36
+2009,Percentage,Men,,North Rhine-Westphalia,code05,14.77
+2013,Percentage,Men,,North Rhine-Westphalia,code05,16.44
+2017,Percentage,Men,,North Rhine-Westphalia,code05,16.89
+1999,Percentage,Men,,Rhineland Palatinate,code07,11.73
+2003,Percentage,Men,,Rhineland Palatinate,code07,13.28
+2005,Percentage,Men,,Rhineland Palatinate,code07,14.26
+2009,Percentage,Men,,Rhineland Palatinate,code07,15.39
+2013,Percentage,Men,,Rhineland Palatinate,code07,17.16
+2017,Percentage,Men,,Rhineland Palatinate,code07,18.09
+1999,Percentage,Men,,Saarland,code10,9.55
+2003,Percentage,Men,,Saarland,code10,10.37
+2005,Percentage,Men,,Saarland,code10,13.87
+2009,Percentage,Men,,Saarland,code10,15.56
+2013,Percentage,Men,,Saarland,code10,16.37
+2017,Percentage,Men,,Saarland,code10,18.15
+1999,Percentage,Men,,Saxony,code14,11.49
+2003,Percentage,Men,,Saxony,code14,13.14
+2005,Percentage,Men,,Saxony,code14,12.95
+2009,Percentage,Men,,Saxony,code14,13.38
+2013,Percentage,Men,,Saxony,code14,14.28
+2017,Percentage,Men,,Saxony,code14,15.77
+1999,Percentage,Men,,Saxony-Anhalt,code15,13.61
+2003,Percentage,Men,,Saxony-Anhalt,code15,14.71
+2005,Percentage,Men,,Saxony-Anhalt,code15,15.75
+2009,Percentage,Men,,Saxony-Anhalt,code15,15.8
+2013,Percentage,Men,,Saxony-Anhalt,code15,17.48
+2017,Percentage,Men,,Saxony-Anhalt,code15,18.71
+1999,Percentage,Men,,Schleswig-Holstein,code01,10.11
+2003,Percentage,Men,,Schleswig-Holstein,code01,11.02
+2005,Percentage,Men,,Schleswig-Holstein,code01,12.48
+2009,Percentage,Men,,Schleswig-Holstein,code01,13.97
+2013,Percentage,Men,,Schleswig-Holstein,code01,14.95
+2017,Percentage,Men,,Schleswig-Holstein,code01,16.84
+1999,Percentage,Men,,Thuringia,code16,14.3
+2003,Percentage,Men,,Thuringia,code16,13.13
+2005,Percentage,Men,,Thuringia,code16,14.55
+2009,Percentage,Men,,Thuringia,code16,15.58
+2013,Percentage,Men,,Thuringia,code16,15.86
+2017,Percentage,Men,,Thuringia,code16,18.61
+2013,Percentage,Men,18 - 20 years,Germany,,4.06
+2017,Percentage,Men,18 - 20 years,Germany,,4.95
+2013,Percentage,Men,20 - 25 years,Germany,,6.17
+2017,Percentage,Men,20 - 25 years,Germany,,6.97
+2013,Percentage,Men,25 - 30 years,Germany,,8.81
+2017,Percentage,Men,25 - 30 years,Germany,,10.57
+2013,Percentage,Men,30 - 35 years,Germany,,12.16
+2017,Percentage,Men,30 - 35 years,Germany,,13.39
+2013,Percentage,Men,35 - 40 years,Germany,,14.88
+2017,Percentage,Men,35 - 40 years,Germany,,15.49
+2013,Percentage,Men,40 - 45 years,Germany,,16.77
+2017,Percentage,Men,40 - 45 years,Germany,,18.73
+2013,Percentage,Men,45 - 50 years,Germany,,17.91
+2017,Percentage,Men,45 - 50 years,Germany,,19.37
+2013,Percentage,Men,50 - 55 years,Germany,,20.19
+2017,Percentage,Men,50 - 55 years,Germany,,20.94
+2013,Percentage,Men,55 - 60 years,Germany,,22.59
+2017,Percentage,Men,55 - 60 years,Germany,,22.57
+2013,Percentage,Men,60 - 56 years,Germany,,24.67
+2017,Percentage,Men,60 - 56 years,Germany,,24.45
+2013,Percentage,Men,65 - 70 years,Germany,,23.63
+2017,Percentage,Men,65 - 70 years,Germany,,25.32
+2013,Percentage,Men,70 - 75 years,Germany,,21.19
+2017,Percentage,Men,70 - 75 years,Germany,,22.58
+2013,Percentage,Men,75 and over,Germany,,16.69
+2017,Percentage,Men,75 and over,Germany,,17.59

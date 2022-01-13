@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2005 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "air pollutants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "air pollutants overall",
+                "so2",
+                "nox",
+                "nh3",
+                "nmvoc",
+                "pm2.5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-2-a",
+  "title": "Emissionen von Luftschadstoffen"
+}

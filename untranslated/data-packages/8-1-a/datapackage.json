@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "consumption, investments and exports (price-adjusted)",
+                "raw material use for consumption, investments and exports",
+                "raw material input productivity",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-1-a",
+  "title": "Gesamtrohstoffproduktivität"
+}

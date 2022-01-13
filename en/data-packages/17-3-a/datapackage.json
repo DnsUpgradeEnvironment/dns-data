@@ -1,0 +1,65 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Time series",
+                "Target",
+                ""
+              ]
+            },
+            "title": "Display"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Imports of processed products from LDCs",
+                "Imports from LDCs",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-3-a",
+  "title": "Einfuhren aus am wenigsten entwickelten Ländern"
+}

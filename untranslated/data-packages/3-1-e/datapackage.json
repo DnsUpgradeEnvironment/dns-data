@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "dimension",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) overweight",
+                "b) obese",
+                "c) total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) 3- to 10-year-olds",
+                "b) 11- to 17-year-olds",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-e",
+  "title": "Adipositasquote von Kindern und Jugendlichen"
+}

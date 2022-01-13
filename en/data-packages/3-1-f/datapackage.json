@@ -1,0 +1,109 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Women",
+                "Men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 - 20 years",
+                "20 - 25 years",
+                "25 - 30 years",
+                "30 - 35 years",
+                "35 - 40 years",
+                "40 - 45 years",
+                "45 - 50 years",
+                "50 - 55 years",
+                "55 - 60 years",
+                "60 - 56 years",
+                "65 - 70 years",
+                "70 - 75 years",
+                "75 and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Germany",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-f",
+  "title": "Adipositasquote von Erwachsenen"
+}

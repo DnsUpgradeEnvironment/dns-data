@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions of euros",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pandemic prevention and reaction",
+                "containment of the covid-19 pandemic",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-a",
+  "title": "Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion"
+}

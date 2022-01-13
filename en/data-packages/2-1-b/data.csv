@@ -1,0 +1,151 @@
+Year,Units,Display,Time series,Region,GeoCode,Value
+1999,Percentage,Time series,Data from Destatis,Germany,,2.85
+2001,Percentage,Time series,Data from Destatis,Germany,,3.57
+2003,Percentage,Time series,Data from Destatis,Germany,,4.3
+2005,Percentage,Time series,Data from Destatis,Germany,,4.59
+2007,Percentage,Time series,Data from Destatis,Germany,,5.08
+2010,Percentage,Time series,Data from Destatis,Germany,,5.64
+2012,Percentage,Time series,Data from Destatis,Germany,,5.76
+2013,Percentage,Time series,Data from Destatis,Germany,,6.04
+2014,Percentage,Time series,Data from Destatis,Germany,,6.18
+2015,Percentage,Time series,Data from Destatis,Germany,,6.34
+2016,Percentage,Time series,Data from Destatis,Germany,,6.82
+2017,Percentage,Time series,Data from Destatis,Germany,,6.82
+2018,Percentage,Time series,Data from Destatis,Germany,,7.34
+2019,Percentage,Time series,Data from Destatis,Germany,,7.75
+2020,Percentage,Time series,Data from Destatis,Germany,,9.6
+2030,Percentage,Target,Data from Destatis,Germany,,20.0
+1999,Percentage,Time series,Data from BMEL,Germany,,2.6
+2000,Percentage,Time series,Data from BMEL,Germany,,3.2
+2001,Percentage,Time series,Data from BMEL,Germany,,3.7
+2002,Percentage,Time series,Data from BMEL,Germany,,4.1
+2003,Percentage,Time series,Data from BMEL,Germany,,4.3
+2004,Percentage,Time series,Data from BMEL,Germany,,4.5
+2005,Percentage,Time series,Data from BMEL,Germany,,4.7
+2006,Percentage,Time series,Data from BMEL,Germany,,4.9
+2007,Percentage,Time series,Data from BMEL,Germany,,5.1
+2008,Percentage,Time series,Data from BMEL,Germany,,5.4
+2009,Percentage,Time series,Data from BMEL,Germany,,5.6
+2010,Percentage,Time series,Data from BMEL,Germany,,5.9
+2011,Percentage,Time series,Data from BMEL,Germany,,6.1
+2012,Percentage,Time series,Data from BMEL,Germany,,6.2
+2013,Percentage,Time series,Data from BMEL,Germany,,6.3
+2014,Percentage,Time series,Data from BMEL,Germany,,6.3
+2015,Percentage,Time series,Data from BMEL,Germany,,6.5
+2016,Percentage,Time series,Data from BMEL,Germany,,7.5
+2017,Percentage,Time series,Data from BMEL,Germany,,8.2
+2018,Percentage,Time series,Data from BMEL,Germany,,9.1
+2019,Percentage,Time series,Data from BMEL,Germany,,9.7
+1999,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,5.3
+2001,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,6.7
+2003,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,6.4
+2005,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,6.4
+2007,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,6.59
+2010,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,6.98
+2013,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,7.81
+2016,Percentage,Time series,Data from Destatis,Baden-Wuerttemberg,code08,9.31
+1999,Percentage,Time series,Data from Destatis,Bavaria,code09,2.2
+2001,Percentage,Time series,Data from Destatis,Bavaria,code09,2.8
+2003,Percentage,Time series,Data from Destatis,Bavaria,code09,3.9
+2005,Percentage,Time series,Data from Destatis,Bavaria,code09,3.9
+2007,Percentage,Time series,Data from Destatis,Bavaria,code09,4.55
+2010,Percentage,Time series,Data from Destatis,Bavaria,code09,6.08
+2013,Percentage,Time series,Data from Destatis,Bavaria,code09,6.82
+2016,Percentage,Time series,Data from Destatis,Bavaria,code09,8.26
+2010,Percentage,Time series,Data from Destatis,Berlin,code11,12.42
+2013,Percentage,Time series,Data from Destatis,Berlin,code11,15.0
+2016,Percentage,Time series,Data from Destatis,Berlin,code11,15.61
+1999,Percentage,Time series,Data from Destatis,Brandenburg,code12,5.4
+2001,Percentage,Time series,Data from Destatis,Brandenburg,code12,7.1
+2003,Percentage,Time series,Data from Destatis,Brandenburg,code12,8.7
+2005,Percentage,Time series,Data from Destatis,Brandenburg,code12,9.8
+2007,Percentage,Time series,Data from Destatis,Brandenburg,code12,10.07
+2010,Percentage,Time series,Data from Destatis,Brandenburg,code12,10.6
+2013,Percentage,Time series,Data from Destatis,Brandenburg,code12,10.33
+2016,Percentage,Time series,Data from Destatis,Brandenburg,code12,10.42
+2010,Percentage,Time series,Data from Destatis,Bremen,code04,9.84
+2013,Percentage,Time series,Data from Destatis,Bremen,code04,11.76
+2016,Percentage,Time series,Data from Destatis,Bremen,code04,17.67
+2010,Percentage,Time series,Data from Destatis,Hamburg,code02,6.82
+2013,Percentage,Time series,Data from Destatis,Hamburg,code02,6.94
+2016,Percentage,Time series,Data from Destatis,Hamburg,code02,8.12
+1999,Percentage,Time series,Data from Destatis,Hesse,code06,5.6
+2001,Percentage,Time series,Data from Destatis,Hesse,code06,6.8
+2003,Percentage,Time series,Data from Destatis,Hesse,code06,7.0
+2005,Percentage,Time series,Data from Destatis,Hesse,code06,7.0
+2007,Percentage,Time series,Data from Destatis,Hesse,code06,7.8
+2010,Percentage,Time series,Data from Destatis,Hesse,code06,9.4
+2013,Percentage,Time series,Data from Destatis,Hesse,code06,10.52
+2016,Percentage,Time series,Data from Destatis,Hesse,code06,11.59
+1999,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,6.9
+2001,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,7.2
+2003,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,8.1
+2005,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,8.1
+2007,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,8.85
+2010,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,8.68
+2013,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,8.97
+2016,Percentage,Time series,Data from Destatis,Mecklenburg Western Pomerania,code13,9.37
+1999,Percentage,Time series,Data from Destatis,Lower Saxony,code03,1.0
+2001,Percentage,Time series,Data from Destatis,Lower Saxony,code03,1.4
+2003,Percentage,Time series,Data from Destatis,Lower Saxony,code03,2.1
+2005,Percentage,Time series,Data from Destatis,Lower Saxony,code03,2.4
+2007,Percentage,Time series,Data from Destatis,Lower Saxony,code03,2.86
+2010,Percentage,Time series,Data from Destatis,Lower Saxony,code03,2.89
+2013,Percentage,Time series,Data from Destatis,Lower Saxony,code03,2.85
+2016,Percentage,Time series,Data from Destatis,Lower Saxony,code03,3.21
+1999,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,1.0
+2001,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,1.5
+2003,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,2.5
+2005,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,2.8
+2007,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,3.26
+2010,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,3.64
+2013,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,4.19
+2016,Percentage,Time series,Data from Destatis,North Rhine-Westphalia,code05,4.22
+1999,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,1.6
+2001,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,2.2
+2003,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,2.4
+2005,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,2.7
+2007,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,3.6
+2010,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,5.1
+2013,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,6.41
+2016,Percentage,Time series,Data from Destatis,Rhineland Palatinate,code07,8.73
+1999,Percentage,Time series,Data from Destatis,Saarland,code10,6.3
+2001,Percentage,Time series,Data from Destatis,Saarland,code10,5.4
+2003,Percentage,Time series,Data from Destatis,Saarland,code10,6.7
+2005,Percentage,Time series,Data from Destatis,Saarland,code10,7.8
+2007,Percentage,Time series,Data from Destatis,Saarland,code10,9.06
+2010,Percentage,Time series,Data from Destatis,Saarland,code10,10.57
+2013,Percentage,Time series,Data from Destatis,Saarland,code10,11.42
+2016,Percentage,Time series,Data from Destatis,Saarland,code10,14.89
+1999,Percentage,Time series,Data from Destatis,Saxony,code14,1.5
+2001,Percentage,Time series,Data from Destatis,Saxony,code14,2.6
+2003,Percentage,Time series,Data from Destatis,Saxony,code14,3.4
+2005,Percentage,Time series,Data from Destatis,Saxony,code14,3.4
+2007,Percentage,Time series,Data from Destatis,Saxony,code14,3.49
+2010,Percentage,Time series,Data from Destatis,Saxony,code14,3.68
+2013,Percentage,Time series,Data from Destatis,Saxony,code14,3.79
+2016,Percentage,Time series,Data from Destatis,Saxony,code14,4.59
+1999,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,2.0
+2001,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,2.6
+2003,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,3.2
+2005,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,4.2
+2007,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,3.82
+2010,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,4.23
+2013,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,4.54
+2016,Percentage,Time series,Data from Destatis,Saxony-Anhalt,code15,4.97
+1999,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,1.5
+2001,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,1.9
+2003,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,2.2
+2005,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,2.8
+2007,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,2.94
+2010,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,3.32
+2013,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,3.4
+2016,Percentage,Time series,Data from Destatis,Schleswig-Holstein,code01,4.04
+1999,Percentage,Time series,Data from Destatis,Thuringia,code16,1.9
+2001,Percentage,Time series,Data from Destatis,Thuringia,code16,2.1
+2003,Percentage,Time series,Data from Destatis,Thuringia,code16,3.0
+2005,Percentage,Time series,Data from Destatis,Thuringia,code16,3.1
+2007,Percentage,Time series,Data from Destatis,Thuringia,code16,5.09
+2010,Percentage,Time series,Data from Destatis,Thuringia,code16,4.36
+2013,Percentage,Time series,Data from Destatis,Thuringia,code16,4.36
+2016,Percentage,Time series,Data from Destatis,Thuringia,code16,4.31
