@@ -25,12 +25,11 @@
             }
           },
           {
-            "name": "display",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "a) time series",
-                "b) target (max)",
                 ""
               ]
             }

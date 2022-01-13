@@ -1,4 +1,4 @@
-Year,Units,display,title,Value
+Year,Units,Series,title,Value
 1990,kg/ha,a) time series,b) calculated annual values,141.4
 1991,kg/ha,a) time series,b) calculated annual values,117.0
 1992,kg/ha,a) time series,b) calculated annual values,111.9
@@ -53,4 +53,3 @@ Year,Units,display,title,Value
 2014,kg/ha,a) time series,"a) moving five-year average, referring to the middle year",94.5
 2015,kg/ha,a) time series,"a) moving five-year average, referring to the middle year",94.3
 2016,kg/ha,a) time series,"a) moving five-year average, referring to the middle year",93.3
-2030,kg/ha,b) target (max),"a) moving five-year average, referring to the middle year",70.0

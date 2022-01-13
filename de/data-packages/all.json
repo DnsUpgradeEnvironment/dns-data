@@ -4616,6 +4616,17 @@
       "schema": {
         "fields": [
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Zeitreihe"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -4635,18 +4646,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Zeitreihe",
-                "Ziel"
-              ]
-            },
-            "title": "Anzeigen"
           },
           {
             "name": "title",

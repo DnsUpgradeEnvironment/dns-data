@@ -1,4 +1,4 @@
-Year,Units,Display,Time series,Value
+Year,Units,Series,Time series,Value
 1990,Kilograms per hectare,Time series,Calculated annual values,141.4
 1991,Kilograms per hectare,Time series,Calculated annual values,117.0
 1992,Kilograms per hectare,Time series,Calculated annual values,111.9
@@ -53,4 +53,3 @@ Year,Units,Display,Time series,Value
 2014,Kilograms per hectare,Time series,"Moving five-year average, referring to the middle year",94.5
 2015,Kilograms per hectare,Time series,"Moving five-year average, referring to the middle year",94.3
 2016,Kilograms per hectare,Time series,"Moving five-year average, referring to the middle year",93.3
-2030,Kilograms per hectare,Target,"Moving five-year average, referring to the middle year",70.0

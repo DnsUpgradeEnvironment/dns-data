@@ -27,16 +27,15 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Time series",
-                "Target",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "Series"
           },
           {
             "name": "title",

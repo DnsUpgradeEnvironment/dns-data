@@ -1,4 +1,4 @@
-Year,Units,Anzeigen,Zeitreihe,Value
+Year,Units,Series,Zeitreihe,Value
 1990,Kilogramm je Hektar,Zeitreihe,b) Berechnete jährliche Werte,141.4
 1991,Kilogramm je Hektar,Zeitreihe,b) Berechnete jährliche Werte,117.0
 1992,Kilogramm je Hektar,Zeitreihe,b) Berechnete jährliche Werte,111.9
@@ -53,4 +53,3 @@ Year,Units,Anzeigen,Zeitreihe,Value
 2014,Kilogramm je Hektar,Zeitreihe,a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr,94.5
 2015,Kilogramm je Hektar,Zeitreihe,a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr,94.3
 2016,Kilogramm je Hektar,Zeitreihe,a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr,93.3
-2030,Kilogramm je Hektar,Ziel,a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr,70.0
