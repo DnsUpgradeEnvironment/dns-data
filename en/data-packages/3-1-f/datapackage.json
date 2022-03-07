@@ -11,64 +11,39 @@
       "schema": {
         "fields": [
           {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Germany",
-                "Brandenburg",
-                "Berlin",
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Bremen",
-                "Hesse",
-                "Hamburg",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Schleswig-Holstein",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Thuringia"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage"
+                "Percentage",
+                ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Women",
+                "Men",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "18 - 20 years",
                 "20 - 25 years",
                 "25 - 30 years",
@@ -81,23 +56,48 @@
                 "60 - 56 years",
                 "65 - 70 years",
                 "70 - 75 years",
-                "75 and over"
+                "75 and over",
+                ""
               ]
             },
             "title": "Age group"
           },
           {
-            "name": "sex",
+            "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Total",
-                "Men",
-                "Women"
+                "Germany",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
               ]
             },
-            "title": "Sex"
+            "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

@@ -11,38 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "2010 = 100"
+                "2010 = 100",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Direct and indirect CO2 emissions",
+                "Direct and indirect raw material consumption",
                 "Direct and indirect energy consumption",
-                "Direct and indirect raw material consumption"
+                "Direct and indirect CO2 emissions",
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

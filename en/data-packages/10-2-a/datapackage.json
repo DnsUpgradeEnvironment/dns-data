@@ -11,41 +11,41 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "EU-28",
-                "Euro zone",
-                "Germany"
-              ]
-            },
-            "title": "Area"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Gini coefficient of equivalised disposable income",
                 "Gini coefficient of equivalised income before social transfers",
+                "Gini coefficient of equivalised disposable income",
                 "Gini coefficient of market income",
-                "Gini coefficient of wealth"
+                "Gini coefficient of wealth",
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Germany",
+                "EU-28",
+                "Euro zone",
+                ""
+              ]
+            },
+            "title": "Area"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

@@ -11,27 +11,55 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minutes",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "dimension",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "In relation to the middle and upper centers of the respective year",
+                "In relation to the middle and upper centers of the year 2012",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Brandenburg",
-                "Berlin",
                 "Baden-Wuerttemberg",
                 "Bavaria",
+                "Berlin",
+                "Brandenburg",
                 "Bremen",
-                "Hesse",
                 "Hamburg",
+                "Hesse",
                 "Mecklenburg Western Pomerania",
                 "Lower Saxony",
                 "North Rhine-Westphalia",
                 "Rhineland Palatinate",
-                "Schleswig-Holstein",
                 "Saarland",
                 "Saxony",
                 "Saxony-Anhalt",
-                "Thuringia"
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
               ]
             },
             "title": "Region"
@@ -42,37 +70,9 @@
             "title": "GeoCode"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Minutes"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "In relation to the middle and upper centers of the respective year",
-                "In relation to the middle and upper centers of the year 2012"
-              ]
-            },
-            "title": "Time series"
           }
         ]
       }

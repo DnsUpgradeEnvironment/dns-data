@@ -11,36 +11,36 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Number"
+                "Number",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Partnership for sustainable textiles"
+                "Partnership for sustainable textiles",
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

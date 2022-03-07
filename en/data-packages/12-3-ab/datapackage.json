@@ -11,34 +11,29 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "2015 = 100"
+                "2015 = 100",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           },
           {
             "name": "display",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Time series",
-                "Target"
+                "Target",
+                ""
               ]
             },
             "title": "Display"
@@ -48,12 +43,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration",
                 "CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector",
-                "Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration"
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

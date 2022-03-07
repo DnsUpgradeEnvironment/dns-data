@@ -11,34 +11,29 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage"
+                "Percentage",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           },
           {
             "name": "display",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Time series",
-                "Target"
+                "Target",
+                ""
               ]
             },
             "title": "Display"
@@ -48,12 +43,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Calculation as net expenditure",
-                "Calculation in grant equivalents"
+                "Calculation in grant equivalents",
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

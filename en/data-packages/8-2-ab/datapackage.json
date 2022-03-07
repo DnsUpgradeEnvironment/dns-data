@@ -11,34 +11,29 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Percentage"
+                "Percentage",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           },
           {
             "name": "display",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Time series",
-                "Target"
+                "Target",
+                ""
               ]
             },
             "title": "Display"
@@ -48,13 +43,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Funding balance (share of gross domestic product (at current prices))",
+                "Structural funding balance (share of gross domestic product (at current prices))",
                 "Gross domestic produkt (price-adjusted) (year-on-year changes)",
-                "Structural funding balance (share of gross domestic product (at current prices))"
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

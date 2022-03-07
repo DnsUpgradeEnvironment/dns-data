@@ -11,47 +11,30 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "string",
             "title": "Year"
           },
           {
-            "name": "age",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "3- to 10-year-olds",
-                "11- to 17-year-olds"
+                "Percentage",
+                ""
               ]
             },
-            "title": "Age group"
+            "title": "Units"
           },
           {
             "name": "dimension",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Overweight without obese",
                 "Obese",
-                "Total"
+                "Total",
+                ""
               ]
             },
             "title": "Time series"
@@ -61,12 +44,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3- to 10-year-olds",
+                "11- to 17-year-olds",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

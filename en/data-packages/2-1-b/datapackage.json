@@ -11,28 +11,56 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data from Destatis",
+                "Data from BMEL",
+                ""
+              ]
+            },
+            "title": "timeseries"
+          },
+          {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Germany",
-                "Brandenburg",
-                "Berlin",
                 "Baden-Wuerttemberg",
                 "Bavaria",
+                "Berlin",
+                "Brandenburg",
                 "Bremen",
-                "Hesse",
                 "Hamburg",
+                "Hesse",
                 "Mecklenburg Western Pomerania",
                 "Lower Saxony",
                 "North Rhine-Westphalia",
                 "Rhineland Palatinate",
-                "Schleswig-Holstein",
                 "Saarland",
                 "Saxony",
                 "Saxony-Anhalt",
-                "Thuringia"
+                "Schleswig-Holstein",
+                "Thuringia",
+                ""
               ]
             },
             "title": "Region"
@@ -43,37 +71,9 @@
             "title": "GeoCode"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Percentage"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Data from BMEL",
-                "Data from Destatis"
-              ]
-            },
-            "title": "timeseries"
           }
         ]
       }

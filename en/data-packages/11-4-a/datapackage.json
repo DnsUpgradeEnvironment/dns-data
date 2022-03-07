@@ -11,34 +11,29 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Millions"
+                "Millions",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
           },
           {
             "name": "display",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Time series",
-                "Target"
+                "Target",
+                ""
               ]
             },
             "title": "Display"
@@ -48,12 +43,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Total objects",
                 "objects with digitalisat",
-                "Total objects"
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
