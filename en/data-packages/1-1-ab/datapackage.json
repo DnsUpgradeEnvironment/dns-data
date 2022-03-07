@@ -11,61 +11,61 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                ""
+                "",
+                "Percentage"
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Materially deprived persons",
-                "Serverely materially deprived persons",
-                ""
-              ]
-            },
-            "title": "Time series"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "area",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "EU-28",
-                "Germany",
-                ""
+                "Germany"
               ]
             },
             "title": "Area"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Materially deprived persons",
+                "Serverely materially deprived persons"
+              ]
+            },
+            "title": "Time series"
           }
         ]
       }
