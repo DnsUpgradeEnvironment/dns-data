@@ -11,36 +11,36 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Jahr"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Anzahl"
+                "Anzahl",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Jahr"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Bündnis für nachhaltige Textilien"
+                "Bündnis für nachhaltige Textilien",
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

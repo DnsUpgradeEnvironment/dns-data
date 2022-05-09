@@ -11,61 +11,61 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Prozent"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "area",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "EU-28",
-                "Deutschland"
+                "Prozent",
+                ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Weiblich",
-                "Männlich"
-              ]
-            },
-            "title": "Geschlecht"
+            "title": "Units"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Materiell Deprivierte",
-                "Erhebliche materiell Deprivierte"
+                "Erhebliche materiell Deprivierte",
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU-28",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

@@ -11,34 +11,29 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Jahr"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Prozent"
+                "Prozent",
+                ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Jahr"
           },
           {
             "name": "display",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Zeitreihe",
-                "Ziel"
+                "Ziel",
+                ""
               ]
             },
             "title": "Anzeigen"
@@ -48,13 +43,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Alle leitungsgebundenen Technologien",
+                "Reine Glasfasernetze (FTTB/H)",
                 "Kabelfernsehen (CATV)",
-                "Reine Glasfasernetze (FTTB/H)"
+                ""
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

@@ -3,8 +3,225 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "8-2-c/data.csv",
-      "name": "8-2-c",
+      "path": "8-3-a/data.csv",
+      "name": "8-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Verhältnis der Bruttoanlageinvestitionen zum BIP"
+    },
+    {
+      "path": "13-1-a/data.csv",
+      "name": "13-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1990 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Treibhausgasemissionen"
+    },
+    {
+      "path": "12-2-a/data.csv",
+      "name": "12-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "employees in thousands",
+                "emas organisational locations",
+                "emas organisations",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Umweltmanagement EMAS"
+    },
+    {
+      "path": "7-2-a/data.csv",
+      "name": "7-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -31,11 +248,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) target (max)",
                 "a) time series",
+                "b) target (min)",
                 ""
               ]
             }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -43,54 +289,11 @@
           }
         ]
       },
-      "title": "Schuldenstand"
+      "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
     },
     {
-      "path": "3-2-b/data.csv",
-      "name": "3-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mio.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil der Bevölkerung mit erhöhter PM<sub>10</sub>-Feinstaubexposition"
-    },
-    {
-      "path": "2-2-a/data.csv",
-      "name": "2-2-a",
+      "path": "15-2-a/data.csv",
+      "name": "15-2-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -118,6 +321,7 @@
             "constraints": {
               "enum": [
                 "a) time series",
+                "b) target (max)",
                 ""
               ]
             }
@@ -128,7 +332,207 @@
           }
         ]
       },
-      "title": "Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit"
+      "title": "Eutrophierung der Ökosysteme"
+    },
+    {
+      "path": "10-1-a/data.csv",
+      "name": "10-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "foreign school graduates",
+                "german school graduates (share of all german leavers)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                "a) total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Ausländische Schulabsolventinnen und Schulabsolventen"
+    },
+    {
+      "path": "2-1-a/data.csv",
+      "name": "2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kg/ha",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "b) calculated annual values",
+                "a) moving five-year average, referring to the middle year",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Stickstoffüberschuss der Landwirtschaft"
+    },
+    {
+      "path": "11-1-c/data.csv",
+      "name": "11-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2000 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "typification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) rural and non-rural areas",
+                "non-rural areas",
+                "rural areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Siedlungsdichte"
     },
     {
       "path": "11-1-b/data.csv",
@@ -202,6 +606,1768 @@
         ]
       },
       "title": "Freiraumverlust"
+    },
+    {
+      "path": "11-2-a/data.csv",
+      "name": "11-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2005 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "final energy consumption for the carriage of goods",
+                "goods transport performance",
+                "final energy consumption per tonne-kilometre",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Endenergieverbrauch im Güterverkehr"
+    },
+    {
+      "path": "12-1-a/data.csv",
+      "name": "12-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Marktanteil von Produkten mit staatlichen Umweltzeichen"
+    },
+    {
+      "path": "8-4-a/data.csv",
+      "name": "8-4-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 000 eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kreis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "stuttgart, stadt",
+                "böblingen",
+                "esslingen",
+                "göppingen",
+                "ludwigsburg",
+                "rems-murr-kreis",
+                "heilbronn, stadt",
+                "heilbronn",
+                "hohenlohekreis",
+                "schwäbisch hall",
+                "main-tauber-kreis",
+                "heidenheim",
+                "ostalbkreis",
+                "baden-baden, stadt",
+                "karlsruhe, stadt",
+                "karlsruhe",
+                "rastatt",
+                "heidelberg, stadt",
+                "mannheim, stadt",
+                "neckar-odenwald-kreis",
+                "rhein-neckar-kreis",
+                "pforzheim, stadt",
+                "calw",
+                "enzkreis",
+                "freudenstadt",
+                "freiburg im breisgau, stadt",
+                "breisgau-hochschwarzwald",
+                "emmendingen",
+                "ortenaukreis",
+                "rottweil",
+                "schwarzwald-baar-kreis",
+                "tuttlingen",
+                "konstanz",
+                "lörrach",
+                "waldshut",
+                "reutlingen",
+                "tübingen",
+                "zollernalbkreis",
+                "ulm, stadt",
+                "alb-donau-kreis",
+                "biberach",
+                "bodenseekreis",
+                "ravensburg",
+                "sigmaringen",
+                "ingolstadt, stadt",
+                "münchen, stadt",
+                "rosenheim, stadt",
+                "altötting",
+                "berchtesgadener land",
+                "bad tölz-wolfratshausen",
+                "dachau",
+                "ebersberg",
+                "eichstätt",
+                "erding",
+                "freising",
+                "fürstenfeldbruck",
+                "garmisch-partenkirchen",
+                "landsberg am lech",
+                "miesbach",
+                "mühldorf am inn",
+                "münchen",
+                "neuburg-schrobenhausen",
+                "pfaffenhofen an der ilm",
+                "rosenheim",
+                "starnberg",
+                "traunstein",
+                "weilheim-schongau",
+                "landshut, stadt",
+                "passau, stadt",
+                "straubing, stadt",
+                "deggendorf",
+                "freyung-grafenau",
+                "kelheim",
+                "landshut",
+                "passau",
+                "regen",
+                "rottal-inn",
+                "straubing-bogen",
+                "dingolfing-landau",
+                "amberg, stadt",
+                "regensburg, stadt",
+                "weiden in der oberpfalz, stadt",
+                "amberg-sulzbach",
+                "cham",
+                "neumarkt in der oberpfalz",
+                "neustadt an der waldnaab",
+                "regensburg",
+                "schwandorf",
+                "tirschenreuth",
+                "bamberg, stadt",
+                "bayreuth, stadt",
+                "coburg, stadt",
+                "hof, stadt",
+                "bamberg",
+                "bayreuth",
+                "coburg",
+                "forchheim",
+                "hof",
+                "kronach",
+                "kulmbach",
+                "lichtenfels",
+                "wunsiedel im fichtelgebirge",
+                "ansbach, stadt",
+                "erlangen, stadt",
+                "fürth, stadt",
+                "nürnberg, stadt",
+                "schwabach, stadt",
+                "ansbach",
+                "erlangen-höchstadt",
+                "fürth",
+                "nürnberger land",
+                "neustadt an der aisch-bad windsheim",
+                "roth",
+                "weißenburg-gunzenhausen",
+                "aschaffenburg, stadt",
+                "schweinfurt, stadt",
+                "würzburg, stadt",
+                "aschaffenburg",
+                "bad kissingen",
+                "rhön-grabfeld",
+                "haßberge",
+                "kitzingen",
+                "miltenberg",
+                "main-spessart",
+                "schweinfurt",
+                "würzburg",
+                "augsburg, stadt",
+                "kaufbeuren, stadt",
+                "kempten (allgäu), stadt",
+                "memmingen, stadt",
+                "aichach-friedberg",
+                "augsburg",
+                "dillingen an der donau",
+                "günzburg",
+                "neu-ulm",
+                "lindau (bodensee)",
+                "ostallgäu",
+                "unterallgäu",
+                "donau-ries",
+                "oberallgäu",
+                "berlin, stadt",
+                "brandenburg an der havel, stadt",
+                "cottbus, stadt",
+                "frankfurt (oder), stadt",
+                "potsdam, stadt",
+                "barnim",
+                "dahme-spreewald",
+                "elbe-elster",
+                "havelland",
+                "märkisch-oderland",
+                "oberhavel",
+                "oberspreewald-lausitz",
+                "oder-spree",
+                "ostprignitz-ruppin",
+                "potsdam-mittelmark",
+                "prignitz",
+                "spree-neiße",
+                "teltow-fläming",
+                "uckermark",
+                "bremen, stadt",
+                "bremerhaven, stadt",
+                "hamburg",
+                "darmstadt, stadt",
+                "frankfurt am main, stadt",
+                "offenbach am main, stadt",
+                "wiesbaden, stadt",
+                "bergstraße",
+                "darmstadt-dieburg",
+                "groß-gerau",
+                "hochtaunuskreis",
+                "main-kinzig-kreis",
+                "main-taunus-kreis",
+                "odenwaldkreis",
+                "offenbach",
+                "rheingau-taunus-kreis",
+                "wetteraukreis",
+                "gießen",
+                "lahn-dill-kreis",
+                "limburg-weilburg",
+                "marburg-biedenkopf",
+                "vogelsbergkreis",
+                "kassel, stadt",
+                "fulda",
+                "hersfeld-rotenburg",
+                "kassel",
+                "schwalm-eder-kreis",
+                "waldeck-frankenberg",
+                "werra-meißner-kreis",
+                "rostock, stadt",
+                "schwerin, stadt",
+                "mecklenburgische seenplatte",
+                "rostock",
+                "vorpommern-rügen",
+                "nordwestmecklenburg",
+                "vorpommern-greifswald",
+                "ludwigslust-parchim",
+                "braunschweig, stadt",
+                "salzgitter, stadt",
+                "wolfsburg, stadt",
+                "gifhorn",
+                "goslar",
+                "helmstedt",
+                "northeim",
+                "osterode am harz",
+                "peine",
+                "wolfenbüttel",
+                "göttingen",
+                "region hannover",
+                "diepholz",
+                "hameln-pyrmont",
+                "hildesheim",
+                "holzminden",
+                "nienburg (weser)",
+                "schaumburg",
+                "celle",
+                "cuxhaven",
+                "harburg",
+                "lüchow-dannenberg",
+                "lüneburg",
+                "osterholz",
+                "rotenburg (wümme)",
+                "heidekreis",
+                "stade",
+                "uelzen",
+                "verden",
+                "delmenhorst, stadt",
+                "emden, stadt",
+                "oldenburg (oldenburg), stadt",
+                "osnabrück, stadt",
+                "wilhelmshaven, stadt",
+                "ammerland",
+                "aurich",
+                "cloppenburg",
+                "emsland",
+                "friesland",
+                "grafschaft bentheim",
+                "leer",
+                "oldenburg",
+                "osnabrück",
+                "vechta",
+                "wesermarsch",
+                "wittmund",
+                "düsseldorf, stadt",
+                "duisburg, stadt",
+                "essen, stadt",
+                "krefeld, stadt",
+                "mönchengladbach, stadt",
+                "mülheim an der ruhr, stadt",
+                "oberhausen, stadt",
+                "remscheid, stadt",
+                "solingen, stadt",
+                "wuppertal, stadt",
+                "kleve",
+                "mettmann",
+                "rhein-kreis neuss",
+                "viersen",
+                "wesel",
+                "bonn, stadt",
+                "köln, stadt",
+                "leverkusen, stadt",
+                "städteregion aachen",
+                "düren",
+                "rhein-erft-kreis",
+                "euskirchen",
+                "heinsberg",
+                "oberbergischer kreis",
+                "rheinisch-bergischer kreis",
+                "rhein-sieg-kreis",
+                "bottrop, stadt",
+                "gelsenkirchen, stadt",
+                "münster, stadt",
+                "borken",
+                "coesfeld",
+                "recklinghausen",
+                "steinfurt",
+                "warendorf",
+                "bielefeld, stadt",
+                "gütersloh",
+                "herford",
+                "höxter",
+                "lippe",
+                "minden-lübbecke",
+                "paderborn",
+                "bochum, stadt",
+                "dortmund, stadt",
+                "hagen, stadt",
+                "hamm, stadt",
+                "herne, stadt",
+                "ennepe-ruhr-kreis",
+                "hochsauerlandkreis",
+                "märkischer kreis",
+                "olpe",
+                "siegen-wittgenstein",
+                "soest",
+                "unna",
+                "koblenz, stadt",
+                "ahrweiler",
+                "altenkirchen (westerwald)",
+                "bad kreuznach",
+                "birkenfeld",
+                "cochem-zell",
+                "mayen-koblenz",
+                "neuwied",
+                "rhein-hunsrück-kreis",
+                "rhein-lahn-kreis",
+                "westerwaldkreis",
+                "trier, stadt",
+                "bernkastel-wittlich",
+                "eifelkreis bitburg-prüm",
+                "vulkaneifel",
+                "trier-saarburg",
+                "frankenthal (pfalz), stadt",
+                "kaiserslautern, stadt",
+                "landau in der pfalz, stadt",
+                "ludwigshafen am rhein, stadt",
+                "mainz, stadt",
+                "neustadt an der weinstraße, stadt",
+                "pirmasens, stadt",
+                "speyer, stadt",
+                "worms, stadt",
+                "zweibrücken, stadt",
+                "alzey-worms",
+                "bad dürkheim",
+                "donnersbergkreis",
+                "germersheim",
+                "kaiserslautern",
+                "kusel",
+                "südliche weinstraße",
+                "rhein-pfalz-kreis",
+                "mainz-bingen",
+                "südwestpfalz",
+                "saarbrücken, regionalverband",
+                "merzig-wadern",
+                "neunkirchen",
+                "saarlouis",
+                "saarpfalz-kreis",
+                "st. wendel",
+                "chemnitz, stadt",
+                "erzgebirgskreis",
+                "mittelsachsen",
+                "vogtlandkreis",
+                "zwickau",
+                "dresden, stadt",
+                "bautzen",
+                "görlitz",
+                "meißen",
+                "sächsische schweiz-osterzgebirge",
+                "leipzig, stadt",
+                "leipzig",
+                "nordsachsen",
+                "dessau-roßlau, stadt",
+                "halle (saale), stadt",
+                "magdeburg, stadt",
+                "altmarkkreis salzwedel",
+                "anhalt-bitterfeld",
+                "börde",
+                "burgenlandkreis",
+                "harz",
+                "jerichower land",
+                "mansfeld-südharz",
+                "saalekreis",
+                "salzlandkreis",
+                "stendal",
+                "wittenberg",
+                "flensburg, stadt",
+                "kiel, stadt",
+                "lübeck, stadt",
+                "neumünster, stadt",
+                "dithmarschen",
+                "herzogtum lauenburg",
+                "nordfriesland",
+                "ostholstein",
+                "pinneberg",
+                "plön",
+                "rendsburg-eckernförde",
+                "schleswig-flensburg",
+                "segeberg",
+                "steinburg",
+                "stormarn",
+                "erfurt, stadt",
+                "gera, stadt",
+                "jena, stadt",
+                "suhl, stadt",
+                "weimar, stadt",
+                "eisenach, stadt",
+                "eichsfeld",
+                "nordhausen",
+                "wartburgkreis",
+                "unstrut-hainich-kreis",
+                "kyffhäuserkreis",
+                "schmalkalden-meiningen",
+                "gotha",
+                "sömmerda",
+                "hildburghausen",
+                "ilm-kreis",
+                "weimarer land",
+                "sonneberg",
+                "saalfeld-rudolstadt",
+                "saale-holzland-kreis",
+                "saale-orla-kreis",
+                "greiz",
+                "altenburger land",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Bruttoinlandsprodukt je Einwohner"
+    },
+    {
+      "path": "3-1-ab/data.csv",
+      "name": "3-1-ab",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100 000 inhabitants",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Vorzeitige Sterblichkeit"
+    },
+    {
+      "path": "8-5-ab/data.csv",
+      "name": "8-5-ab",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) total",
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 - 64 years",
+                "60 - 64 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Erwerbstätigenquote"
+    },
+    {
+      "path": "1-1-ab/data.csv",
+      "name": "1-1-ab",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) materially deprived persons",
+                "b) severely materially deprived persons",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "eu-28",
+                "germany",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Materielle Deprivation sowie erhebliche materielle Deprivation"
+    },
+    {
+      "path": "11-2-c/data.csv",
+      "name": "11-2-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "min.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "dimension",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in relation to the middle and upper centers of the respective year",
+                "in relation to the middle and upper centers of the year 2012",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln<br><br>"
+    },
+    {
+      "path": "7-1-ab/data.csv",
+      "name": "7-1-ab",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2008 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) final energy productivity",
+                "b) primary energy consumption",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Endenergieproduktivität und Primärenergieverbrauch"
+    },
+    {
+      "path": "9-1-b/data.csv",
+      "name": "9-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all line-based technologies",
+                "pure fiber optic networks (fttb/h)",
+                "cable television (catv)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Breitbandausbau"
+    },
+    {
+      "path": "11-2-b/data.csv",
+      "name": "11-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2005 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "passenger transport performance",
+                "final energy consumption per passenger-kilometre",
+                "final energy consumption in passenger transport",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Endenergieverbrauch im Personenverkehr"
+    },
+    {
+      "path": "11-4-a/data.csv",
+      "name": "11-4-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mio.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total objects",
+                "objects with digitalisat",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Zahl der Objekte in der Deutschen Digitalen Bibliothek"
+    },
+    {
+      "path": "2-2-a/data.csv",
+      "name": "2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit"
+    },
+    {
+      "path": "2-1-b/data.csv",
+      "name": "2-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data from destatis",
+                "data from bmel",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Ökologischer Landbau"
+    },
+    {
+      "path": "3-1-e/data.csv",
+      "name": "3-1-e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "dimension",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) overweight",
+                "b) obese",
+                "c) total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) 3- to 10-year-olds",
+                "b) 11- to 17-year-olds",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Adipositasquote von Kindern und Jugendlichen"
+    },
+    {
+      "path": "13-1-b/data.csv",
+      "name": "13-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bn eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel"
+    },
+    {
+      "path": "3-1-cd/data.csv",
+      "name": "3-1-cd",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "adolescents (12 to 17 years)",
+                "adults (15 years and older)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Raucherquote von Jugendlichen und Erwachsenen"
+    },
+    {
+      "path": "14-1-a/data.csv",
+      "name": "14-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mg/l",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "north sea",
+                "baltic sea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Stickstoffeintrag über die Zuflüsse in Nord- und Ostsee"
+    },
+    {
+      "path": "14-1-b/data.csv",
+      "name": "14-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "proportion of sustainable managed stocks in all msy examined stocks",
+                "proportion of msy examined in all managed stocks",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "north sea",
+                "baltic sea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee"
+    },
+    {
+      "path": "5-1-e/data.csv",
+      "name": "5-1-e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 000",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit"
+    },
+    {
+      "path": "15-1-a/data.csv",
+      "name": "15-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2030 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "f) index overall",
+                "a) sub-index forests",
+                "b) sub-index settlements",
+                "c) sub-index farmland",
+                "d) sub-index inland waters",
+                "e) sub-index coasts/seas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Artenvielfalt und Landschaftsqualität"
+    },
+    {
+      "path": "6-2-ab/data.csv",
+      "name": "6-2-ab",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mio.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) drinking water and sanitation",
+                "b) drinking water",
+                "c) sanitation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Entwicklungszusammenarbeit für Trinkwasser- und Sanitärversorgung"
+    },
+    {
+      "path": "8-2-c/data.csv",
+      "name": "8-2-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "b) target (max)",
+                "a) time series",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Schuldenstand"
     },
     {
       "path": "4-2-ab/data.csv",
@@ -699,6 +2865,275 @@
       "title": "Ganztagsbetreuung für Kinder"
     },
     {
+      "path": "3-2-a/data.csv",
+      "name": "3-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2005 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "air pollutants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "air pollutants overall",
+                "so2",
+                "nox",
+                "nh3",
+                "nmvoc",
+                "pm2.5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Emissionen von Luftschadstoffen"
+    },
+    {
+      "path": "11-1-a/data.csv",
+      "name": "11-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ha/d",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sports, leisure and recreation area, graveyard",
+                "living space, industrial and commercial space (without mining land), public facilities",
+                "transport area",
+                "a) total (moving four-year average)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anstieg der Siedlungs- und Verkehrsfläche"
+    },
+    {
+      "path": "15-3-ab/data.csv",
+      "name": "15-3-ab",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mio. eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "redd+",
+                "soil conservation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Erhalt bzw. Wiederaufbau von Wäldern unter REDD+ sowie internationaler Bodenschutz"
+    },
+    {
+      "path": "8-6-a/data.csv",
+      "name": "8-6-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "partnership for sustainable textiles",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Mitglieder des Textilbündnisses"
+    },
+    {
+      "path": "6-1-b/data.csv",
+      "name": "6-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "bb",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Nitrat im Grundwasser"
+    },
+    {
       "path": "6-1-a/data.csv",
       "name": "6-1-a",
       "profile": "tabular-data-resource",
@@ -740,549 +3175,6 @@
         ]
       },
       "title": "Phosphor in Fließgewässern"
-    },
-    {
-      "path": "8-5-ab/data.csv",
-      "name": "8-5-ab",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) total",
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "20 - 64 years",
-                "60 - 64 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Erwerbstätigenquote"
-    },
-    {
-      "path": "13-1-a/data.csv",
-      "name": "13-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1990 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Treibhausgasemissionen"
-    },
-    {
-      "path": "7-1-ab/data.csv",
-      "name": "7-1-ab",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2008 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) final energy productivity",
-                "b) primary energy consumption",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Endenergieproduktivität und Primärenergieverbrauch"
-    },
-    {
-      "path": "9-1-a/data.csv",
-      "name": "9-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Private und öffentliche Ausgaben für Forschung und Entwicklung"
-    },
-    {
-      "path": "8-3-a/data.csv",
-      "name": "8-3-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Verhältnis der Bruttoanlageinvestitionen zum BIP"
-    },
-    {
-      "path": "16-2-a/data.csv",
-      "name": "16-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland"
-    },
-    {
-      "path": "15-2-a/data.csv",
-      "name": "15-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Eutrophierung der Ökosysteme"
-    },
-    {
-      "path": "11-1-c/data.csv",
-      "name": "11-1-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2000 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "typification",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) rural and non-rural areas",
-                "non-rural areas",
-                "rural areas",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Siedlungsdichte"
     },
     {
       "path": "4-1-b/data.csv",
@@ -1381,8 +3273,8 @@
       "title": "Akademisch Qualifizierte und beruflich Höherqualifizierte"
     },
     {
-      "path": "3-3-a/data.csv",
-      "name": "3-3-a",
+      "path": "16-1-a/data.csv",
+      "name": "16-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1399,94 +3291,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio. eur",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) pandemic prevention and reaction",
-                "b) containment of the covid-19 pandemic",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion"
-    },
-    {
-      "path": "12-1-b/data.csv",
-      "name": "12-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "direct and indirect raw material consumption",
-                "direct and indirect energy consumption",
-                "direct and indirect co2 emissions",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Globale Umweltinanspruchnahme des Konsums privater Haushalte"
-    },
-    {
-      "path": "13-1-b/data.csv",
-      "name": "13-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "bn eur",
+                "per 100 000 inhabitants",
                 ""
               ]
             }
@@ -1497,18 +3302,62 @@
             "constraints": {
               "enum": [
                 "a) time series",
-                "b) target (min)",
+                "b) target (max)",
                 ""
               ]
             }
           },
           {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) criminal offences (overall)",
+                "other criminal offences",
+                "serious and grievous bodily harm",
+                "fraud",
+                "burglary in homes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
-      "title": "Internationale Klimafinanzierung zur Reduktion von Treibhausgasen und zur Anpassung an den Klimawandel"
+      "title": "Straftaten"
     },
     {
       "path": "10-2-a/data.csv",
@@ -1556,439 +3405,6 @@
         ]
       },
       "title": "Gini-Koeffizient des Einkommens nach Sozialtransfers"
-    },
-    {
-      "path": "11-2-c/data.csv",
-      "name": "11-2-c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "min.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "in relation to the middle and upper centers of the respective year",
-                "in relation to the middle and upper centers of the year 2012",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Erreichbarkeit von Mittel- und Oberzentren mit öffentlichen Verkehrsmitteln<br><br>"
-    },
-    {
-      "path": "11-1-a/data.csv",
-      "name": "11-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ha/d",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "sports, leisure and recreation area, graveyard",
-                "living space, industrial and commercial space (without mining land), public facilities",
-                "transport area",
-                "a) total (moving four-year average)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anstieg der Siedlungs- und Verkehrsfläche"
-    },
-    {
-      "path": "11-2-a/data.csv",
-      "name": "11-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2005 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "final energy consumption for the carriage of goods",
-                "goods transport performance",
-                "final energy consumption per tonne-kilometre",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Endenergieverbrauch im Güterverkehr"
-    },
-    {
-      "path": "14-1-a/data.csv",
-      "name": "14-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mg/l",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "north sea",
-                "baltic sea",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Stickstoffeintrag über die Zuflüsse in Nord- und Ostsee"
-    },
-    {
-      "path": "15-1-a/data.csv",
-      "name": "15-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2030 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "f) index overall",
-                "a) sub-index forests",
-                "b) sub-index settlements",
-                "c) sub-index farmland",
-                "d) sub-index inland waters",
-                "e) sub-index coasts/seas",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Artenvielfalt und Landschaftsqualität"
-    },
-    {
-      "path": "5-1-a/data.csv",
-      "name": "5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Verdienstabstand zwischen Frauen und Männern"
-    },
-    {
-      "path": "14-1-b/data.csv",
-      "name": "14-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportion of sustainable managed stocks in all msy examined stocks",
-                "proportion of msy examined in all managed stocks",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "north sea",
-                "baltic sea",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee"
     },
     {
       "path": "17-2-a/data.csv",
@@ -2077,8 +3493,8 @@
       "title": "Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie LDCs pro Jahr<br><br>"
     },
     {
-      "path": "1-1-ab/data.csv",
-      "name": "1-1-ab",
+      "path": "5-1-d/data.csv",
+      "name": "5-1-d",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2096,71 +3512,6 @@
             "constraints": {
               "enum": [
                 "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) materially deprived persons",
-                "b) severely materially deprived persons",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "eu-28",
-                "germany",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Materielle Deprivation sowie erhebliche materielle Deprivation"
-    },
-    {
-      "path": "8-1-a/data.csv",
-      "name": "8-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2000 = 100",
                 ""
               ]
             }
@@ -2177,89 +3528,10 @@
             }
           },
           {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "consumption, investments and exports (price-adjusted)",
-                "raw material use for consumption, investments and exports",
-                "raw material input productivity",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Gesamtrohstoffproduktivität"
-    },
-    {
-      "path": "3-1-f/data.csv",
-      "name": "3-1-f",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) total",
-                "women",
-                "men",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 - 20 years",
-                "20 - 25 years",
-                "25 - 30 years",
-                "30 - 35 years",
-                "35 - 40 years",
-                "40 - 45 years",
-                "45 - 50 years",
-                "50 - 55 years",
-                "55 - 60 years",
-                "60 - 56 years",
-                "65 - 70 years",
-                "70 - 75 years",
-                "75 and over",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
                 "bw",
                 "by",
                 "be",
@@ -2290,7 +3562,50 @@
           }
         ]
       },
-      "title": "Adipositasquote von Erwachsenen"
+      "title": "Väterbeteiligung beim Elterngeld"
+    },
+    {
+      "path": "16-2-a/data.csv",
+      "name": "16-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland"
     },
     {
       "path": "4-1-a/data.csv",
@@ -2378,8 +3693,8 @@
       "title": "Frühe Schulabgängerinnen und Schulabgänger"
     },
     {
-      "path": "3-1-ab/data.csv",
-      "name": "3-1-ab",
+      "path": "3-3-a/data.csv",
+      "name": "3-3-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2396,91 +3711,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 inhabitants",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "women",
-                "men",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Vorzeitige Sterblichkeit"
-    },
-    {
-      "path": "16-3-ab/data.csv",
-      "name": "16-3-ab",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "index/number",
+                "mio. eur",
                 ""
               ]
             }
@@ -2490,8 +3721,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "rating for germany",
-                "number of partner countries of german development cooperation whose rating has improved compared with 2012",
+                "a) pandemic prevention and reaction",
+                "b) containment of the covid-19 pandemic",
                 ""
               ]
             }
@@ -2502,11 +3733,11 @@
           }
         ]
       },
-      "title": "Corruption Perception Index in Deutschland sowie in den Partnerländern der deutschen Entwicklungszusammenarbeit"
+      "title": "Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion"
     },
     {
-      "path": "2-1-b/data.csv",
-      "name": "2-1-b",
+      "path": "8-1-a/data.csv",
+      "name": "8-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2523,80 +3754,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data from destatis",
-                "data from bmel",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Ökologischer Landbau"
-    },
-    {
-      "path": "12-2-a/data.csv",
-      "name": "12-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "number",
+                "2000 = 100",
                 ""
               ]
             }
@@ -2617,42 +3775,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employees in thousands",
-                "emas organisational locations",
-                "emas organisations",
+                "consumption, investments and exports (price-adjusted)",
+                "raw material use for consumption, investments and exports",
+                "raw material input productivity",
                 ""
               ]
             }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",
@@ -2660,11 +3788,11 @@
           }
         ]
       },
-      "title": "Umweltmanagement EMAS"
+      "title": "Gesamtrohstoffproduktivität"
     },
     {
-      "path": "5-1-e/data.csv",
-      "name": "5-1-e",
+      "path": "3-2-b/data.csv",
+      "name": "3-2-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2681,50 +3809,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Berufliche Qualifizierung von Frauen und Mädchen durch deutsche entwicklungspolitische Zusammenarbeit"
-    },
-    {
-      "path": "11-2-b/data.csv",
-      "name": "11-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2005 = 100",
+                "mio.",
                 ""
               ]
             }
@@ -2741,387 +3826,12 @@
             }
           },
           {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "passenger transport performance",
-                "final energy consumption per passenger-kilometre",
-                "final energy consumption in passenger transport",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "Endenergieverbrauch im Personenverkehr"
-    },
-    {
-      "path": "3-1-e/data.csv",
-      "name": "3-1-e",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) overweight",
-                "b) obese",
-                "c) total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) 3- to 10-year-olds",
-                "b) 11- to 17-year-olds",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Adipositasquote von Kindern und Jugendlichen"
-    },
-    {
-      "path": "5-1-d/data.csv",
-      "name": "5-1-d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Väterbeteiligung beim Elterngeld"
-    },
-    {
-      "path": "17-1-a/data.csv",
-      "name": "17-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "calculation as net expenditure",
-                "calculation in grant equivalents",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen<br><br>"
-    },
-    {
-      "path": "16-1-a/data.csv",
-      "name": "16-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "per 100 000 inhabitants",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "criminal offences",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) criminal offences (overall)",
-                "other criminal offences",
-                "serious and grievous bodily harm",
-                "fraud",
-                "burglary in homes",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Straftaten"
-    },
-    {
-      "path": "3-1-cd/data.csv",
-      "name": "3-1-cd",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "adolescents (12 to 17 years)",
-                "adults (15 years and older)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Raucherquote von Jugendlichen und Erwachsenen"
+      "title": "Anteil der Bevölkerung mit erhöhter PM<sub>10</sub>-Feinstaubexposition"
     },
     {
       "path": "11-3-a/data.csv",
@@ -3167,257 +3877,8 @@
       "title": "Überlastung durch Wohnkosten"
     },
     {
-      "path": "9-1-b/data.csv",
-      "name": "9-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "all line-based technologies",
-                "pure fiber optic networks (fttb/h)",
-                "cable television (catv)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Breitbandausbau"
-    },
-    {
-      "path": "8-6-a/data.csv",
-      "name": "8-6-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "partnership for sustainable textiles",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Mitglieder des Textilbündnisses"
-    },
-    {
-      "path": "6-2-ab/data.csv",
-      "name": "6-2-ab",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mio.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) drinking water and sanitation",
-                "b) drinking water",
-                "c) sanitation",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Entwicklungszusammenarbeit für Trinkwasser- und Sanitärversorgung"
-    },
-    {
-      "path": "11-4-a/data.csv",
-      "name": "11-4-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mio.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total objects",
-                "objects with digitalisat",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Zahl der Objekte in der Deutschen Digitalen Bibliothek"
-    },
-    {
-      "path": "15-3-ab/data.csv",
-      "name": "15-3-ab",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mio. eur",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "redd+",
-                "soil conservation",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Erhalt bzw. Wiederaufbau von Wäldern unter REDD+ sowie internationaler Bodenschutz"
-    },
-    {
-      "path": "17-3-a/data.csv",
-      "name": "17-3-a",
+      "path": "9-1-a/data.csv",
+      "name": "9-1-a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3446,789 +3907,6 @@
               "enum": [
                 "a) time series",
                 "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "imports of processed products from ldcs",
-                "imports from ldcs",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Einfuhren aus am wenigsten entwickelten Ländern"
-    },
-    {
-      "path": "2-1-a/data.csv",
-      "name": "2-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "kg/ha",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "b) calculated annual values",
-                "a) moving five-year average, referring to the middle year",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Stickstoffüberschuss der Landwirtschaft"
-    },
-    {
-      "path": "7-2-b/data.csv",
-      "name": "7-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch"
-    },
-    {
-      "path": "3-2-a/data.csv",
-      "name": "3-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2005 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "air pollutants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
-                "nmvoc",
-                "pm2.5",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Emissionen von Luftschadstoffen"
-    },
-    {
-      "path": "6-1-b/data.csv",
-      "name": "6-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "bb",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Nitrat im Grundwasser"
-    },
-    {
-      "path": "8-4-a/data.csv",
-      "name": "8-4-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1 000 eur",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Kreis",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "stuttgart, stadt",
-                "böblingen",
-                "esslingen",
-                "göppingen",
-                "ludwigsburg",
-                "rems-murr-kreis",
-                "heilbronn, stadt",
-                "heilbronn",
-                "hohenlohekreis",
-                "schwäbisch hall",
-                "main-tauber-kreis",
-                "heidenheim",
-                "ostalbkreis",
-                "baden-baden, stadt",
-                "karlsruhe, stadt",
-                "karlsruhe",
-                "rastatt",
-                "heidelberg, stadt",
-                "mannheim, stadt",
-                "neckar-odenwald-kreis",
-                "rhein-neckar-kreis",
-                "pforzheim, stadt",
-                "calw",
-                "enzkreis",
-                "freudenstadt",
-                "freiburg im breisgau, stadt",
-                "breisgau-hochschwarzwald",
-                "emmendingen",
-                "ortenaukreis",
-                "rottweil",
-                "schwarzwald-baar-kreis",
-                "tuttlingen",
-                "konstanz",
-                "lörrach",
-                "waldshut",
-                "reutlingen",
-                "tübingen",
-                "zollernalbkreis",
-                "ulm, stadt",
-                "alb-donau-kreis",
-                "biberach",
-                "bodenseekreis",
-                "ravensburg",
-                "sigmaringen",
-                "ingolstadt, stadt",
-                "münchen, stadt",
-                "rosenheim, stadt",
-                "altötting",
-                "berchtesgadener land",
-                "bad tölz-wolfratshausen",
-                "dachau",
-                "ebersberg",
-                "eichstätt",
-                "erding",
-                "freising",
-                "fürstenfeldbruck",
-                "garmisch-partenkirchen",
-                "landsberg am lech",
-                "miesbach",
-                "mühldorf am inn",
-                "münchen",
-                "neuburg-schrobenhausen",
-                "pfaffenhofen an der ilm",
-                "rosenheim",
-                "starnberg",
-                "traunstein",
-                "weilheim-schongau",
-                "landshut, stadt",
-                "passau, stadt",
-                "straubing, stadt",
-                "deggendorf",
-                "freyung-grafenau",
-                "kelheim",
-                "landshut",
-                "passau",
-                "regen",
-                "rottal-inn",
-                "straubing-bogen",
-                "dingolfing-landau",
-                "amberg, stadt",
-                "regensburg, stadt",
-                "weiden in der oberpfalz, stadt",
-                "amberg-sulzbach",
-                "cham",
-                "neumarkt in der oberpfalz",
-                "neustadt an der waldnaab",
-                "regensburg",
-                "schwandorf",
-                "tirschenreuth",
-                "bamberg, stadt",
-                "bayreuth, stadt",
-                "coburg, stadt",
-                "hof, stadt",
-                "bamberg",
-                "bayreuth",
-                "coburg",
-                "forchheim",
-                "hof",
-                "kronach",
-                "kulmbach",
-                "lichtenfels",
-                "wunsiedel im fichtelgebirge",
-                "ansbach, stadt",
-                "erlangen, stadt",
-                "fürth, stadt",
-                "nürnberg, stadt",
-                "schwabach, stadt",
-                "ansbach",
-                "erlangen-höchstadt",
-                "fürth",
-                "nürnberger land",
-                "neustadt an der aisch-bad windsheim",
-                "roth",
-                "weißenburg-gunzenhausen",
-                "aschaffenburg, stadt",
-                "schweinfurt, stadt",
-                "würzburg, stadt",
-                "aschaffenburg",
-                "bad kissingen",
-                "rhön-grabfeld",
-                "haßberge",
-                "kitzingen",
-                "miltenberg",
-                "main-spessart",
-                "schweinfurt",
-                "würzburg",
-                "augsburg, stadt",
-                "kaufbeuren, stadt",
-                "kempten (allgäu), stadt",
-                "memmingen, stadt",
-                "aichach-friedberg",
-                "augsburg",
-                "dillingen an der donau",
-                "günzburg",
-                "neu-ulm",
-                "lindau (bodensee)",
-                "ostallgäu",
-                "unterallgäu",
-                "donau-ries",
-                "oberallgäu",
-                "berlin, stadt",
-                "brandenburg an der havel, stadt",
-                "cottbus, stadt",
-                "frankfurt (oder), stadt",
-                "potsdam, stadt",
-                "barnim",
-                "dahme-spreewald",
-                "elbe-elster",
-                "havelland",
-                "märkisch-oderland",
-                "oberhavel",
-                "oberspreewald-lausitz",
-                "oder-spree",
-                "ostprignitz-ruppin",
-                "potsdam-mittelmark",
-                "prignitz",
-                "spree-neiße",
-                "teltow-fläming",
-                "uckermark",
-                "bremen, stadt",
-                "bremerhaven, stadt",
-                "hamburg",
-                "darmstadt, stadt",
-                "frankfurt am main, stadt",
-                "offenbach am main, stadt",
-                "wiesbaden, stadt",
-                "bergstraße",
-                "darmstadt-dieburg",
-                "groß-gerau",
-                "hochtaunuskreis",
-                "main-kinzig-kreis",
-                "main-taunus-kreis",
-                "odenwaldkreis",
-                "offenbach",
-                "rheingau-taunus-kreis",
-                "wetteraukreis",
-                "gießen",
-                "lahn-dill-kreis",
-                "limburg-weilburg",
-                "marburg-biedenkopf",
-                "vogelsbergkreis",
-                "kassel, stadt",
-                "fulda",
-                "hersfeld-rotenburg",
-                "kassel",
-                "schwalm-eder-kreis",
-                "waldeck-frankenberg",
-                "werra-meißner-kreis",
-                "rostock, stadt",
-                "schwerin, stadt",
-                "mecklenburgische seenplatte",
-                "rostock",
-                "vorpommern-rügen",
-                "nordwestmecklenburg",
-                "vorpommern-greifswald",
-                "ludwigslust-parchim",
-                "braunschweig, stadt",
-                "salzgitter, stadt",
-                "wolfsburg, stadt",
-                "gifhorn",
-                "goslar",
-                "helmstedt",
-                "northeim",
-                "osterode am harz",
-                "peine",
-                "wolfenbüttel",
-                "göttingen",
-                "region hannover",
-                "diepholz",
-                "hameln-pyrmont",
-                "hildesheim",
-                "holzminden",
-                "nienburg (weser)",
-                "schaumburg",
-                "celle",
-                "cuxhaven",
-                "harburg",
-                "lüchow-dannenberg",
-                "lüneburg",
-                "osterholz",
-                "rotenburg (wümme)",
-                "heidekreis",
-                "stade",
-                "uelzen",
-                "verden",
-                "delmenhorst, stadt",
-                "emden, stadt",
-                "oldenburg (oldenburg), stadt",
-                "osnabrück, stadt",
-                "wilhelmshaven, stadt",
-                "ammerland",
-                "aurich",
-                "cloppenburg",
-                "emsland",
-                "friesland",
-                "grafschaft bentheim",
-                "leer",
-                "oldenburg",
-                "osnabrück",
-                "vechta",
-                "wesermarsch",
-                "wittmund",
-                "düsseldorf, stadt",
-                "duisburg, stadt",
-                "essen, stadt",
-                "krefeld, stadt",
-                "mönchengladbach, stadt",
-                "mülheim an der ruhr, stadt",
-                "oberhausen, stadt",
-                "remscheid, stadt",
-                "solingen, stadt",
-                "wuppertal, stadt",
-                "kleve",
-                "mettmann",
-                "rhein-kreis neuss",
-                "viersen",
-                "wesel",
-                "bonn, stadt",
-                "köln, stadt",
-                "leverkusen, stadt",
-                "städteregion aachen",
-                "düren",
-                "rhein-erft-kreis",
-                "euskirchen",
-                "heinsberg",
-                "oberbergischer kreis",
-                "rheinisch-bergischer kreis",
-                "rhein-sieg-kreis",
-                "bottrop, stadt",
-                "gelsenkirchen, stadt",
-                "münster, stadt",
-                "borken",
-                "coesfeld",
-                "recklinghausen",
-                "steinfurt",
-                "warendorf",
-                "bielefeld, stadt",
-                "gütersloh",
-                "herford",
-                "höxter",
-                "lippe",
-                "minden-lübbecke",
-                "paderborn",
-                "bochum, stadt",
-                "dortmund, stadt",
-                "hagen, stadt",
-                "hamm, stadt",
-                "herne, stadt",
-                "ennepe-ruhr-kreis",
-                "hochsauerlandkreis",
-                "märkischer kreis",
-                "olpe",
-                "siegen-wittgenstein",
-                "soest",
-                "unna",
-                "koblenz, stadt",
-                "ahrweiler",
-                "altenkirchen (westerwald)",
-                "bad kreuznach",
-                "birkenfeld",
-                "cochem-zell",
-                "mayen-koblenz",
-                "neuwied",
-                "rhein-hunsrück-kreis",
-                "rhein-lahn-kreis",
-                "westerwaldkreis",
-                "trier, stadt",
-                "bernkastel-wittlich",
-                "eifelkreis bitburg-prüm",
-                "vulkaneifel",
-                "trier-saarburg",
-                "frankenthal (pfalz), stadt",
-                "kaiserslautern, stadt",
-                "landau in der pfalz, stadt",
-                "ludwigshafen am rhein, stadt",
-                "mainz, stadt",
-                "neustadt an der weinstraße, stadt",
-                "pirmasens, stadt",
-                "speyer, stadt",
-                "worms, stadt",
-                "zweibrücken, stadt",
-                "alzey-worms",
-                "bad dürkheim",
-                "donnersbergkreis",
-                "germersheim",
-                "kaiserslautern",
-                "kusel",
-                "südliche weinstraße",
-                "rhein-pfalz-kreis",
-                "mainz-bingen",
-                "südwestpfalz",
-                "saarbrücken, regionalverband",
-                "merzig-wadern",
-                "neunkirchen",
-                "saarlouis",
-                "saarpfalz-kreis",
-                "st. wendel",
-                "chemnitz, stadt",
-                "erzgebirgskreis",
-                "mittelsachsen",
-                "vogtlandkreis",
-                "zwickau",
-                "dresden, stadt",
-                "bautzen",
-                "görlitz",
-                "meißen",
-                "sächsische schweiz-osterzgebirge",
-                "leipzig, stadt",
-                "leipzig",
-                "nordsachsen",
-                "dessau-roßlau, stadt",
-                "halle (saale), stadt",
-                "magdeburg, stadt",
-                "altmarkkreis salzwedel",
-                "anhalt-bitterfeld",
-                "börde",
-                "burgenlandkreis",
-                "harz",
-                "jerichower land",
-                "mansfeld-südharz",
-                "saalekreis",
-                "salzlandkreis",
-                "stendal",
-                "wittenberg",
-                "flensburg, stadt",
-                "kiel, stadt",
-                "lübeck, stadt",
-                "neumünster, stadt",
-                "dithmarschen",
-                "herzogtum lauenburg",
-                "nordfriesland",
-                "ostholstein",
-                "pinneberg",
-                "plön",
-                "rendsburg-eckernförde",
-                "schleswig-flensburg",
-                "segeberg",
-                "steinburg",
-                "stormarn",
-                "erfurt, stadt",
-                "gera, stadt",
-                "jena, stadt",
-                "suhl, stadt",
-                "weimar, stadt",
-                "eisenach, stadt",
-                "eichsfeld",
-                "nordhausen",
-                "wartburgkreis",
-                "unstrut-hainich-kreis",
-                "kyffhäuserkreis",
-                "schmalkalden-meiningen",
-                "gotha",
-                "sömmerda",
-                "hildburghausen",
-                "ilm-kreis",
-                "weimarer land",
-                "sonneberg",
-                "saalfeld-rudolstadt",
-                "saale-holzland-kreis",
-                "saale-orla-kreis",
-                "greiz",
-                "altenburger land",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Bruttoinlandsprodukt je Einwohner"
-    },
-    {
-      "path": "10-1-a/data.csv",
-      "name": "10-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "foreign school graduates",
-                "german school graduates (share of all german leavers)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                "a) total",
                 ""
               ]
             }
@@ -4268,133 +3946,7 @@
           }
         ]
       },
-      "title": "Ausländische Schulabsolventinnen und Schulabsolventen"
-    },
-    {
-      "path": "5-1-bc/data.csv",
-      "name": "5-1-bc",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "economy",
-                "civil service",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Frauen in Führungspositionen in der Wirtschaft sowie im öffentlichen Dienst des Bundes"
-    },
-    {
-      "path": "7-2-a/data.csv",
-      "name": "7-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
+      "title": "Private und öffentliche Ausgaben für Forschung und Entwicklung"
     },
     {
       "path": "12-3-ab/data.csv",
@@ -4506,8 +4058,51 @@
       "title": "Staatsdefizit und strukturelles Defizit"
     },
     {
-      "path": "12-1-a/data.csv",
-      "name": "12-1-a",
+      "path": "16-3-ab/data.csv",
+      "name": "16-3-ab",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "index/number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "rating for germany",
+                "number of partner countries of german development cooperation whose rating has improved compared with 2012",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Corruption Perception Index in Deutschland sowie in den Partnerländern der deutschen Entwicklungszusammenarbeit"
+    },
+    {
+      "path": "7-2-b/data.csv",
+      "name": "7-2-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4541,12 +4136,417 @@
             }
           },
           {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "Marktanteil von Produkten mit staatlichen Umweltzeichen"
+      "title": "Anteil des Stroms aus erneuerbaren Energiequellen am Bruttostromverbrauch"
+    },
+    {
+      "path": "5-1-bc/data.csv",
+      "name": "5-1-bc",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "economy",
+                "civil service",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Frauen in Führungspositionen in der Wirtschaft sowie im öffentlichen Dienst des Bundes"
+    },
+    {
+      "path": "17-3-a/data.csv",
+      "name": "17-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (min)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "imports of processed products from ldcs",
+                "imports from ldcs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Einfuhren aus am wenigsten entwickelten Ländern"
+    },
+    {
+      "path": "17-1-a/data.csv",
+      "name": "17-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "calculation as net expenditure",
+                "calculation in grant equivalents",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil öffentlicher Entwicklungsausgaben am Bruttonationaleinkommen<br><br>"
+    },
+    {
+      "path": "12-1-b/data.csv",
+      "name": "12-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "direct and indirect raw material consumption",
+                "direct and indirect energy consumption",
+                "direct and indirect co2 emissions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Globale Umweltinanspruchnahme des Konsums privater Haushalte"
+    },
+    {
+      "path": "3-1-f/data.csv",
+      "name": "3-1-f",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) total",
+                "women",
+                "men",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 - 20 years",
+                "20 - 25 years",
+                "25 - 30 years",
+                "30 - 35 years",
+                "35 - 40 years",
+                "40 - 45 years",
+                "45 - 50 years",
+                "50 - 55 years",
+                "55 - 60 years",
+                "60 - 56 years",
+                "65 - 70 years",
+                "70 - 75 years",
+                "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Adipositasquote von Erwachsenen"
+    },
+    {
+      "path": "5-1-a/data.csv",
+      "name": "5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "display",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) time series",
+                "b) target (max)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bundesland",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Verdienstabstand zwischen Frauen und Männern"
     }
   ]
 }

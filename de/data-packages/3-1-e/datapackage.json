@@ -11,47 +11,30 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Prozent"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "string",
             "title": "Jahr"
           },
           {
-            "name": "age",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "3- bis 10-Jährige",
-                "11- bis 17-Jährige"
+                "Prozent",
+                ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "Units"
           },
           {
             "name": "dimension",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Übergewicht ohne Adipositas",
                 "Adipositas",
-                "Insgesamt"
+                "Insgesamt",
+                ""
               ]
             },
             "title": "Zeitreihe"
@@ -61,12 +44,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Weiblich",
-                "Männlich"
+                "Männlich",
+                ""
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3- bis 10-Jährige",
+                "11- bis 17-Jährige",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

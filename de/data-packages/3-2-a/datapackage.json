@@ -11,53 +11,53 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "2005 = 100"
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "air pollutants",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "f) Luftschadstoffe insgesamt",
-                "a) NH<sub>3</sub>",
-                "b) NMVOC",
-                "c) NO<sub>x</sub>",
-                "d) PM<sub>2,5</sub>",
-                "e) SO<sub>2</sub>"
+                "2005 = 100",
+                ""
               ]
             },
-            "title": "Luftschadstoffe"
+            "title": "Units"
           },
           {
             "name": "display",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Zeitreihe",
-                "Ziel"
+                "Ziel",
+                ""
               ]
             },
             "title": "Anzeigen"
+          },
+          {
+            "name": "air pollutants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "f) Luftschadstoffe insgesamt",
+                "e) SO<sub>2</sub>",
+                "c) NO<sub>x</sub>",
+                "a) NH<sub>3</sub>",
+                "b) NMVOC",
+                "d) PM<sub>2,5</sub>",
+                ""
+              ]
+            },
+            "title": "Luftschadstoffe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
