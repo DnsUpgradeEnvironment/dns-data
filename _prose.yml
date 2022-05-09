@@ -1,6 +1,6 @@
 # Prose configuration
 prose:
-  ignore: ['/scripts']
+  #ignore: ['/scripts']
   metadata:
     meta:
     ############ Page Data ############
