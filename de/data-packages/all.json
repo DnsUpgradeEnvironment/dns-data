@@ -662,8 +662,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) Berechnete jährliche Werte",
                 "a) Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr",
+                "b) Berechnete jährliche Werte",
                 ""
               ]
             },
