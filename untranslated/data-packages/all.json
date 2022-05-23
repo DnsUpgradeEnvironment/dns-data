@@ -572,7 +572,7 @@
             }
           },
           {
-            "name": "dimension",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2444,16 +2444,6 @@
             "constraints": {
               "enum": [
                 "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
                 ""
               ]
             }

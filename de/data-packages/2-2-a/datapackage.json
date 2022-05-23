@@ -27,17 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zeitreihe",
-                ""
-              ]
-            },
-            "title": "Anzeigen"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

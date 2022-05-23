@@ -27,7 +27,7 @@
             "title": "Units"
           },
           {
-            "name": "dimension",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [

@@ -586,7 +586,7 @@
             "title": "Units"
           },
           {
-            "name": "dimension",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2626,17 +2626,6 @@
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Time series",
-                ""
-              ]
-            },
-            "title": "Display"
           },
           {
             "name": "Value",

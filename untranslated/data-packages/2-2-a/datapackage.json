@@ -25,16 +25,6 @@
             }
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

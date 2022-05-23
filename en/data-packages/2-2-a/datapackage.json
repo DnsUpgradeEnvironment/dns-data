@@ -27,17 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Time series",
-                ""
-              ]
-            },
-            "title": "Display"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
