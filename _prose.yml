@@ -453,6 +453,11 @@ prose:
             element: text
             label: "Graph Title"
             scope: graph
+      - name: "graph_subtitle"
+        field:
+            element: text
+            label: "Graph Subtitle"
+            scope: graph
       - name: "stackedBar"
         field:
             element: text
