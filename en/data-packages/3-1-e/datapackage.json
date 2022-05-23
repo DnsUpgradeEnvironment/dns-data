@@ -27,13 +27,12 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "Overweight without obese",
                 "Obese",
-                "Total",
                 ""
               ]
             },

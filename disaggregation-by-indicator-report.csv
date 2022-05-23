@@ -30,7 +30,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-b,"Bundesland, timeseries",2
 #3-1-ab,"Bundesland, display, sex",3
 #3-1-cd,"Bundesland, display, age",3
-#3-1-e,"sex, age",2
+#3-1-e,"timeseries, sex, age",3
 #3-1-f,"Bundesland, sex, age",3
 #3-2-a,"display, air pollutants",2
 #3-2-b,display,1

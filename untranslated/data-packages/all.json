@@ -572,13 +572,12 @@
             }
           },
           {
-            "name": "Series",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
                 "a) overweight",
                 "b) obese",
-                "c) total",
                 ""
               ]
             }
