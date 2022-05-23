@@ -1,4 +1,4 @@
-Year,Units,timeseries,Region,GeoCode,Value
+Year,Units,Time series,Region,GeoCode,Value
 1999,Percentage,Data from Destatis,Germany,,2.85
 2001,Percentage,Data from Destatis,Germany,,3.57
 2003,Percentage,Data from Destatis,Germany,,4.3
