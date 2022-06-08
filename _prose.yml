@@ -1,4 +1,4 @@
-weather_active# Prose configuration
+# Prose configuration
 prose:
   #ignore: ['/scripts']
   metadata:
