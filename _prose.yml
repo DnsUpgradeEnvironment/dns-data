@@ -145,6 +145,12 @@ prose:
             element: text
             label: Indicator
             scope: weather_1
+      - name: weather_indicator_1_target
+        field:
+            element: text
+            label: Target of indicator
+            scope: weather_1
+
       - name: "weather_indicator_1_year_a"
         field:
             element: text
@@ -227,12 +233,6 @@ prose:
             scope: weather_1
 
       # Target 1
-      - name: weather_indicator_1_target
-        field:
-            element: text
-            label: Target of indicator
-            scope: weather_1
-
       - name: weather_indicator_1_target_1
         field:
             element: text
