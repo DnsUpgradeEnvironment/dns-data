@@ -237,165 +237,86 @@ prose:
             element: text
             label: Target of indicator
             scope: weather_1
-      - name: "weather_indicator_1_old_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_old_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_old_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_old_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_old_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_old_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_old_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_old_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_old_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_old_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_old_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_old_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_old_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_old_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_old_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_old_item_h"
         field:
             element: text
             label: "Status year H"
             scope: weather_1
+
       - name: weather_indicator_1_target_old
         field:
             element: text
             label: Target of indicator
-            scope: weather_1
-      - name: "weather_indicator_1_new_year_a"
-        field:
-            element: text
-            label: "Year A"
             scope: weather_1
       - name: "weather_indicator_1_new_item_a"
         field:
             element: text
             label: "Status year A"
             scope: weather_1
-      - name: "weather_indicator_1_new_year_b"
-        field:
-            element: text
-            label: "Year B"
-            scope: weather_1
       - name: "weather_indicator_1_new_item_b"
         field:
             element: text
             label: "Status year B"
-            scope: weather_1
-      - name: "weather_indicator_1_new_year_c"
-        field:
-            element: text
-            label: "Year C"
             scope: weather_1
       - name: "weather_indicator_1_new_item_c"
         field:
             element: text
             label: "Status year C"
             scope: weather_1
-      - name: "weather_indicator_1_new_year_d"
-        field:
-            element: text
-            label: "Year D"
-            scope: weather_1
       - name: "weather_indicator_1_new_item_d"
         field:
             element: text
             label: "Status year D"
-            scope: weather_1
-      - name: "weather_indicator_1_new_year_e"
-        field:
-            element: text
-            label: "Year E"
             scope: weather_1
       - name: "weather_indicator_1_new_item_e"
         field:
             element: text
             label: "Status year E"
             scope: weather_1
-      - name: "weather_indicator_1_new_year_f"
-        field:
-            element: text
-            label: "Year F"
-            scope: weather_1
       - name: "weather_indicator_1_new_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_new_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_new_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_new_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_new_item_h"
         field:
@@ -415,87 +336,46 @@ prose:
             label: Target year of indicator
             scope: weather_1
 
-      - name: "weather_indicator_1_target_1_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_1_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_1_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_1_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_1_item_h"
         field:
             element: text
             label: "Status year H"
             scope: weather_1
-
 
       # Target 1 old
       - name: weather_indicator_1_target_1_old
@@ -508,80 +388,40 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_old_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_1_old_item_h"
         field:
@@ -600,80 +440,40 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_1_new_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_1_new_item_h"
         field:
@@ -693,80 +493,40 @@ prose:
             label: Target year of indicator
             scope: weather_1
 
-      - name: "weather_indicator_1_target_2_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_2_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_2_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_2_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_2_item_h"
         field:
@@ -786,80 +546,40 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_old_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_2_old_item_h"
         field:
@@ -878,40 +598,20 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_2_new_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_new_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_new_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_2_new_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_new_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_new_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_new_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_2_new_item_d"
         field:
@@ -928,30 +628,15 @@ prose:
             element: text
             label: "Status year E"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_new_year_f"
-        field:
-            element: text
-            label: "Year F"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_new_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_2_new_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_2_new_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_2_new_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_2_new_item_h"
         field:
@@ -971,80 +656,40 @@ prose:
             label: Target year of indicator
             scope: weather_1
 
-      - name: "weather_indicator_1_target_3_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_3_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_3_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_3_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_3_item_h"
         field:
@@ -1064,80 +709,40 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_old_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_3_old_item_h"
         field:
@@ -1156,80 +761,35 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_new_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_3_new_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_new_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_3_new_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_new_item_e"
         field:
             element: text
             label: "Status year E"
             scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_f"
-        field:
-            element: text
-            label: "Year F"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_new_item_f"
-        field:
-            element: text
-            label: "Status year F"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_3_new_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_3_new_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_3_new_item_h"
         field:
@@ -1249,87 +809,46 @@ prose:
             label: Target year of indicator
             scope: weather_1
 
-      - name: "weather_indicator_1_target_4_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_4_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_4_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_4_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_4_item_h"
         field:
             element: text
             label: "Status year H"
             scope: weather_1
-
 
       # Target 4 old
       - name: weather_indicator_1_target_4_old
@@ -1342,80 +861,40 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_b"
         field:
             element: text
             label: "Status year B"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_c"
-        field:
-            element: text
-            label: "Year C"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_c"
         field:
             element: text
             label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_d"
-        field:
-            element: text
-            label: "Year D"
             scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_d"
         field:
             element: text
             label: "Status year D"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_e"
-        field:
-            element: text
-            label: "Year E"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_e"
         field:
             element: text
             label: "Status year E"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_f"
-        field:
-            element: text
-            label: "Year F"
             scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_old_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_4_old_item_h"
         field:
@@ -1434,20 +913,10 @@ prose:
             element: text
             label: Old target year of indicator
             scope: weather_1
-      - name: "weather_indicator_1_target_4_new_year_a"
-        field:
-            element: text
-            label: "Year A"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_new_item_a"
         field:
             element: text
             label: "Status year A"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_new_year_b"
-        field:
-            element: text
-            label: "Year B"
             scope: weather_1
       - name: "weather_indicator_1_target_4_new_item_b"
         field:
@@ -1459,55 +928,25 @@ prose:
             element: text
             label: "Year C"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_new_item_c"
-        field:
-            element: text
-            label: "Status year C"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_new_year_d"
-        field:
-            element: text
-            label: "Year D"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_new_item_d"
         field:
             element: text
             label: "Status year D"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_new_year_e"
-        field:
-            element: text
-            label: "Year E"
             scope: weather_1
       - name: "weather_indicator_1_target_4_new_item_e"
         field:
             element: text
             label: "Status year E"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_new_year_f"
-        field:
-            element: text
-            label: "Year F"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_new_item_f"
         field:
             element: text
             label: "Status year F"
             scope: weather_1
-      - name: "weather_indicator_1_target_4_new_year_g"
-        field:
-            element: text
-            label: "Year G"
-            scope: weather_1
       - name: "weather_indicator_1_target_4_new_item_g"
         field:
             element: text
             label: "Status year G"
-            scope: weather_1
-      - name: "weather_indicator_1_target_4_new_year_h"
-        field:
-            element: text
-            label: "Year H"
             scope: weather_1
       - name: "weather_indicator_1_target_4_new_item_h"
         field:
