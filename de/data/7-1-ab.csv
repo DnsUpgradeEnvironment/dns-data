@@ -12,6 +12,7 @@ Year,Units,Series,Value
 2018,2008 = 100,Endenergieproduktivität,116.3
 2019,2008 = 100,Endenergieproduktivität,116.9
 2020,2008 = 100,Endenergieproduktivität,120.0
+2050,2008 = 100,Endenergieproduktivität,
 2008,2008 = 100,Primärenergieverbrauch,100.0
 2009,2008 = 100,Primärenergieverbrauch,94.1
 2010,2008 = 100,Primärenergieverbrauch,98.9
@@ -26,3 +27,5 @@ Year,Units,Series,Value
 2019,2008 = 100,Primärenergieverbrauch,89.0
 2020,2008 = 100,Primärenergieverbrauch,82.7
 2021,2008 = 100,Primärenergieverbrauch,84.8
+2030,2008 = 100,Primärenergieverbrauch,
+2050,2008 = 100,Primärenergieverbrauch,
