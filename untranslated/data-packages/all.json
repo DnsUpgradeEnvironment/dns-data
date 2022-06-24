@@ -3584,7 +3584,7 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [

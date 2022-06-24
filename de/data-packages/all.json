@@ -3825,7 +3825,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3834,7 +3834,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Units"
           },
           {
             "name": "Bundesland",
