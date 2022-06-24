@@ -16,27 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "Endenergieproduktivität",
+                "Primärenergieverbrauch",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zeitreihe",
-                "Ziel",
-                ""
-              ]
-            },
-            "title": "Anzeigen"
+            "title": "Zeitreihe"
           },
           {
             "name": "Bundesland",
@@ -55,11 +44,11 @@
                 "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
-                "Saarland",
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
                 "Thüringen",
+                "Saarland",
                 ""
               ]
             },

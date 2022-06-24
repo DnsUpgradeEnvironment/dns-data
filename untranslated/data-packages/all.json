@@ -3584,22 +3584,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
+                "a) final energy productivity",
+                "b) primary energy consumption",
                 ""
               ]
             }
@@ -3621,11 +3611,11 @@
                 "ni",
                 "nw",
                 "rp",
-                "sl",
                 "sn",
                 "st",
                 "sh",
                 "th",
+                "sl",
                 ""
               ]
             }
@@ -4413,6 +4403,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2008 = 100",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -4422,36 +4422,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                "sl",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",

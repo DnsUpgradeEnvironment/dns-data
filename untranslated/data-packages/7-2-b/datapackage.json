@@ -15,22 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
+                "a) final energy productivity",
+                "b) primary energy consumption",
                 ""
               ]
             }
@@ -52,11 +42,11 @@
                 "ni",
                 "nw",
                 "rp",
-                "sl",
                 "sn",
                 "st",
                 "sh",
                 "th",
+                "sl",
                 ""
               ]
             }

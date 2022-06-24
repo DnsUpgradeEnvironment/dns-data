@@ -16,27 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Final energy productivity",
+                "Primary energy consumption",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Time series",
-                "Target",
-                ""
-              ]
-            },
-            "title": "Display"
+            "title": "Time series"
           },
           {
             "name": "Bundesland",
@@ -55,11 +44,11 @@
                 "Lower Saxony",
                 "North Rhine-Westphalia",
                 "Rhineland Palatinate",
-                "Saarland",
                 "Saxony",
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
                 "Thuringia",
+                "Saarland",
                 ""
               ]
             },
