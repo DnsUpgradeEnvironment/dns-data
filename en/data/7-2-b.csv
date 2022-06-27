@@ -1,382 +1,382 @@
-Year,Series,Region,GeoCode,Value
-2008,Final energy productivity,,,100.0
-2009,Final energy productivity,,,99.7
-2010,Final energy productivity,,,96.7
-2011,Final energy productivity,,,105.3
-2012,Final energy productivity,,,105.3
-2013,Final energy productivity,,,102.8
-2014,Final energy productivity,,,110.8
-2015,Final energy productivity,,,110.0
-2016,Final energy productivity,,,110.3
-2017,Final energy productivity,,,111.7
-2018,Final energy productivity,,,116.3
-2019,Final energy productivity,,,116.9
-2020,Final energy productivity,,,120.0
-2008,Final energy productivity,Baden-Wuerttemberg,code08,100.0
-2009,Final energy productivity,Baden-Wuerttemberg,code08,95.6
-2010,Final energy productivity,Baden-Wuerttemberg,code08,100.4
-2011,Final energy productivity,Baden-Wuerttemberg,code08,109.6
-2012,Final energy productivity,Baden-Wuerttemberg,code08,111.9
-2013,Final energy productivity,Baden-Wuerttemberg,code08,107.7
-2014,Final energy productivity,Baden-Wuerttemberg,code08,117.2
-2015,Final energy productivity,Baden-Wuerttemberg,code08,116.7
-2016,Final energy productivity,Baden-Wuerttemberg,code08,115.3
-2017,Final energy productivity,Baden-Wuerttemberg,code08,125.2
-2018,Final energy productivity,Baden-Wuerttemberg,code08,123.6
-2019,Final energy productivity,Baden-Wuerttemberg,code08,109.7
-2008,Final energy productivity,Bavaria,code09,100.0
-2009,Final energy productivity,Bavaria,code09,98.7
-2010,Final energy productivity,Bavaria,code09,96.3
-2011,Final energy productivity,Bavaria,code09,103.2
-2012,Final energy productivity,Bavaria,code09,104.6
-2013,Final energy productivity,Bavaria,code09,105.0
-2014,Final energy productivity,Bavaria,code09,112.9
-2015,Final energy productivity,Bavaria,code09,112.1
-2016,Final energy productivity,Bavaria,code09,111.3
-2017,Final energy productivity,Bavaria,code09,115.7
-2018,Final energy productivity,Bavaria,code09,117.9
-2008,Final energy productivity,Berlin,code11,100.0
-2009,Final energy productivity,Berlin,code11,98.3
-2010,Final energy productivity,Berlin,code11,93.1
-2011,Final energy productivity,Berlin,code11,108.6
-2012,Final energy productivity,Berlin,code11,107.4
-2013,Final energy productivity,Berlin,code11,104.1
-2014,Final energy productivity,Berlin,code11,115.5
-2015,Final energy productivity,Berlin,code11,122.1
-2016,Final energy productivity,Berlin,code11,124.5
-2017,Final energy productivity,Berlin,code11,131.4
-2018,Final energy productivity,Berlin,code11,145.9
-2008,Final energy productivity,Brandenburg,code12,100.0
-2009,Final energy productivity,Brandenburg,code12,101.2
-2010,Final energy productivity,Brandenburg,code12,97.5
-2011,Final energy productivity,Brandenburg,code12,99.4
-2012,Final energy productivity,Brandenburg,code12,100.1
-2013,Final energy productivity,Brandenburg,code12,96.4
-2014,Final energy productivity,Brandenburg,code12,103.7
-2015,Final energy productivity,Brandenburg,code12,106.5
-2016,Final energy productivity,Brandenburg,code12,103.6
-2017,Final energy productivity,Brandenburg,code12,101.5
-2018,Final energy productivity,Brandenburg,code12,105.2
-2008,Final energy productivity,Bremen,code04,100.0
-2009,Final energy productivity,Bremen,code04,97.4
-2010,Final energy productivity,Bremen,code04,91.4
-2011,Final energy productivity,Bremen,code04,95.9
-2012,Final energy productivity,Bremen,code04,100.3
-2013,Final energy productivity,Bremen,code04,99.9
-2014,Final energy productivity,Bremen,code04,95.3
-2015,Final energy productivity,Bremen,code04,97.4
-2016,Final energy productivity,Bremen,code04,98.5
-2017,Final energy productivity,Bremen,code04,107.0
-2018,Final energy productivity,Bremen,code04,115.1
-2019,Final energy productivity,Bremen,code04,113.4
-2008,Final energy productivity,Hamburg,code02,100.0
-2009,Final energy productivity,Hamburg,code02,97.6
-2010,Final energy productivity,Hamburg,code02,94.2
-2011,Final energy productivity,Hamburg,code02,100.9
-2012,Final energy productivity,Hamburg,code02,99.3
-2013,Final energy productivity,Hamburg,code02,103.8
-2014,Final energy productivity,Hamburg,code02,109.6
-2015,Final energy productivity,Hamburg,code02,108.8
-2016,Final energy productivity,Hamburg,code02,110.7
-2017,Final energy productivity,Hamburg,code02,115.0
-2018,Final energy productivity,Hamburg,code02,116.1
-2019,Final energy productivity,Hamburg,code02,112.8
-2008,Final energy productivity,Hesse,code06,100.0
-2009,Final energy productivity,Hesse,code06,97.6
-2010,Final energy productivity,Hesse,code06,98.4
-2011,Final energy productivity,Hesse,code06,106.6
-2012,Final energy productivity,Hesse,code06,104.5
-2013,Final energy productivity,Hesse,code06,102.6
-2014,Final energy productivity,Hesse,code06,106.3
-2015,Final energy productivity,Hesse,code06,104.6
-2016,Final energy productivity,Hesse,code06,104.9
-2017,Final energy productivity,Hesse,code06,110.4
-2018,Final energy productivity,Hesse,code06,111.6
-2019,Final energy productivity,Hesse,code06,102.7
-2008,Final energy productivity,Mecklenburg Western Pomerania,code13,100.0
-2009,Final energy productivity,Mecklenburg Western Pomerania,code13,99.9
-2010,Final energy productivity,Mecklenburg Western Pomerania,code13,94.6
-2011,Final energy productivity,Mecklenburg Western Pomerania,code13,104.5
-2012,Final energy productivity,Mecklenburg Western Pomerania,code13,100.7
-2013,Final energy productivity,Mecklenburg Western Pomerania,code13,98.5
-2014,Final energy productivity,Mecklenburg Western Pomerania,code13,104.5
-2015,Final energy productivity,Mecklenburg Western Pomerania,code13,104.8
-2016,Final energy productivity,Mecklenburg Western Pomerania,code13,111.4
-2008,Final energy productivity,Lower Saxony,code03,100.0
-2009,Final energy productivity,Lower Saxony,code03,99.0
-2010,Final energy productivity,Lower Saxony,code03,97.7
-2011,Final energy productivity,Lower Saxony,code03,108.1
-2012,Final energy productivity,Lower Saxony,code03,111.9
-2013,Final energy productivity,Lower Saxony,code03,109.0
-2014,Final energy productivity,Lower Saxony,code03,114.8
-2015,Final energy productivity,Lower Saxony,code03,114.9
-2016,Final energy productivity,Lower Saxony,code03,120.1
-2017,Final energy productivity,Lower Saxony,code03,119.9
-2018,Final energy productivity,Lower Saxony,code03,122.3
-2019,Final energy productivity,Lower Saxony,code03,111.4
-2008,Final energy productivity,North Rhine-Westphalia,code05,100.0
-2009,Final energy productivity,North Rhine-Westphalia,code05,106.8
-2010,Final energy productivity,North Rhine-Westphalia,code05,102.1
-2011,Final energy productivity,North Rhine-Westphalia,code05,111.6
-2012,Final energy productivity,North Rhine-Westphalia,code05,112.4
-2013,Final energy productivity,North Rhine-Westphalia,code05,111.9
-2014,Final energy productivity,North Rhine-Westphalia,code05,117.2
-2015,Final energy productivity,North Rhine-Westphalia,code05,118.9
-2016,Final energy productivity,North Rhine-Westphalia,code05,110.8
-2017,Final energy productivity,North Rhine-Westphalia,code05,121.2
-2018,Final energy productivity,North Rhine-Westphalia,code05,107.7
-2019,Final energy productivity,North Rhine-Westphalia,code05,0.0
-2008,Final energy productivity,Rhineland Palatinate,code07,100.0
-2009,Final energy productivity,Rhineland Palatinate,code07,99.4
-2010,Final energy productivity,Rhineland Palatinate,code07,100.0
-2011,Final energy productivity,Rhineland Palatinate,code07,110.2
-2012,Final energy productivity,Rhineland Palatinate,code07,112.8
-2013,Final energy productivity,Rhineland Palatinate,code07,109.3
-2014,Final energy productivity,Rhineland Palatinate,code07,114.5
-2015,Final energy productivity,Rhineland Palatinate,code07,115.4
-2016,Final energy productivity,Rhineland Palatinate,code07,114.1
-2017,Final energy productivity,Rhineland Palatinate,code07,115.5
-2018,Final energy productivity,Rhineland Palatinate,code07,113.1
-2019,Final energy productivity,Rhineland Palatinate,code07,101.6
-2008,Final energy productivity,Saxony,code14,100.0
-2009,Final energy productivity,Saxony,code14,97.3
-2010,Final energy productivity,Saxony,code14,94.8
-2011,Final energy productivity,Saxony,code14,105.3
-2012,Final energy productivity,Saxony,code14,101.0
-2013,Final energy productivity,Saxony,code14,99.1
-2014,Final energy productivity,Saxony,code14,107.8
-2015,Final energy productivity,Saxony,code14,108.0
-2016,Final energy productivity,Saxony,code14,106.5
-2017,Final energy productivity,Saxony,code14,108.9
-2018,Final energy productivity,Saxony,code14,115.5
-2019,Final energy productivity,Saxony,code14,0.0
-2008,Final energy productivity,Saxony-Anhalt,code15,100.0
-2009,Final energy productivity,Saxony-Anhalt,code15,95.9
-2010,Final energy productivity,Saxony-Anhalt,code15,92.2
-2011,Final energy productivity,Saxony-Anhalt,code15,95.7
-2012,Final energy productivity,Saxony-Anhalt,code15,94.7
-2013,Final energy productivity,Saxony-Anhalt,code15,94.4
-2014,Final energy productivity,Saxony-Anhalt,code15,99.4
-2015,Final energy productivity,Saxony-Anhalt,code15,100.0
-2016,Final energy productivity,Saxony-Anhalt,code15,98.6
-2017,Final energy productivity,Saxony-Anhalt,code15,102.6
-2018,Final energy productivity,Saxony-Anhalt,code15,104.2
-2019,Final energy productivity,Saxony-Anhalt,code15,106.4
-2008,Final energy productivity,Schleswig-Holstein,code01,100.0
-2009,Final energy productivity,Schleswig-Holstein,code01,99.6
-2010,Final energy productivity,Schleswig-Holstein,code01,95.5
-2011,Final energy productivity,Schleswig-Holstein,code01,103.0
-2012,Final energy productivity,Schleswig-Holstein,code01,104.7
-2013,Final energy productivity,Schleswig-Holstein,code01,100.9
-2014,Final energy productivity,Schleswig-Holstein,code01,109.0
-2015,Final energy productivity,Schleswig-Holstein,code01,108.4
-2016,Final energy productivity,Schleswig-Holstein,code01,110.1
-2017,Final energy productivity,Schleswig-Holstein,code01,111.3
-2018,Final energy productivity,Schleswig-Holstein,code01,115.4
-2019,Final energy productivity,Schleswig-Holstein,code01,110.4
-2008,Final energy productivity,Thuringia,code16,100.0
-2009,Final energy productivity,Thuringia,code16,100.4
-2010,Final energy productivity,Thuringia,code16,98.9
-2011,Final energy productivity,Thuringia,code16,109.8
-2012,Final energy productivity,Thuringia,code16,108.2
-2013,Final energy productivity,Thuringia,code16,107.0
-2014,Final energy productivity,Thuringia,code16,117.5
-2015,Final energy productivity,Thuringia,code16,116.3
-2016,Final energy productivity,Thuringia,code16,114.3
-2017,Final energy productivity,Thuringia,code16,116.9
-2018,Final energy productivity,Thuringia,code16,120.1
-2008,Primary energy consumption,,,100.0
-2009,Primary energy consumption,,,94.1
-2010,Primary energy consumption,,,98.9
-2011,Primary energy consumption,,,94.6
-2012,Primary energy consumption,,,93.5
-2013,Primary energy consumption,,,96.1
-2014,Primary energy consumption,,,91.7
-2015,Primary energy consumption,,,92.2
-2016,Primary energy consumption,,,93.8
-2017,Primary energy consumption,,,94.0
-2018,Primary energy consumption,,,91.3
-2019,Primary energy consumption,,,89.0
-2020,Primary energy consumption,,,82.7
-2021,Primary energy consumption,,,84.8
-2008,Primary energy consumption,Baden-Wuerttemberg,code08,100.0
-2009,Primary energy consumption,Baden-Wuerttemberg,code08,95.1
-2010,Primary energy consumption,Baden-Wuerttemberg,code08,95.2
-2011,Primary energy consumption,Baden-Wuerttemberg,code08,88.3
-2012,Primary energy consumption,Baden-Wuerttemberg,code08,85.7
-2013,Primary energy consumption,Baden-Wuerttemberg,code08,88.9
-2014,Primary energy consumption,Baden-Wuerttemberg,code08,85.4
-2015,Primary energy consumption,Baden-Wuerttemberg,code08,87.2
-2016,Primary energy consumption,Baden-Wuerttemberg,code08,89.3
-2017,Primary energy consumption,Baden-Wuerttemberg,code08,92.3
-2018,Primary energy consumption,Baden-Wuerttemberg,code08,90.9
-2019,Primary energy consumption,Baden-Wuerttemberg,code08,98.1
-2008,Primary energy consumption,Bavaria,code09,100.0
-2009,Primary energy consumption,Bavaria,code09,98.3
-2010,Primary energy consumption,Bavaria,code09,102.0
-2011,Primary energy consumption,Bavaria,code09,99.9
-2012,Primary energy consumption,Bavaria,code09,97.6
-2013,Primary energy consumption,Bavaria,code09,98.2
-2014,Primary energy consumption,Bavaria,code09,94.7
-2015,Primary energy consumption,Bavaria,code09,94.8
-2016,Primary energy consumption,Bavaria,code09,95.0
-2017,Primary energy consumption,Bavaria,code09,97.1
-2018,Primary energy consumption,Bavaria,code09,88.0
-2008,Primary energy consumption,Berlin,code11,100.0
-2009,Primary energy consumption,Berlin,code11,98.7
-2010,Primary energy consumption,Berlin,code11,107.7
-2011,Primary energy consumption,Berlin,code11,96.2
-2012,Primary energy consumption,Berlin,code11,97.4
-2013,Primary energy consumption,Berlin,code11,100.9
-2014,Primary energy consumption,Berlin,code11,94.4
-2015,Primary energy consumption,Berlin,code11,91.9
-2016,Primary energy consumption,Berlin,code11,94.5
-2017,Primary energy consumption,Berlin,code11,95.2
-2018,Primary energy consumption,Berlin,code11,86.1
-2008,Primary energy consumption,Brandenburg,code12,100.0
-2009,Primary energy consumption,Brandenburg,code12,96.3
-2010,Primary energy consumption,Brandenburg,code12,101.4
-2011,Primary energy consumption,Brandenburg,code12,104.9
-2012,Primary energy consumption,Brandenburg,code12,104.2
-2013,Primary energy consumption,Brandenburg,code12,102.7
-2014,Primary energy consumption,Brandenburg,code12,101.5
-2015,Primary energy consumption,Brandenburg,code12,102.2
-2016,Primary energy consumption,Brandenburg,code12,102.8
-2017,Primary energy consumption,Brandenburg,code12,108.6
-2018,Primary energy consumption,Brandenburg,code12,106.6
-2008,Primary energy consumption,Bremen,code04,100.0
-2009,Primary energy consumption,Bremen,code04,96.2
-2010,Primary energy consumption,Bremen,code04,105.8
-2011,Primary energy consumption,Bremen,code04,100.2
-2012,Primary energy consumption,Bremen,code04,100.1
-2013,Primary energy consumption,Bremen,code04,99.2
-2014,Primary energy consumption,Bremen,code04,101.2
-2015,Primary energy consumption,Bremen,code04,99.7
-2016,Primary energy consumption,Bremen,code04,100.2
-2017,Primary energy consumption,Bremen,code04,105.9
-2018,Primary energy consumption,Bremen,code04,90.9
-2019,Primary energy consumption,Bremen,code04,90.1
-2008,Primary energy consumption,Hamburg,code02,100.0
-2009,Primary energy consumption,Hamburg,code02,98.7
-2010,Primary energy consumption,Hamburg,code02,106.2
-2011,Primary energy consumption,Hamburg,code02,99.5
-2012,Primary energy consumption,Hamburg,code02,100.0
-2013,Primary energy consumption,Hamburg,code02,99.2
-2014,Primary energy consumption,Hamburg,code02,99.9
-2015,Primary energy consumption,Hamburg,code02,107.1
-2016,Primary energy consumption,Hamburg,code02,110.2
-2017,Primary energy consumption,Hamburg,code02,113.0
-2018,Primary energy consumption,Hamburg,code02,109.0
-2019,Primary energy consumption,Hamburg,code02,111.2
-2008,Primary energy consumption,Hesse,code06,100.0
-2009,Primary energy consumption,Hesse,code06,83.7
-2010,Primary energy consumption,Hesse,code06,95.2
-2011,Primary energy consumption,Hesse,code06,83.5
-2012,Primary energy consumption,Hesse,code06,80.8
-2013,Primary energy consumption,Hesse,code06,81.4
-2014,Primary energy consumption,Hesse,code06,80.3
-2015,Primary energy consumption,Hesse,code06,81.5
-2016,Primary energy consumption,Hesse,code06,83.5
-2017,Primary energy consumption,Hesse,code06,99.1
-2018,Primary energy consumption,Hesse,code06,85.8
-2019,Primary energy consumption,Hesse,code06,99.0
-2008,Primary energy consumption,Mecklenburg Western Pomerania,code13,100.0
-2009,Primary energy consumption,Mecklenburg Western Pomerania,code13,95.1
-2010,Primary energy consumption,Mecklenburg Western Pomerania,code13,101.9
-2011,Primary energy consumption,Mecklenburg Western Pomerania,code13,98.3
-2012,Primary energy consumption,Mecklenburg Western Pomerania,code13,103.9
-2013,Primary energy consumption,Mecklenburg Western Pomerania,code13,104.6
-2014,Primary energy consumption,Mecklenburg Western Pomerania,code13,104.2
-2015,Primary energy consumption,Mecklenburg Western Pomerania,code13,102.1
-2016,Primary energy consumption,Mecklenburg Western Pomerania,code13,106.1
-2017,Primary energy consumption,Mecklenburg Western Pomerania,code13,98.0
-2018,Primary energy consumption,Mecklenburg Western Pomerania,code13,89.3
-2008,Primary energy consumption,Lower Saxony,code03,100.0
-2009,Primary energy consumption,Lower Saxony,code03,97.7
-2010,Primary energy consumption,Lower Saxony,code03,100.8
-2011,Primary energy consumption,Lower Saxony,code03,91.8
-2012,Primary energy consumption,Lower Saxony,code03,90.6
-2013,Primary energy consumption,Lower Saxony,code03,91.0
-2014,Primary energy consumption,Lower Saxony,code03,90.2
-2015,Primary energy consumption,Lower Saxony,code03,89.5
-2016,Primary energy consumption,Lower Saxony,code03,89.5
-2017,Primary energy consumption,Lower Saxony,code03,92.2
-2018,Primary energy consumption,Lower Saxony,code03,91.1
-2019,Primary energy consumption,Lower Saxony,code03,98.3
-2008,Primary energy consumption,North Rhine-Westphalia,code05,100.0
-2009,Primary energy consumption,North Rhine-Westphalia,code05,100.7
-2010,Primary energy consumption,North Rhine-Westphalia,code05,105.7
-2011,Primary energy consumption,North Rhine-Westphalia,code05,101.9
-2012,Primary energy consumption,North Rhine-Westphalia,code05,100.6
-2013,Primary energy consumption,North Rhine-Westphalia,code05,100.5
-2014,Primary energy consumption,North Rhine-Westphalia,code05,102.5
-2015,Primary energy consumption,North Rhine-Westphalia,code05,101.6
-2016,Primary energy consumption,North Rhine-Westphalia,code05,96.7
-2017,Primary energy consumption,North Rhine-Westphalia,code05,94.3
-2018,Primary energy consumption,North Rhine-Westphalia,code05,84.5
-2008,Primary energy consumption,Rhineland Palatinate,code07,100.0
-2009,Primary energy consumption,Rhineland Palatinate,code07,92.7
-2010,Primary energy consumption,Rhineland Palatinate,code07,100.1
-2011,Primary energy consumption,Rhineland Palatinate,code07,94.5
-2012,Primary energy consumption,Rhineland Palatinate,code07,94.3
-2013,Primary energy consumption,Rhineland Palatinate,code07,97.8
-2014,Primary energy consumption,Rhineland Palatinate,code07,92.6
-2015,Primary energy consumption,Rhineland Palatinate,code07,95.1
-2016,Primary energy consumption,Rhineland Palatinate,code07,96.3
-2017,Primary energy consumption,Rhineland Palatinate,code07,106.0
-2018,Primary energy consumption,Rhineland Palatinate,code07,95.6
-2019,Primary energy consumption,Rhineland Palatinate,code07,101.8
-2008,Primary energy consumption,Saarland,code10,100.0
-2009,Primary energy consumption,Saarland,code10,82.9
-2010,Primary energy consumption,Saarland,code10,87.4
-2011,Primary energy consumption,Saarland,code10,91.7
-2012,Primary energy consumption,Saarland,code10,94.8
-2013,Primary energy consumption,Saarland,code10,99.3
-2014,Primary energy consumption,Saarland,code10,90.8
-2015,Primary energy consumption,Saarland,code10,87.7
-2008,Primary energy consumption,Saxony,code14,100.0
-2009,Primary energy consumption,Saxony,code14,99.5
-2010,Primary energy consumption,Saxony,code14,101.2
-2011,Primary energy consumption,Saxony,code14,96.7
-2012,Primary energy consumption,Saxony,code14,98.4
-2013,Primary energy consumption,Saxony,code14,101.5
-2014,Primary energy consumption,Saxony,code14,99.4
-2015,Primary energy consumption,Saxony,code14,97.7
-2016,Primary energy consumption,Saxony,code14,100.5
-2017,Primary energy consumption,Saxony,code14,104.3
-2018,Primary energy consumption,Saxony,code14,101.9
-2008,Primary energy consumption,Saxony-Anhalt,code15,100.0
-2009,Primary energy consumption,Saxony-Anhalt,code15,99.1
-2010,Primary energy consumption,Saxony-Anhalt,code15,104.3
-2011,Primary energy consumption,Saxony-Anhalt,code15,102.3
-2012,Primary energy consumption,Saxony-Anhalt,code15,102.8
-2013,Primary energy consumption,Saxony-Anhalt,code15,97.0
-2014,Primary energy consumption,Saxony-Anhalt,code15,97.0
-2015,Primary energy consumption,Saxony-Anhalt,code15,100.2
-2016,Primary energy consumption,Saxony-Anhalt,code15,103.2
-2017,Primary energy consumption,Saxony-Anhalt,code15,100.3
-2018,Primary energy consumption,Saxony-Anhalt,code15,103.8
-2019,Primary energy consumption,Saxony-Anhalt,code15,99.2
-2008,Primary energy consumption,Schleswig-Holstein,code01,100.0
-2009,Primary energy consumption,Schleswig-Holstein,code01,97.2
-2010,Primary energy consumption,Schleswig-Holstein,code01,102.1
-2011,Primary energy consumption,Schleswig-Holstein,code01,97.3
-2012,Primary energy consumption,Schleswig-Holstein,code01,96.8
-2013,Primary energy consumption,Schleswig-Holstein,code01,100.2
-2014,Primary energy consumption,Schleswig-Holstein,code01,96.7
-2015,Primary energy consumption,Schleswig-Holstein,code01,93.9
-2016,Primary energy consumption,Schleswig-Holstein,code01,95.9
-2017,Primary energy consumption,Schleswig-Holstein,code01,88.9
-2018,Primary energy consumption,Schleswig-Holstein,code01,95.5
-2019,Primary energy consumption,Schleswig-Holstein,code01,97.7
-2008,Primary energy consumption,Thuringia,code16,100.0
-2009,Primary energy consumption,Thuringia,code16,96.1
-2010,Primary energy consumption,Thuringia,code16,100.0
-2011,Primary energy consumption,Thuringia,code16,95.2
-2012,Primary energy consumption,Thuringia,code16,96.8
-2013,Primary energy consumption,Thuringia,code16,98.7
-2014,Primary energy consumption,Thuringia,code16,92.9
-2015,Primary energy consumption,Thuringia,code16,93.7
-2016,Primary energy consumption,Thuringia,code16,96.8
-2017,Primary energy consumption,Thuringia,code16,101.6
-2018,Primary energy consumption,Thuringia,code16,95.4
+Year,Units,Series,Region,GeoCode,Value
+2008,%,Final energy productivity,,,100.0
+2009,%,Final energy productivity,,,99.7
+2010,%,Final energy productivity,,,96.7
+2011,%,Final energy productivity,,,105.3
+2012,%,Final energy productivity,,,105.3
+2013,%,Final energy productivity,,,102.8
+2014,%,Final energy productivity,,,110.8
+2015,%,Final energy productivity,,,110.0
+2016,%,Final energy productivity,,,110.3
+2017,%,Final energy productivity,,,111.7
+2018,%,Final energy productivity,,,116.3
+2019,%,Final energy productivity,,,116.9
+2020,%,Final energy productivity,,,120.0
+2008,%,Final energy productivity,Baden-Wuerttemberg,code08,100.0
+2009,%,Final energy productivity,Baden-Wuerttemberg,code08,95.6
+2010,%,Final energy productivity,Baden-Wuerttemberg,code08,100.4
+2011,%,Final energy productivity,Baden-Wuerttemberg,code08,109.6
+2012,%,Final energy productivity,Baden-Wuerttemberg,code08,111.9
+2013,%,Final energy productivity,Baden-Wuerttemberg,code08,107.7
+2014,%,Final energy productivity,Baden-Wuerttemberg,code08,117.2
+2015,%,Final energy productivity,Baden-Wuerttemberg,code08,116.7
+2016,%,Final energy productivity,Baden-Wuerttemberg,code08,115.3
+2017,%,Final energy productivity,Baden-Wuerttemberg,code08,125.2
+2018,%,Final energy productivity,Baden-Wuerttemberg,code08,123.6
+2019,%,Final energy productivity,Baden-Wuerttemberg,code08,109.7
+2008,%,Final energy productivity,Bavaria,code09,100.0
+2009,%,Final energy productivity,Bavaria,code09,98.7
+2010,%,Final energy productivity,Bavaria,code09,96.3
+2011,%,Final energy productivity,Bavaria,code09,103.2
+2012,%,Final energy productivity,Bavaria,code09,104.6
+2013,%,Final energy productivity,Bavaria,code09,105.0
+2014,%,Final energy productivity,Bavaria,code09,112.9
+2015,%,Final energy productivity,Bavaria,code09,112.1
+2016,%,Final energy productivity,Bavaria,code09,111.3
+2017,%,Final energy productivity,Bavaria,code09,115.7
+2018,%,Final energy productivity,Bavaria,code09,117.9
+2008,%,Final energy productivity,Berlin,code11,100.0
+2009,%,Final energy productivity,Berlin,code11,98.3
+2010,%,Final energy productivity,Berlin,code11,93.1
+2011,%,Final energy productivity,Berlin,code11,108.6
+2012,%,Final energy productivity,Berlin,code11,107.4
+2013,%,Final energy productivity,Berlin,code11,104.1
+2014,%,Final energy productivity,Berlin,code11,115.5
+2015,%,Final energy productivity,Berlin,code11,122.1
+2016,%,Final energy productivity,Berlin,code11,124.5
+2017,%,Final energy productivity,Berlin,code11,131.4
+2018,%,Final energy productivity,Berlin,code11,145.9
+2008,%,Final energy productivity,Brandenburg,code12,100.0
+2009,%,Final energy productivity,Brandenburg,code12,101.2
+2010,%,Final energy productivity,Brandenburg,code12,97.5
+2011,%,Final energy productivity,Brandenburg,code12,99.4
+2012,%,Final energy productivity,Brandenburg,code12,100.1
+2013,%,Final energy productivity,Brandenburg,code12,96.4
+2014,%,Final energy productivity,Brandenburg,code12,103.7
+2015,%,Final energy productivity,Brandenburg,code12,106.5
+2016,%,Final energy productivity,Brandenburg,code12,103.6
+2017,%,Final energy productivity,Brandenburg,code12,101.5
+2018,%,Final energy productivity,Brandenburg,code12,105.2
+2008,%,Final energy productivity,Bremen,code04,100.0
+2009,%,Final energy productivity,Bremen,code04,97.4
+2010,%,Final energy productivity,Bremen,code04,91.4
+2011,%,Final energy productivity,Bremen,code04,95.9
+2012,%,Final energy productivity,Bremen,code04,100.3
+2013,%,Final energy productivity,Bremen,code04,99.9
+2014,%,Final energy productivity,Bremen,code04,95.3
+2015,%,Final energy productivity,Bremen,code04,97.4
+2016,%,Final energy productivity,Bremen,code04,98.5
+2017,%,Final energy productivity,Bremen,code04,107.0
+2018,%,Final energy productivity,Bremen,code04,115.1
+2019,%,Final energy productivity,Bremen,code04,113.4
+2008,%,Final energy productivity,Hamburg,code02,100.0
+2009,%,Final energy productivity,Hamburg,code02,97.6
+2010,%,Final energy productivity,Hamburg,code02,94.2
+2011,%,Final energy productivity,Hamburg,code02,100.9
+2012,%,Final energy productivity,Hamburg,code02,99.3
+2013,%,Final energy productivity,Hamburg,code02,103.8
+2014,%,Final energy productivity,Hamburg,code02,109.6
+2015,%,Final energy productivity,Hamburg,code02,108.8
+2016,%,Final energy productivity,Hamburg,code02,110.7
+2017,%,Final energy productivity,Hamburg,code02,115.0
+2018,%,Final energy productivity,Hamburg,code02,116.1
+2019,%,Final energy productivity,Hamburg,code02,112.8
+2008,%,Final energy productivity,Hesse,code06,100.0
+2009,%,Final energy productivity,Hesse,code06,97.6
+2010,%,Final energy productivity,Hesse,code06,98.4
+2011,%,Final energy productivity,Hesse,code06,106.6
+2012,%,Final energy productivity,Hesse,code06,104.5
+2013,%,Final energy productivity,Hesse,code06,102.6
+2014,%,Final energy productivity,Hesse,code06,106.3
+2015,%,Final energy productivity,Hesse,code06,104.6
+2016,%,Final energy productivity,Hesse,code06,104.9
+2017,%,Final energy productivity,Hesse,code06,110.4
+2018,%,Final energy productivity,Hesse,code06,111.6
+2019,%,Final energy productivity,Hesse,code06,102.7
+2008,%,Final energy productivity,Mecklenburg Western Pomerania,code13,100.0
+2009,%,Final energy productivity,Mecklenburg Western Pomerania,code13,99.9
+2010,%,Final energy productivity,Mecklenburg Western Pomerania,code13,94.6
+2011,%,Final energy productivity,Mecklenburg Western Pomerania,code13,104.5
+2012,%,Final energy productivity,Mecklenburg Western Pomerania,code13,100.7
+2013,%,Final energy productivity,Mecklenburg Western Pomerania,code13,98.5
+2014,%,Final energy productivity,Mecklenburg Western Pomerania,code13,104.5
+2015,%,Final energy productivity,Mecklenburg Western Pomerania,code13,104.8
+2016,%,Final energy productivity,Mecklenburg Western Pomerania,code13,111.4
+2008,%,Final energy productivity,Lower Saxony,code03,100.0
+2009,%,Final energy productivity,Lower Saxony,code03,99.0
+2010,%,Final energy productivity,Lower Saxony,code03,97.7
+2011,%,Final energy productivity,Lower Saxony,code03,108.1
+2012,%,Final energy productivity,Lower Saxony,code03,111.9
+2013,%,Final energy productivity,Lower Saxony,code03,109.0
+2014,%,Final energy productivity,Lower Saxony,code03,114.8
+2015,%,Final energy productivity,Lower Saxony,code03,114.9
+2016,%,Final energy productivity,Lower Saxony,code03,120.1
+2017,%,Final energy productivity,Lower Saxony,code03,119.9
+2018,%,Final energy productivity,Lower Saxony,code03,122.3
+2019,%,Final energy productivity,Lower Saxony,code03,111.4
+2008,%,Final energy productivity,North Rhine-Westphalia,code05,100.0
+2009,%,Final energy productivity,North Rhine-Westphalia,code05,106.8
+2010,%,Final energy productivity,North Rhine-Westphalia,code05,102.1
+2011,%,Final energy productivity,North Rhine-Westphalia,code05,111.6
+2012,%,Final energy productivity,North Rhine-Westphalia,code05,112.4
+2013,%,Final energy productivity,North Rhine-Westphalia,code05,111.9
+2014,%,Final energy productivity,North Rhine-Westphalia,code05,117.2
+2015,%,Final energy productivity,North Rhine-Westphalia,code05,118.9
+2016,%,Final energy productivity,North Rhine-Westphalia,code05,110.8
+2017,%,Final energy productivity,North Rhine-Westphalia,code05,121.2
+2018,%,Final energy productivity,North Rhine-Westphalia,code05,107.7
+2019,%,Final energy productivity,North Rhine-Westphalia,code05,0.0
+2008,%,Final energy productivity,Rhineland Palatinate,code07,100.0
+2009,%,Final energy productivity,Rhineland Palatinate,code07,99.4
+2010,%,Final energy productivity,Rhineland Palatinate,code07,100.0
+2011,%,Final energy productivity,Rhineland Palatinate,code07,110.2
+2012,%,Final energy productivity,Rhineland Palatinate,code07,112.8
+2013,%,Final energy productivity,Rhineland Palatinate,code07,109.3
+2014,%,Final energy productivity,Rhineland Palatinate,code07,114.5
+2015,%,Final energy productivity,Rhineland Palatinate,code07,115.4
+2016,%,Final energy productivity,Rhineland Palatinate,code07,114.1
+2017,%,Final energy productivity,Rhineland Palatinate,code07,115.5
+2018,%,Final energy productivity,Rhineland Palatinate,code07,113.1
+2019,%,Final energy productivity,Rhineland Palatinate,code07,101.6
+2008,%,Final energy productivity,Saxony,code14,100.0
+2009,%,Final energy productivity,Saxony,code14,97.3
+2010,%,Final energy productivity,Saxony,code14,94.8
+2011,%,Final energy productivity,Saxony,code14,105.3
+2012,%,Final energy productivity,Saxony,code14,101.0
+2013,%,Final energy productivity,Saxony,code14,99.1
+2014,%,Final energy productivity,Saxony,code14,107.8
+2015,%,Final energy productivity,Saxony,code14,108.0
+2016,%,Final energy productivity,Saxony,code14,106.5
+2017,%,Final energy productivity,Saxony,code14,108.9
+2018,%,Final energy productivity,Saxony,code14,115.5
+2019,%,Final energy productivity,Saxony,code14,0.0
+2008,%,Final energy productivity,Saxony-Anhalt,code15,100.0
+2009,%,Final energy productivity,Saxony-Anhalt,code15,95.9
+2010,%,Final energy productivity,Saxony-Anhalt,code15,92.2
+2011,%,Final energy productivity,Saxony-Anhalt,code15,95.7
+2012,%,Final energy productivity,Saxony-Anhalt,code15,94.7
+2013,%,Final energy productivity,Saxony-Anhalt,code15,94.4
+2014,%,Final energy productivity,Saxony-Anhalt,code15,99.4
+2015,%,Final energy productivity,Saxony-Anhalt,code15,100.0
+2016,%,Final energy productivity,Saxony-Anhalt,code15,98.6
+2017,%,Final energy productivity,Saxony-Anhalt,code15,102.6
+2018,%,Final energy productivity,Saxony-Anhalt,code15,104.2
+2019,%,Final energy productivity,Saxony-Anhalt,code15,106.4
+2008,%,Final energy productivity,Schleswig-Holstein,code01,100.0
+2009,%,Final energy productivity,Schleswig-Holstein,code01,99.6
+2010,%,Final energy productivity,Schleswig-Holstein,code01,95.5
+2011,%,Final energy productivity,Schleswig-Holstein,code01,103.0
+2012,%,Final energy productivity,Schleswig-Holstein,code01,104.7
+2013,%,Final energy productivity,Schleswig-Holstein,code01,100.9
+2014,%,Final energy productivity,Schleswig-Holstein,code01,109.0
+2015,%,Final energy productivity,Schleswig-Holstein,code01,108.4
+2016,%,Final energy productivity,Schleswig-Holstein,code01,110.1
+2017,%,Final energy productivity,Schleswig-Holstein,code01,111.3
+2018,%,Final energy productivity,Schleswig-Holstein,code01,115.4
+2019,%,Final energy productivity,Schleswig-Holstein,code01,110.4
+2008,%,Final energy productivity,Thuringia,code16,100.0
+2009,%,Final energy productivity,Thuringia,code16,100.4
+2010,%,Final energy productivity,Thuringia,code16,98.9
+2011,%,Final energy productivity,Thuringia,code16,109.8
+2012,%,Final energy productivity,Thuringia,code16,108.2
+2013,%,Final energy productivity,Thuringia,code16,107.0
+2014,%,Final energy productivity,Thuringia,code16,117.5
+2015,%,Final energy productivity,Thuringia,code16,116.3
+2016,%,Final energy productivity,Thuringia,code16,114.3
+2017,%,Final energy productivity,Thuringia,code16,116.9
+2018,%,Final energy productivity,Thuringia,code16,120.1
+2008,%,Primary energy consumption,,,100.0
+2009,%,Primary energy consumption,,,94.1
+2010,%,Primary energy consumption,,,98.9
+2011,%,Primary energy consumption,,,94.6
+2012,%,Primary energy consumption,,,93.5
+2013,%,Primary energy consumption,,,96.1
+2014,%,Primary energy consumption,,,91.7
+2015,%,Primary energy consumption,,,92.2
+2016,%,Primary energy consumption,,,93.8
+2017,%,Primary energy consumption,,,94.0
+2018,%,Primary energy consumption,,,91.3
+2019,%,Primary energy consumption,,,89.0
+2020,%,Primary energy consumption,,,82.7
+2021,%,Primary energy consumption,,,84.8
+2008,%,Primary energy consumption,Baden-Wuerttemberg,code08,100.0
+2009,%,Primary energy consumption,Baden-Wuerttemberg,code08,95.1
+2010,%,Primary energy consumption,Baden-Wuerttemberg,code08,95.2
+2011,%,Primary energy consumption,Baden-Wuerttemberg,code08,88.3
+2012,%,Primary energy consumption,Baden-Wuerttemberg,code08,85.7
+2013,%,Primary energy consumption,Baden-Wuerttemberg,code08,88.9
+2014,%,Primary energy consumption,Baden-Wuerttemberg,code08,85.4
+2015,%,Primary energy consumption,Baden-Wuerttemberg,code08,87.2
+2016,%,Primary energy consumption,Baden-Wuerttemberg,code08,89.3
+2017,%,Primary energy consumption,Baden-Wuerttemberg,code08,92.3
+2018,%,Primary energy consumption,Baden-Wuerttemberg,code08,90.9
+2019,%,Primary energy consumption,Baden-Wuerttemberg,code08,98.1
+2008,%,Primary energy consumption,Bavaria,code09,100.0
+2009,%,Primary energy consumption,Bavaria,code09,98.3
+2010,%,Primary energy consumption,Bavaria,code09,102.0
+2011,%,Primary energy consumption,Bavaria,code09,99.9
+2012,%,Primary energy consumption,Bavaria,code09,97.6
+2013,%,Primary energy consumption,Bavaria,code09,98.2
+2014,%,Primary energy consumption,Bavaria,code09,94.7
+2015,%,Primary energy consumption,Bavaria,code09,94.8
+2016,%,Primary energy consumption,Bavaria,code09,95.0
+2017,%,Primary energy consumption,Bavaria,code09,97.1
+2018,%,Primary energy consumption,Bavaria,code09,88.0
+2008,%,Primary energy consumption,Berlin,code11,100.0
+2009,%,Primary energy consumption,Berlin,code11,98.7
+2010,%,Primary energy consumption,Berlin,code11,107.7
+2011,%,Primary energy consumption,Berlin,code11,96.2
+2012,%,Primary energy consumption,Berlin,code11,97.4
+2013,%,Primary energy consumption,Berlin,code11,100.9
+2014,%,Primary energy consumption,Berlin,code11,94.4
+2015,%,Primary energy consumption,Berlin,code11,91.9
+2016,%,Primary energy consumption,Berlin,code11,94.5
+2017,%,Primary energy consumption,Berlin,code11,95.2
+2018,%,Primary energy consumption,Berlin,code11,86.1
+2008,%,Primary energy consumption,Brandenburg,code12,100.0
+2009,%,Primary energy consumption,Brandenburg,code12,96.3
+2010,%,Primary energy consumption,Brandenburg,code12,101.4
+2011,%,Primary energy consumption,Brandenburg,code12,104.9
+2012,%,Primary energy consumption,Brandenburg,code12,104.2
+2013,%,Primary energy consumption,Brandenburg,code12,102.7
+2014,%,Primary energy consumption,Brandenburg,code12,101.5
+2015,%,Primary energy consumption,Brandenburg,code12,102.2
+2016,%,Primary energy consumption,Brandenburg,code12,102.8
+2017,%,Primary energy consumption,Brandenburg,code12,108.6
+2018,%,Primary energy consumption,Brandenburg,code12,106.6
+2008,%,Primary energy consumption,Bremen,code04,100.0
+2009,%,Primary energy consumption,Bremen,code04,96.2
+2010,%,Primary energy consumption,Bremen,code04,105.8
+2011,%,Primary energy consumption,Bremen,code04,100.2
+2012,%,Primary energy consumption,Bremen,code04,100.1
+2013,%,Primary energy consumption,Bremen,code04,99.2
+2014,%,Primary energy consumption,Bremen,code04,101.2
+2015,%,Primary energy consumption,Bremen,code04,99.7
+2016,%,Primary energy consumption,Bremen,code04,100.2
+2017,%,Primary energy consumption,Bremen,code04,105.9
+2018,%,Primary energy consumption,Bremen,code04,90.9
+2019,%,Primary energy consumption,Bremen,code04,90.1
+2008,%,Primary energy consumption,Hamburg,code02,100.0
+2009,%,Primary energy consumption,Hamburg,code02,98.7
+2010,%,Primary energy consumption,Hamburg,code02,106.2
+2011,%,Primary energy consumption,Hamburg,code02,99.5
+2012,%,Primary energy consumption,Hamburg,code02,100.0
+2013,%,Primary energy consumption,Hamburg,code02,99.2
+2014,%,Primary energy consumption,Hamburg,code02,99.9
+2015,%,Primary energy consumption,Hamburg,code02,107.1
+2016,%,Primary energy consumption,Hamburg,code02,110.2
+2017,%,Primary energy consumption,Hamburg,code02,113.0
+2018,%,Primary energy consumption,Hamburg,code02,109.0
+2019,%,Primary energy consumption,Hamburg,code02,111.2
+2008,%,Primary energy consumption,Hesse,code06,100.0
+2009,%,Primary energy consumption,Hesse,code06,83.7
+2010,%,Primary energy consumption,Hesse,code06,95.2
+2011,%,Primary energy consumption,Hesse,code06,83.5
+2012,%,Primary energy consumption,Hesse,code06,80.8
+2013,%,Primary energy consumption,Hesse,code06,81.4
+2014,%,Primary energy consumption,Hesse,code06,80.3
+2015,%,Primary energy consumption,Hesse,code06,81.5
+2016,%,Primary energy consumption,Hesse,code06,83.5
+2017,%,Primary energy consumption,Hesse,code06,99.1
+2018,%,Primary energy consumption,Hesse,code06,85.8
+2019,%,Primary energy consumption,Hesse,code06,99.0
+2008,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,100.0
+2009,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,95.1
+2010,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,101.9
+2011,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,98.3
+2012,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,103.9
+2013,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,104.6
+2014,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,104.2
+2015,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,102.1
+2016,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,106.1
+2017,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,98.0
+2018,%,Primary energy consumption,Mecklenburg Western Pomerania,code13,89.3
+2008,%,Primary energy consumption,Lower Saxony,code03,100.0
+2009,%,Primary energy consumption,Lower Saxony,code03,97.7
+2010,%,Primary energy consumption,Lower Saxony,code03,100.8
+2011,%,Primary energy consumption,Lower Saxony,code03,91.8
+2012,%,Primary energy consumption,Lower Saxony,code03,90.6
+2013,%,Primary energy consumption,Lower Saxony,code03,91.0
+2014,%,Primary energy consumption,Lower Saxony,code03,90.2
+2015,%,Primary energy consumption,Lower Saxony,code03,89.5
+2016,%,Primary energy consumption,Lower Saxony,code03,89.5
+2017,%,Primary energy consumption,Lower Saxony,code03,92.2
+2018,%,Primary energy consumption,Lower Saxony,code03,91.1
+2019,%,Primary energy consumption,Lower Saxony,code03,98.3
+2008,%,Primary energy consumption,North Rhine-Westphalia,code05,100.0
+2009,%,Primary energy consumption,North Rhine-Westphalia,code05,100.7
+2010,%,Primary energy consumption,North Rhine-Westphalia,code05,105.7
+2011,%,Primary energy consumption,North Rhine-Westphalia,code05,101.9
+2012,%,Primary energy consumption,North Rhine-Westphalia,code05,100.6
+2013,%,Primary energy consumption,North Rhine-Westphalia,code05,100.5
+2014,%,Primary energy consumption,North Rhine-Westphalia,code05,102.5
+2015,%,Primary energy consumption,North Rhine-Westphalia,code05,101.6
+2016,%,Primary energy consumption,North Rhine-Westphalia,code05,96.7
+2017,%,Primary energy consumption,North Rhine-Westphalia,code05,94.3
+2018,%,Primary energy consumption,North Rhine-Westphalia,code05,84.5
+2008,%,Primary energy consumption,Rhineland Palatinate,code07,100.0
+2009,%,Primary energy consumption,Rhineland Palatinate,code07,92.7
+2010,%,Primary energy consumption,Rhineland Palatinate,code07,100.1
+2011,%,Primary energy consumption,Rhineland Palatinate,code07,94.5
+2012,%,Primary energy consumption,Rhineland Palatinate,code07,94.3
+2013,%,Primary energy consumption,Rhineland Palatinate,code07,97.8
+2014,%,Primary energy consumption,Rhineland Palatinate,code07,92.6
+2015,%,Primary energy consumption,Rhineland Palatinate,code07,95.1
+2016,%,Primary energy consumption,Rhineland Palatinate,code07,96.3
+2017,%,Primary energy consumption,Rhineland Palatinate,code07,106.0
+2018,%,Primary energy consumption,Rhineland Palatinate,code07,95.6
+2019,%,Primary energy consumption,Rhineland Palatinate,code07,101.8
+2008,%,Primary energy consumption,Saarland,code10,100.0
+2009,%,Primary energy consumption,Saarland,code10,82.9
+2010,%,Primary energy consumption,Saarland,code10,87.4
+2011,%,Primary energy consumption,Saarland,code10,91.7
+2012,%,Primary energy consumption,Saarland,code10,94.8
+2013,%,Primary energy consumption,Saarland,code10,99.3
+2014,%,Primary energy consumption,Saarland,code10,90.8
+2015,%,Primary energy consumption,Saarland,code10,87.7
+2008,%,Primary energy consumption,Saxony,code14,100.0
+2009,%,Primary energy consumption,Saxony,code14,99.5
+2010,%,Primary energy consumption,Saxony,code14,101.2
+2011,%,Primary energy consumption,Saxony,code14,96.7
+2012,%,Primary energy consumption,Saxony,code14,98.4
+2013,%,Primary energy consumption,Saxony,code14,101.5
+2014,%,Primary energy consumption,Saxony,code14,99.4
+2015,%,Primary energy consumption,Saxony,code14,97.7
+2016,%,Primary energy consumption,Saxony,code14,100.5
+2017,%,Primary energy consumption,Saxony,code14,104.3
+2018,%,Primary energy consumption,Saxony,code14,101.9
+2008,%,Primary energy consumption,Saxony-Anhalt,code15,100.0
+2009,%,Primary energy consumption,Saxony-Anhalt,code15,99.1
+2010,%,Primary energy consumption,Saxony-Anhalt,code15,104.3
+2011,%,Primary energy consumption,Saxony-Anhalt,code15,102.3
+2012,%,Primary energy consumption,Saxony-Anhalt,code15,102.8
+2013,%,Primary energy consumption,Saxony-Anhalt,code15,97.0
+2014,%,Primary energy consumption,Saxony-Anhalt,code15,97.0
+2015,%,Primary energy consumption,Saxony-Anhalt,code15,100.2
+2016,%,Primary energy consumption,Saxony-Anhalt,code15,103.2
+2017,%,Primary energy consumption,Saxony-Anhalt,code15,100.3
+2018,%,Primary energy consumption,Saxony-Anhalt,code15,103.8
+2019,%,Primary energy consumption,Saxony-Anhalt,code15,99.2
+2008,%,Primary energy consumption,Schleswig-Holstein,code01,100.0
+2009,%,Primary energy consumption,Schleswig-Holstein,code01,97.2
+2010,%,Primary energy consumption,Schleswig-Holstein,code01,102.1
+2011,%,Primary energy consumption,Schleswig-Holstein,code01,97.3
+2012,%,Primary energy consumption,Schleswig-Holstein,code01,96.8
+2013,%,Primary energy consumption,Schleswig-Holstein,code01,100.2
+2014,%,Primary energy consumption,Schleswig-Holstein,code01,96.7
+2015,%,Primary energy consumption,Schleswig-Holstein,code01,93.9
+2016,%,Primary energy consumption,Schleswig-Holstein,code01,95.9
+2017,%,Primary energy consumption,Schleswig-Holstein,code01,88.9
+2018,%,Primary energy consumption,Schleswig-Holstein,code01,95.5
+2019,%,Primary energy consumption,Schleswig-Holstein,code01,97.7
+2008,%,Primary energy consumption,Thuringia,code16,100.0
+2009,%,Primary energy consumption,Thuringia,code16,96.1
+2010,%,Primary energy consumption,Thuringia,code16,100.0
+2011,%,Primary energy consumption,Thuringia,code16,95.2
+2012,%,Primary energy consumption,Thuringia,code16,96.8
+2013,%,Primary energy consumption,Thuringia,code16,98.7
+2014,%,Primary energy consumption,Thuringia,code16,92.9
+2015,%,Primary energy consumption,Thuringia,code16,93.7
+2016,%,Primary energy consumption,Thuringia,code16,96.8
+2017,%,Primary energy consumption,Thuringia,code16,101.6
+2018,%,Primary energy consumption,Thuringia,code16,95.4
