@@ -3581,7 +3581,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
@@ -3590,7 +3590,6 @@
               "enum": [
                 "Total",
                 "%",
-                "b) primary energy consumption",
                 ""
               ]
             }
@@ -3601,22 +3600,7 @@
             "constraints": {
               "enum": [
                 "a) final energy productivity",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "b) primary energy consumption",
                 ""
               ]
             }
@@ -3641,22 +3625,7 @@
                 "st",
                 "sh",
                 "th",
-                "code08",
-                "code09",
-                "code11",
-                "code12",
-                "code04",
-                "code02",
-                "code06",
-                "code13",
-                "code03",
-                "code05",
-                "code07",
-                "code10",
-                "code14",
-                "code15",
-                "code01",
-                "code16",
+                "sl",
                 ""
               ]
             }

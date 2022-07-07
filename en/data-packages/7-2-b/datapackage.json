@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -22,7 +22,6 @@
               "enum": [
                 "Total",
                 "%",
-                "Primary energy consumption",
                 ""
               ]
             },
@@ -34,22 +33,7 @@
             "constraints": {
               "enum": [
                 "Final energy productivity",
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "Primary energy consumption",
                 ""
               ]
             },
@@ -75,22 +59,7 @@
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
                 "Thuringia",
-                "code08",
-                "code09",
-                "code11",
-                "code12",
-                "code04",
-                "code02",
-                "code06",
-                "code13",
-                "code03",
-                "code05",
-                "code07",
-                "code10",
-                "code14",
-                "code15",
-                "code01",
-                "code16",
+                "Saarland",
                 ""
               ]
             },

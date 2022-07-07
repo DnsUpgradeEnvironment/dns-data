@@ -3821,7 +3821,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -3831,7 +3831,6 @@
               "enum": [
                 "Total",
                 "%",
-                "Primärenergieverbrauch",
                 ""
               ]
             },
@@ -3843,22 +3842,7 @@
             "constraints": {
               "enum": [
                 "Endenergieproduktivität",
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "Primärenergieverbrauch",
                 ""
               ]
             },
@@ -3884,22 +3868,7 @@
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
                 "Thüringen",
-                "code08",
-                "code09",
-                "code11",
-                "code12",
-                "code04",
-                "code02",
-                "code06",
-                "code13",
-                "code03",
-                "code05",
-                "code07",
-                "code10",
-                "code14",
-                "code15",
-                "code01",
-                "code16",
+                "Saarland",
                 ""
               ]
             },
