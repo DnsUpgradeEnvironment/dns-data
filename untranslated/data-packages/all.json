@@ -3861,12 +3861,11 @@
             }
           },
           {
-            "name": "display",
+            "name": "testDisagg",
             "type": "string",
             "constraints": {
               "enum": [
                 "a) time series",
-                "b) target (min)",
                 ""
               ]
             }

@@ -4127,16 +4127,15 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "testDisagg",
             "type": "string",
             "constraints": {
               "enum": [
                 "Zeitreihe",
-                "Ziel",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "testDisagg"
           },
           {
             "name": "title",

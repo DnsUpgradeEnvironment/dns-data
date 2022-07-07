@@ -47,7 +47,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-2-ab,"display, title",2
 #7-2-a,"display, Bundesland",2
 #7-2-b,Bundesland,1
-#8-1-a,"display, title",2
+#8-1-a,"title, testDisagg",2
 #8-2-ab,"display, title",2
 #8-2-c,display,1
 #8-3-a,Bundesland,1
