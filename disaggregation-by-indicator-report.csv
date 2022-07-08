@@ -45,7 +45,8 @@ Indicator,Disaggregations,Number of disaggregations
 #6-1-a,display,1
 #6-1-b,"display, Bundesland",2
 #6-2-ab,"display, title",2
-#7-2-a,"display, Bundesland",2
+#7-1-ab,"federal state, GeoCodes",2
+#7-2-a,"federal state, GeoCodes",2
 #7-2-b,Bundesland,1
 #8-1-a,"title, testDisagg",2
 #8-2-ab,"display, title",2

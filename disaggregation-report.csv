@@ -2,10 +2,12 @@ Disaggregation,Number of indicators,Number of values
 age,5,21
 air pollutants,1,6
 area,2,3
-Bundesland,24,17
+Bundesland,23,17
 criminal offences,1,5
 dimension,1,2
-display,39,4
+display,38,4
+federal state,2,16
+GeoCodes,2,16
 Kreis,2,402
 sea,2,2
 sex,8,5
