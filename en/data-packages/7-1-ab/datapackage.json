@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "final energy productivity",
-                "primary energy consumption",
+                "Final energy productivity",
+                "Primary energy consumption",
                 ""
               ]
             },
@@ -62,7 +62,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Federal state"
           },
           {
             "name": "GeoCodes",

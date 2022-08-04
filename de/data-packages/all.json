@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -62,7 +62,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -93,11 +93,11 @@
             "constraints": {
               "enum": [
                 "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
-                "nmvoc",
-                "pm2.5",
+                "SO2",
+                "NOx",
+                "NH3",
+                "NMVOC",
+                "PM2.5",
                 ""
               ]
             },
@@ -125,7 +125,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -172,7 +172,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -203,8 +203,8 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
@@ -220,7 +220,7 @@
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -276,7 +276,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -354,7 +354,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -401,7 +401,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -431,8 +431,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
@@ -443,12 +443,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eu-28",
-                "germany",
+                "EU-28",
+                "Deutschland",
                 ""
               ]
             },
-            "title": "area"
+            "title": "Gebiet"
           },
           {
             "name": "Value",
@@ -472,7 +472,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -535,7 +535,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -594,7 +594,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -641,7 +641,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -688,7 +688,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -767,7 +767,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -827,7 +827,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -887,7 +887,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -923,7 +923,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCodes",
@@ -972,7 +972,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1019,7 +1019,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1079,7 +1079,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1126,7 +1126,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1161,7 +1161,7 @@
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -1629,7 +1629,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1672,8 +1672,8 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
@@ -1733,7 +1733,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1780,7 +1780,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1856,7 +1856,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -1891,14 +1891,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner",
+                "per 100 000 inhabitants",
                 ""
               ]
             },
@@ -1982,7 +1982,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2041,7 +2041,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2088,7 +2088,7 @@
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -2144,7 +2144,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2222,7 +2222,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2257,7 +2257,7 @@
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -2313,7 +2313,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2343,8 +2343,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 "a) total",
                 ""
               ]
@@ -2404,7 +2404,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2497,7 +2497,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2520,15 +2520,15 @@
                 ""
               ]
             },
-            "title": "Zeitreihen"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
@@ -2544,7 +2544,7 @@
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -2568,7 +2568,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2615,7 +2615,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2661,7 +2661,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2721,14 +2721,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mrd. EUR",
+                "bn eur",
                 ""
               ]
             },
@@ -2768,7 +2768,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "title",
@@ -2789,13 +2789,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "eu-28",
+                "Deutschland",
+                "EU-28",
                 "euro zone",
                 ""
               ]
             },
-            "title": "area"
+            "title": "Gebiet"
           },
           {
             "name": "Value",
@@ -2819,7 +2819,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2827,7 +2827,7 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Prozent (%)",
+                "%",
                 ""
               ]
             },
@@ -2898,7 +2898,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -2957,7 +2957,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3016,7 +3016,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3034,8 +3034,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "final energy productivity",
-                "primary energy consumption",
+                "Endenergieproduktivität",
+                "Primärenergieverbrauch",
                 ""
               ]
             },
@@ -3065,7 +3065,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCodes",
@@ -3115,7 +3115,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3207,7 +3207,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3267,7 +3267,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3314,7 +3314,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3381,7 +3381,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3429,14 +3429,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner",
+                "per 100 000 inhabitants",
                 ""
               ]
             },
@@ -3462,7 +3462,7 @@
                 "a) criminal offences (overall)",
                 "other criminal offences",
                 "serious and grievous bodily harm",
-                "fraud",
+                "Betrug",
                 "burglary in homes",
                 ""
               ]
@@ -3523,7 +3523,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -3582,7 +3582,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4061,7 +4061,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4092,8 +4092,8 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
@@ -4153,7 +4153,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4224,7 +4224,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4271,7 +4271,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4349,7 +4349,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4410,7 +4410,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4469,7 +4469,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4516,7 +4516,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4535,8 +4535,8 @@
             "constraints": {
               "enum": [
                 "a) rural and non-rural areas",
-                "non-rural areas",
-                "rural areas",
+                "Nicht-ländliche Gebiete",
+                "Ländliche Gebiete",
                 ""
               ]
             },
@@ -4595,7 +4595,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4618,7 +4618,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihen"
+            "title": "timeseries"
           },
           {
             "name": "Bundesland",
@@ -4674,7 +4674,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4733,7 +4733,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4809,7 +4809,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -4828,8 +4828,8 @@
             "constraints": {
               "enum": [
                 "a) rural and non-rural areas",
-                "non-rural areas",
-                "rural areas",
+                "Nicht-ländliche Gebiete",
+                "Ländliche Gebiete",
                 ""
               ]
             },

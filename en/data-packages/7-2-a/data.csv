@@ -1,233 +1,233 @@
-Year,Units,federal state,GeoCodes,Value
-2005,percentage,,,7.1
-2006,percentage,,,8.4
-2007,percentage,,,10.2
-2008,percentage,,,10.1
-2009,percentage,,,10.7
-2010,percentage,,,11.4
-2011,percentage,,,12.5
-2012,percentage,,,13.6
-2013,percentage,,,13.8
-2014,percentage,,,14.3
-2015,percentage,,,15.2
-2016,percentage,,,14.9
-2017,percentage,,,16.0
-2018,percentage,,,16.8
-2019,percentage,,,17.7
-2020,percentage,,,19.7
-2021,percentage,,,19.2
-2005,percentage,Baden-Wuerttemberg,code08,6.9
-2006,percentage,Baden-Wuerttemberg,code08,8.4
-2007,percentage,Baden-Wuerttemberg,code08,9.7
-2008,percentage,Baden-Wuerttemberg,code08,9.4
-2009,percentage,Baden-Wuerttemberg,code08,9.9
-2010,percentage,Baden-Wuerttemberg,code08,11.3
-2011,percentage,Baden-Wuerttemberg,code08,11.4
-2012,percentage,Baden-Wuerttemberg,code08,12.5
-2013,percentage,Baden-Wuerttemberg,code08,12.6
-2014,percentage,Baden-Wuerttemberg,code08,13.1
-2015,percentage,Baden-Wuerttemberg,code08,13.0
-2016,percentage,Baden-Wuerttemberg,code08,13.4
-2017,percentage,Baden-Wuerttemberg,code08,13.7
-2018,percentage,Baden-Wuerttemberg,code08,15.6
-2019,percentage,Baden-Wuerttemberg,code08,15.6
-2005,percentage,Bavaria,code09,8.6
-2006,percentage,Bavaria,code09,9.5
-2007,percentage,Bavaria,code09,10.5
-2008,percentage,Bavaria,code09,10.1
-2009,percentage,Bavaria,code09,10.8
-2010,percentage,Bavaria,code09,14.6
-2011,percentage,Bavaria,code09,15.5
-2012,percentage,Bavaria,code09,17.8
-2013,percentage,Bavaria,code09,18.3
-2014,percentage,Bavaria,code09,18.4
-2015,percentage,Bavaria,code09,19.1
-2016,percentage,Bavaria,code09,19.8
-2017,percentage,Bavaria,code09,20.3
-2018,percentage,Bavaria,code09,21.2
-2019,percentage,Bavaria,code09,20.7
-2005,percentage,Berlin,code11,1.2
-2006,percentage,Berlin,code11,1.9
-2007,percentage,Berlin,code11,2.3
-2008,percentage,Berlin,code11,1.6
-2009,percentage,Berlin,code11,2.2
-2010,percentage,Berlin,code11,2.8
-2011,percentage,Berlin,code11,3.3
-2012,percentage,Berlin,code11,3.4
-2013,percentage,Berlin,code11,3.6
-2014,percentage,Berlin,code11,3.4
-2015,percentage,Berlin,code11,3.6
-2016,percentage,Berlin,code11,3.5
-2017,percentage,Berlin,code11,3.7
-2018,percentage,Berlin,code11,4.1
-2005,percentage,Brandenburg,code12,9.8
-2006,percentage,Brandenburg,code12,16.3
-2007,percentage,Brandenburg,code12,21.0
-2008,percentage,Brandenburg,code12,21.0
-2009,percentage,Brandenburg,code12,22.3
-2010,percentage,Brandenburg,code12,23.6
-2011,percentage,Brandenburg,code12,26.2
-2012,percentage,Brandenburg,code12,22.2
-2013,percentage,Brandenburg,code12,22.9
-2014,percentage,Brandenburg,code12,23.7
-2015,percentage,Brandenburg,code12,25.9
-2016,percentage,Brandenburg,code12,24.4
-2017,percentage,Brandenburg,code12,27.2
-2018,percentage,Brandenburg,code12,28.0
-2005,percentage,Bremen,code04,2.1
-2006,percentage,Bremen,code04,2.6
-2007,percentage,Bremen,code04,2.7
-2008,percentage,Bremen,code04,2.7
-2009,percentage,Bremen,code04,2.9
-2010,percentage,Bremen,code04,3.2
-2011,percentage,Bremen,code04,3.5
-2012,percentage,Bremen,code04,3.7
-2013,percentage,Bremen,code04,4.3
-2014,percentage,Bremen,code04,5.1
-2015,percentage,Bremen,code04,4.6
-2016,percentage,Bremen,code04,4.2
-2017,percentage,Bremen,code04,4.5
-2018,percentage,Bremen,code04,5.2
-2019,percentage,Bremen,code04,5.4
-2005,percentage,Hamburg,code02,2.3
-2006,percentage,Hamburg,code02,3.9
-2007,percentage,Hamburg,code02,4.6
-2008,percentage,Hamburg,code02,4.1
-2009,percentage,Hamburg,code02,4.6
-2010,percentage,Hamburg,code02,4.2
-2011,percentage,Hamburg,code02,4.5
-2012,percentage,Hamburg,code02,4.6
-2013,percentage,Hamburg,code02,4.5
-2014,percentage,Hamburg,code02,4.9
-2015,percentage,Hamburg,code02,4.9
-2016,percentage,Hamburg,code02,4.7
-2017,percentage,Hamburg,code02,4.9
-2018,percentage,Hamburg,code02,5.6
-2005,percentage,Hesse,code06,4.3
-2006,percentage,Hesse,code06,5.3
-2007,percentage,Hesse,code06,6.1
-2008,percentage,Hesse,code06,5.8
-2009,percentage,Hesse,code06,6.3
-2010,percentage,Hesse,code06,7.5
-2011,percentage,Hesse,code06,8.1
-2012,percentage,Hesse,code06,8.3
-2013,percentage,Hesse,code06,8.7
-2014,percentage,Hesse,code06,8.7
-2015,percentage,Hesse,code06,9.5
-2016,percentage,Hesse,code06,9.6
-2017,percentage,Hesse,code06,10.2
-2018,percentage,Hesse,code06,11.5
-2019,percentage,Hesse,code06,11.5
-2006,percentage,Lower Saxony,code03,8.7
-2008,percentage,Lower Saxony,code03,10.9
-2009,percentage,Lower Saxony,code03,11.4
-2010,percentage,Lower Saxony,code03,12.3
-2011,percentage,Lower Saxony,code03,13.8
-2012,percentage,Lower Saxony,code03,15.6
-2013,percentage,Lower Saxony,code03,15.6
-2014,percentage,Lower Saxony,code03,16.2
-2015,percentage,Lower Saxony,code03,18.5
-2016,percentage,Lower Saxony,code03,18.6
-2017,percentage,Lower Saxony,code03,20.9
-2018,percentage,Lower Saxony,code03,22.3
-2019,percentage,Lower Saxony,code03,24.1
-2005,percentage,North Rhine-Westphalia,code05,3.2
-2006,percentage,North Rhine-Westphalia,code05,4.1
-2007,percentage,North Rhine-Westphalia,code05,4.6
-2008,percentage,North Rhine-Westphalia,code05,3.9
-2009,percentage,North Rhine-Westphalia,code05,4.9
-2010,percentage,North Rhine-Westphalia,code05,5.0
-2011,percentage,North Rhine-Westphalia,code05,5.3
-2012,percentage,North Rhine-Westphalia,code05,5.8
-2013,percentage,North Rhine-Westphalia,code05,5.8
-2014,percentage,North Rhine-Westphalia,code05,5.8
-2015,percentage,North Rhine-Westphalia,code05,6.3
-2016,percentage,North Rhine-Westphalia,code05,6.4
-2017,percentage,North Rhine-Westphalia,code05,6.8
-2018,percentage,North Rhine-Westphalia,code05,7.3
-2019,percentage,North Rhine-Westphalia,code05,7.9
-2005,percentage,Rhineland Palatinate,code07,5.5
-2006,percentage,Rhineland Palatinate,code07,7.5
-2007,percentage,Rhineland Palatinate,code07,9.2
-2008,percentage,Rhineland Palatinate,code07,8.7
-2009,percentage,Rhineland Palatinate,code07,9.2
-2010,percentage,Rhineland Palatinate,code07,10.0
-2011,percentage,Rhineland Palatinate,code07,10.8
-2012,percentage,Rhineland Palatinate,code07,12.3
-2013,percentage,Rhineland Palatinate,code07,12.8
-2014,percentage,Rhineland Palatinate,code07,13.0
-2015,percentage,Rhineland Palatinate,code07,14.3
-2016,percentage,Rhineland Palatinate,code07,14.1
-2017,percentage,Rhineland Palatinate,code07,14.7
-2018,percentage,Rhineland Palatinate,code07,15.4
-2019,percentage,Rhineland Palatinate,code07,16.0
-2005,percentage,Saarland,code10,1.8
-2006,percentage,Saarland,code10,2.2
-2007,percentage,Saarland,code10,2.7
-2008,percentage,Saarland,code10,2.4
-2009,percentage,Saarland,code10,3.0
-2010,percentage,Saarland,code10,3.4
-2011,percentage,Saarland,code10,3.3
-2012,percentage,Saarland,code10,3.3
-2013,percentage,Saarland,code10,3.7
-2014,percentage,Saarland,code10,3.9
-2015,percentage,Saarland,code10,4.4
-2005,percentage,Saxony,code14,3.6
-2006,percentage,Saxony,code14,6.6
-2007,percentage,Saxony,code14,7.9
-2008,percentage,Saxony,code14,7.6
-2009,percentage,Saxony,code14,8.1
-2010,percentage,Saxony,code14,9.0
-2011,percentage,Saxony,code14,10.0
-2012,percentage,Saxony,code14,10.2
-2013,percentage,Saxony,code14,10.6
-2014,percentage,Saxony,code14,11.1
-2015,percentage,Saxony,code14,12.0
-2016,percentage,Saxony,code14,11.7
-2017,percentage,Saxony,code14,12.0
-2018,percentage,Saxony,code14,12.1
-2019,percentage,Saxony,code14,12.6
-2005,percentage,Saxony-Anhalt,code15,7.9
-2006,percentage,Saxony-Anhalt,code15,12.4
-2007,percentage,Saxony-Anhalt,code15,16.3
-2008,percentage,Saxony-Anhalt,code15,16.8
-2009,percentage,Saxony-Anhalt,code15,17.8
-2010,percentage,Saxony-Anhalt,code15,18.2
-2011,percentage,Saxony-Anhalt,code15,20.6
-2012,percentage,Saxony-Anhalt,code15,20.8
-2013,percentage,Saxony-Anhalt,code15,21.9
-2014,percentage,Saxony-Anhalt,code15,22.9
-2015,percentage,Saxony-Anhalt,code15,25.7
-2016,percentage,Saxony-Anhalt,code15,23.4
-2017,percentage,Saxony-Anhalt,code15,26.3
-2018,percentage,Saxony-Anhalt,code15,25.2
-2019,percentage,Saxony-Anhalt,code15,26.0
-2005,percentage,Schleswig-Holstein,code01,9.3
-2006,percentage,Schleswig-Holstein,code01,10.5
-2007,percentage,Schleswig-Holstein,code01,14.0
-2008,percentage,Schleswig-Holstein,code01,14.4
-2009,percentage,Schleswig-Holstein,code01,15.1
-2010,percentage,Schleswig-Holstein,code01,17.2
-2011,percentage,Schleswig-Holstein,code01,19.8
-2012,percentage,Schleswig-Holstein,code01,21.8
-2013,percentage,Schleswig-Holstein,code01,21.3
-2014,percentage,Schleswig-Holstein,code01,24.0
-2015,percentage,Schleswig-Holstein,code01,31.7
-2016,percentage,Schleswig-Holstein,code01,33.1
-2017,percentage,Schleswig-Holstein,code01,37.1
-2018,percentage,Schleswig-Holstein,code01,37.9
-2019,percentage,Schleswig-Holstein,code01,7.8
-2005,percentage,Thuringia,code16,12.4
-2006,percentage,Thuringia,code16,13.7
-2007,percentage,Thuringia,code16,16.7
-2008,percentage,Thuringia,code16,15.4
-2009,percentage,Thuringia,code16,15.0
-2010,percentage,Thuringia,code16,16.5
-2011,percentage,Thuringia,code16,17.1
-2012,percentage,Thuringia,code16,16.9
-2013,percentage,Thuringia,code16,18.0
-2014,percentage,Thuringia,code16,18.7
-2015,percentage,Thuringia,code16,19.8
-2016,percentage,Thuringia,code16,20.5
-2017,percentage,Thuringia,code16,22.4
-2018,percentage,Thuringia,code16,21.1
+Year,Units,Federal state,GeoCodes,Value
+2005,Percentage,,,7.1
+2006,Percentage,,,8.4
+2007,Percentage,,,10.2
+2008,Percentage,,,10.1
+2009,Percentage,,,10.7
+2010,Percentage,,,11.4
+2011,Percentage,,,12.5
+2012,Percentage,,,13.6
+2013,Percentage,,,13.8
+2014,Percentage,,,14.3
+2015,Percentage,,,15.2
+2016,Percentage,,,14.9
+2017,Percentage,,,16.0
+2018,Percentage,,,16.8
+2019,Percentage,,,17.7
+2020,Percentage,,,19.7
+2021,Percentage,,,19.2
+2005,Percentage,Baden-Wuerttemberg,code08,6.9
+2006,Percentage,Baden-Wuerttemberg,code08,8.4
+2007,Percentage,Baden-Wuerttemberg,code08,9.7
+2008,Percentage,Baden-Wuerttemberg,code08,9.4
+2009,Percentage,Baden-Wuerttemberg,code08,9.9
+2010,Percentage,Baden-Wuerttemberg,code08,11.3
+2011,Percentage,Baden-Wuerttemberg,code08,11.4
+2012,Percentage,Baden-Wuerttemberg,code08,12.5
+2013,Percentage,Baden-Wuerttemberg,code08,12.6
+2014,Percentage,Baden-Wuerttemberg,code08,13.1
+2015,Percentage,Baden-Wuerttemberg,code08,13.0
+2016,Percentage,Baden-Wuerttemberg,code08,13.4
+2017,Percentage,Baden-Wuerttemberg,code08,13.7
+2018,Percentage,Baden-Wuerttemberg,code08,15.6
+2019,Percentage,Baden-Wuerttemberg,code08,15.6
+2005,Percentage,Bavaria,code09,8.6
+2006,Percentage,Bavaria,code09,9.5
+2007,Percentage,Bavaria,code09,10.5
+2008,Percentage,Bavaria,code09,10.1
+2009,Percentage,Bavaria,code09,10.8
+2010,Percentage,Bavaria,code09,14.6
+2011,Percentage,Bavaria,code09,15.5
+2012,Percentage,Bavaria,code09,17.8
+2013,Percentage,Bavaria,code09,18.3
+2014,Percentage,Bavaria,code09,18.4
+2015,Percentage,Bavaria,code09,19.1
+2016,Percentage,Bavaria,code09,19.8
+2017,Percentage,Bavaria,code09,20.3
+2018,Percentage,Bavaria,code09,21.2
+2019,Percentage,Bavaria,code09,20.7
+2005,Percentage,Berlin,code11,1.2
+2006,Percentage,Berlin,code11,1.9
+2007,Percentage,Berlin,code11,2.3
+2008,Percentage,Berlin,code11,1.6
+2009,Percentage,Berlin,code11,2.2
+2010,Percentage,Berlin,code11,2.8
+2011,Percentage,Berlin,code11,3.3
+2012,Percentage,Berlin,code11,3.4
+2013,Percentage,Berlin,code11,3.6
+2014,Percentage,Berlin,code11,3.4
+2015,Percentage,Berlin,code11,3.6
+2016,Percentage,Berlin,code11,3.5
+2017,Percentage,Berlin,code11,3.7
+2018,Percentage,Berlin,code11,4.1
+2005,Percentage,Brandenburg,code12,9.8
+2006,Percentage,Brandenburg,code12,16.3
+2007,Percentage,Brandenburg,code12,21.0
+2008,Percentage,Brandenburg,code12,21.0
+2009,Percentage,Brandenburg,code12,22.3
+2010,Percentage,Brandenburg,code12,23.6
+2011,Percentage,Brandenburg,code12,26.2
+2012,Percentage,Brandenburg,code12,22.2
+2013,Percentage,Brandenburg,code12,22.9
+2014,Percentage,Brandenburg,code12,23.7
+2015,Percentage,Brandenburg,code12,25.9
+2016,Percentage,Brandenburg,code12,24.4
+2017,Percentage,Brandenburg,code12,27.2
+2018,Percentage,Brandenburg,code12,28.0
+2005,Percentage,Bremen,code04,2.1
+2006,Percentage,Bremen,code04,2.6
+2007,Percentage,Bremen,code04,2.7
+2008,Percentage,Bremen,code04,2.7
+2009,Percentage,Bremen,code04,2.9
+2010,Percentage,Bremen,code04,3.2
+2011,Percentage,Bremen,code04,3.5
+2012,Percentage,Bremen,code04,3.7
+2013,Percentage,Bremen,code04,4.3
+2014,Percentage,Bremen,code04,5.1
+2015,Percentage,Bremen,code04,4.6
+2016,Percentage,Bremen,code04,4.2
+2017,Percentage,Bremen,code04,4.5
+2018,Percentage,Bremen,code04,5.2
+2019,Percentage,Bremen,code04,5.4
+2005,Percentage,Hamburg,code02,2.3
+2006,Percentage,Hamburg,code02,3.9
+2007,Percentage,Hamburg,code02,4.6
+2008,Percentage,Hamburg,code02,4.1
+2009,Percentage,Hamburg,code02,4.6
+2010,Percentage,Hamburg,code02,4.2
+2011,Percentage,Hamburg,code02,4.5
+2012,Percentage,Hamburg,code02,4.6
+2013,Percentage,Hamburg,code02,4.5
+2014,Percentage,Hamburg,code02,4.9
+2015,Percentage,Hamburg,code02,4.9
+2016,Percentage,Hamburg,code02,4.7
+2017,Percentage,Hamburg,code02,4.9
+2018,Percentage,Hamburg,code02,5.6
+2005,Percentage,Hesse,code06,4.3
+2006,Percentage,Hesse,code06,5.3
+2007,Percentage,Hesse,code06,6.1
+2008,Percentage,Hesse,code06,5.8
+2009,Percentage,Hesse,code06,6.3
+2010,Percentage,Hesse,code06,7.5
+2011,Percentage,Hesse,code06,8.1
+2012,Percentage,Hesse,code06,8.3
+2013,Percentage,Hesse,code06,8.7
+2014,Percentage,Hesse,code06,8.7
+2015,Percentage,Hesse,code06,9.5
+2016,Percentage,Hesse,code06,9.6
+2017,Percentage,Hesse,code06,10.2
+2018,Percentage,Hesse,code06,11.5
+2019,Percentage,Hesse,code06,11.5
+2006,Percentage,Lower Saxony,code03,8.7
+2008,Percentage,Lower Saxony,code03,10.9
+2009,Percentage,Lower Saxony,code03,11.4
+2010,Percentage,Lower Saxony,code03,12.3
+2011,Percentage,Lower Saxony,code03,13.8
+2012,Percentage,Lower Saxony,code03,15.6
+2013,Percentage,Lower Saxony,code03,15.6
+2014,Percentage,Lower Saxony,code03,16.2
+2015,Percentage,Lower Saxony,code03,18.5
+2016,Percentage,Lower Saxony,code03,18.6
+2017,Percentage,Lower Saxony,code03,20.9
+2018,Percentage,Lower Saxony,code03,22.3
+2019,Percentage,Lower Saxony,code03,24.1
+2005,Percentage,North Rhine-Westphalia,code05,3.2
+2006,Percentage,North Rhine-Westphalia,code05,4.1
+2007,Percentage,North Rhine-Westphalia,code05,4.6
+2008,Percentage,North Rhine-Westphalia,code05,3.9
+2009,Percentage,North Rhine-Westphalia,code05,4.9
+2010,Percentage,North Rhine-Westphalia,code05,5.0
+2011,Percentage,North Rhine-Westphalia,code05,5.3
+2012,Percentage,North Rhine-Westphalia,code05,5.8
+2013,Percentage,North Rhine-Westphalia,code05,5.8
+2014,Percentage,North Rhine-Westphalia,code05,5.8
+2015,Percentage,North Rhine-Westphalia,code05,6.3
+2016,Percentage,North Rhine-Westphalia,code05,6.4
+2017,Percentage,North Rhine-Westphalia,code05,6.8
+2018,Percentage,North Rhine-Westphalia,code05,7.3
+2019,Percentage,North Rhine-Westphalia,code05,7.9
+2005,Percentage,Rhineland Palatinate,code07,5.5
+2006,Percentage,Rhineland Palatinate,code07,7.5
+2007,Percentage,Rhineland Palatinate,code07,9.2
+2008,Percentage,Rhineland Palatinate,code07,8.7
+2009,Percentage,Rhineland Palatinate,code07,9.2
+2010,Percentage,Rhineland Palatinate,code07,10.0
+2011,Percentage,Rhineland Palatinate,code07,10.8
+2012,Percentage,Rhineland Palatinate,code07,12.3
+2013,Percentage,Rhineland Palatinate,code07,12.8
+2014,Percentage,Rhineland Palatinate,code07,13.0
+2015,Percentage,Rhineland Palatinate,code07,14.3
+2016,Percentage,Rhineland Palatinate,code07,14.1
+2017,Percentage,Rhineland Palatinate,code07,14.7
+2018,Percentage,Rhineland Palatinate,code07,15.4
+2019,Percentage,Rhineland Palatinate,code07,16.0
+2005,Percentage,Saarland,code10,1.8
+2006,Percentage,Saarland,code10,2.2
+2007,Percentage,Saarland,code10,2.7
+2008,Percentage,Saarland,code10,2.4
+2009,Percentage,Saarland,code10,3.0
+2010,Percentage,Saarland,code10,3.4
+2011,Percentage,Saarland,code10,3.3
+2012,Percentage,Saarland,code10,3.3
+2013,Percentage,Saarland,code10,3.7
+2014,Percentage,Saarland,code10,3.9
+2015,Percentage,Saarland,code10,4.4
+2005,Percentage,Saxony,code14,3.6
+2006,Percentage,Saxony,code14,6.6
+2007,Percentage,Saxony,code14,7.9
+2008,Percentage,Saxony,code14,7.6
+2009,Percentage,Saxony,code14,8.1
+2010,Percentage,Saxony,code14,9.0
+2011,Percentage,Saxony,code14,10.0
+2012,Percentage,Saxony,code14,10.2
+2013,Percentage,Saxony,code14,10.6
+2014,Percentage,Saxony,code14,11.1
+2015,Percentage,Saxony,code14,12.0
+2016,Percentage,Saxony,code14,11.7
+2017,Percentage,Saxony,code14,12.0
+2018,Percentage,Saxony,code14,12.1
+2019,Percentage,Saxony,code14,12.6
+2005,Percentage,Saxony-Anhalt,code15,7.9
+2006,Percentage,Saxony-Anhalt,code15,12.4
+2007,Percentage,Saxony-Anhalt,code15,16.3
+2008,Percentage,Saxony-Anhalt,code15,16.8
+2009,Percentage,Saxony-Anhalt,code15,17.8
+2010,Percentage,Saxony-Anhalt,code15,18.2
+2011,Percentage,Saxony-Anhalt,code15,20.6
+2012,Percentage,Saxony-Anhalt,code15,20.8
+2013,Percentage,Saxony-Anhalt,code15,21.9
+2014,Percentage,Saxony-Anhalt,code15,22.9
+2015,Percentage,Saxony-Anhalt,code15,25.7
+2016,Percentage,Saxony-Anhalt,code15,23.4
+2017,Percentage,Saxony-Anhalt,code15,26.3
+2018,Percentage,Saxony-Anhalt,code15,25.2
+2019,Percentage,Saxony-Anhalt,code15,26.0
+2005,Percentage,Schleswig-Holstein,code01,9.3
+2006,Percentage,Schleswig-Holstein,code01,10.5
+2007,Percentage,Schleswig-Holstein,code01,14.0
+2008,Percentage,Schleswig-Holstein,code01,14.4
+2009,Percentage,Schleswig-Holstein,code01,15.1
+2010,Percentage,Schleswig-Holstein,code01,17.2
+2011,Percentage,Schleswig-Holstein,code01,19.8
+2012,Percentage,Schleswig-Holstein,code01,21.8
+2013,Percentage,Schleswig-Holstein,code01,21.3
+2014,Percentage,Schleswig-Holstein,code01,24.0
+2015,Percentage,Schleswig-Holstein,code01,31.7
+2016,Percentage,Schleswig-Holstein,code01,33.1
+2017,Percentage,Schleswig-Holstein,code01,37.1
+2018,Percentage,Schleswig-Holstein,code01,37.9
+2019,Percentage,Schleswig-Holstein,code01,7.8
+2005,Percentage,Thuringia,code16,12.4
+2006,Percentage,Thuringia,code16,13.7
+2007,Percentage,Thuringia,code16,16.7
+2008,Percentage,Thuringia,code16,15.4
+2009,Percentage,Thuringia,code16,15.0
+2010,Percentage,Thuringia,code16,16.5
+2011,Percentage,Thuringia,code16,17.1
+2012,Percentage,Thuringia,code16,16.9
+2013,Percentage,Thuringia,code16,18.0
+2014,Percentage,Thuringia,code16,18.7
+2015,Percentage,Thuringia,code16,19.8
+2016,Percentage,Thuringia,code16,20.5
+2017,Percentage,Thuringia,code16,22.4
+2018,Percentage,Thuringia,code16,21.1

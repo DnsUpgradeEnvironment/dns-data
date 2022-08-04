@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100 000 inhabitants",
+                "per 100 000 inhabitants",
                 ""
               ]
             },
@@ -46,7 +46,7 @@
                 "a) criminal offences (overall)",
                 "other criminal offences",
                 "serious and grievous bodily harm",
-                "fraud",
+                "Fraud",
                 "burglary in homes",
                 ""
               ]

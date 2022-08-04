@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -36,15 +36,15 @@
                 ""
               ]
             },
-            "title": "Zeitreihen"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "Value",

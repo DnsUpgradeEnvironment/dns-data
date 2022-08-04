@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Percentage",
                 ""
               ]
             },
@@ -49,7 +49,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Federal state"
           },
           {
             "name": "GeoCodes",

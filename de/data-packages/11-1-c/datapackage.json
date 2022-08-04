@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -32,8 +32,8 @@
             "constraints": {
               "enum": [
                 "a) rural and non-rural areas",
-                "non-rural areas",
-                "rural areas",
+                "Nicht-ländliche Gebiete",
+                "Ländliche Gebiete",
                 ""
               ]
             },

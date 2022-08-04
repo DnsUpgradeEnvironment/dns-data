@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -49,7 +49,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCodes",

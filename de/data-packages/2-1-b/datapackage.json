@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -36,7 +36,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihen"
+            "title": "timeseries"
           },
           {
             "name": "Bundesland",

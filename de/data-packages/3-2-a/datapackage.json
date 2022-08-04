@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -44,11 +44,11 @@
             "constraints": {
               "enum": [
                 "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
-                "nmvoc",
-                "pm2.5",
+                "SO2",
+                "NOx",
+                "NH3",
+                "NMVOC",
+                "PM2.5",
                 ""
               ]
             },

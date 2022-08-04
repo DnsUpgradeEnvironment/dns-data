@@ -93,11 +93,11 @@
             "constraints": {
               "enum": [
                 "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
-                "nmvoc",
-                "pm2.5",
+                "SO2",
+                "NOx",
+                "NH3",
+                "NMVOC",
+                "PM2.5",
                 ""
               ]
             },
@@ -203,8 +203,8 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -220,7 +220,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -431,8 +431,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -443,12 +443,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eu-28",
-                "germany",
+                "EU-28",
+                "Germany",
                 ""
               ]
             },
-            "title": "area"
+            "title": "Area"
           },
           {
             "name": "Value",
@@ -894,7 +894,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Percentage",
                 ""
               ]
             },
@@ -923,7 +923,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Federal state"
           },
           {
             "name": "GeoCodes",
@@ -1161,7 +1161,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -1672,8 +1672,8 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -1898,7 +1898,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100 000 inhabitants",
+                "per 100 000 inhabitants",
                 ""
               ]
             },
@@ -2088,7 +2088,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -2257,7 +2257,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Bundesland",
@@ -2343,8 +2343,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 "a) total",
                 ""
               ]
@@ -2520,15 +2520,15 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -2544,7 +2544,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age"
           },
           {
             "name": "Value",
@@ -2728,7 +2728,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bn EUR",
+                "bn eur",
                 ""
               ]
             },
@@ -2789,13 +2789,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "eu-28",
+                "Germany",
+                "EU-28",
                 "euro zone",
                 ""
               ]
             },
-            "title": "area"
+            "title": "Area"
           },
           {
             "name": "Value",
@@ -2827,7 +2827,7 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Percentage (%)",
+                "%",
                 ""
               ]
             },
@@ -2988,7 +2988,7 @@
             "constraints": {
               "enum": [
                 "north sea",
-                "Baltic Sea",
+                "Baltic sea",
                 ""
               ]
             },
@@ -3034,8 +3034,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "final energy productivity",
-                "primary energy consumption",
+                "Final energy productivity",
+                "Primary energy consumption",
                 ""
               ]
             },
@@ -3065,7 +3065,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Federal state"
           },
           {
             "name": "GeoCodes",
@@ -3436,7 +3436,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100 000 inhabitants",
+                "per 100 000 inhabitants",
                 ""
               ]
             },
@@ -3462,7 +3462,7 @@
                 "a) criminal offences (overall)",
                 "other criminal offences",
                 "serious and grievous bodily harm",
-                "fraud",
+                "Fraud",
                 "burglary in homes",
                 ""
               ]
@@ -4092,8 +4092,8 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -4196,7 +4196,7 @@
             "constraints": {
               "enum": [
                 "north sea",
-                "Baltic Sea",
+                "Baltic sea",
                 ""
               ]
             },
@@ -4535,8 +4535,8 @@
             "constraints": {
               "enum": [
                 "a) rural and non-rural areas",
-                "non-rural areas",
-                "rural areas",
+                "Non-rural areas",
+                "Rural areas",
                 ""
               ]
             },
@@ -4618,7 +4618,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "Bundesland",
@@ -4828,8 +4828,8 @@
             "constraints": {
               "enum": [
                 "a) rural and non-rural areas",
-                "non-rural areas",
-                "rural areas",
+                "Non-rural areas",
+                "Rural areas",
                 ""
               ]
             },

@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age"
           },
           {
             "name": "Bundesland",

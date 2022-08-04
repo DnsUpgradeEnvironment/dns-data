@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Je 100 000 Einwohner",
+                "per 100 000 inhabitants",
                 ""
               ]
             },

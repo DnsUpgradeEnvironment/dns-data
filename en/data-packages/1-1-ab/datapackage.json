@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -55,12 +55,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eu-28",
-                "germany",
+                "EU-28",
+                "Germany",
                 ""
               ]
             },
-            "title": "area"
+            "title": "Area"
           },
           {
             "name": "Value",

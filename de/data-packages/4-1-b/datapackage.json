@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -56,8 +56,8 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "weiblich",
-                "männlich",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },

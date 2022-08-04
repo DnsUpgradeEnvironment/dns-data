@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
+            "title": "Year"
           },
           {
             "name": "Units",
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "final energy productivity",
-                "primary energy consumption",
+                "Endenergieproduktivität",
+                "Primärenergieverbrauch",
                 ""
               ]
             },
@@ -62,7 +62,7 @@
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCodes",

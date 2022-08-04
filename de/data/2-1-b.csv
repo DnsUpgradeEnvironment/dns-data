@@ -1,4 +1,4 @@
-Year,Units,Zeitreihen,Bundesland,GeoCode,Value
+Year,Units,timeseries,Bundesland,GeoCode,Value
 1999.0,percentage (%),data from destatis,a) germany (total),,2.85
 2001.0,percentage (%),data from destatis,a) germany (total),,3.57
 2003.0,percentage (%),data from destatis,a) germany (total),,4.3
