@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct and indirect raw material consumption",
-                "Direct and indirect energy consumption",
-                "Direct and indirect CO2 emissions",
+                "direct and indirect raw material consumption",
+                "direct and indirect energy consumption",
+                "direct and indirect co2 emissions",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

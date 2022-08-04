@@ -1,4 +1,4 @@
-Year,Units,Anzeigen,Value
-2015,1 000,Zeitreihe,355
-2018,1 000,Zeitreihe,863
-2030,1 000,Ziel,473
+Year,Units,display,Value
+2015,1 000,a) time series,355
+2018,1 000,a) time series,863
+2030,1 000,b) target (min),473

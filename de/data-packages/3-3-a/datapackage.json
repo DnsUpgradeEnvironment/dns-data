@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen Euro",
+                "mio. eur",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Pandemieprävention und -reaktion",
-                "b) Eindämmung der COVID-19-Pandemie",
+                "a) pandemic prevention and reaction",
+                "b) containment of the covid-19 pandemic",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

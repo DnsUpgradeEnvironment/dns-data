@@ -1,9 +1,9 @@
-Year,Units,Display,Value
-2012,Percentage,Time series,3.6
-2013,Percentage,Time series,4.4
-2014,Percentage,Time series,5.9
-2015,Percentage,Time series,7.6
-2016,Percentage,Time series,8.6
-2017,Percentage,Time series,8.3
-2018,Percentage,Time series,7.5
-2030,Percentage,Target,34.0
+Year,Units,display,Value
+2012,percentage (%),a) time series,3.6
+2013,percentage (%),a) time series,4.4
+2014,percentage (%),a) time series,5.9
+2015,percentage (%),a) time series,7.6
+2016,percentage (%),a) time series,8.6
+2017,percentage (%),a) time series,8.3
+2018,percentage (%),a) time series,7.5
+2030,percentage (%),b) target (min),34.0

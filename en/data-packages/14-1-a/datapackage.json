@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milligrams per litre",
+                "mg/l",
                 ""
               ]
             },
@@ -31,20 +31,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "sea",
             "type": "string",
             "constraints": {
               "enum": [
-                "North sea",
-                "Baltic sea",
+                "north sea",
+                "Baltic Sea",
                 ""
               ]
             },

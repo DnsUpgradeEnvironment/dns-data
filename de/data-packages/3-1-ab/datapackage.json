@@ -31,20 +31,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Frauen",
-                "Männer",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -55,27 +55,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland",
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ziel",
-                "Zeitreihe",
+                "b) target (max)",
+                "a) time series",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "Value",

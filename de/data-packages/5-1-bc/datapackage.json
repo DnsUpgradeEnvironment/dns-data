@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "in Aufsichtsräten von börsennotierten und paritätisch mitbestimmten Unternehmen",
-                "in Führungspositionen im öffentlichen Dienst",
+                "economy",
+                "civil service",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

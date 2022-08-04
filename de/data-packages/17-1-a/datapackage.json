@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Berechnung als Netto-Ausgabe",
-                "Berechnung in Zuschussäquivalenten",
+                "calculation as net expenditure",
+                "calculation in grant equivalents",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

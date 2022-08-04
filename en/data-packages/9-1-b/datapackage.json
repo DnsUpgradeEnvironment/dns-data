@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,25 +31,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "All line-based technologies",
-                "Pure fiber optic networks (FTTB/H)",
-                "Cable television (CATV)",
+                "all line-based technologies",
+                "pure fiber optic networks (fttb/h)",
+                "cable television (catv)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

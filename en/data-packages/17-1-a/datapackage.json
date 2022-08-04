@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Calculation as net expenditure",
-                "Calculation in grant equivalents",
+                "calculation as net expenditure",
+                "calculation in grant equivalents",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

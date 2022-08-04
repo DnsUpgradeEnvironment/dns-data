@@ -31,36 +31,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
-                "Baden-Wuerttemberg",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "a) germany (total)",
+                "bw",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "st",
+                "sh",
+                "th",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

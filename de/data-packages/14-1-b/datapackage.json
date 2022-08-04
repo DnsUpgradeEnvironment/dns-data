@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,31 +31,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte an allen bewirtschafteten Beständen",
+                "proportion of sustainable managed stocks in all msy examined stocks",
+                "proportion of msy examined in all managed stocks",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "sea",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nordsee",
+                "north sea",
                 "Ostsee",
                 ""
               ]

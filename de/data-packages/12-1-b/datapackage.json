@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direkter und indirekter Rohstoffeinsatz",
-                "Direkter und indirekter Energieverbrauch",
-                "Direkte und indirekte CO<sub>2</sub>-Emissionen",
+                "direct and indirect raw material consumption",
+                "direct and indirect energy consumption",
+                "direct and indirect co2 emissions",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

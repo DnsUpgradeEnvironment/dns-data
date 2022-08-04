@@ -31,54 +31,54 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "criminal offences",
             "type": "string",
             "constraints": {
               "enum": [
-                "Criminal offences (overall)",
-                "Other criminal offences",
-                "Serious and grievous bodily harm",
-                "Fraud",
-                "Burglary in homes",
+                "a) criminal offences (overall)",
+                "other criminal offences",
+                "serious and grievous bodily harm",
+                "fraud",
+                "burglary in homes",
                 ""
               ]
             },
-            "title": "Criminal offences"
+            "title": "criminal offences"
           },
           {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

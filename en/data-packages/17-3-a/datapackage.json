@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Imports of processed products from LDCs",
-                "Imports from LDCs",
+                "imports of processed products from ldcs",
+                "imports from ldcs",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

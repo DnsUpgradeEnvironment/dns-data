@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hectares per day",
+                "ha/d",
                 ""
               ]
             },
@@ -31,26 +31,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sports, leisure and recreation area, graveyard",
-                null,
-                "Transport area",
-                "Total (moving four-year average)",
+                "sports, leisure and recreation area, graveyard",
+                "living space, industrial and commercial space (without mining land), public facilities",
+                "transport area",
+                "a) total (moving four-year average)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

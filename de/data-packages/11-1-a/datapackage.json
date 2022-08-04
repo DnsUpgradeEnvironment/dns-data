@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hektar pro Tag",
+                "ha/d",
                 ""
               ]
             },
@@ -31,26 +31,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sport-, Freizeit- und Erholungsfläche, Friedhof",
-                "Wohnbau, Industrie und Gewerbe (ohne Abbauland), Öffentliche Einrichtungen",
-                "Verkehrsfläche",
-                "Insgesamt (gleitender Vierjahresdurchschnitt)",
+                "sports, leisure and recreation area, graveyard",
+                "living space, industrial and commercial space (without mining land), public facilities",
+                "transport area",
+                "a) total (moving four-year average)",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

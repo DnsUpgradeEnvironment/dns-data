@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Total",
-                "%",
+                "Percentage (%)",
                 ""
               ]
             },
@@ -32,38 +32,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Final energy productivity",
-                "Primary energy consumption",
+                "a) final energy productivity",
+                "b) primary energy consumption",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                "Saarland",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sn",
+                "st",
+                "sh",
+                "th",
+                "sl",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

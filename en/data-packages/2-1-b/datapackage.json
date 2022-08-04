@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data from Destatis",
-                "Data from BMEL",
+                "data from destatis",
+                "data from bmel",
                 ""
               ]
             },
@@ -43,27 +43,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

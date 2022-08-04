@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bündnis für nachhaltige Textilien",
+                "partnership for sustainable textiles",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

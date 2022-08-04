@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millions",
+                "mio.",
                 ""
               ]
             },
@@ -31,24 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total objects",
+                "total objects",
                 "objects with digitalisat",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

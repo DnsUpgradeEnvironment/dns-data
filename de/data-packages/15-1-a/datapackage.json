@@ -31,28 +31,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "f) Index insgesamt",
-                "a) Teilindex Wälder",
-                "b) Teilindex Siedlungen",
-                "c) Teilindex Agrarland",
-                "d) Teilindex Binnengewässer",
-                "e) Teilindex Küsten/Meere",
+                "f) index overall",
+                "a) sub-index forests",
+                "b) sub-index settlements",
+                "c) sub-index farmland",
+                "d) sub-index inland waters",
+                "e) sub-index coasts/seas",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

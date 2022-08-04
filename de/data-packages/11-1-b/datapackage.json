@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Quadratmeter pro Jahr",
+                "m2/(inhabitant*a)",
                 ""
               ]
             },
@@ -31,39 +31,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "insgesamt",
-                "nicht ländliche Räume",
-                "ländliche Räume",
+                "a) rural and non-rural areas",
+                "non-rural areas",
+                "rural areas",
                 ""
               ]
             },
-            "title": "Räumliche Typologie"
+            "title": "typification"
           },
           {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

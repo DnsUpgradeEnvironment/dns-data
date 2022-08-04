@@ -1,4 +1,4 @@
 From,To
-Anzeigen,Zeitreihe
-Zeitreihe,Geschlecht
-Geschlecht,Region
+display,title
+title,Geschlecht
+Geschlecht,Bundesland

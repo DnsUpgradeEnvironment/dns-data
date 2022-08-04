@@ -1,29 +1,29 @@
-Year,Units,Anzeigen,Value
-2006,Anzahl,Zeitreihe,8.0
-2007,Anzahl,Zeitreihe,6.0
-2008,Anzahl,Zeitreihe,8.0
-2009,Anzahl,Zeitreihe,2.0
-2010,Anzahl,Zeitreihe,3.0
-2011,Anzahl,Zeitreihe,11.0
-2012,Anzahl,Zeitreihe,15.0
-2013,Anzahl,Zeitreihe,14.0
-2014,Anzahl,Zeitreihe,15.0
-2015,Anzahl,Zeitreihe,26.0
-2016,Anzahl,Zeitreihe,26.0
-2017,Anzahl,Zeitreihe,19.0
-2018,Anzahl,Zeitreihe,36.0
-2019,Anzahl,Zeitreihe,31.0
-2006,Anzahl,Ziel,15.0
-2007,Anzahl,Ziel,15.0
-2008,Anzahl,Ziel,15.0
-2009,Anzahl,Ziel,15.0
-2010,Anzahl,Ziel,15.0
-2011,Anzahl,Ziel,15.0
-2012,Anzahl,Ziel,15.0
-2013,Anzahl,Ziel,15.0
-2014,Anzahl,Ziel,15.0
-2015,Anzahl,Ziel,15.0
-2016,Anzahl,Ziel,15.0
-2017,Anzahl,Ziel,15.0
-2018,Anzahl,Ziel,15.0
-2019,Anzahl,Ziel,15.0
+Year,Units,display,Value
+2006,Anzahl,a) time series,8.0
+2007,Anzahl,a) time series,6.0
+2008,Anzahl,a) time series,8.0
+2009,Anzahl,a) time series,2.0
+2010,Anzahl,a) time series,3.0
+2011,Anzahl,a) time series,11.0
+2012,Anzahl,a) time series,15.0
+2013,Anzahl,a) time series,14.0
+2014,Anzahl,a) time series,15.0
+2015,Anzahl,a) time series,26.0
+2016,Anzahl,a) time series,26.0
+2017,Anzahl,a) time series,19.0
+2018,Anzahl,a) time series,36.0
+2019,Anzahl,a) time series,31.0
+2006,Anzahl,b) target (min),15.0
+2007,Anzahl,b) target (min),15.0
+2008,Anzahl,b) target (min),15.0
+2009,Anzahl,b) target (min),15.0
+2010,Anzahl,b) target (min),15.0
+2011,Anzahl,b) target (min),15.0
+2012,Anzahl,b) target (min),15.0
+2013,Anzahl,b) target (min),15.0
+2014,Anzahl,b) target (min),15.0
+2015,Anzahl,b) target (min),15.0
+2016,Anzahl,b) target (min),15.0
+2017,Anzahl,b) target (min),15.0
+2018,Anzahl,b) target (min),15.0
+2019,Anzahl,b) target (min),15.0

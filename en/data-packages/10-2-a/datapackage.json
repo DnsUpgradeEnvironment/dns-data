@@ -20,27 +20,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini coefficient of equivalised income before social transfers",
-                "Gini coefficient of equivalised disposable income",
-                "Gini coefficient of market income",
-                "Gini coefficient of wealth",
+                "gini coefficient of equivalised income before social transfers",
+                "gini coefficient of equivalised disposable income",
+                "gini coefficient of market income",
+                "gini coefficient of wealth",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
-                "EU-28",
-                "Euro zone",
+                "germany",
+                "eu-28",
+                "euro zone",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "area"
           },
           {
             "name": "Value",

@@ -1,23 +1,23 @@
-Year,Units,Zeitreihe,Value
-2009,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),3.0
-2010,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),20.0
-2011,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),12.0
-2012,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),24.9
-2013,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),36.3
-2014,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),31.0
-2015,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),15.7
-2016,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),59.75
-2017,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),67.95
-2018,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),63.0
-2019,Millionen Euro,REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz),63.5
-2009,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),40.01
-2010,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),152.5
-2011,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),198.59
-2012,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),245.26
-2013,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),248.73
-2014,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),239.73
-2015,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),271.92
-2016,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),347.38
-2017,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),483.42
-2018,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),571.84
-2019,Millionen Euro,Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz),745.58
+Year,Units,title,Value
+2009,mio. eur,redd+,3.0
+2010,mio. eur,redd+,20.0
+2011,mio. eur,redd+,12.0
+2012,mio. eur,redd+,24.9
+2013,mio. eur,redd+,36.3
+2014,mio. eur,redd+,31.0
+2015,mio. eur,redd+,15.7
+2016,mio. eur,redd+,59.75
+2017,mio. eur,redd+,67.95
+2018,mio. eur,redd+,63.0
+2019,mio. eur,redd+,63.5
+2009,mio. eur,soil conservation,40.01
+2010,mio. eur,soil conservation,152.5
+2011,mio. eur,soil conservation,198.59
+2012,mio. eur,soil conservation,245.26
+2013,mio. eur,soil conservation,248.73
+2014,mio. eur,soil conservation,239.73
+2015,mio. eur,soil conservation,271.92
+2016,mio. eur,soil conservation,347.38
+2017,mio. eur,soil conservation,483.42
+2018,mio. eur,soil conservation,571.84
+2019,mio. eur,soil conservation,745.58

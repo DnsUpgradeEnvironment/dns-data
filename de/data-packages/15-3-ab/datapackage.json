@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen Euro",
+                "mio. eur",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "REDD+ (ergebnisbasierte Auszahlungen für internationalen Waldschutz)",
-                "Internationaler Bodenschutz (Bruttoentwicklungsausgaben für internationalen Bodenschutz)",
+                "redd+",
+                "soil conservation",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

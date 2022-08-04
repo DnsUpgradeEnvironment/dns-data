@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overweight without obese",
-                "Obese",
+                "a) overweight",
+                "b) obese",
                 ""
               ]
             },
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
@@ -55,8 +55,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3- to 10-year-olds",
-                "11- to 17-year-olds",
+                "a) 3- to 10-year-olds",
+                "b) 11- to 17-year-olds",
                 ""
               ]
             },

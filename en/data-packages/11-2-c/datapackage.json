@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Minutes",
+                "min.",
                 ""
               ]
             },
@@ -31,38 +31,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "In relation to the middle and upper centers of the respective year",
-                "In relation to the middle and upper centers of the year 2012",
+                "in relation to the middle and upper centers of the respective year",
+                "in relation to the middle and upper centers of the year 2012",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "dimension"
           },
           {
             "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

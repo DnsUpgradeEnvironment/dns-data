@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " ",
+                "index/number",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bewertung für Deutschland",
-                "Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat",
+                "rating for germany",
+                "number of partner countries of german development cooperation whose rating has improved compared with 2012",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

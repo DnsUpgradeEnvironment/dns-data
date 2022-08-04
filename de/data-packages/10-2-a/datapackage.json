@@ -20,27 +20,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
-                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
-                "Gini-Koeffizient des Markteinkommens",
-                "Gini-Koeffizient des Vermögens",
+                "gini coefficient of equivalised income before social transfers",
+                "gini coefficient of equivalised disposable income",
+                "gini coefficient of market income",
+                "gini coefficient of wealth",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland",
-                "EU-28",
-                "Eurozone",
+                "germany",
+                "eu-28",
+                "euro zone",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "area"
           },
           {
             "name": "Value",

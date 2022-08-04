@@ -31,28 +31,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Index overall",
-                "Sub-index forests",
-                "Sub-index settlements",
-                "Sub-index farmland",
-                "Sub-index inland waters",
-                "Sub-index coasts/seas",
+                "f) index overall",
+                "a) sub-index forests",
+                "b) sub-index settlements",
+                "c) sub-index farmland",
+                "d) sub-index inland waters",
+                "e) sub-index coasts/seas",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

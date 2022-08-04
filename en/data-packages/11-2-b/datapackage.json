@@ -31,25 +31,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Passenger transport performance",
-                "Final energy consumption per passenger-kilometre",
-                "Final energy consumption in passenger transport",
+                "passenger transport performance",
+                "final energy consumption per passenger-kilometre",
+                "final energy consumption in passenger transport",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

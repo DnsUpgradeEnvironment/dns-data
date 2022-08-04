@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen",
+                "mio.",
                 ""
               ]
             },
@@ -31,25 +31,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Trinkwasser- und Sanitärversorgung",
-                "Trinkwasserversorgung",
-                "Sanitärversorgung",
+                "a) drinking water and sanitation",
+                "b) drinking water",
+                "c) sanitation",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

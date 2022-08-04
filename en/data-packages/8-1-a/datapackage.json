@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
+                "a) time series",
                 ""
               ]
             },
@@ -42,13 +42,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Consumption, investments and exports (price-adjusted)",
-                "Raw material use for consumption, investments and exports",
-                "Raw material input productivity",
+                "consumption, investments and exports (price-adjusted)",
+                "raw material use for consumption, investments and exports",
+                "raw material input productivity",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

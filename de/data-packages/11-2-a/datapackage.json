@@ -31,25 +31,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Endenergieverbrauch durch Güterbeförderung",
-                "Güterbeförderungsleistung",
-                "Energieverbrauch je Tonnenkilometer",
+                "final energy consumption for the carriage of goods",
+                "goods transport performance",
+                "final energy consumption per tonne-kilometre",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "Value",

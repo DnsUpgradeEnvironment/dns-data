@@ -31,11 +31,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Partnership for sustainable textiles",
+                "partnership for sustainable textiles",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

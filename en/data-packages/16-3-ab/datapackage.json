@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " ",
+                "index/number",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rating for germany",
-                "Number of partner countries of german development cooperation whose rating has improved compared with 2012",
+                "rating for germany",
+                "number of partner countries of german development cooperation whose rating has improved compared with 2012",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millions of euros",
+                "mio. eur",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pandemic prevention and reaction",
-                "containment of the covid-19 pandemic",
+                "a) pandemic prevention and reaction",
+                "b) containment of the covid-19 pandemic",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "Value",

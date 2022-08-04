@@ -1,40 +1,40 @@
-Year,Units,Anzeigen,Zeitreihe,Value
-2002,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.356
-2003,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.486
-2004,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.489
-2005,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.398
-2006,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.446
-2007,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.45
-2008,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.356
-2009,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.517
-2010,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.472
-2011,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.543
-2012,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.544
-2013,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.624
-2014,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.658
-2015,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.758
-2016,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.82
-2017,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.882
-2018,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.894
-2019,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.894
-2020,Prozent,Zeitreihe,Einfuhren von weiterverarbeiteten Produkten aus LDCs,0.917
-2002,Prozent,Zeitreihe,Einfuhren aus LDCs,0.435
-2003,Prozent,Zeitreihe,Einfuhren aus LDCs,0.524
-2004,Prozent,Zeitreihe,Einfuhren aus LDCs,0.52
-2005,Prozent,Zeitreihe,Einfuhren aus LDCs,0.439
-2006,Prozent,Zeitreihe,Einfuhren aus LDCs,0.49
-2007,Prozent,Zeitreihe,Einfuhren aus LDCs,0.521
-2008,Prozent,Zeitreihe,Einfuhren aus LDCs,0.459
-2009,Prozent,Zeitreihe,Einfuhren aus LDCs,0.581
-2010,Prozent,Zeitreihe,Einfuhren aus LDCs,0.534
-2011,Prozent,Zeitreihe,Einfuhren aus LDCs,0.673
-2012,Prozent,Zeitreihe,Einfuhren aus LDCs,0.618
-2013,Prozent,Zeitreihe,Einfuhren aus LDCs,0.708
-2014,Prozent,Zeitreihe,Einfuhren aus LDCs,0.714
-2015,Prozent,Zeitreihe,Einfuhren aus LDCs,0.811
-2016,Prozent,Zeitreihe,Einfuhren aus LDCs,0.876
-2017,Prozent,Zeitreihe,Einfuhren aus LDCs,0.936
-2018,Prozent,Zeitreihe,Einfuhren aus LDCs,0.94
-2019,Prozent,Zeitreihe,Einfuhren aus LDCs,0.942
-2020,Prozent,Zeitreihe,Einfuhren aus LDCs,0.981
-2030,Prozent,Ziel,Einfuhren aus LDCs,1.43
+Year,Units,display,title,Value
+2002,percentage (%),a) time series,imports of processed products from ldcs,0.356
+2003,percentage (%),a) time series,imports of processed products from ldcs,0.486
+2004,percentage (%),a) time series,imports of processed products from ldcs,0.489
+2005,percentage (%),a) time series,imports of processed products from ldcs,0.398
+2006,percentage (%),a) time series,imports of processed products from ldcs,0.446
+2007,percentage (%),a) time series,imports of processed products from ldcs,0.45
+2008,percentage (%),a) time series,imports of processed products from ldcs,0.356
+2009,percentage (%),a) time series,imports of processed products from ldcs,0.517
+2010,percentage (%),a) time series,imports of processed products from ldcs,0.472
+2011,percentage (%),a) time series,imports of processed products from ldcs,0.543
+2012,percentage (%),a) time series,imports of processed products from ldcs,0.544
+2013,percentage (%),a) time series,imports of processed products from ldcs,0.624
+2014,percentage (%),a) time series,imports of processed products from ldcs,0.658
+2015,percentage (%),a) time series,imports of processed products from ldcs,0.758
+2016,percentage (%),a) time series,imports of processed products from ldcs,0.82
+2017,percentage (%),a) time series,imports of processed products from ldcs,0.882
+2018,percentage (%),a) time series,imports of processed products from ldcs,0.894
+2019,percentage (%),a) time series,imports of processed products from ldcs,0.894
+2020,percentage (%),a) time series,imports of processed products from ldcs,0.917
+2002,percentage (%),a) time series,imports from ldcs,0.435
+2003,percentage (%),a) time series,imports from ldcs,0.524
+2004,percentage (%),a) time series,imports from ldcs,0.52
+2005,percentage (%),a) time series,imports from ldcs,0.439
+2006,percentage (%),a) time series,imports from ldcs,0.49
+2007,percentage (%),a) time series,imports from ldcs,0.521
+2008,percentage (%),a) time series,imports from ldcs,0.459
+2009,percentage (%),a) time series,imports from ldcs,0.581
+2010,percentage (%),a) time series,imports from ldcs,0.534
+2011,percentage (%),a) time series,imports from ldcs,0.673
+2012,percentage (%),a) time series,imports from ldcs,0.618
+2013,percentage (%),a) time series,imports from ldcs,0.708
+2014,percentage (%),a) time series,imports from ldcs,0.714
+2015,percentage (%),a) time series,imports from ldcs,0.811
+2016,percentage (%),a) time series,imports from ldcs,0.876
+2017,percentage (%),a) time series,imports from ldcs,0.936
+2018,percentage (%),a) time series,imports from ldcs,0.94
+2019,percentage (%),a) time series,imports from ldcs,0.942
+2020,percentage (%),a) time series,imports from ldcs,0.981
+2030,percentage (%),b) target (min),imports from ldcs,1.43

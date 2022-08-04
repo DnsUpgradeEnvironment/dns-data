@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,21 +31,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zeitreihe",
-                "Ziel",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Anzeigen"
+            "title": "display"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "Weiblich",
-                "Männlich",
+                "a) total",
+                "weiblich",
+                "männlich",
                 ""
               ]
             },
@@ -56,8 +56,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "20 bis 64 Jahre",
-                "60 bis 64 Jahre",
+                "20 - 64 years",
+                "60 - 64 years",
                 ""
               ]
             },
@@ -68,27 +68,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland",
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "a) germany (total)",
+                "bw",
+                "by",
+                "be",
+                "bb",
+                "hb",
+                "hh",
+                "he",
+                "mv",
+                "ni",
+                "nw",
+                "rp",
+                "sl",
+                "sn",
+                "st",
+                "sh",
+                "th",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",

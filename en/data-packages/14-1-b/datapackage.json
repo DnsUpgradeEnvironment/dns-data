@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,32 +31,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (min)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "title",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of sustainable managed stocks in all MSY examined stocks",
-                "Proportion of MSY examined in all managed stocks",
+                "proportion of sustainable managed stocks in all msy examined stocks",
+                "proportion of msy examined in all managed stocks",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "title"
           },
           {
             "name": "sea",
             "type": "string",
             "constraints": {
               "enum": [
-                "North sea",
-                "Baltic sea",
+                "north sea",
+                "Baltic Sea",
                 ""
               ]
             },

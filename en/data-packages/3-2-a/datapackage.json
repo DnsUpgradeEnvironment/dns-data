@@ -31,28 +31,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Time series",
-                "Target",
+                "a) time series",
+                "b) target (max)",
                 ""
               ]
             },
-            "title": "Display"
+            "title": "display"
           },
           {
             "name": "air pollutants",
             "type": "string",
             "constraints": {
               "enum": [
-                "Air pollutants overall",
-                "SO<sub>2</sub>",
-                "NO<sub>x</sub>",
-                "NH<sub>3</sub>",
-                "NMVOC",
-                "PM<sub>2.5</sub>",
+                "air pollutants overall",
+                "so2",
+                "nox",
+                "nh3",
+                "nmvoc",
+                "pm2.5",
                 ""
               ]
             },
-            "title": "Air pollutants"
+            "title": "air pollutants"
           },
           {
             "name": "Value",

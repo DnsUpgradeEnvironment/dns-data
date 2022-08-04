@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "percentage (%)",
                 ""
               ]
             },
@@ -31,20 +31,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Materiell Deprivierte",
-                "Erhebliche materiell Deprivierte",
+                "a) materially deprived persons",
+                "b) severely materially deprived persons",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "title"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "weiblich",
+                "männlich",
                 ""
               ]
             },
@@ -55,12 +55,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU-28",
-                "Deutschland",
+                "eu-28",
+                "germany",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "area"
           },
           {
             "name": "Value",
