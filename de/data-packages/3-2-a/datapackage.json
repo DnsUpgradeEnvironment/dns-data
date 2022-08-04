@@ -44,9 +44,9 @@
             "constraints": {
               "enum": [
                 "air pollutants overall",
-                "SO2",
-                "NOx",
-                "NH3",
+                "so2",
+                "nox",
+                "nh3",
                 "NMVOC",
                 "PM2.5",
                 ""
