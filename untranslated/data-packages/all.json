@@ -376,18 +376,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) materially deprived persons",
-                "b) severely materially deprived persons",
+                "material deprivation",
+                "severe material deprivation",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "european union",
+                "germany",
                 ""
               ]
             }
@@ -399,17 +410,6 @@
               "enum": [
                 "female",
                 "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "eu-28",
-                "germany",
                 ""
               ]
             }
@@ -902,7 +902,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg/ha",
+                "kilogram per hectare",
                 ""
               ]
             }
@@ -912,8 +912,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) moving five year average referring to the middle year",
-                "b) calculated annual values",
+                "moving five-year average shown for each middle year",
+                "calculated annual values",
                 ""
               ]
             }
@@ -1747,7 +1747,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
@@ -4295,58 +4295,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "data from destatis",
-                "data from bmel",
+                "data from the federal statistical office",
+                "data from the federal ministry of food and agriculture",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
           },
           {
-            "name": "GeoCode",
-            "type": "string"
+            "name": "GeoCodes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "code08",
+                "code09",
+                "code11",
+                "code12",
+                "code04",
+                "code02",
+                "code06",
+                "code13",
+                "code03",
+                "code05",
+                "code07",
+                "code10",
+                "code14",
+                "code15",
+                "code01",
+                "code16",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

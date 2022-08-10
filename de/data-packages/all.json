@@ -408,23 +408,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) materially deprived persons",
-                "b) severely materially deprived persons",
+                "Materielle Deprivation",
+                "Erhebliche materielle Deprivation",
                 ""
               ]
             },
-            "title": "title"
+            "title": "time series"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eropäische Union",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Gebiet"
           },
           {
             "name": "sex",
@@ -437,18 +449,6 @@
               ]
             },
             "title": "Geschlecht"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU-28",
-                "Deutschland",
-                ""
-              ]
-            },
-            "title": "Gebiet"
           },
           {
             "name": "Value",
@@ -979,7 +979,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg/ha",
+                "Kilogramm pro Hektar",
                 ""
               ]
             },
@@ -990,8 +990,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) moving five year average referring to the middle year",
-                "b) calculated annual values",
+                "Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr",
+                "Berechnete jährliche Werte",
                 ""
               ]
             },
@@ -1863,7 +1863,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Prozent",
                 ""
               ]
             },
@@ -4594,7 +4594,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -4602,55 +4602,75 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "data from destatis",
-                "data from bmel",
+                "Daten des Statistischen Bundesamtes",
+                "Daten des BMEL",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "time series"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
             "title": "Bundesland"
           },
           {
-            "name": "GeoCode",
+            "name": "GeoCodes",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "code08",
+                "code09",
+                "code11",
+                "code12",
+                "code04",
+                "code02",
+                "code06",
+                "code13",
+                "code03",
+                "code05",
+                "code07",
+                "code10",
+                "code14",
+                "code15",
+                "code01",
+                "code16",
+                ""
+              ]
+            },
+            "title": "GeoCodes"
           },
           {
             "name": "Value",

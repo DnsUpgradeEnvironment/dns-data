@@ -20,23 +20,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) materially deprived persons",
-                "b) severely materially deprived persons",
+                "Material deprivation",
+                "Severe material deprivation",
                 ""
               ]
             },
-            "title": "title"
+            "title": "time series"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "European Union",
+                "Germany",
+                ""
+              ]
+            },
+            "title": "Area"
           },
           {
             "name": "sex",
@@ -49,18 +61,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU-28",
-                "Germany",
-                ""
-              ]
-            },
-            "title": "Area"
           },
           {
             "name": "Value",

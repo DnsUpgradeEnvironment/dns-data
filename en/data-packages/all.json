@@ -408,23 +408,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) materially deprived persons",
-                "b) severely materially deprived persons",
+                "Material deprivation",
+                "Severe material deprivation",
                 ""
               ]
             },
-            "title": "title"
+            "title": "time series"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "European Union",
+                "Germany",
+                ""
+              ]
+            },
+            "title": "Area"
           },
           {
             "name": "sex",
@@ -437,18 +449,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU-28",
-                "Germany",
-                ""
-              ]
-            },
-            "title": "Area"
           },
           {
             "name": "Value",
@@ -979,7 +979,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kg/ha",
+                "Kilogram per hectare",
                 ""
               ]
             },
@@ -990,8 +990,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) moving five year average referring to the middle year",
-                "b) calculated annual values",
+                "Moving five-year average shown for each middle year",
+                "Calculated annual values",
                 ""
               ]
             },
@@ -1863,7 +1863,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
@@ -4594,7 +4594,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -4602,55 +4602,75 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "data from destatis",
-                "data from bmel",
+                "Data from the Federal Statistical Office",
+                "Data from the Federal Ministry of Food and Agriculture",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "time series"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
-            "name": "GeoCode",
+            "name": "GeoCodes",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "code08",
+                "code09",
+                "code11",
+                "code12",
+                "code04",
+                "code02",
+                "code06",
+                "code13",
+                "code03",
+                "code05",
+                "code07",
+                "code10",
+                "code14",
+                "code15",
+                "code01",
+                "code16",
+                ""
+              ]
+            },
+            "title": "GeoCodes"
           },
           {
             "name": "Value",
