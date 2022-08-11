@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Material deprivation",
-                "Severe material deprivation",
+                "material deprivation",
+                "severe material deprivation",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "area",

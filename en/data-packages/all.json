@@ -419,12 +419,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Material deprivation",
-                "Severe material deprivation",
+                "material deprivation",
+                "severe material deprivation",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "area",
@@ -1914,7 +1914,7 @@
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "federal state",
@@ -2253,7 +2253,7 @@
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "age group",
@@ -3062,8 +3062,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Final energy productivity",
-                "Primary energy consumption",
+                "final energy productivity",
+                "primary energy consumption",
                 ""
               ]
             },
@@ -4646,7 +4646,7 @@
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "federal state",
