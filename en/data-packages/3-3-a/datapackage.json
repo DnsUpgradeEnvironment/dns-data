@@ -20,23 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio. eur",
+                "percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) pandemic prevention and reaction",
-                "b) containment of the covid-19 pandemic",
+                "pandemic prevention and response",
+                "separate amount devoted to curbing the covid-19 pandemic",
                 ""
               ]
             },
-            "title": "title"
+            "title": "time series"
           },
           {
             "name": "Value",

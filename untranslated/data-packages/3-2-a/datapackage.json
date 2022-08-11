@@ -25,25 +25,13 @@
             }
           },
           {
-            "name": "display",
+            "name": "air pollutant",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "air pollutants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
+                "so₂",
+                "noₓ",
+                "nh₃",
                 "nmvoc",
                 "pm2.5",
                 ""

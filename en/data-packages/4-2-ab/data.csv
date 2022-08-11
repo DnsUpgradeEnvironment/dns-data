@@ -1543,14 +1543,14 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2017,percentage (%),a) time series,0- to 2-year-olds,,"bremerhaven, stadt",code04012,16.6
 2018,percentage (%),a) time series,0- to 2-year-olds,,"bremerhaven, stadt",code04012,15.4
 2019,percentage (%),a) time series,0- to 2-year-olds,,"bremerhaven, stadt",code04012,15.4
-2012,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,21.0
-2013,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,21.5
-2014,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,21.8
-2015,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,22.7
-2016,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,22.9
-2017,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,25.2
-2018,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,24.6
-2019,percentage (%),a) time series,0- to 2-year-olds,,Hamburg,code02000,27.4
+2012,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,21.0
+2013,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,21.5
+2014,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,21.8
+2015,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,22.7
+2016,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,22.9
+2017,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,25.2
+2018,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,24.6
+2019,percentage (%),a) time series,0- to 2-year-olds,,hamburg,code02000,27.4
 2012,percentage (%),a) time series,0- to 2-year-olds,,"darmstadt, stadt",code06411,14.7
 2013,percentage (%),a) time series,0- to 2-year-olds,,"darmstadt, stadt",code06411,16.6
 2014,percentage (%),a) time series,0- to 2-year-olds,,"darmstadt, stadt",code06411,18.9
@@ -5016,14 +5016,14 @@ Year,Units,display,age,Bundesland,Kreis,GeoCode,Value
 2017,percentage (%),a) time series,3- to 5-year-olds,,"bremerhaven, stadt",code04012,41.1
 2018,percentage (%),a) time series,3- to 5-year-olds,,"bremerhaven, stadt",code04012,40.6
 2019,percentage (%),a) time series,3- to 5-year-olds,,"bremerhaven, stadt",code04012,42.2
-2012,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,38.4
-2013,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,41.5
-2014,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,42.8
-2015,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,46.1
-2016,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,45.6
-2017,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,48.6
-2018,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,47.6
-2019,percentage (%),a) time series,3- to 5-year-olds,,Hamburg,code02000,50.1
+2012,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,38.4
+2013,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,41.5
+2014,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,42.8
+2015,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,46.1
+2016,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,45.6
+2017,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,48.6
+2018,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,47.6
+2019,percentage (%),a) time series,3- to 5-year-olds,,hamburg,code02000,50.1
 2012,percentage (%),a) time series,3- to 5-year-olds,,"darmstadt, stadt",code06411,43.9
 2013,percentage (%),a) time series,3- to 5-year-olds,,"darmstadt, stadt",code06411,46.7
 2014,percentage (%),a) time series,3- to 5-year-olds,,"darmstadt, stadt",code06411,50.3

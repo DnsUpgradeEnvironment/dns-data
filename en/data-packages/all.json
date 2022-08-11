@@ -22,7 +22,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "number",
                 ""
               ]
             },
@@ -76,32 +76,19 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "air pollutant",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "so₂",
+                "noₓ",
+                "nh₃",
+                "nmvoc",
+                "pm2.5",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "air pollutants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
-                "NMVOC",
-                "PM2.5",
-                ""
-              ]
-            },
-            "title": "air pollutants"
+            "title": "air pollutant"
           },
           {
             "name": "Value",
@@ -203,12 +190,12 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age",
@@ -408,7 +395,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage",
                 ""
               ]
             },
@@ -424,31 +411,31 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "area",
             "type": "string",
             "constraints": {
               "enum": [
-                "European Union",
-                "Germany",
+                "european union",
+                "germany",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "area"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -894,7 +881,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage",
                 ""
               ]
             },
@@ -905,25 +892,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "federal state"
           },
           {
             "name": "GeoCodes",
@@ -979,7 +966,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kilogram per hectare",
+                "kilogram per hectare",
                 ""
               ]
             },
@@ -990,8 +977,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Calculated annual values",
-                "Moving five-year average shown for each middle year",
+                "calculated annual values",
+                "moving five-year average shown for each middle year",
                 ""
               ]
             },
@@ -1086,23 +1073,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "millions",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
           },
           {
             "name": "Value",
@@ -1356,7 +1331,7 @@
                 "uckermark",
                 "bremen, stadt",
                 "bremerhaven, stadt",
-                "Hamburg",
+                "hamburg",
                 "darmstadt, stadt",
                 "frankfurt am main, stadt",
                 "offenbach am main, stadt",
@@ -1636,80 +1611,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "total",
+                "with tertiary qualification",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "tertiary or post-secondary non-tertiary education",
-                "tertiary education",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "time series"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -1863,7 +1793,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage",
                 ""
               ]
             },
@@ -1898,7 +1828,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 inhabitants",
+                "per 100,000 inhabitants",
                 ""
               ]
             },
@@ -1914,33 +1844,33 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "federal state"
           },
           {
             "name": "GeoCodes",
@@ -2073,7 +2003,7 @@
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age",
@@ -2237,7 +2167,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage",
                 ""
               ]
             },
@@ -2253,7 +2183,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "age group",
@@ -2265,33 +2195,33 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "federal state"
           },
           {
             "name": "GeoCodes",
@@ -2371,13 +2301,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 "a) total",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Bundesland",
@@ -2439,7 +2369,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "number",
                 ""
               ]
             },
@@ -2524,7 +2454,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -2532,47 +2462,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) overweight",
-                "b) obese",
+                "total",
+                "overweight without obese",
+                "obese",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "time series"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) 3- to 10-year-olds",
-                "b) 11- to 17-year-olds",
-                ""
-              ]
-            },
-            "title": "age"
+            "title": "sex"
           },
           {
             "name": "Value",
@@ -2603,23 +2522,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio. eur",
+                "percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) pandemic prevention and reaction",
-                "b) containment of the covid-19 pandemic",
+                "pandemic prevention and response",
+                "separate amount devoted to curbing the covid-19 pandemic",
                 ""
               ]
             },
-            "title": "title"
+            "title": "time series"
           },
           {
             "name": "Value",
@@ -2650,7 +2569,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "number",
                 ""
               ]
             },
@@ -2817,13 +2736,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
-                "EU-28",
+                "germany",
+                "eu-28",
                 "euro zone",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "area"
           },
           {
             "name": "Value",
@@ -3016,11 +2935,11 @@
             "constraints": {
               "enum": [
                 "north sea",
-                "Baltic sea",
+                "baltic sea",
                 ""
               ]
             },
-            "title": "Sea"
+            "title": "sea"
           },
           {
             "name": "Value",
@@ -3074,26 +2993,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                "Saarland",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                "saarland",
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "federal state"
           },
           {
             "name": "GeoCodes",
@@ -3150,7 +3069,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "number",
                 ""
               ]
             },
@@ -3490,7 +3409,7 @@
                 "a) criminal offences (overall)",
                 "other criminal offences",
                 "serious and grievous bodily harm",
-                "Fraud",
+                "fraud",
                 "burglary in homes",
                 ""
               ]
@@ -3816,7 +3735,7 @@
                 "uckermark",
                 "bremen, stadt",
                 "bremerhaven, stadt",
-                "Hamburg",
+                "hamburg",
                 "darmstadt, stadt",
                 "frankfurt am main, stadt",
                 "offenbach am main, stadt",
@@ -4096,68 +4015,75 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "federal state"
           },
           {
-            "name": "GeoCode",
+            "name": "GeoCodes",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "code08",
+                "code09",
+                "code11",
+                "code12",
+                "code04",
+                "code02",
+                "code06",
+                "code13",
+                "code03",
+                "code05",
+                "code07",
+                "code10",
+                "code14",
+                "code15",
+                "code01",
+                "code16",
+                ""
+              ]
+            },
+            "title": "GeoCodes"
           },
           {
             "name": "Value",
@@ -4224,11 +4150,11 @@
             "constraints": {
               "enum": [
                 "north sea",
-                "Baltic sea",
+                "baltic sea",
                 ""
               ]
             },
-            "title": "Sea"
+            "title": "sea"
           },
           {
             "name": "Value",
@@ -4563,8 +4489,8 @@
             "constraints": {
               "enum": [
                 "a) rural and non-rural areas",
-                "Non-rural areas",
-                "Rural areas",
+                "non-rural areas",
+                "rural areas",
                 ""
               ]
             },
@@ -4630,49 +4556,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Data from the Federal Statistical Office",
-                "Data from the Federal Ministry of Food and Agriculture",
+                "data from the federal statistical office",
+                "data from the federal ministry of food and agriculture",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Federal state"
+            "title": "federal state"
           },
           {
             "name": "GeoCodes",
@@ -4876,8 +4802,8 @@
             "constraints": {
               "enum": [
                 "a) rural and non-rural areas",
-                "Non-rural areas",
-                "Rural areas",
+                "non-rural areas",
+                "rural areas",
                 ""
               ]
             },

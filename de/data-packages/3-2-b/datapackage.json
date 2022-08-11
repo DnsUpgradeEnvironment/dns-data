@@ -20,23 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "Millionen",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
           },
           {
             "name": "Value",

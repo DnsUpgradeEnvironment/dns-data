@@ -1,37 +1,37 @@
-Year,Units,timeseries,Geschlecht,age,Value
-2003-2006,percentage (%),a) overweight,,a) 3- to 10-year-olds,7.7
-2014-2017,percentage (%),a) overweight,,a) 3- to 10-year-olds,8.4
-2003-2006,percentage (%),a) overweight,Weiblich,a) 3- to 10-year-olds,7.6
-2014-2017,percentage (%),a) overweight,Weiblich,a) 3- to 10-year-olds,9.0
-2003-2006,percentage (%),a) overweight,Männlich,a) 3- to 10-year-olds,7.9
-2014-2017,percentage (%),a) overweight,Männlich,a) 3- to 10-year-olds,7.8
-2003-2006,percentage (%),b) obese,,a) 3- to 10-year-olds,5.2
-2014-2017,percentage (%),b) obese,,a) 3- to 10-year-olds,3.9
-2003-2006,percentage (%),b) obese,Weiblich,a) 3- to 10-year-olds,5.2
-2014-2017,percentage (%),b) obese,Weiblich,a) 3- to 10-year-olds,3.9
-2003-2006,percentage (%),b) obese,Männlich,a) 3- to 10-year-olds,5.2
-2014-2017,percentage (%),b) obese,Männlich,a) 3- to 10-year-olds,3.9
-2003-2006,percentage (%),,,a) 3- to 10-year-olds,12.9
-2014-2017,percentage (%),,,a) 3- to 10-year-olds,12.3
-2003-2006,percentage (%),,Weiblich,a) 3- to 10-year-olds,12.8
-2014-2017,percentage (%),,Weiblich,a) 3- to 10-year-olds,12.9
-2003-2006,percentage (%),,Männlich,a) 3- to 10-year-olds,13.1
-2014-2017,percentage (%),,Männlich,a) 3- to 10-year-olds,11.7
-2003-2006,percentage (%),a) overweight,,b) 11- to 17-year-olds,9.8
-2014-2017,percentage (%),a) overweight,,b) 11- to 17-year-olds,10.7
-2003-2006,percentage (%),a) overweight,Weiblich,b) 11- to 17-year-olds,9.7
-2014-2017,percentage (%),a) overweight,Weiblich,b) 11- to 17-year-olds,10.6
-2003-2006,percentage (%),a) overweight,Männlich,b) 11- to 17-year-olds,10.0
-2014-2017,percentage (%),a) overweight,Männlich,b) 11- to 17-year-olds,10.9
-2003-2006,percentage (%),b) obese,,b) 11- to 17-year-olds,8.3
-2014-2017,percentage (%),b) obese,,b) 11- to 17-year-olds,8.0
-2003-2006,percentage (%),b) obese,Weiblich,b) 11- to 17-year-olds,8.2
-2014-2017,percentage (%),b) obese,Weiblich,b) 11- to 17-year-olds,7.2
-2003-2006,percentage (%),b) obese,Männlich,b) 11- to 17-year-olds,8.4
-2014-2017,percentage (%),b) obese,Männlich,b) 11- to 17-year-olds,8.7
-2003-2006,percentage (%),,,b) 11- to 17-year-olds,18.1
-2014-2017,percentage (%),,,b) 11- to 17-year-olds,18.7
-2003-2006,percentage (%),,Weiblich,b) 11- to 17-year-olds,17.9
-2014-2017,percentage (%),,Weiblich,b) 11- to 17-year-olds,17.8
-2003-2006,percentage (%),,Männlich,b) 11- to 17-year-olds,18.4
-2014-2017,percentage (%),,Männlich,b) 11- to 17-year-olds,19.6
+Year,Units,Zeitreihe,Geschlecht,Value
+2003,Prozent,Insgesamt,,12.9
+2014,Prozent,Insgesamt,,12.3
+2003,Prozent,Insgesamt,Weiblich,12.8
+2014,Prozent,Insgesamt,Weiblich,12.9
+2003,Prozent,Insgesamt,Männlich,13.1
+2014,Prozent,Insgesamt,Männlich,11.8
+2003,Prozent,Insgesamt,,18.1
+2014,Prozent,Insgesamt,,18.7
+2003,Prozent,Insgesamt,Weiblich,17.8
+2014,Prozent,Insgesamt,Weiblich,17.8
+2003,Prozent,Insgesamt,Männlich,18.3
+2014,Prozent,Insgesamt,Männlich,19.6
+2003,Prozent,Übergewicht ohne Adipositas,,7.7
+2014,Prozent,Übergewicht ohne Adipositas,,8.4
+2003,Prozent,Übergewicht ohne Adipositas,Weiblich,7.6
+2014,Prozent,Übergewicht ohne Adipositas,Weiblich,9.0
+2003,Prozent,Übergewicht ohne Adipositas,Männlich,7.9
+2014,Prozent,Übergewicht ohne Adipositas,Männlich,7.8
+2003,Prozent,Übergewicht ohne Adipositas,,9.8
+2014,Prozent,Übergewicht ohne Adipositas,,10.7
+2003,Prozent,Übergewicht ohne Adipositas,Weiblich,9.7
+2014,Prozent,Übergewicht ohne Adipositas,Weiblich,10.6
+2003,Prozent,Übergewicht ohne Adipositas,Männlich,10.0
+2014,Prozent,Übergewicht ohne Adipositas,Männlich,10.9
+2003,Prozent,Adipositas,,5.2
+2014,Prozent,Adipositas,,3.9
+2003,Prozent,Adipositas,Weiblich,5.2
+2014,Prozent,Adipositas,Weiblich,3.9
+2003,Prozent,Adipositas,Männlich,5.2
+2014,Prozent,Adipositas,Männlich,3.9
+2003,Prozent,Adipositas,,8.3
+2014,Prozent,Adipositas,,8.0
+2003,Prozent,Adipositas,Weiblich,8.2
+2014,Prozent,Adipositas,Weiblich,7.2
+2003,Prozent,Adipositas,Männlich,8.4
+2014,Prozent,Adipositas,Männlich,8.7

@@ -12,25 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) overweight",
-                "b) obese",
+                "total",
+                "overweight without obese",
+                "obese",
                 ""
               ]
             }
@@ -42,17 +43,6 @@
               "enum": [
                 "female",
                 "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) 3- to 10-year-olds",
-                "b) 11- to 17-year-olds",
                 ""
               ]
             }

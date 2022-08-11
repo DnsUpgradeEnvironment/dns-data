@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage",
                 ""
               ]
             },
@@ -36,31 +36,31 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "area",
             "type": "string",
             "constraints": {
               "enum": [
-                "European Union",
-                "Germany",
+                "european union",
+                "germany",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "area"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "Value",

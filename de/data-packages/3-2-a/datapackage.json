@@ -27,32 +27,19 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "air pollutant",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
-            "name": "air pollutants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
+                "SO₂",
+                "NOₓ",
+                "NH₃",
                 "NMVOC",
                 "PM2.5",
                 ""
               ]
             },
-            "title": "air pollutants"
+            "title": "Luftschadstoff"
           },
           {
             "name": "Value",

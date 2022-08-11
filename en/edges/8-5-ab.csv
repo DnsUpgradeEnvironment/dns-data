@@ -1,4 +1,4 @@
 From,To
-display,Sex
-Sex,age
+display,sex
+sex,age
 age,Bundesland

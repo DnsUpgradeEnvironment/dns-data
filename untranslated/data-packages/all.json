@@ -70,25 +70,13 @@
             }
           },
           {
-            "name": "display",
+            "name": "air pollutant",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "air pollutants",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "air pollutants overall",
-                "so2",
-                "nox",
-                "nh3",
+                "so₂",
+                "noₓ",
+                "nh₃",
                 "nmvoc",
                 "pm2.5",
                 ""
@@ -1000,18 +988,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
+                "millions",
                 ""
               ]
             }
@@ -1538,29 +1515,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "tertiary or post-secondary non-tertiary education",
-                "tertiary education",
+                "total",
+                "with tertiary qualification",
                 ""
               ]
             }
@@ -1570,42 +1536,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
                 "female",
                 "male",
                 ""
               ]
             }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",
@@ -2361,25 +2296,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "timeseries",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) overweight",
-                "b) obese",
+                "total",
+                "overweight without obese",
+                "obese",
                 ""
               ]
             }
@@ -2391,17 +2327,6 @@
               "enum": [
                 "female",
                 "male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) 3- to 10-year-olds",
-                "b) 11- to 17-year-olds",
                 ""
               ]
             }
@@ -2433,18 +2358,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio. eur",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) pandemic prevention and reaction",
-                "b) containment of the covid-19 pandemic",
+                "pandemic prevention and response",
+                "separate amount devoted to curbing the covid-19 pandemic",
                 ""
               ]
             }
@@ -3840,18 +3765,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
+                "percentage",
                 ""
               ]
             }
@@ -3861,7 +3775,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
                 "female",
                 "male",
                 ""
@@ -3869,34 +3782,54 @@
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
           },
           {
-            "name": "GeoCode",
-            "type": "string"
+            "name": "GeoCodes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "code08",
+                "code09",
+                "code11",
+                "code12",
+                "code04",
+                "code02",
+                "code06",
+                "code13",
+                "code03",
+                "code05",
+                "code07",
+                "code10",
+                "code14",
+                "code15",
+                "code01",
+                "code16",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4337,7 +4270,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
