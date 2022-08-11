@@ -1,4 +1,3 @@
 From,To
-time series,Sex
-Sex,Federal state
+time series,Federal state
 Federal state,GeoCodes
