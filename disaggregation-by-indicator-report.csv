@@ -28,8 +28,8 @@ Indicator,Disaggregations,Number of disaggregations
 #17-2-a,"display, title, Bundesland",3
 #17-3-a,"display, title",2
 #2-1-b,"time series, federal state, GeoCodes",3
-#3-1-ab,"display, sex, Bundesland",3
-#3-1-cd,"display, age, Bundesland",3
+#3-1-ab,"sex, time series, federal state, GeoCodes",4
+#3-1-cd,"time series, federal state, GeoCodes, age group",4
 #3-1-e,"sex, age, timeseries",3
 #3-1-f,"sex, age, Bundesland",3
 #3-2-a,"display, air pollutants",2

@@ -912,8 +912,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "moving five-year average shown for each middle year",
                 "calculated annual values",
+                "moving five-year average shown for each middle year",
                 ""
               ]
             }
@@ -1779,18 +1779,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100 000 inhabitants",
+                "per 100,000 inhabitants",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "premature mortality (women)",
+                "premature mortality (men)",
                 ""
               ]
             }
@@ -1800,45 +1800,65 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "female",
+                "male",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
           },
           {
-            "name": "GeoCode",
-            "type": "string"
+            "name": "GeoCodes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "code08",
+                "code09",
+                "code11",
+                "code12",
+                "code04",
+                "code02",
+                "code06",
+                "code13",
+                "code03",
+                "code05",
+                "code07",
+                "code10",
+                "code14",
+                "code15",
+                "code01",
+                "code16",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2085,62 +2105,82 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "smoking rate among adolescents",
+                "smoking rate among adults",
                 ""
               ]
             }
           },
           {
-            "name": "age",
+            "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "adolescents (12 to 17 years)",
-                "adults (15 years and older)",
+                "12 to under 18 years",
+                "15 years and older",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
           },
           {
-            "name": "GeoCode",
-            "type": "string"
+            "name": "GeoCodes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "code08",
+                "code09",
+                "code11",
+                "code12",
+                "code04",
+                "code02",
+                "code06",
+                "code13",
+                "code03",
+                "code05",
+                "code07",
+                "code10",
+                "code14",
+                "code15",
+                "code01",
+                "code16",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

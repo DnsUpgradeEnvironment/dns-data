@@ -1,1 +1,1 @@
-{"From":["display","age"],"To":["age","Bundesland"]}
+{"From":["time series","Altersklasse","Bundesland"],"To":["Altersklasse","Bundesland","GeoCodes"]}

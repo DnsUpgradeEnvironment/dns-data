@@ -1,18 +1,19 @@
 Disaggregation,Number of indicators,Number of values
-age,5,21
+age group,1,2
+age,4,19
 air pollutants,1,6
 area,2,4
-Bundesland,22,17
+Bundesland,20,17
 criminal offences,1,5
 dimension,1,2
-display,38,4
-federal state,3,16
-GeoCodes,3,16
+display,36,4
+federal state,5,16
+GeoCodes,5,16
 Kreis,2,402
 sea,2,2
 sex,8,5
 testDisagg,1,1
-time series,2,4
+time series,4,8
 timeseries,1,2
 title,24,66
 typification,2,3

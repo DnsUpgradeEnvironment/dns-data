@@ -1,3 +1,4 @@
 From,To
-display,Sex
-Sex,Bundesland
+time series,Sex
+Sex,Federal state
+Federal state,GeoCodes

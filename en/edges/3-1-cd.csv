@@ -1,3 +1,4 @@
 From,To
-display,age
-age,Bundesland
+time series,Age group
+Age group,Federal state
+Federal state,GeoCodes

@@ -1,3 +1,4 @@
 From,To
-display,Geschlecht
+time series,Geschlecht
 Geschlecht,Bundesland
+Bundesland,GeoCodes
