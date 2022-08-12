@@ -1,2 +1,3 @@
 From,To
-time series,sex
+time series,age group
+age group,sex

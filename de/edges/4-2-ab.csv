@@ -1,4 +1,4 @@
 From,To
-display,age
-age,Bundesland
-age,Kreis
+Zeitreihe,GeoCodes
+GeoCodes,Bundesland
+GeoCodes,Kreis

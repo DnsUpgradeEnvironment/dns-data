@@ -1,41 +1,18 @@
-Year,Value,Units,Series,GeoCode
-2008,100.0,Total,a) final energy productivity,
-2009,99.7,Total,a) final energy productivity,
-2010,96.7,Total,a) final energy productivity,
-2011,105.3,Total,a) final energy productivity,
-2012,105.3,Total,a) final energy productivity,
-2013,102.8,Total,a) final energy productivity,
-2014,110.8,Total,a) final energy productivity,
-2015,110.0,Total,a) final energy productivity,
-2016,110.3,Total,a) final energy productivity,
-2017,111.7,Total,a) final energy productivity,
-2018,116.3,Total,a) final energy productivity,
-2019,116.9,Total,a) final energy productivity,
-2020,120.0,Total,a) final energy productivity,
-2008,100.0,%,a) final energy productivity,
-2009,99.7,%,a) final energy productivity,
-2010,96.7,%,a) final energy productivity,
-2011,105.3,%,a) final energy productivity,
-2012,105.3,%,a) final energy productivity,
-2013,102.8,%,a) final energy productivity,
-2014,110.8,%,a) final energy productivity,
-2015,110.0,%,a) final energy productivity,
-2016,110.3,%,a) final energy productivity,
-2017,111.7,%,a) final energy productivity,
-2018,116.3,%,a) final energy productivity,
-2019,116.9,%,a) final energy productivity,
-2020,120.0,%,a) final energy productivity,
-2008,100.0,Total,b) primary energy consumption,
-2009,94.1,Total,b) primary energy consumption,
-2010,98.9,Total,b) primary energy consumption,
-2011,94.6,Total,b) primary energy consumption,
-2012,93.5,Total,b) primary energy consumption,
-2013,96.1,Total,b) primary energy consumption,
-2014,91.7,Total,b) primary energy consumption,
-2015,92.2,Total,b) primary energy consumption,
-2016,93.8,Total,b) primary energy consumption,
-2017,94.0,Total,b) primary energy consumption,
-2018,91.3,Total,b) primary energy consumption,
-2019,89.0,Total,b) primary energy consumption,
-2020,82.7,Total,b) primary energy consumption,
-2021,84.8,Total,b) primary energy consumption,
+Year,Value,Units
+2005,10.3,percentage
+2006,11.7,percentage
+2007,14.3,percentage
+2008,15.2,percentage
+2009,16.5,percentage
+2010,17.1,percentage
+2011,20.4,percentage
+2012,23.6,percentage
+2013,25.1,percentage
+2014,27.3,percentage
+2015,31.4,percentage
+2016,31.6,percentage
+2017,36.0,percentage
+2018,37.6,percentage
+2019,41.9,percentage
+2020,45.2,percentage
+2021,41.1,percentage

@@ -20,27 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
+                "1.0",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

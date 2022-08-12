@@ -40,6 +40,18 @@
             "title": "time series"
           },
           {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3 to under 11 years",
+                "11 to under 18 years",
+                ""
+              ]
+            },
+            "title": "age group"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {

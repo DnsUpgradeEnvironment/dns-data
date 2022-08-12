@@ -1,4 +1,4 @@
 From,To
-display,age
-age,Bundesland
-age,Kreis
+time series,GeoCodes
+GeoCodes,federal state
+GeoCodes,?

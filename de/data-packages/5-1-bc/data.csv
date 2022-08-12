@@ -1,28 +1,28 @@
-Year,Units,display,title,Value
-2015,percentage (%),a) time series,economy,21.3
-2016,percentage (%),a) time series,economy,23.8
-2017,percentage (%),a) time series,economy,28.1
-2018,percentage (%),a) time series,economy,30.9
-2019,percentage (%),a) time series,economy,33.9
-2020,percentage (%),a) time series,economy,35.2
-2030,percentage (%),b) target (min),economy,30.0
-1999,percentage (%),a) time series,civil service,19.3
-2000,percentage (%),a) time series,civil service,19.5
-2001,percentage (%),a) time series,civil service,18.5
-2002,percentage (%),a) time series,civil service,19.7
-2003,percentage (%),a) time series,civil service,24.0
-2004,percentage (%),a) time series,civil service,24.0
-2005,percentage (%),a) time series,civil service,26.6
-2006,percentage (%),a) time series,civil service,26.9
-2007,percentage (%),a) time series,civil service,27.8
-2008,percentage (%),a) time series,civil service,28.7
-2009,percentage (%),a) time series,civil service,29.9
-2010,percentage (%),a) time series,civil service,30.8
-2011,percentage (%),a) time series,civil service,30.6
-2012,percentage (%),a) time series,civil service,30.6
-2013,percentage (%),a) time series,civil service,30.6
-2014,percentage (%),a) time series,civil service,32.1
-2015,percentage (%),a) time series,civil service,33.6
-2017,percentage (%),a) time series,civil service,35.2
-2019,percentage (%),a) time series,civil service,37.6
-2030,percentage (%),b) target (min),civil service,50.0
+Year,Units,Zeitreihe,Value
+2015,Prozent,women in management positions in business,21.3
+2016,Prozent,women in management positions in business,23.76
+2017,Prozent,women in management positions in business,28.1
+2018,Prozent,women in management positions in business,30.9
+2019,Prozent,women in management positions in business,33.9
+2020,Prozent,women in management positions in business,35.2
+2021,Prozent,women in management positions in business,35.9
+2022,Prozent,women in management positions in business,35.6
+2000,Prozent,women in management positions in the federal civil service,19.46
+2001,Prozent,women in management positions in the federal civil service,18.52
+2002,Prozent,women in management positions in the federal civil service,19.69
+2003,Prozent,women in management positions in the federal civil service,23.99
+2004,Prozent,women in management positions in the federal civil service,23.96
+2005,Prozent,women in management positions in the federal civil service,26.64
+2006,Prozent,women in management positions in the federal civil service,26.92
+2007,Prozent,women in management positions in the federal civil service,27.85
+2008,Prozent,women in management positions in the federal civil service,28.68
+2009,Prozent,women in management positions in the federal civil service,29.94
+2010,Prozent,women in management positions in the federal civil service,30.81
+2011,Prozent,women in management positions in the federal civil service,30.57
+2012,Prozent,women in management positions in the federal civil service,30.59
+2013,Prozent,women in management positions in the federal civil service,30.62
+2014,Prozent,women in management positions in the federal civil service,32.06
+2015,Prozent,women in management positions in the federal civil service,33.56
+2017,Prozent,women in management positions in the federal civil service,35.2
+2019,Prozent,women in management positions in the federal civil service,37.6
+2021,Prozent,women in management positions in the federal civil service,39.7

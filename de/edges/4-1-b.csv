@@ -1,2 +1,4 @@
 From,To
 Zeitreihe,Geschlecht
+Zeitreihe,Bundesland
+Bundesland,GeoCodes
