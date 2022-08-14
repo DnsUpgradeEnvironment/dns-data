@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "material deprivation",
-                "severe material deprivation",
+                "Materielle Deprivation",
+                "Erhebliche materielle Deprivation",
                 ""
               ]
             },

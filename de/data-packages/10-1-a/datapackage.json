@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "foreign school graduates",
+                "Ausländische Schulabsolventinnen und Schulabsolventen",
                 "german school graduates (share of all german leavers)",
                 ""
               ]

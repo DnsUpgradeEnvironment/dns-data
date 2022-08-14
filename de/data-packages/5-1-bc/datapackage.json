@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women in management positions in business",
-                "women in management positions in the federal civil service",
+                "Frauen in Führungspositionen in der Wirtschaft",
+                "Frauen in Führungspositionen im öffentlichen Dienst des Bundes",
                 ""
               ]
             },

@@ -394,8 +394,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "material deprivation",
-                "severe material deprivation",
+                "Materielle Deprivation",
+                "Erhebliche materielle Deprivation",
                 ""
               ]
             },
@@ -541,7 +541,7 @@
               "enum": [
                 "consumption, investments and exports (price-adjusted)",
                 "raw material use for consumption, investments and exports",
-                "raw material input productivity",
+                "Gesamtrohstoffproduktivität",
                 ""
               ]
             },
@@ -761,7 +761,7 @@
               "enum": [
                 "passenger transport performance",
                 "final energy consumption per passenger-kilometre",
-                "final energy consumption in passenger transport",
+                "Endenergieverbrauch im Personenverkehr",
                 ""
               ]
             },
@@ -1074,8 +1074,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all-day care provision for 0 to 2-year-old children",
-                "all-day care provision for 3 to 5-year-old children",
+                "Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige",
+                "Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige",
                 ""
               ]
             },
@@ -1812,8 +1812,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "premature mortality (women)",
-                "premature mortality (men)",
+                "Vorzeitige Sterblichkeit (Frauen)",
+                "Vorzeitige Sterblichkeit (Männer)",
                 ""
               ]
             },
@@ -2128,8 +2128,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "smoking rate among adolescents",
-                "smoking rate among adults",
+                "Raucherquote von Jugendlichen",
+                "Raucherquote von Erwachsenen",
                 ""
               ]
             },
@@ -2218,7 +2218,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "foreign school graduates",
+                "Ausländische Schulabsolventinnen und Schulabsolventen",
                 "german school graduates (share of all german leavers)",
                 ""
               ]
@@ -2791,8 +2791,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women in management positions in business",
-                "women in management positions in the federal civil service",
+                "Frauen in Führungspositionen in der Wirtschaft",
+                "Frauen in Führungspositionen im öffentlichen Dienst des Bundes",
                 ""
               ]
             },
@@ -2897,8 +2897,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "final energy productivity",
-                "primary energy consumption",
+                "Endenergieproduktivität",
+                "Primärenergieverbrauch",
                 ""
               ]
             },
@@ -3309,7 +3309,7 @@
                 ""
               ]
             },
-            "title": "criminal offences"
+            "title": "Straftaten"
           },
           {
             "name": "Bundesland",

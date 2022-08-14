@@ -1,101 +1,101 @@
 Year,Units,Zeitreihe,Altersklasse,Bundesland,GeoCode,Value
-2001,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,27.5
-2003,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,22.5
-2004,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,23.5
-2005,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,20.0
-2007,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,17.7
-2008,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,15.4
-2010,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,12.9
-2011,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,11.7
-2012,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,12.0
-2014,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,9.7
-2015,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,7.8
-2016,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,7.4
-2018,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,6.6
-2019,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,5.6
-2021,Prozent,smoking rate among adolescents,12 bis unter 18 Jahre,,,6.1
-2003,Prozent,smoking rate among adults,15 Jahre und älter,,,27.4
-2005,Prozent,smoking rate among adults,15 Jahre und älter,,,27.2
-2009,Prozent,smoking rate among adults,15 Jahre und älter,,,25.7
-2013,Prozent,smoking rate among adults,15 Jahre und älter,,,24.5
-2017,Prozent,smoking rate among adults,15 Jahre und älter,,,22.0
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Baden-Württemberg,code08,25.53
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Baden-Württemberg,code08,24.5
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Baden-Württemberg,code08,22.8
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Baden-Württemberg,code08,22.21
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Baden-Württemberg,code08,21.23
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Bayern,code09,25.12
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Bayern,code09,24.2
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Bayern,code09,23.5
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Bayern,code09,22.15
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Bayern,code09,20.51
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Berlin,code11,34.12
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Berlin,code11,32.7
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Berlin,code11,31.3
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Berlin,code11,28.85
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Berlin,code11,25.47
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Brandenburg,code12,30.35
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Brandenburg,code12,29.0
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Brandenburg,code12,28.0
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Brandenburg,code12,25.77
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Brandenburg,code12,24.47
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Bremen,code04,33.85
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Bremen,code04,30.8
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Bremen,code04,30.5
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Bremen,code04,27.77
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Bremen,code04,27.39
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Hamburg,code02,30.95
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Hamburg,code02,29.8
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Hamburg,code02,26.7
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Hamburg,code02,25.64
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Hamburg,code02,23.14
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Hessen,code06,27.15
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Hessen,code06,25.9
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Hessen,code06,24.6
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Hessen,code06,23.37
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Hessen,code06,21.11
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Mecklenburg-Vorpommern,code13,30.61
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Mecklenburg-Vorpommern,code13,33.3
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Mecklenburg-Vorpommern,code13,30.4
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Mecklenburg-Vorpommern,code13,28.22
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Mecklenburg-Vorpommern,code13,27.66
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Niedersachsen,code03,28.44
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Niedersachsen,code03,28.1
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Niedersachsen,code03,26.1
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Niedersachsen,code03,24.69
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Niedersachsen,code03,22.94
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Nordrhein-Westfalen,code05,27.63
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Nordrhein-Westfalen,code05,29.0
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Nordrhein-Westfalen,code05,26.9
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Nordrhein-Westfalen,code05,25.92
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Nordrhein-Westfalen,code05,22.64
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Rheinland-Pfalz,code07,27.59
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Rheinland-Pfalz,code07,26.0
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Rheinland-Pfalz,code07,25.1
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Rheinland-Pfalz,code07,23.86
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Rheinland-Pfalz,code07,21.66
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Saarland,code10,25.19
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Saarland,code10,26.2
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Saarland,code10,25.3
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Saarland,code10,23.51
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Saarland,code10,20.59
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen,code14,24.92
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen,code14,24.4
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen,code14,23.8
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen,code14,22.74
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen,code14,21.47
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen-Anhalt,code15,27.23
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen-Anhalt,code15,27.9
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen-Anhalt,code15,28.9
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen-Anhalt,code15,27.85
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Sachsen-Anhalt,code15,24.77
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Schleswig-Holstein,code01,30.31
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Schleswig-Holstein,code01,29.5
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Schleswig-Holstein,code01,27.0
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Schleswig-Holstein,code01,25.9
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Schleswig-Holstein,code01,23.5
-2003,Prozent,smoking rate among adults,15 Jahre und älter,Thüringen,code16,26.9
-2005,Prozent,smoking rate among adults,15 Jahre und älter,Thüringen,code16,27.2
-2009,Prozent,smoking rate among adults,15 Jahre und älter,Thüringen,code16,26.7
-2013,Prozent,smoking rate among adults,15 Jahre und älter,Thüringen,code16,26.11
-2017,Prozent,smoking rate among adults,15 Jahre und älter,Thüringen,code16,26.24
+2001,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,27.5
+2003,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,22.5
+2004,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,23.5
+2005,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,20.0
+2007,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,17.7
+2008,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,15.4
+2010,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,12.9
+2011,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,11.7
+2012,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,12.0
+2014,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,9.7
+2015,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,7.8
+2016,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,7.4
+2018,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,6.6
+2019,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,5.6
+2021,Prozent,Raucherquote von Jugendlichen,12 bis unter 18 Jahre,,,6.1
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,,,27.4
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,,,27.2
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,,,25.7
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,,,24.5
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,,,22.0
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Baden-Württemberg,code08,25.53
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Baden-Württemberg,code08,24.5
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Baden-Württemberg,code08,22.8
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Baden-Württemberg,code08,22.21
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Baden-Württemberg,code08,21.23
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bayern,code09,25.12
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bayern,code09,24.2
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bayern,code09,23.5
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bayern,code09,22.15
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bayern,code09,20.51
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Berlin,code11,34.12
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Berlin,code11,32.7
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Berlin,code11,31.3
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Berlin,code11,28.85
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Berlin,code11,25.47
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Brandenburg,code12,30.35
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Brandenburg,code12,29.0
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Brandenburg,code12,28.0
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Brandenburg,code12,25.77
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Brandenburg,code12,24.47
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bremen,code04,33.85
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bremen,code04,30.8
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bremen,code04,30.5
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bremen,code04,27.77
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Bremen,code04,27.39
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hamburg,code02,30.95
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hamburg,code02,29.8
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hamburg,code02,26.7
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hamburg,code02,25.64
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hamburg,code02,23.14
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hessen,code06,27.15
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hessen,code06,25.9
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hessen,code06,24.6
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hessen,code06,23.37
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Hessen,code06,21.11
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Mecklenburg-Vorpommern,code13,30.61
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Mecklenburg-Vorpommern,code13,33.3
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Mecklenburg-Vorpommern,code13,30.4
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Mecklenburg-Vorpommern,code13,28.22
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Mecklenburg-Vorpommern,code13,27.66
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Niedersachsen,code03,28.44
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Niedersachsen,code03,28.1
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Niedersachsen,code03,26.1
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Niedersachsen,code03,24.69
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Niedersachsen,code03,22.94
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Nordrhein-Westfalen,code05,27.63
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Nordrhein-Westfalen,code05,29.0
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Nordrhein-Westfalen,code05,26.9
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Nordrhein-Westfalen,code05,25.92
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Nordrhein-Westfalen,code05,22.64
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Rheinland-Pfalz,code07,27.59
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Rheinland-Pfalz,code07,26.0
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Rheinland-Pfalz,code07,25.1
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Rheinland-Pfalz,code07,23.86
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Rheinland-Pfalz,code07,21.66
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Saarland,code10,25.19
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Saarland,code10,26.2
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Saarland,code10,25.3
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Saarland,code10,23.51
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Saarland,code10,20.59
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen,code14,24.92
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen,code14,24.4
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen,code14,23.8
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen,code14,22.74
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen,code14,21.47
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen-Anhalt,code15,27.23
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen-Anhalt,code15,27.9
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen-Anhalt,code15,28.9
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen-Anhalt,code15,27.85
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Sachsen-Anhalt,code15,24.77
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Schleswig-Holstein,code01,30.31
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Schleswig-Holstein,code01,29.5
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Schleswig-Holstein,code01,27.0
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Schleswig-Holstein,code01,25.9
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Schleswig-Holstein,code01,23.5
+2003,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Thüringen,code16,26.9
+2005,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Thüringen,code16,27.2
+2009,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Thüringen,code16,26.7
+2013,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Thüringen,code16,26.11
+2017,Prozent,Raucherquote von Erwachsenen,15 Jahre und älter,Thüringen,code16,26.24
