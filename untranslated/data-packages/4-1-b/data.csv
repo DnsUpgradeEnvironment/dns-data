@@ -1,4 +1,4 @@
-Year,Units,time series,sex,federal state,GeoCodes,Value
+Year,Units,time series,sex,federal state,GeoCode,Value
 2000,percentage,total,,,,33.0
 2001,percentage,total,,,,33.17
 2002,percentage,total,,,,33.28

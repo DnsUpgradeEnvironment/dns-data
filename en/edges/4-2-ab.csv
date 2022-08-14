@@ -1,4 +1,3 @@
 From,To
-time series,GeoCodes
-GeoCodes,federal state
-GeoCodes,?
+time series,federal state
+time series,?

@@ -1,37 +1,37 @@
-Year,Units,time series,age group,sex,Value
-2003,percentage,total,3 to under 11 years,,12.9
-2014,percentage,total,3 to under 11 years,,12.3
-2003,percentage,total,3 to under 11 years,female,12.8
-2014,percentage,total,3 to under 11 years,female,12.9
-2003,percentage,total,3 to under 11 years,male,13.1
-2014,percentage,total,3 to under 11 years,male,11.8
-2003,percentage,total,11 to under 18 years,,18.1
-2014,percentage,total,11 to under 18 years,,18.7
-2003,percentage,total,11 to under 18 years,female,17.8
-2014,percentage,total,11 to under 18 years,female,17.8
-2003,percentage,total,11 to under 18 years,male,18.3
-2014,percentage,total,11 to under 18 years,male,19.6
-2003,percentage,overweight without obese,3 to under 11 years,,7.7
-2014,percentage,overweight without obese,3 to under 11 years,,8.4
-2003,percentage,overweight without obese,3 to under 11 years,female,7.6
-2014,percentage,overweight without obese,3 to under 11 years,female,9.0
-2003,percentage,overweight without obese,3 to under 11 years,male,7.9
-2014,percentage,overweight without obese,3 to under 11 years,male,7.8
-2003,percentage,overweight without obese,11 to under 18 years,,9.8
-2014,percentage,overweight without obese,11 to under 18 years,,10.7
-2003,percentage,overweight without obese,11 to under 18 years,female,9.7
-2014,percentage,overweight without obese,11 to under 18 years,female,10.6
-2003,percentage,overweight without obese,11 to under 18 years,male,10.0
-2014,percentage,overweight without obese,11 to under 18 years,male,10.9
-2003,percentage,obese,3 to under 11 years,,5.2
-2014,percentage,obese,3 to under 11 years,,3.9
-2003,percentage,obese,3 to under 11 years,female,5.2
-2014,percentage,obese,3 to under 11 years,female,3.9
-2003,percentage,obese,3 to under 11 years,male,5.2
-2014,percentage,obese,3 to under 11 years,male,3.9
-2003,percentage,obese,11 to under 18 years,,8.3
-2014,percentage,obese,11 to under 18 years,,8.0
-2003,percentage,obese,11 to under 18 years,female,8.2
-2014,percentage,obese,11 to under 18 years,female,7.2
-2003,percentage,obese,11 to under 18 years,male,8.4
-2014,percentage,obese,11 to under 18 years,male,8.7
+Year,Units,age group,time series,sex,Value
+2003,percentage,3 to under 11 years,total,,12.9
+2014,percentage,3 to under 11 years,total,,12.3
+2003,percentage,3 to under 11 years,total,female,12.8
+2014,percentage,3 to under 11 years,total,female,12.9
+2003,percentage,3 to under 11 years,total,male,13.1
+2014,percentage,3 to under 11 years,total,male,11.8
+2003,percentage,11 to under 18 years,total,,18.1
+2014,percentage,11 to under 18 years,total,,18.7
+2003,percentage,11 to under 18 years,total,female,17.8
+2014,percentage,11 to under 18 years,total,female,17.8
+2003,percentage,11 to under 18 years,total,male,18.3
+2014,percentage,11 to under 18 years,total,male,19.6
+2003,percentage,3 to under 11 years,overweight without obese,,7.7
+2014,percentage,3 to under 11 years,overweight without obese,,8.4
+2003,percentage,3 to under 11 years,overweight without obese,female,7.6
+2014,percentage,3 to under 11 years,overweight without obese,female,9.0
+2003,percentage,3 to under 11 years,overweight without obese,male,7.9
+2014,percentage,3 to under 11 years,overweight without obese,male,7.8
+2003,percentage,11 to under 18 years,overweight without obese,,9.8
+2014,percentage,11 to under 18 years,overweight without obese,,10.7
+2003,percentage,11 to under 18 years,overweight without obese,female,9.7
+2014,percentage,11 to under 18 years,overweight without obese,female,10.6
+2003,percentage,11 to under 18 years,overweight without obese,male,10.0
+2014,percentage,11 to under 18 years,overweight without obese,male,10.9
+2003,percentage,3 to under 11 years,obese,,5.2
+2014,percentage,3 to under 11 years,obese,,3.9
+2003,percentage,3 to under 11 years,obese,female,5.2
+2014,percentage,3 to under 11 years,obese,female,3.9
+2003,percentage,3 to under 11 years,obese,male,5.2
+2014,percentage,3 to under 11 years,obese,male,3.9
+2003,percentage,11 to under 18 years,obese,,8.3
+2014,percentage,11 to under 18 years,obese,,8.0
+2003,percentage,11 to under 18 years,obese,female,8.2
+2014,percentage,11 to under 18 years,obese,female,7.2
+2003,percentage,11 to under 18 years,obese,male,8.4
+2014,percentage,11 to under 18 years,obese,male,8.7

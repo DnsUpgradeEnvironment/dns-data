@@ -1,4 +1,3 @@
 From,To
-Zeitreihe,GeoCodes
-GeoCodes,Bundesland
-GeoCodes,Kreis
+Zeitreihe,Bundesland
+Zeitreihe,Kreis

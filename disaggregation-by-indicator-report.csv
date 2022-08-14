@@ -27,24 +27,24 @@ Indicator,Disaggregations,Number of disaggregations
 #17-1-a,"display, title",2
 #17-2-a,"display, title, Bundesland",3
 #17-3-a,"display, title",2
-#2-1-b,"federal state, GeoCodes",2
-#3-1-ab,"time series, federal state, GeoCodes",3
-#3-1-cd,"time series, federal state, GeoCodes, age group",4
+#2-1-b,federal state,1
+#3-1-ab,"time series, federal state",2
+#3-1-cd,"time series, federal state, age group",3
 #3-1-e,"sex, time series, age group",3
-#3-1-f,"sex, federal state, GeoCodes, age group",4
+#3-1-f,"sex, federal state, age group",3
 #3-2-a,air pollutant,1
 #3-3-a,time series,1
-#4-1-a,"sex, federal state, GeoCodes",3
-#4-1-b,"sex, time series, federal state, GeoCodes",4
-#4-2-ab,"time series, federal state, GeoCodes, ?",4
-#5-1-a,"federal state, GeoCodes",2
+#4-1-a,"sex, federal state",2
+#4-1-b,"sex, time series, federal state",3
+#4-2-ab,"time series, federal state, ?",3
+#5-1-a,federal state,1
 #5-1-bc,time series,1
-#5-1-d,"federal state, GeoCodes",2
-#6-1-b,"federal state, GeoCodes",2
+#5-1-d,federal state,1
+#6-1-b,federal state,1
 #6-2-ab,"display, title",2
-#7-1-ab,"federal state, GeoCodes",2
-#7-2-a,"federal state, GeoCodes",2
-#7-2-b,"federal state, GeoCodes",2
+#7-1-ab,federal state,1
+#7-2-a,federal state,1
+#7-2-b,federal state,1
 #8-1-a,"title, testDisagg",2
 #8-2-ab,"display, title",2
 #8-2-c,display,1

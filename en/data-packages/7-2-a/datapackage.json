@@ -52,29 +52,9 @@
             "title": "federal state"
           },
           {
-            "name": "GeoCodes",
+            "name": "GeoCode",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "code08",
-                "code09",
-                "code11",
-                "code12",
-                "code04",
-                "code02",
-                "code06",
-                "code03",
-                "code05",
-                "code07",
-                "code10",
-                "code14",
-                "code15",
-                "code01",
-                "code16",
-                ""
-              ]
-            },
-            "title": "GeoCodes"
+            "title": "GeoCode"
           },
           {
             "name": "Value",
