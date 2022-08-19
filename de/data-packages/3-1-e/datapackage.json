@@ -27,18 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3 bis unter 11 Jahre",
-                "11 bis unter 18 Jahre",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -50,6 +38,18 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3 bis unter 11 Jahre",
+                "11 bis unter 18 Jahre",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "sex",

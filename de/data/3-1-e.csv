@@ -1,37 +1,37 @@
-Year,Units,Altersklasse,Zeitreihe,Geschlecht,Value
-2003,Prozent,3 bis unter 11 Jahre,Insgesamt,,12.9
-2014,Prozent,3 bis unter 11 Jahre,Insgesamt,,12.3
-2003,Prozent,3 bis unter 11 Jahre,Insgesamt,Weiblich,12.8
-2014,Prozent,3 bis unter 11 Jahre,Insgesamt,Weiblich,12.9
-2003,Prozent,3 bis unter 11 Jahre,Insgesamt,Männlich,13.1
-2014,Prozent,3 bis unter 11 Jahre,Insgesamt,Männlich,11.8
-2003,Prozent,11 bis unter 18 Jahre,Insgesamt,,18.1
-2014,Prozent,11 bis unter 18 Jahre,Insgesamt,,18.7
-2003,Prozent,11 bis unter 18 Jahre,Insgesamt,Weiblich,17.8
-2014,Prozent,11 bis unter 18 Jahre,Insgesamt,Weiblich,17.8
-2003,Prozent,11 bis unter 18 Jahre,Insgesamt,Männlich,18.3
-2014,Prozent,11 bis unter 18 Jahre,Insgesamt,Männlich,19.6
-2003,Prozent,3 bis unter 11 Jahre,Übergewicht ohne Adipositas,,7.7
-2014,Prozent,3 bis unter 11 Jahre,Übergewicht ohne Adipositas,,8.4
-2003,Prozent,3 bis unter 11 Jahre,Übergewicht ohne Adipositas,Weiblich,7.6
-2014,Prozent,3 bis unter 11 Jahre,Übergewicht ohne Adipositas,Weiblich,9.0
-2003,Prozent,3 bis unter 11 Jahre,Übergewicht ohne Adipositas,Männlich,7.9
-2014,Prozent,3 bis unter 11 Jahre,Übergewicht ohne Adipositas,Männlich,7.8
-2003,Prozent,11 bis unter 18 Jahre,Übergewicht ohne Adipositas,,9.8
-2014,Prozent,11 bis unter 18 Jahre,Übergewicht ohne Adipositas,,10.7
-2003,Prozent,11 bis unter 18 Jahre,Übergewicht ohne Adipositas,Weiblich,9.7
-2014,Prozent,11 bis unter 18 Jahre,Übergewicht ohne Adipositas,Weiblich,10.6
-2003,Prozent,11 bis unter 18 Jahre,Übergewicht ohne Adipositas,Männlich,10.0
-2014,Prozent,11 bis unter 18 Jahre,Übergewicht ohne Adipositas,Männlich,10.9
-2003,Prozent,3 bis unter 11 Jahre,Adipositas,,5.2
-2014,Prozent,3 bis unter 11 Jahre,Adipositas,,3.9
-2003,Prozent,3 bis unter 11 Jahre,Adipositas,Weiblich,5.2
-2014,Prozent,3 bis unter 11 Jahre,Adipositas,Weiblich,3.9
-2003,Prozent,3 bis unter 11 Jahre,Adipositas,Männlich,5.2
-2014,Prozent,3 bis unter 11 Jahre,Adipositas,Männlich,3.9
-2003,Prozent,11 bis unter 18 Jahre,Adipositas,,8.3
-2014,Prozent,11 bis unter 18 Jahre,Adipositas,,8.0
-2003,Prozent,11 bis unter 18 Jahre,Adipositas,Weiblich,8.2
-2014,Prozent,11 bis unter 18 Jahre,Adipositas,Weiblich,7.2
-2003,Prozent,11 bis unter 18 Jahre,Adipositas,Männlich,8.4
-2014,Prozent,11 bis unter 18 Jahre,Adipositas,Männlich,8.7
+Year,Units,Zeitreihe,Altersklasse,Geschlecht,Value
+2003,Prozent,Insgesamt,3 bis unter 11 Jahre,,12.9
+2014,Prozent,Insgesamt,3 bis unter 11 Jahre,,12.3
+2003,Prozent,Insgesamt,3 bis unter 11 Jahre,Weiblich,12.8
+2014,Prozent,Insgesamt,3 bis unter 11 Jahre,Weiblich,12.9
+2003,Prozent,Insgesamt,3 bis unter 11 Jahre,Männlich,13.1
+2014,Prozent,Insgesamt,3 bis unter 11 Jahre,Männlich,11.8
+2003,Prozent,Insgesamt,11 bis unter 18 Jahre,,18.1
+2014,Prozent,Insgesamt,11 bis unter 18 Jahre,,18.7
+2003,Prozent,Insgesamt,11 bis unter 18 Jahre,Weiblich,17.8
+2014,Prozent,Insgesamt,11 bis unter 18 Jahre,Weiblich,17.8
+2003,Prozent,Insgesamt,11 bis unter 18 Jahre,Männlich,18.3
+2014,Prozent,Insgesamt,11 bis unter 18 Jahre,Männlich,19.6
+2003,Prozent,Übergewicht ohne Adipositas,3 bis unter 11 Jahre,,7.7
+2014,Prozent,Übergewicht ohne Adipositas,3 bis unter 11 Jahre,,8.4
+2003,Prozent,Übergewicht ohne Adipositas,3 bis unter 11 Jahre,Weiblich,7.6
+2014,Prozent,Übergewicht ohne Adipositas,3 bis unter 11 Jahre,Weiblich,9.0
+2003,Prozent,Übergewicht ohne Adipositas,3 bis unter 11 Jahre,Männlich,7.9
+2014,Prozent,Übergewicht ohne Adipositas,3 bis unter 11 Jahre,Männlich,7.8
+2003,Prozent,Übergewicht ohne Adipositas,11 bis unter 18 Jahre,,9.8
+2014,Prozent,Übergewicht ohne Adipositas,11 bis unter 18 Jahre,,10.7
+2003,Prozent,Übergewicht ohne Adipositas,11 bis unter 18 Jahre,Weiblich,9.7
+2014,Prozent,Übergewicht ohne Adipositas,11 bis unter 18 Jahre,Weiblich,10.6
+2003,Prozent,Übergewicht ohne Adipositas,11 bis unter 18 Jahre,Männlich,10.0
+2014,Prozent,Übergewicht ohne Adipositas,11 bis unter 18 Jahre,Männlich,10.9
+2003,Prozent,Adipositas,3 bis unter 11 Jahre,,5.2
+2014,Prozent,Adipositas,3 bis unter 11 Jahre,,3.9
+2003,Prozent,Adipositas,3 bis unter 11 Jahre,Weiblich,5.2
+2014,Prozent,Adipositas,3 bis unter 11 Jahre,Weiblich,3.9
+2003,Prozent,Adipositas,3 bis unter 11 Jahre,Männlich,5.2
+2014,Prozent,Adipositas,3 bis unter 11 Jahre,Männlich,3.9
+2003,Prozent,Adipositas,11 bis unter 18 Jahre,,8.3
+2014,Prozent,Adipositas,11 bis unter 18 Jahre,,8.0
+2003,Prozent,Adipositas,11 bis unter 18 Jahre,Weiblich,8.2
+2014,Prozent,Adipositas,11 bis unter 18 Jahre,Weiblich,7.2
+2003,Prozent,Adipositas,11 bis unter 18 Jahre,Männlich,8.4
+2014,Prozent,Adipositas,11 bis unter 18 Jahre,Männlich,8.7

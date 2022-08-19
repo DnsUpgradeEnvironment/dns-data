@@ -25,17 +25,6 @@
             }
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3 to under 11 years",
-                "11 to under 18 years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -43,6 +32,17 @@
                 "total",
                 "overweight without obese",
                 "obese",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3 to under 11 years",
+                "11 to under 18 years",
                 ""
               ]
             }

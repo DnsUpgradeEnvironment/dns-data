@@ -1,1 +1,1 @@
-{"From":["age group","time series"],"To":["time series","sex"]}
+{"From":["time series","age group"],"To":["age group","sex"]}
