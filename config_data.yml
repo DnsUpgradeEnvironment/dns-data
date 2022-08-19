@@ -127,8 +127,17 @@ datapackage:
 
 
 map_layers:
-  - geojson_file: boundaries.geojson
+  - min_zoom: 4.5
+    max_zoom: 7.5
+    geojson_file: boundaries.geojson
     name_property: GEN
     id_property: AGS
     output_subfolder: regions
     filename_prefix: indicator_
+    staticBorders: true
+  - min_zoom: 8
+    max_zoom: 11
+    geojson_file: boundariesKrs.geojson
+    nameProperty: GEN
+    idProperty: ARS
+    staticBorders: true
