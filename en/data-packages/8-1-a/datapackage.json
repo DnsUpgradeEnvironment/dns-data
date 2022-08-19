@@ -44,7 +44,7 @@
               "enum": [
                 "consumption, investments and exports (price-adjusted)",
                 "raw material use for consumption, investments and exports",
-                "raw material input productivity",
+                "Raw material input productivity",
                 ""
               ]
             },

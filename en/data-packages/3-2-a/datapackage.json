@@ -31,15 +31,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "so₂",
-                "noₓ",
-                "nh₃",
-                "nmvoc",
-                "pm2.5",
+                "SO₂",
+                "NOₓ",
+                "NH₃",
+                "NMVOC",
+                "PM2.5",
                 ""
               ]
             },
-            "title": "air pollutant"
+            "title": "Air pollutant"
           },
           {
             "name": "Value",

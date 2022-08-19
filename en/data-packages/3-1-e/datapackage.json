@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Percentage",
                 ""
               ]
             },
@@ -31,13 +31,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "overweight without obese",
-                "obese",
+                "Total",
+                "Overweight without obese",
+                "Obese",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "age group",
@@ -49,19 +49,19 @@
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

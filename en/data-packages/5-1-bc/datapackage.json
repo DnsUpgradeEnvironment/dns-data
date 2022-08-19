@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Percentage",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women in management positions in business",
-                "women in management positions in the federal civil service",
+                "Women in management positions in business",
+                "Women in management positions in the federal civil service",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "Value",

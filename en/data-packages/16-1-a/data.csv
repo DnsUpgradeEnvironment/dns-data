@@ -1,4 +1,4 @@
-Year,Units,display,criminal offences,Bundesland,GeoCode,Value
+Year,Units,display,Criminal offences,Bundesland,GeoCode,Value
 1993,per 100 000 inhabitants,a) time series,a) criminal offences (overall),a) germany (total),,8354
 1994,per 100 000 inhabitants,a) time series,a) criminal offences (overall),a) germany (total),,8063
 1995,per 100 000 inhabitants,a) time series,a) criminal offences (overall),a) germany (total),,8212
@@ -513,33 +513,33 @@ Year,Units,display,criminal offences,Bundesland,GeoCode,Value
 2017,per 100 000 inhabitants,a) time series,serious and grievous bodily harm,a) germany (total),,166
 2018,per 100 000 inhabitants,a) time series,serious and grievous bodily harm,a) germany (total),,165
 2019,per 100 000 inhabitants,a) time series,serious and grievous bodily harm,a) germany (total),,160
-1993,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,654
-1994,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,724
-1995,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,767
-1996,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,797
-1997,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,823
-1998,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,866
-1999,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,881
-2000,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,947
-2001,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,974
-2002,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,966
-2003,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1074
-2004,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1156
-2005,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1167
-2006,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1174
-2007,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1126
-2008,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1097
-2009,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1186
-2010,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1205
-2011,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1165
-2012,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1193
-2013,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1165
-2014,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1200
-2015,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1190
-2016,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1094
-2017,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1103
-2018,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1016
-2019,per 100 000 inhabitants,a) time series,fraud,a) germany (total),,1003
+1993,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,654
+1994,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,724
+1995,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,767
+1996,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,797
+1997,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,823
+1998,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,866
+1999,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,881
+2000,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,947
+2001,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,974
+2002,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,966
+2003,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1074
+2004,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1156
+2005,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1167
+2006,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1174
+2007,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1126
+2008,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1097
+2009,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1186
+2010,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1205
+2011,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1165
+2012,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1193
+2013,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1165
+2014,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1200
+2015,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1190
+2016,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1094
+2017,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1103
+2018,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1016
+2019,per 100 000 inhabitants,a) time series,Fraud,a) germany (total),,1003
 1993,per 100 000 inhabitants,a) time series,burglary in homes,a) germany (total),,281
 1994,per 100 000 inhabitants,a) time series,burglary in homes,a) germany (total),,260
 1995,per 100 000 inhabitants,a) time series,burglary in homes,a) germany (total),,260

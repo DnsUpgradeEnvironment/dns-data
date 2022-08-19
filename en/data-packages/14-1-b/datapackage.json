@@ -56,11 +56,11 @@
             "constraints": {
               "enum": [
                 "north sea",
-                "baltic sea",
+                "Baltic sea",
                 ""
               ]
             },
-            "title": "sea"
+            "title": "Sea"
           },
           {
             "name": "Value",

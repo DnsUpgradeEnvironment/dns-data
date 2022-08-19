@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "final energy productivity",
-                "primary energy consumption",
+                "Final energy productivity",
+                "Primary energy consumption",
                 ""
               ]
             },
@@ -43,26 +43,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
-                "saarland",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                "Saarland",
                 ""
               ]
             },
-            "title": "federal state"
+            "title": "Federal state"
           },
           {
             "name": "GeoCode",

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Percentage",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pandemic prevention and response",
-                "separate amount devoted to curbing the covid-19 pandemic",
+                "Pandemic prevention and response",
+                "Separate amount devoted to curbing the COVID-19 pandemic",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "Value",

@@ -34,13 +34,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "eu-28",
+                "Germany",
+                "EU-28",
                 "euro zone",
                 ""
               ]
             },
-            "title": "area"
+            "title": "Area"
           },
           {
             "name": "Value",

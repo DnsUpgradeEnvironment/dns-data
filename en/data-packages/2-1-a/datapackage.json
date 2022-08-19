@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kilogram per hectare",
+                "Kilogram per hectare",
                 ""
               ]
             },
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "calculated annual values",
-                "moving five-year average shown for each middle year",
+                "Calculated annual values",
+                "Moving five-year average shown for each middle year",
                 ""
               ]
             },

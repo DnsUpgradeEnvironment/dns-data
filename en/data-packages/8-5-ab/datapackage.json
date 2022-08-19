@@ -44,12 +44,12 @@
             "constraints": {
               "enum": [
                 "a) total",
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "age",

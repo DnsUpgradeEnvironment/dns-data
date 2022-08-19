@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "foreign school graduates",
+                "Foreign school graduates",
                 "german school graduates (share of all german leavers)",
                 ""
               ]
@@ -43,13 +43,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 "a) total",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Bundesland",
