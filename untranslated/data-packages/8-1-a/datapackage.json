@@ -25,22 +25,12 @@
             }
           },
           {
-            "name": "testDisagg",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "consumption, investments and exports (price-adjusted)",
-                "raw material use for consumption, investments and exports",
+                "value of consumption, investment and exports (price-adjusted)",
+                "raw material input for consumption, investment and exports",
                 "raw material input productivity",
                 ""
               ]

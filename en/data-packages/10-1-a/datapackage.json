@@ -20,23 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Foreign school graduates",
-                "german school graduates (share of all german leavers)",
+                "German school graduates",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Time series"
           },
           {
             "name": "sex",
@@ -45,37 +45,36 @@
               "enum": [
                 "Female",
                 "Male",
-                "a) total",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
             "name": "GeoCode",

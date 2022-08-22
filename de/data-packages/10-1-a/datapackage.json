@@ -20,23 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Ausländische Schulabsolventinnen und Schulabsolventen",
-                "german school graduates (share of all german leavers)",
+                "Deutsche Schulabsolventinnen und -absolventen",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Zeitreihe"
           },
           {
             "name": "sex",
@@ -45,33 +45,32 @@
               "enum": [
                 "Weiblich",
                 "Männlich",
-                "a) total",
                 ""
               ]
             },
             "title": "Geschlecht"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },

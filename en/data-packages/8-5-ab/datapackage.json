@@ -20,30 +20,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "Employment rate, total (20 to 64-year-olds)",
+                "Employment rate, older people (60 to 64-year-olds)",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Time series"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 to under 65 years",
+                "60 to under 65 years",
+                ""
+              ]
+            },
+            "title": "Age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
                 "Female",
                 "Male",
                 ""
@@ -52,43 +63,30 @@
             "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "20 - 64 years",
-                "60 - 64 years",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "age"
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
             "name": "GeoCode",

@@ -20,30 +20,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "Erwerbstätigenquote insgesamt (20 bis 64 Jahre)",
+                "Erwerbstätigenquote Ältere (60 bis 64 Jahre)",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Zeitreihe"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 bis unter 65 Jahre",
+                "60 bis unter 65 Jahre",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
                 "Weiblich",
                 "Männlich",
                 ""
@@ -52,39 +63,26 @@
             "title": "Geschlecht"
           },
           {
-            "name": "age",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "20 - 64 years",
-                "60 - 64 years",
-                ""
-              ]
-            },
-            "title": "age"
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },

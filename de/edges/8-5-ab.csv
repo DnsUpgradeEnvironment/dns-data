@@ -1,4 +1,4 @@
 From,To
-display,Geschlecht
-Geschlecht,age
-age,Bundesland
+Zeitreihe,Altersklasse
+Altersklasse,Geschlecht
+Altersklasse,Bundesland

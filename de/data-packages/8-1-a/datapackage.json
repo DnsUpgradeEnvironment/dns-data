@@ -27,28 +27,17 @@
             "title": "Units"
           },
           {
-            "name": "testDisagg",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                ""
-              ]
-            },
-            "title": "testDisagg"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "consumption, investments and exports (price-adjusted)",
-                "raw material use for consumption, investments and exports",
+                "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
+                "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 "Gesamtrohstoffproduktivität",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

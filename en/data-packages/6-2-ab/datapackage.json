@@ -20,36 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "Millions",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "Number of people gaining first-time or upgraded access to drinking water owing to German support",
+                "Number of people gaining first-time or improved access to sanitation owing to German support",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) drinking water and sanitation",
-                "b) drinking water",
-                "c) sanitation",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Time series"
           },
           {
             "name": "Value",

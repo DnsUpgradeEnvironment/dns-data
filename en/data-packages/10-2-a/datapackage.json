@@ -16,31 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "title",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised income before social transfers",
-                "gini coefficient of equivalised disposable income",
-                "gini coefficient of market income",
-                "gini coefficient of wealth",
+                "Gini coefficient",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Units"
           },
           {
-            "name": "area",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany",
-                "EU-28",
-                "euro zone",
+                "Gini coefficient of equivalised disposable income before social transfers",
+                "Gini coefficient of equivalised disposable income",
+                "Gini coefficient of market income",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "Time series"
           },
           {
             "name": "Value",

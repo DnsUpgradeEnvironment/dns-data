@@ -16,31 +16,28 @@
             "title": "Year"
           },
           {
-            "name": "title",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised income before social transfers",
-                "gini coefficient of equivalised disposable income",
-                "gini coefficient of market income",
-                "gini coefficient of wealth",
+                "Gini-Koeffizient",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Units"
           },
           {
-            "name": "area",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland",
-                "EU-28",
-                "euro zone",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
+                "Gini-Koeffizient des Markteinkommens",
                 ""
               ]
             },
-            "title": "Gebiet"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

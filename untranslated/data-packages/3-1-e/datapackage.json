@@ -25,18 +25,6 @@
             }
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                "overweight without obese",
-                "obese",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -54,6 +42,18 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "overweight without obese",
+                "obese",
                 ""
               ]
             }

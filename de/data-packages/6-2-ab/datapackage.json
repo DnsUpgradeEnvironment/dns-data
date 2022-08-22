@@ -20,36 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "Millionen",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung durch deutsche Unterstützung erhalten",
+                "Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) drinking water and sanitation",
-                "b) drinking water",
-                "c) sanitation",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

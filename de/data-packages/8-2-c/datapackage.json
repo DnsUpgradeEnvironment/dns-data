@@ -20,23 +20,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "b) target (max)",
-                "a) time series",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

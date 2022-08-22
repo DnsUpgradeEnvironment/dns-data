@@ -20,41 +20,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000 eur",
+                "1.000 EUR",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
-            "name": "Kreis",
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "county",
             "type": "string",
             "constraints": {
               "enum": [
@@ -463,12 +467,7 @@
                 ""
               ]
             },
-            "title": "Kreis"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "County"
           },
           {
             "name": "Value",

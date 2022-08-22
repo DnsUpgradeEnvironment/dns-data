@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
@@ -20,16 +20,6 @@
             "constraints": {
               "enum": [
                 "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "partnership for sustainable textiles",
                 ""
               ]
             }

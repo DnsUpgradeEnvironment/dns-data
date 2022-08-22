@@ -19,39 +19,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000 eur",
+                "1.000 eur",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
           },
           {
-            "name": "Kreis",
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "county",
             "type": "string",
             "constraints": {
               "enum": [
@@ -460,10 +463,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",

@@ -1,18 +1,16 @@
 Disaggregation,Number of indicators,Number of values
 ?,1,402
-age group,3,17
-age,1,2
+age group,4,19
 air pollutant,1,5
-area,2,4
-Bundesland,12,17
+area,1,2
+Bundesland,7,17
+county,1,402
 criminal offences,1,5
 dimension,1,2
-display,25,4
-federal state,13,16
-Kreis,1,402
+display,20,4
+federal state,19,16
 sea,2,2
-sex,7,3
-testDisagg,1,1
-time series,7,14
-title,21,60
+sex,7,2
+time series,13,27
+title,15,44
 typification,2,3

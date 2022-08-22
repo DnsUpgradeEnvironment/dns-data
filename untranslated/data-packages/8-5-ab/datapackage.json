@@ -19,18 +19,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "employment rate, total (20 to 64-year-olds)",
+                "employment rate, older people (60 to 64-year-olds)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 to under 65 years",
+                "60 to under 65 years",
                 ""
               ]
             }
@@ -40,7 +51,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
                 "female",
                 "male",
                 ""
@@ -48,38 +58,26 @@
             }
           },
           {
-            "name": "age",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "20 - 64 years",
-                "60 - 64 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }

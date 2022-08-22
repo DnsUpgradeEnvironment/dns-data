@@ -27,19 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Übergewicht ohne Adipositas",
-                "Adipositas",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -62,6 +49,19 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Übergewicht ohne Adipositas",
+                "Adipositas",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

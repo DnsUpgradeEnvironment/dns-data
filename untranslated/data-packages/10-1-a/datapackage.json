@@ -19,18 +19,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
                 "foreign school graduates",
-                "german school graduates (share of all german leavers)",
+                "german school graduates",
                 ""
               ]
             }
@@ -42,32 +42,31 @@
               "enum": [
                 "female",
                 "male",
-                "a) total",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }

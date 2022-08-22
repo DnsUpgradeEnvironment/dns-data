@@ -21,21 +21,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "b) target (max)",
-                "a) time series",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -57,7 +75,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Units",
@@ -65,16 +83,6 @@
             "constraints": {
               "enum": [
                 "number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "partnership for sustainable textiles",
                 ""
               ]
             }
@@ -687,22 +695,12 @@
             }
           },
           {
-            "name": "testDisagg",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "consumption, investments and exports (price-adjusted)",
-                "raw material use for consumption, investments and exports",
+                "value of consumption, investment and exports (price-adjusted)",
+                "raw material input for consumption, investment and exports",
                 "raw material input productivity",
                 ""
               ]
@@ -767,18 +765,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "title",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
                 "foreign school graduates",
-                "german school graduates (share of all german leavers)",
+                "german school graduates",
                 ""
               ]
             }
@@ -790,32 +788,31 @@
               "enum": [
                 "female",
                 "male",
-                "a) total",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
@@ -1184,30 +1181,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "millions",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) drinking water and sanitation",
-                "b) drinking water",
-                "c) sanitation",
+                "number of people gaining first-time or upgraded access to drinking water owing to german support",
+                "number of people gaining first-time or improved access to sanitation owing to german support",
                 ""
               ]
             }
@@ -1324,26 +1309,23 @@
             "type": "integer"
           },
           {
-            "name": "title",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised income before social transfers",
-                "gini coefficient of equivalised disposable income",
-                "gini coefficient of market income",
-                "gini coefficient of wealth",
+                "gini coefficient",
                 ""
               ]
             }
           },
           {
-            "name": "area",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "eu-28",
-                "euro zone",
+                "gini coefficient of equivalised disposable income before social transfers",
+                "gini coefficient of equivalised disposable income",
+                "gini coefficient of market income",
                 ""
               ]
             }
@@ -1375,18 +1357,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "employment rate, total (20 to 64-year-olds)",
+                "employment rate, older people (60 to 64-year-olds)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 to under 65 years",
+                "60 to under 65 years",
                 ""
               ]
             }
@@ -1396,7 +1389,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) total",
                 "female",
                 "male",
                 ""
@@ -1404,38 +1396,26 @@
             }
           },
           {
-            "name": "age",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "20 - 64 years",
-                "60 - 64 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
@@ -1602,33 +1582,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
@@ -1736,39 +1715,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000 eur",
+                "1.000 eur",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) germany (total)",
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
           },
           {
-            "name": "Kreis",
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "county",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2179,10 +2161,6 @@
             }
           },
           {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -2545,30 +2523,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "funding balance (share of gross domestic product (at current prices) in %)",
-                "structural funding balance (share of gross domestic product (at current prices) in %)",
-                "gross domestic produkt (price-adjusted) (year-on-year changes in %)",
+                "change of gross domestic product (price-adjusted)",
                 ""
               ]
             }
@@ -2675,8 +2640,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women in management positions in business",
-                "women in management positions in the federal civil service",
+                "on supervisory boards of listed and fully co-determined companies",
+                "in management positions in the federal civil service",
                 ""
               ]
             }
@@ -3294,18 +3259,6 @@
             }
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                "overweight without obese",
-                "obese",
-                ""
-              ]
-            }
-          },
-          {
             "name": "age group",
             "type": "string",
             "constraints": {
@@ -3323,6 +3276,18 @@
               "enum": [
                 "female",
                 "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "overweight without obese",
+                "obese",
                 ""
               ]
             }
@@ -4303,43 +4268,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "percentage",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }

@@ -27,28 +27,17 @@
             "title": "Units"
           },
           {
-            "name": "testDisagg",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                ""
-              ]
-            },
-            "title": "testDisagg"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "consumption, investments and exports (price-adjusted)",
-                "raw material use for consumption, investments and exports",
+                "Value of consumption, investment and exports (price-adjusted)",
+                "Raw material input for consumption, investment and exports",
                 "Raw material input productivity",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Time series"
           },
           {
             "name": "Value",

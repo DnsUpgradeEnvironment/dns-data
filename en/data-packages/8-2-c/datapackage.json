@@ -20,23 +20,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "b) target (max)",
-                "a) time series",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Federal state"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

@@ -1,4 +1,4 @@
 From,To
-display,sex
-sex,age
-age,Bundesland
+time series,age group
+age group,sex
+age group,federal state

@@ -1,1 +1,1 @@
-{"From":["display","sex","age"],"To":["sex","age","Bundesland"]}
+{"From":["time series","age group","age group"],"To":["age group","sex","federal state"]}
