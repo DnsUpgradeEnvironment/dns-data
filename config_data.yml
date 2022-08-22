@@ -127,13 +127,13 @@ datapackage:
 
 
 map_layers:
-  - geojson_file: boundaries.geojson
+  - geojson_file: laender.geojson
     name_property: GEN
     id_property: AGS
-    output_subfolder: boundaries
+    output_subfolder: laender
     filename_prefix: indicator_
-  - geojson_file: boundariesKrs.geojson
+  - geojson_file: kreise.geojson
     name_property: GEN
     id_property: ARS
-    output_subfolder: boundariesKrs
+    output_subfolder: kreise
     filename_prefix: indicator_
