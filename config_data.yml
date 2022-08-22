@@ -124,21 +124,14 @@ docs_intro: This is a list of examples of endpoints and output that are
 
 datapackage:
     sorting: default
+
 map_layers:
-  -
-    # This can be a local relative path or a remote URL.
-    geojson_file: boundaries.geojson
-    # This is the property in the GeoJSON that holds the name of the region.
+  - geojson_file: boundaries.geojson
     name_property: GEN
-    # This is the property in the GeoJSON that holds the "geocode" of the region.
     id_property: AGS
-    # This controls the subfolder that the GeoJSON file will be created in.
     output_subfolder: regions
-    # This adds a prefix to all the GeoJSON filenames.
     filename_prefix: indicator_
-  -
-    # Add any number of additional layers, such as one for counties.
-    geojson_file: boundariesKrs.geojson
+  - geojson_file: boundariesKrs.geojson
     name_property: GEN
     id_property: ARS
     output_subfolder: counties
