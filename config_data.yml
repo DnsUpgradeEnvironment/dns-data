@@ -130,10 +130,10 @@ map_layers:
   - geojson_file: boundaries.geojson
     name_property: GEN
     id_property: AGS
-    output_subfolder: regions
+    output_subfolder: boundaries
     filename_prefix: indicator_
   - geojson_file: boundariesKrs.geojson
     name_property: GEN
     id_property: ARS
-    output_subfolder: counties
+    output_subfolder: boundariesKrs
     filename_prefix: indicator_
