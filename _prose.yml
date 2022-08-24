@@ -25,6 +25,11 @@ prose:
             label: "Layout"
             scope: page
     ######### Global Metadata #########
+      - name: "goal"
+        field:
+            element: hidden
+            label: "Goal number"
+            scope: global
       - name: "indicator_name"
         field:
             element: text
