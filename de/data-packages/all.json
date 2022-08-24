@@ -3501,7 +3501,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
                 "Übergewicht ohne Adipositas",
                 "Adipositas",
                 ""

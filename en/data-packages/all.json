@@ -3501,7 +3501,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Overweight without obese",
                 "Obese",
                 ""

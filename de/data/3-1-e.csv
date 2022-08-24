@@ -5,12 +5,12 @@ Year,Units,Altersklasse,Geschlecht,Zeitreihe,Value
 2014,Prozent,3 bis unter 11 Jahre,Weiblich,,12.9
 2003,Prozent,3 bis unter 11 Jahre,Männlich,,13.1
 2014,Prozent,3 bis unter 11 Jahre,Männlich,,11.8
-2003,Prozent,11 bis unter 18 Jahre,,Insgesamt,18.1
-2014,Prozent,11 bis unter 18 Jahre,,Insgesamt,18.7
-2003,Prozent,11 bis unter 18 Jahre,Weiblich,Insgesamt,17.8
-2014,Prozent,11 bis unter 18 Jahre,Weiblich,Insgesamt,17.8
-2003,Prozent,11 bis unter 18 Jahre,Männlich,Insgesamt,18.3
-2014,Prozent,11 bis unter 18 Jahre,Männlich,Insgesamt,19.6
+2003,Prozent,11 bis unter 18 Jahre,,,18.1
+2014,Prozent,11 bis unter 18 Jahre,,,18.7
+2003,Prozent,11 bis unter 18 Jahre,Weiblich,,17.8
+2014,Prozent,11 bis unter 18 Jahre,Weiblich,,17.8
+2003,Prozent,11 bis unter 18 Jahre,Männlich,,18.3
+2014,Prozent,11 bis unter 18 Jahre,Männlich,,19.6
 2003,Prozent,3 bis unter 11 Jahre,,Übergewicht ohne Adipositas,7.7
 2014,Prozent,3 bis unter 11 Jahre,,Übergewicht ohne Adipositas,8.4
 2003,Prozent,3 bis unter 11 Jahre,Weiblich,Übergewicht ohne Adipositas,7.6

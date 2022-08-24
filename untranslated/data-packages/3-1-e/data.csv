@@ -5,12 +5,12 @@ Year,Units,age group,sex,time series,Value
 2014,percentage,3 to under 11 years,female,,12.9
 2003,percentage,3 to under 11 years,male,,13.1
 2014,percentage,3 to under 11 years,male,,11.8
-2003,percentage,11 to under 18 years,,total,18.1
-2014,percentage,11 to under 18 years,,total,18.7
-2003,percentage,11 to under 18 years,female,total,17.8
-2014,percentage,11 to under 18 years,female,total,17.8
-2003,percentage,11 to under 18 years,male,total,18.3
-2014,percentage,11 to under 18 years,male,total,19.6
+2003,percentage,11 to under 18 years,,,18.1
+2014,percentage,11 to under 18 years,,,18.7
+2003,percentage,11 to under 18 years,female,,17.8
+2014,percentage,11 to under 18 years,female,,17.8
+2003,percentage,11 to under 18 years,male,,18.3
+2014,percentage,11 to under 18 years,male,,19.6
 2003,percentage,3 to under 11 years,,overweight without obese,7.7
 2014,percentage,3 to under 11 years,,overweight without obese,8.4
 2003,percentage,3 to under 11 years,female,overweight without obese,7.6
