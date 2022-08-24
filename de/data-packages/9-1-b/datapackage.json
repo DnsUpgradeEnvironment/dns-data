@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",

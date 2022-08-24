@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -81,7 +81,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -116,7 +116,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -194,7 +194,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -253,7 +253,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -288,7 +288,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -366,7 +366,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -431,7 +431,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -466,7 +466,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -560,7 +560,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -661,7 +661,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -739,7 +739,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -787,7 +787,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -822,7 +822,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -912,7 +912,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -978,7 +978,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1037,7 +1037,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1108,7 +1108,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1167,7 +1167,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1228,7 +1228,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1275,7 +1275,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1322,7 +1322,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1372,7 +1372,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1419,7 +1419,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1467,7 +1467,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1569,7 +1569,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1632,7 +1632,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1711,7 +1711,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1777,7 +1777,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -1855,7 +1855,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2333,7 +2333,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2380,7 +2380,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2440,7 +2440,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2499,7 +2499,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2546,7 +2546,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2639,7 +2639,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2699,7 +2699,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2745,7 +2745,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2816,7 +2816,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2863,7 +2863,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2910,7 +2910,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -2969,7 +2969,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3459,7 +3459,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3531,7 +3531,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3579,7 +3579,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3626,7 +3626,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3702,7 +3702,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3749,7 +3749,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3815,7 +3815,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3905,7 +3905,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -3983,7 +3983,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4030,7 +4030,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4093,7 +4093,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4183,7 +4183,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4249,7 +4249,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4284,7 +4284,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4344,7 +4344,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4391,7 +4391,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4470,7 +4470,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4562,7 +4562,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr0"
+            "title": "Jahr"
           },
           {
             "name": "Units",
