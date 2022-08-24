@@ -70,7 +70,7 @@
             "title": "GeoCode"
           },
           {
-            "name": "?",
+            "name": "county",
             "type": "string",
             "constraints": {
               "enum": [
@@ -479,7 +479,7 @@
                 ""
               ]
             },
-            "title": "?"
+            "title": "Kreis"
           },
           {
             "name": "Value",
