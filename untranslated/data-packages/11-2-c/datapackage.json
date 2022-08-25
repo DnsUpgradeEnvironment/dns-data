@@ -19,43 +19,43 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "min.",
+                "minutes",
                 ""
               ]
             }
           },
           {
-            "name": "dimension",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "in relation to the middle and upper centers of the respective year",
-                "in relation to the middle and upper centers of the year 2012",
+                "for the medium-sized and major cities of the year in question",
+                "for the medium-sized and major cities of 2012",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }

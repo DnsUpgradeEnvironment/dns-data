@@ -20,46 +20,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m2/(inhabitant*a)",
+                "m² pro Einwohner/-in und Jahr",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "typification",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) rural and non-rural areas",
                 "Nicht-ländliche Gebiete",
                 "Ländliche Gebiete",
                 ""
               ]
             },
-            "title": "typification"
+            "title": "Verstädterungsgrad"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },

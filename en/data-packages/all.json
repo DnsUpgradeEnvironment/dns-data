@@ -1174,37 +1174,67 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ha/d",
+                "Hectre per day",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Calculated annual values",
+                "Moving four-year average",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Series"
           },
           {
-            "name": "title",
+            "name": "type of area",
             "type": "string",
             "constraints": {
               "enum": [
-                "sports, leisure and recreation area, graveyard",
-                "living space, industrial and commercial space (without mining land), public facilities",
-                "transport area",
-                "a) total (moving four-year average)",
+                "Verkehrsfläche",
+                "Settlement area (built on)",
+                "Recreation area, cemetery",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Type of area"
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                ""
+              ]
+            },
+            "title": "Federal state"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1646,43 +1676,42 @@
             "title": "Units"
           },
           {
-            "name": "typification",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) rural and non-rural areas",
                 "Non-rural areas",
                 "Rural areas",
                 ""
               ]
             },
-            "title": "typification"
+            "title": "Degree of urbanisation"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
             "name": "GeoCode",
@@ -2653,29 +2682,17 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Energy consumption in passenger transport",
+                "Passenger transport performance",
+                "Energy consumption per passenger-kilometre",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "passenger transport performance",
-                "final energy consumption per passenger-kilometre",
-                "Final energy consumption in passenger transport",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -2909,7 +2926,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -2917,35 +2934,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "Millions",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "All objects",
+                "Objects with digitised media",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total objects",
-                "objects with digitalisat",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -3585,23 +3590,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Percentage",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
           },
           {
             "name": "Value",
@@ -3840,18 +3833,6 @@
             "title": "Time series"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12 to under 18 years",
-                "15 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -3911,49 +3892,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "min.",
+                "Minutes",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "dimension",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "in relation to the middle and upper centers of the respective year",
-                "in relation to the middle and upper centers of the year 2012",
+                "For the medium-sized and major cities of the year in question",
+                "For the medium-sized and major cities of 2012",
                 ""
               ]
             },
-            "title": "dimension"
+            "title": "Time series"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
             "name": "GeoCode",
@@ -4297,29 +4278,17 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Final energy consumption for the transport of goods",
+                "Goods transport performance",
+                "Energy consumption per tonne-kilometre",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "final energy consumption for the carriage of goods",
-                "goods transport performance",
-                "final energy consumption per tonne-kilometre",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -4397,50 +4366,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m2/(inhabitant*a)",
+                "m² per inhabitant and year",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "typification",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) rural and non-rural areas",
                 "Non-rural areas",
                 "Rural areas",
                 ""
               ]
             },
-            "title": "typification"
+            "title": "Degree of urbanisation"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
             "name": "GeoCode",

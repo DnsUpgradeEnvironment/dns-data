@@ -25,24 +25,13 @@
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "final energy consumption for the carriage of goods",
+                "final energy consumption for the transport of goods",
                 "goods transport performance",
-                "final energy consumption per tonne-kilometre",
+                "energy consumption per tonne-kilometre",
                 ""
               ]
             }

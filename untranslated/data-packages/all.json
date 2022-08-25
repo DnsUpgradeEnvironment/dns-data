@@ -1082,34 +1082,62 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ha/d",
+                "hectre per day",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "calculated annual values",
+                "moving four-year average",
                 ""
               ]
             }
           },
           {
-            "name": "title",
+            "name": "type of area",
             "type": "string",
             "constraints": {
               "enum": [
-                "sports, leisure and recreation area, graveyard",
-                "living space, industrial and commercial space (without mining land), public facilities",
-                "transport area",
-                "a) total (moving four-year average)",
+                "verkehrsfläche",
+                "settlement area (built on)",
+                "recreation area, cemetery",
                 ""
               ]
             }
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1515,11 +1543,10 @@
             }
           },
           {
-            "name": "typification",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) rural and non-rural areas",
                 "non-rural areas",
                 "rural areas",
                 ""
@@ -1527,26 +1554,26 @@
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
@@ -2474,24 +2501,13 @@
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "energy consumption in passenger transport",
                 "passenger transport performance",
-                "final energy consumption per passenger-kilometre",
-                "final energy consumption in passenger transport",
+                "energy consumption per passenger-kilometre",
                 ""
               ]
             }
@@ -2709,36 +2725,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "millions",
                 ""
               ]
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total objects",
-                "objects with digitalisat",
+                "all objects",
+                "objects with digitised media",
                 ""
               ]
             }
@@ -3362,18 +3367,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
+                "percentage",
                 ""
               ]
             }
@@ -3596,17 +3590,6 @@
             }
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12 to under 18 years",
-                "15 years and older",
-                ""
-              ]
-            }
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -3662,43 +3645,43 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "min.",
+                "minutes",
                 ""
               ]
             }
           },
           {
-            "name": "dimension",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "in relation to the middle and upper centers of the respective year",
-                "in relation to the middle and upper centers of the year 2012",
+                "for the medium-sized and major cities of the year in question",
+                "for the medium-sized and major cities of 2012",
                 ""
               ]
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
@@ -4017,24 +4000,13 @@
             }
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "final energy consumption for the carriage of goods",
+                "final energy consumption for the transport of goods",
                 "goods transport performance",
-                "final energy consumption per tonne-kilometre",
+                "energy consumption per tonne-kilometre",
                 ""
               ]
             }
@@ -4109,17 +4081,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m2/(inhabitant*a)",
+                "m² per inhabitant and year",
                 ""
               ]
             }
           },
           {
-            "name": "typification",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) rural and non-rural areas",
                 "non-rural areas",
                 "rural areas",
                 ""
@@ -4127,26 +4098,26 @@
             }
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }

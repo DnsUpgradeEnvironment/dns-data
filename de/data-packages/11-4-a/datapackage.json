@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -20,35 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "Millionen",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "Objekte insgesamt",
+                "Objekte mit Digitalisat",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total objects",
-                "objects with digitalisat",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

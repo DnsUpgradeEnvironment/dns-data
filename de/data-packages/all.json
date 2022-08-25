@@ -1174,37 +1174,67 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ha/d",
+                "Hektar pro Tag",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Berechnete jährliche Werte",
+                "Gleitender Vierjahresdurchschnitt",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Series"
           },
           {
-            "name": "title",
+            "name": "type of area",
             "type": "string",
             "constraints": {
               "enum": [
-                "sports, leisure and recreation area, graveyard",
-                "living space, industrial and commercial space (without mining land), public facilities",
-                "transport area",
-                "a) total (moving four-year average)",
+                "Verkehrsfläche",
+                "Siedlungsfläche (bebaut)",
+                "Erholungsfläche, Friedhof",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Art der Fläche"
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -1646,39 +1676,38 @@
             "title": "Units"
           },
           {
-            "name": "typification",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) rural and non-rural areas",
                 "Nicht-ländliche Gebiete",
                 "Ländliche Gebiete",
                 ""
               ]
             },
-            "title": "typification"
+            "title": "Verstädterungsgrad"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
@@ -2653,29 +2682,17 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "passenger transport performance",
-                "final energy consumption per passenger-kilometre",
                 "Endenergieverbrauch im Personenverkehr",
+                "Personenbeförderungsleistung",
+                "Energieverbrauch je Personenkilometer",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -2909,7 +2926,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -2917,35 +2934,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mio.",
+                "Millionen",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (min)",
+                "Objekte insgesamt",
+                "Objekte mit Digitalisat",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total objects",
-                "objects with digitalisat",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -3585,23 +3590,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage (%)",
+                "Prozent",
                 ""
               ]
             },
             "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
           },
           {
             "name": "Value",
@@ -3840,18 +3833,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12 bis unter 18 Jahre",
-                "15 Jahre und älter",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -3911,45 +3892,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "min.",
+                "Minuten",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "dimension",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "in relation to the middle and upper centers of the respective year",
-                "in relation to the middle and upper centers of the year 2012",
+                "Bezogen auf die Mittel- und Oberzentren des jeweiligen Jahres",
+                "Bezogen auf die Mittel- und Oberzentren des Jahres 2012",
                 ""
               ]
             },
-            "title": "dimension"
+            "title": "Zeitreihe"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
@@ -4297,29 +4278,17 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Endenergieverbrauch durch Güterbeförderung",
+                "Güterbeförderungsleistung",
+                "Energieverbrauch je Tonnenkilometer",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "final energy consumption for the carriage of goods",
-                "goods transport performance",
-                "final energy consumption per tonne-kilometre",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -4397,46 +4366,45 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m2/(inhabitant*a)",
+                "m² pro Einwohner/-in und Jahr",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "typification",
+            "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) rural and non-rural areas",
                 "Nicht-ländliche Gebiete",
                 "Ländliche Gebiete",
                 ""
               ]
             },
-            "title": "typification"
+            "title": "Verstädterungsgrad"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },

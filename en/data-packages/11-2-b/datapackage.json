@@ -27,29 +27,17 @@
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Energy consumption in passenger transport",
+                "Passenger transport performance",
+                "Energy consumption per passenger-kilometre",
                 ""
               ]
             },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "passenger transport performance",
-                "final energy consumption per passenger-kilometre",
-                "Final energy consumption in passenger transport",
-                ""
-              ]
-            },
-            "title": "title"
+            "title": "Time series"
           },
           {
             "name": "Value",

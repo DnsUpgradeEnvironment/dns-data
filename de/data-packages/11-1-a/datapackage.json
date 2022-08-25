@@ -20,37 +20,67 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ha/d",
+                "Hektar pro Tag",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Berechnete jährliche Werte",
+                "Gleitender Vierjahresdurchschnitt",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Series"
           },
           {
-            "name": "title",
+            "name": "type of area",
             "type": "string",
             "constraints": {
               "enum": [
-                "sports, leisure and recreation area, graveyard",
-                "living space, industrial and commercial space (without mining land), public facilities",
-                "transport area",
-                "a) total (moving four-year average)",
+                "Verkehrsfläche",
+                "Siedlungsfläche (bebaut)",
+                "Erholungsfläche, Friedhof",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Art der Fläche"
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                ""
+              ]
+            },
+            "title": "Bundesland"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

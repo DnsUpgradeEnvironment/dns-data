@@ -20,49 +20,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "min.",
+                "Minutes",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "dimension",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
-                "in relation to the middle and upper centers of the respective year",
-                "in relation to the middle and upper centers of the year 2012",
+                "For the medium-sized and major cities of the year in question",
+                "For the medium-sized and major cities of 2012",
                 ""
               ]
             },
-            "title": "dimension"
+            "title": "Time series"
           },
           {
-            "name": "Bundesland",
+            "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
-                "bw",
-                "by",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "sl",
-                "sn",
-                "st",
-                "sh",
-                "th",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Federal state"
           },
           {
             "name": "GeoCode",

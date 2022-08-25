@@ -39,18 +39,6 @@
             "title": "Time series"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "12 to under 18 years",
-                "15 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {

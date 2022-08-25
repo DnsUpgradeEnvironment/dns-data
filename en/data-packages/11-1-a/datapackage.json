@@ -20,37 +20,67 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ha/d",
+                "Hectre per day",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "display",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "a) time series",
-                "b) target (max)",
+                "Calculated annual values",
+                "Moving four-year average",
                 ""
               ]
             },
-            "title": "display"
+            "title": "Series"
           },
           {
-            "name": "title",
+            "name": "type of area",
             "type": "string",
             "constraints": {
               "enum": [
-                "sports, leisure and recreation area, graveyard",
-                "living space, industrial and commercial space (without mining land), public facilities",
-                "transport area",
-                "a) total (moving four-year average)",
+                "Verkehrsfläche",
+                "Settlement area (built on)",
+                "Recreation area, cemetery",
                 ""
               ]
             },
-            "title": "title"
+            "title": "Type of area"
+          },
+          {
+            "name": "federal state",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
+                "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                ""
+              ]
+            },
+            "title": "Federal state"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
