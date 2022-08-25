@@ -12,28 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mio. eur",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "redd+",
-                "soil conservation",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

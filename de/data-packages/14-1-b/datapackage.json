@@ -12,55 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportion of sustainable managed stocks in all msy examined stocks",
-                "proportion of msy examined in all managed stocks",
-                ""
-              ]
-            },
-            "title": "title"
-          },
-          {
-            "name": "sea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "north sea",
-                "Ostsee",
-                ""
-              ]
-            },
-            "title": "Meer"
           },
           {
             "name": "Value",

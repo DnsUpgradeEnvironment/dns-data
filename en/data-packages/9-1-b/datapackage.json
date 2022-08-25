@@ -12,44 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "all line-based technologies",
-                "pure fiber optic networks (fttb/h)",
-                "Cable television (CATV)",
-                ""
-              ]
-            },
-            "title": "title"
           },
           {
             "name": "Value",

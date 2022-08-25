@@ -12,60 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1990 = 100",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
-            "name": "Bundesland",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) germany (total)",
-                "bw",
-                "be",
-                "bb",
-                "hb",
-                "hh",
-                "he",
-                "mv",
-                "ni",
-                "nw",
-                "rp",
-                "st",
-                "sh",
-                "th",
-                ""
-              ]
-            },
-            "title": "Bundesland"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",

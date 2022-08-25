@@ -12,29 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "direct and indirect raw material consumption",
-                "direct and indirect energy consumption",
-                "direct and indirect co2 emissions",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

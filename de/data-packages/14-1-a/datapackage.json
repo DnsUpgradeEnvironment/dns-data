@@ -12,43 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mg/l",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            },
-            "title": "display"
-          },
-          {
-            "name": "sea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "north sea",
-                "Ostsee",
-                ""
-              ]
-            },
-            "title": "Meer"
           },
           {
             "name": "Value",

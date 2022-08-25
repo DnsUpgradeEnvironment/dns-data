@@ -12,50 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage (%)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (min)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "proportion of sustainable managed stocks in all msy examined stocks",
-                "proportion of msy examined in all managed stocks",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "north sea",
-                "baltic sea",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

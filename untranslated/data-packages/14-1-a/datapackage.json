@@ -12,39 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mg/l",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "display",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) time series",
-                "b) target (max)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sea",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "north sea",
-                "baltic sea",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

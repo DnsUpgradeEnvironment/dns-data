@@ -12,28 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "index/number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "title",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "rating for germany",
-                "number of partner countries of german development cooperation whose rating has improved compared with 2012",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
