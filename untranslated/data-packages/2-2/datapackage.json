@@ -12,30 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                ""
-              ]
-            },
-            "title": "Units"
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "2-2-a",
-  "title": "2-2-a"
+  "name": "2-2",
+  "title": "Unterstützung guter Regierungsführung bei der Erreichung einer angemessenen Ernährung weltweit"
 }
