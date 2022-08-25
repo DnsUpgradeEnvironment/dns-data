@@ -1347,6 +1347,17 @@
             }
           },
           {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany",
+                "eu",
+                ""
+              ]
+            }
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
