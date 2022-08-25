@@ -1,24 +1,17 @@
-Year,Units,display,title,Value
-2014.1,mio.,a) time series,total objects,7.90
-2014.2,mio.,a) time series,total objects,11.20
-2015.1,mio.,a) time series,total objects,15.10
-2015.2,mio.,a) time series,total objects,18.20
-2016.1,mio.,a) time series,total objects,19.70
-2016.2,mio.,a) time series,total objects,20.40
-2017.1,mio.,a) time series,total objects,22.50
-2017.2,mio.,a) time series,total objects,23.70
-2018.1,mio.,a) time series,total objects,24.20
-2018.2,mio.,a) time series,total objects,24.20
-2019.1,mio.,a) time series,total objects,26.40
-2019.2,mio.,a) time series,total objects,32.10
-2020.1,mio.,a) time series,total objects,33.00
-2030,mio.,b) target (min),total objects,50.00
-2016.1,mio.,a) time series,objects with digitalisat,6.20
-2016.2,mio.,a) time series,objects with digitalisat,6.50
-2017.1,mio.,a) time series,objects with digitalisat,7.40
-2017.2,mio.,a) time series,objects with digitalisat,7.90
-2018.1,mio.,a) time series,objects with digitalisat,7.90
-2018.2,mio.,a) time series,objects with digitalisat,7.90
-2019.1,mio.,a) time series,objects with digitalisat,10.20
-2019.2,mio.,a) time series,objects with digitalisat,11.30
-2020.1,mio.,a) time series,objects with digitalisat,11.30
+Year,Units,time series,Value
+2014,millions,all objects,7.9
+2015,millions,all objects,15.1
+2016,millions,all objects,19.7
+2017,millions,all objects,22.5
+2018,millions,all objects,24.2
+2019,millions,all objects,26.4
+2020,millions,all objects,33.0
+2021,millions,all objects,37.6
+2022,millions,all objects,42.3
+2016,millions,objects with digitised media,7.7
+2017,millions,objects with digitised media,9.1
+2018,millions,objects with digitised media,9.7
+2019,millions,objects with digitised media,12.1
+2020,millions,objects with digitised media,11.0
+2021,millions,objects with digitised media,13.3
+2022,millions,objects with digitised media,14.9
