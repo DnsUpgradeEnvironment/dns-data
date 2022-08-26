@@ -1,4 +1,5 @@
 Year,Units,Geschlecht,Bundesland,GeoCode,Value
+1999,Prozent,,,,14.9
 2000,Prozent,,,,14.9
 2001,Prozent,,,,12.5
 2002,Prozent,,,,12.6
@@ -20,6 +21,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,,,10.34
 2019,Prozent,,,,10.34
 2020,Prozent,,,,10.1
+1999,Prozent,Weiblich,,,15.6
 2000,Prozent,Weiblich,,,15.2
 2001,Prozent,Weiblich,,,12.8
 2002,Prozent,Weiblich,,,12.6
@@ -41,6 +43,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,,,9.13
 2019,Prozent,Weiblich,,,8.73
 2020,Prozent,Weiblich,,,8.4
+1999,Prozent,Männlich,,,14.2
 2000,Prozent,Männlich,,,14.6
 2001,Prozent,Männlich,,,12.2
 2002,Prozent,Männlich,,,12.6

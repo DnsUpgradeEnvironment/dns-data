@@ -27,18 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "EU",
-                ""
-              ]
-            },
-            "title": "Gebiet"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -50,6 +38,18 @@
               ]
             },
             "title": "Zeitreihe"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "EU",
+                ""
+              ]
+            },
+            "title": "Gebiet"
           },
           {
             "name": "Value",

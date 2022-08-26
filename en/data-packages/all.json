@@ -1515,18 +1515,6 @@
             "title": "Units"
           },
           {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Germany",
-                "EU",
-                ""
-              ]
-            },
-            "title": "Area"
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -1538,6 +1526,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Germany",
+                "EU",
+                ""
+              ]
+            },
+            "title": "Area"
           },
           {
             "name": "Value",

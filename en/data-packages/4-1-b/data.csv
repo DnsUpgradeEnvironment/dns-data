@@ -1,4 +1,5 @@
 Year,Units,Time series,Sex,Federal state,GeoCode,Value
+1999,Percentage,Total,,,,33.35
 2000,Percentage,Total,,,,33.0
 2001,Percentage,Total,,,,33.17
 2002,Percentage,Total,,,,33.28
@@ -20,6 +21,7 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Total,,,,49.83
 2019,Percentage,Total,,,,50.49
 2020,Percentage,Total,,,,52.3
+1999,Percentage,Total,Female,,,31.39
 2000,Percentage,Total,Female,,,30.88
 2001,Percentage,Total,Female,,,31.09
 2002,Percentage,Total,Female,,,31.25
@@ -41,6 +43,7 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Total,Female,,,53.83
 2019,Percentage,Total,Female,,,54.41
 2020,Percentage,Total,Female,,,56.63
+1999,Percentage,Total,Male,,,35.22
 2000,Percentage,Total,Male,,,35.05
 2001,Percentage,Total,Male,,,35.2
 2002,Percentage,Total,Male,,,35.22
@@ -830,6 +833,7 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2018,Percentage,Total,Male,Thuringia,code16,38.1
 2019,Percentage,Total,Male,Thuringia,code16,38.9
 2020,Percentage,Total,Male,Thuringia,code16,43.4
+1999,Percentage,With tertiary qualification,,,,24.8
 2000,Percentage,With tertiary qualification,,,,25.33
 2001,Percentage,With tertiary qualification,,,,25.05
 2002,Percentage,With tertiary qualification,,,,25.07

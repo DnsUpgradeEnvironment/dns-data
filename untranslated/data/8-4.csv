@@ -1,4 +1,13 @@
 Year,Units,federal state,GeoCode,county,Value
+1991,1.000 eur,,,,27.744
+1992,1.000 eur,,,,28.092
+1993,1.000 eur,,,,27.665
+1994,1.000 eur,,,,28.256
+1995,1.000 eur,,,,28.636
+1996,1.000 eur,,,,28.81
+1997,1.000 eur,,,,29.311
+1998,1.000 eur,,,,29.925
+1999,1.000 eur,,,,30.498
 2000,1.000 eur,,,,31.373
 2001,1.000 eur,,,,31.877
 2002,1.000 eur,,,,31.79
@@ -21,6 +30,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,,,,39.052
 2020,1.000 eur,,,,37.237
 2021,1.000 eur,,,,38.237
+1991,1.000 eur,baden-wuerttemberg,code08,,33.828
+1992,1.000 eur,baden-wuerttemberg,code08,,33.554
+1993,1.000 eur,baden-wuerttemberg,code08,,31.872
+1994,1.000 eur,baden-wuerttemberg,code08,,32.318
+1995,1.000 eur,baden-wuerttemberg,code08,,32.757
+1996,1.000 eur,baden-wuerttemberg,code08,,32.955
+1997,1.000 eur,baden-wuerttemberg,code08,,33.452
+1998,1.000 eur,baden-wuerttemberg,code08,,34.207
+1999,1.000 eur,baden-wuerttemberg,code08,,34.985
 2000,1.000 eur,baden-wuerttemberg,code08,,36.094
 2001,1.000 eur,baden-wuerttemberg,code08,,37.097
 2002,1.000 eur,baden-wuerttemberg,code08,,36.577
@@ -43,6 +61,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,baden-wuerttemberg,code08,,44.65
 2020,1.000 eur,baden-wuerttemberg,code08,,42.175
 2021,1.000 eur,baden-wuerttemberg,code08,,43.57
+1991,1.000 eur,bavaria,code09,,31.338
+1992,1.000 eur,bavaria,code09,,31.795
+1993,1.000 eur,bavaria,code09,,30.919
+1994,1.000 eur,bavaria,code09,,31.245
+1995,1.000 eur,bavaria,code09,,31.369
+1996,1.000 eur,bavaria,code09,,31.57
+1997,1.000 eur,bavaria,code09,,32.147
+1998,1.000 eur,bavaria,code09,,33.269
+1999,1.000 eur,bavaria,code09,,34.087
 2000,1.000 eur,bavaria,code09,,35.464
 2001,1.000 eur,bavaria,code09,,36.25
 2002,1.000 eur,bavaria,code09,,36.334
@@ -65,6 +92,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,bavaria,code09,,45.985
 2020,1.000 eur,bavaria,code09,,43.892
 2021,1.000 eur,bavaria,code09,,45.126
+1991,1.000 eur,berlin,code11,,28.004
+1992,1.000 eur,berlin,code11,,28.982
+1993,1.000 eur,berlin,code11,,29.759
+1994,1.000 eur,berlin,code11,,30.274
+1995,1.000 eur,berlin,code11,,30.812
+1996,1.000 eur,berlin,code11,,30.599
+1997,1.000 eur,berlin,code11,,30.3
+1998,1.000 eur,berlin,code11,,30.804
+1999,1.000 eur,berlin,code11,,31.053
 2000,1.000 eur,berlin,code11,,31.686
 2001,1.000 eur,berlin,code11,,31.698
 2002,1.000 eur,berlin,code11,,31.077
@@ -87,6 +123,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,berlin,code11,,40.051
 2020,1.000 eur,berlin,code11,,38.446
 2021,1.000 eur,berlin,code11,,39.743
+1991,1.000 eur,brandenburg,code12,,12.819
+1992,1.000 eur,brandenburg,code12,,14.076
+1993,1.000 eur,brandenburg,code12,,15.751
+1994,1.000 eur,brandenburg,code12,,17.497
+1995,1.000 eur,brandenburg,code12,,18.886
+1996,1.000 eur,brandenburg,code12,,19.631
+1997,1.000 eur,brandenburg,code12,,19.974
+1998,1.000 eur,brandenburg,code12,,20.105
+1999,1.000 eur,brandenburg,code12,,20.84
 2000,1.000 eur,brandenburg,code12,,21.432
 2001,1.000 eur,brandenburg,code12,,21.538
 2002,1.000 eur,brandenburg,code12,,21.649
@@ -109,6 +154,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,brandenburg,code12,,27.886
 2020,1.000 eur,brandenburg,code12,,26.898
 2021,1.000 eur,brandenburg,code12,,27.068
+1991,1.000 eur,bremen,code04,,38.67
+1992,1.000 eur,bremen,code04,,38.047
+1993,1.000 eur,bremen,code04,,36.524
+1994,1.000 eur,bremen,code04,,37.235
+1995,1.000 eur,bremen,code04,,37.35
+1996,1.000 eur,bremen,code04,,37.41
+1997,1.000 eur,bremen,code04,,38.586
+1998,1.000 eur,bremen,code04,,39.119
+1999,1.000 eur,bremen,code04,,39.291
 2000,1.000 eur,bremen,code04,,41.345
 2001,1.000 eur,bremen,code04,,42.255
 2002,1.000 eur,bremen,code04,,42.851
@@ -131,6 +185,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,bremen,code04,,45.388
 2020,1.000 eur,bremen,code04,,43.608
 2021,1.000 eur,bremen,code04,,45.152
+1991,1.000 eur,hamburg,code02,,49.864
+1992,1.000 eur,hamburg,code02,,49.115
+1993,1.000 eur,hamburg,code02,,48.739
+1994,1.000 eur,hamburg,code02,,49.086
+1995,1.000 eur,hamburg,code02,,49.354
+1996,1.000 eur,hamburg,code02,,50.454
+1997,1.000 eur,hamburg,code02,,52.442
+1998,1.000 eur,hamburg,code02,,53.352
+1999,1.000 eur,hamburg,code02,,54.321
 2000,1.000 eur,hamburg,code02,,55.52
 2001,1.000 eur,hamburg,code02,,58.292
 2002,1.000 eur,hamburg,code02,,58.448
@@ -153,6 +216,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,hamburg,code02,,62.854
 2020,1.000 eur,hamburg,code02,,58.479
 2021,1.000 eur,hamburg,code02,,59.652
+1991,1.000 eur,hesse,code06,,36.137
+1992,1.000 eur,hesse,code06,,36.103
+1993,1.000 eur,hesse,code06,,35.143
+1994,1.000 eur,hesse,code06,,35.31
+1995,1.000 eur,hesse,code06,,35.528
+1996,1.000 eur,hesse,code06,,36.121
+1997,1.000 eur,hesse,code06,,36.685
+1998,1.000 eur,hesse,code06,,37.404
+1999,1.000 eur,hesse,code06,,38.465
 2000,1.000 eur,hesse,code06,,39.73
 2001,1.000 eur,hesse,code06,,40.619
 2002,1.000 eur,hesse,code06,,39.922
@@ -175,6 +247,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,hesse,code06,,44.359
 2020,1.000 eur,hesse,code06,,42.173
 2021,1.000 eur,hesse,code06,,43.552
+1991,1.000 eur,mecklenburg western pomerania,code13,,12.444
+1992,1.000 eur,mecklenburg western pomerania,code13,,13.635
+1993,1.000 eur,mecklenburg western pomerania,code13,,15.171
+1994,1.000 eur,mecklenburg western pomerania,code13,,17.006
+1995,1.000 eur,mecklenburg western pomerania,code13,,18.391
+1996,1.000 eur,mecklenburg western pomerania,code13,,18.989
+1997,1.000 eur,mecklenburg western pomerania,code13,,19.369
+1998,1.000 eur,mecklenburg western pomerania,code13,,19.539
+1999,1.000 eur,mecklenburg western pomerania,code13,,20.13
 2000,1.000 eur,mecklenburg western pomerania,code13,,20.314
 2001,1.000 eur,mecklenburg western pomerania,code13,,20.306
 2002,1.000 eur,mecklenburg western pomerania,code13,,20.578
@@ -197,6 +278,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,mecklenburg western pomerania,code13,,27.063
 2020,1.000 eur,mecklenburg western pomerania,code13,,26.047
 2021,1.000 eur,mecklenburg western pomerania,code13,,26.457
+1991,1.000 eur,lower saxony,code03,,27.474
+1992,1.000 eur,lower saxony,code03,,27.513
+1993,1.000 eur,lower saxony,code03,,26.766
+1994,1.000 eur,lower saxony,code03,,27.02
+1995,1.000 eur,lower saxony,code03,,26.553
+1996,1.000 eur,lower saxony,code03,,26.394
+1997,1.000 eur,lower saxony,code03,,26.753
+1998,1.000 eur,lower saxony,code03,,27.302
+1999,1.000 eur,lower saxony,code03,,27.642
 2000,1.000 eur,lower saxony,code03,,28.35
 2001,1.000 eur,lower saxony,code03,,28.206
 2002,1.000 eur,lower saxony,code03,,27.69
@@ -219,6 +309,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,lower saxony,code03,,36.219
 2020,1.000 eur,lower saxony,code03,,34.498
 2021,1.000 eur,lower saxony,code03,,35.014
+1991,1.000 eur,north rhine-westphalia,code05,,29.832
+1992,1.000 eur,north rhine-westphalia,code05,,29.89
+1993,1.000 eur,north rhine-westphalia,code05,,29.027
+1994,1.000 eur,north rhine-westphalia,code05,,29.285
+1995,1.000 eur,north rhine-westphalia,code05,,29.56
+1996,1.000 eur,north rhine-westphalia,code05,,29.453
+1997,1.000 eur,north rhine-westphalia,code05,,29.991
+1998,1.000 eur,north rhine-westphalia,code05,,30.602
+1999,1.000 eur,north rhine-westphalia,code05,,30.926
 2000,1.000 eur,north rhine-westphalia,code05,,31.621
 2001,1.000 eur,north rhine-westphalia,code05,,31.981
 2002,1.000 eur,north rhine-westphalia,code05,,32.009
@@ -241,6 +340,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,north rhine-westphalia,code05,,37.32
 2020,1.000 eur,north rhine-westphalia,code05,,35.638
 2021,1.000 eur,north rhine-westphalia,code05,,36.499
+1991,1.000 eur,rhineland palatinate,code07,,27.874
+1992,1.000 eur,rhineland palatinate,code07,,27.637
+1993,1.000 eur,rhineland palatinate,code07,,26.413
+1994,1.000 eur,rhineland palatinate,code07,,26.588
+1995,1.000 eur,rhineland palatinate,code07,,26.715
+1996,1.000 eur,rhineland palatinate,code07,,26.413
+1997,1.000 eur,rhineland palatinate,code07,,27.04
+1998,1.000 eur,rhineland palatinate,code07,,27.047
+1999,1.000 eur,rhineland palatinate,code07,,27.519
 2000,1.000 eur,rhineland palatinate,code07,,28.068
 2001,1.000 eur,rhineland palatinate,code07,,27.598
 2002,1.000 eur,rhineland palatinate,code07,,27.772
@@ -263,6 +371,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,rhineland palatinate,code07,,33.55
 2020,1.000 eur,rhineland palatinate,code07,,32.169
 2021,1.000 eur,rhineland palatinate,code07,,35.223
+1991,1.000 eur,saarland,code10,,26.682
+1992,1.000 eur,saarland,code10,,26.38
+1993,1.000 eur,saarland,code10,,25.099
+1994,1.000 eur,saarland,code10,,25.8
+1995,1.000 eur,saarland,code10,,26.366
+1996,1.000 eur,saarland,code10,,25.698
+1997,1.000 eur,saarland,code10,,26.248
+1998,1.000 eur,saarland,code10,,27.002
+1999,1.000 eur,saarland,code10,,27.776
 2000,1.000 eur,saarland,code10,,29.088
 2001,1.000 eur,saarland,code10,,29.757
 2002,1.000 eur,saarland,code10,,29.369
@@ -285,6 +402,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,saarland,code10,,34.034
 2020,1.000 eur,saarland,code10,,31.964
 2021,1.000 eur,saarland,code10,,32.493
+1991,1.000 eur,saxony,code14,,12.328
+1992,1.000 eur,saxony,code14,,13.685
+1993,1.000 eur,saxony,code14,,15.464
+1994,1.000 eur,saxony,code14,,17.491
+1995,1.000 eur,saxony,code14,,18.991
+1996,1.000 eur,saxony,code14,,19.65
+1997,1.000 eur,saxony,code14,,19.704
+1998,1.000 eur,saxony,code14,,20.076
+1999,1.000 eur,saxony,code14,,20.526
 2000,1.000 eur,saxony,code14,,20.776
 2001,1.000 eur,saxony,code14,,21.29
 2002,1.000 eur,saxony,code14,,21.932
@@ -307,6 +433,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,saxony,code14,,29.719
 2020,1.000 eur,saxony,code14,,28.535
 2021,1.000 eur,saxony,code14,,29.396
+1991,1.000 eur,saxony-anhalt,code15,,11.993
+1992,1.000 eur,saxony-anhalt,code15,,13.24
+1993,1.000 eur,saxony-anhalt,code15,,15.064
+1994,1.000 eur,saxony-anhalt,code15,,16.735
+1995,1.000 eur,saxony-anhalt,code15,,17.557
+1996,1.000 eur,saxony-anhalt,code15,,18.256
+1997,1.000 eur,saxony-anhalt,code15,,18.845
+1998,1.000 eur,saxony-anhalt,code15,,19.104
+1999,1.000 eur,saxony-anhalt,code15,,19.565
 2000,1.000 eur,saxony-anhalt,code15,,20.016
 2001,1.000 eur,saxony-anhalt,code15,,20.154
 2002,1.000 eur,saxony-anhalt,code15,,20.904
@@ -329,6 +464,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,saxony-anhalt,code15,,27.132
 2020,1.000 eur,saxony-anhalt,code15,,26.278
 2021,1.000 eur,saxony-anhalt,code15,,27.02
+1991,1.000 eur,schleswig-holstein,code01,,26.163
+1992,1.000 eur,schleswig-holstein,code01,,26.224
+1993,1.000 eur,schleswig-holstein,code01,,25.564
+1994,1.000 eur,schleswig-holstein,code01,,25.687
+1995,1.000 eur,schleswig-holstein,code01,,25.986
+1996,1.000 eur,schleswig-holstein,code01,,26.129
+1997,1.000 eur,schleswig-holstein,code01,,26.542
+1998,1.000 eur,schleswig-holstein,code01,,26.591
+1999,1.000 eur,schleswig-holstein,code01,,26.692
 2000,1.000 eur,schleswig-holstein,code01,,27.221
 2001,1.000 eur,schleswig-holstein,code01,,27.468
 2002,1.000 eur,schleswig-holstein,code01,,26.821
@@ -351,6 +495,15 @@ Year,Units,federal state,GeoCode,county,Value
 2019,1.000 eur,schleswig-holstein,code01,,31.728
 2020,1.000 eur,schleswig-holstein,code01,,30.71
 2021,1.000 eur,schleswig-holstein,code01,,31.31
+1991,1.000 eur,thuringia,code16,,10.627
+1992,1.000 eur,thuringia,code16,,12.605
+1993,1.000 eur,thuringia,code16,,14.357
+1994,1.000 eur,thuringia,code16,,16.214
+1995,1.000 eur,thuringia,code16,,16.933
+1996,1.000 eur,thuringia,code16,,17.492
+1997,1.000 eur,thuringia,code16,,18.111
+1998,1.000 eur,thuringia,code16,,18.642
+1999,1.000 eur,thuringia,code16,,19.248
 2000,1.000 eur,thuringia,code16,,19.736
 2001,1.000 eur,thuringia,code16,,20.056
 2002,1.000 eur,thuringia,code16,,20.262

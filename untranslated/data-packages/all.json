@@ -1396,17 +1396,6 @@
             }
           },
           {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "germany",
-                "eu",
-                ""
-              ]
-            }
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -1414,6 +1403,17 @@
                 "gini coefficient of equivalised disposable income before social transfers",
                 "gini coefficient of equivalised disposable income",
                 "gini coefficient of market income",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany",
+                "eu",
                 ""
               ]
             }

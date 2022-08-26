@@ -1,4 +1,5 @@
 Year,Units,Sex,Federal state,GeoCode,Value
+1999,Percentage,,,,14.9
 2000,Percentage,,,,14.9
 2001,Percentage,,,,12.5
 2002,Percentage,,,,12.6
@@ -20,6 +21,7 @@ Year,Units,Sex,Federal state,GeoCode,Value
 2018,Percentage,,,,10.34
 2019,Percentage,,,,10.34
 2020,Percentage,,,,10.1
+1999,Percentage,Female,,,15.6
 2000,Percentage,Female,,,15.2
 2001,Percentage,Female,,,12.8
 2002,Percentage,Female,,,12.6
@@ -41,6 +43,7 @@ Year,Units,Sex,Federal state,GeoCode,Value
 2018,Percentage,Female,,,9.13
 2019,Percentage,Female,,,8.73
 2020,Percentage,Female,,,8.4
+1999,Percentage,Male,,,14.2
 2000,Percentage,Male,,,14.6
 2001,Percentage,Male,,,12.2
 2002,Percentage,Male,,,12.6

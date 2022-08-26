@@ -1,4 +1,13 @@
 Year,Units,Zeitreihe,Value
+1991,Prozent,,-3.19
+1992,Prozent,,-2.61
+1993,Prozent,,-3.09
+1994,Prozent,,-2.52
+1995,Prozent,,-9.43
+1996,Prozent,,-3.57
+1997,Prozent,,-2.94
+1998,Prozent,,-2.57
+1999,Prozent,,-1.72
 2000,Prozent,,-1.58
 2001,Prozent,,-3.03
 2002,Prozent,,-3.87
@@ -38,6 +47,14 @@ Year,Units,Zeitreihe,Value
 2019,Prozent,,0.8
 2020,Prozent,,-2.0
 2021,Prozent,,-2.1
+1992,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),1.92
+1993,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),-0.98
+1994,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),2.39
+1995,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),1.54
+1996,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),0.81
+1997,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),1.79
+1998,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),2.01
+1999,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),1.89
 2000,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),2.91
 2001,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),1.68
 2002,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),-0.2

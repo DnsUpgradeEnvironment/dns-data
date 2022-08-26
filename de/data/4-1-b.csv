@@ -1,4 +1,5 @@
 Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
+1999,Prozent,Insgesamt,,,,33.35
 2000,Prozent,Insgesamt,,,,33.0
 2001,Prozent,Insgesamt,,,,33.17
 2002,Prozent,Insgesamt,,,,33.28
@@ -20,6 +21,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Insgesamt,,,,49.83
 2019,Prozent,Insgesamt,,,,50.49
 2020,Prozent,Insgesamt,,,,52.3
+1999,Prozent,Insgesamt,Weiblich,,,31.39
 2000,Prozent,Insgesamt,Weiblich,,,30.88
 2001,Prozent,Insgesamt,Weiblich,,,31.09
 2002,Prozent,Insgesamt,Weiblich,,,31.25
@@ -41,6 +43,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Insgesamt,Weiblich,,,53.83
 2019,Prozent,Insgesamt,Weiblich,,,54.41
 2020,Prozent,Insgesamt,Weiblich,,,56.63
+1999,Prozent,Insgesamt,Männlich,,,35.22
 2000,Prozent,Insgesamt,Männlich,,,35.05
 2001,Prozent,Insgesamt,Männlich,,,35.2
 2002,Prozent,Insgesamt,Männlich,,,35.22
@@ -830,6 +833,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Insgesamt,Männlich,Thüringen,code16,38.1
 2019,Prozent,Insgesamt,Männlich,Thüringen,code16,38.9
 2020,Prozent,Insgesamt,Männlich,Thüringen,code16,43.4
+1999,Prozent,Tertiärer Abschluss,,,,24.8
 2000,Prozent,Tertiärer Abschluss,,,,25.33
 2001,Prozent,Tertiärer Abschluss,,,,25.05
 2002,Prozent,Tertiärer Abschluss,,,,25.07
