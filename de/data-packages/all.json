@@ -1627,6 +1627,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Staatsdefizit",
+                "Strukturelles Defizit",
                 "Änderung des Bruttoinlandsprodukts (preisbereinigt)",
                 ""
               ]

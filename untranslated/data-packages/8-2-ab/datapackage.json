@@ -29,6 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "government deficit",
+                "structural deficit",
                 "change of gross domestic product (price-adjusted)",
                 ""
               ]
