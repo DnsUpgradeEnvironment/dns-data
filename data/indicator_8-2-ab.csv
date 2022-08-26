@@ -1,4 +1,13 @@
 Year,Units,time series,Value
+1991,percentage,,-3.19
+1992,percentage,,-2.61
+1993,percentage,,-3.09
+1994,percentage,,-2.52
+1995,percentage,,-9.43
+1996,percentage,,-3.57
+1997,percentage,,-2.94
+1998,percentage,,-2.57
+1999,percentage,,-1.72
 2000,percentage,,-1.58
 2001,percentage,,-3.03
 2002,percentage,,-3.87
@@ -38,6 +47,14 @@ Year,Units,time series,Value
 2019,percentage,,0.8
 2020,percentage,,-2.0
 2021,percentage,,-2.1
+1992,percentage,change of gross domestic product (price-adjusted),1.92
+1993,percentage,change of gross domestic product (price-adjusted),-0.98
+1994,percentage,change of gross domestic product (price-adjusted),2.39
+1995,percentage,change of gross domestic product (price-adjusted),1.54
+1996,percentage,change of gross domestic product (price-adjusted),0.81
+1997,percentage,change of gross domestic product (price-adjusted),1.79
+1998,percentage,change of gross domestic product (price-adjusted),2.01
+1999,percentage,change of gross domestic product (price-adjusted),1.89
 2000,percentage,change of gross domestic product (price-adjusted),2.91
 2001,percentage,change of gross domestic product (price-adjusted),1.68
 2002,percentage,change of gross domestic product (price-adjusted),-0.2
