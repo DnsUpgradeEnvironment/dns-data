@@ -68,3 +68,9 @@ Year,Units,time series,area,Value
 2016,gini coefficient,gini coefficient of market income,germany,0.505
 2017,gini coefficient,gini coefficient of market income,germany,0.5
 2018,gini coefficient,gini coefficient of market income,germany,0.494
+2010,gini coefficient,gini coefficient of wealth,germany,0.758
+2014,gini coefficient,gini coefficient of wealth,germany,0.762
+2017,gini coefficient,gini coefficient of wealth,germany,0.739
+2010,gini coefficient,gini coefficient of wealth,eurozone,0.68
+2014,gini coefficient,gini coefficient of wealth,eurozone,0.685
+2017,gini coefficient,gini coefficient of wealth,eurozone,0.695
