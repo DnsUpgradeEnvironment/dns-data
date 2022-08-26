@@ -56,10 +56,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -72,6 +68,10 @@
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
                 "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },

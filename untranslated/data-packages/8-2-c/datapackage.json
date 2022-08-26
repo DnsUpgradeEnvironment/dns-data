@@ -29,14 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
@@ -45,6 +37,14 @@
                 "saxony-anhalt",
                 "schleswig-holstein",
                 "thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
                 ""
               ]
             }

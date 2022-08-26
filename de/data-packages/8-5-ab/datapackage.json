@@ -39,18 +39,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "20 bis unter 65 Jahre",
-                "60 bis unter 65 Jahre",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {

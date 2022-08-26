@@ -52,10 +52,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
@@ -68,6 +64,10 @@
                 "north rhine-westphalia",
                 "rhineland palatinate",
                 "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }

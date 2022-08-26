@@ -31,14 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
@@ -47,6 +39,14 @@
                 "saxony-anhalt",
                 "schleswig-holstein",
                 "thuringia",
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
                 ""
               ]
             }
@@ -677,10 +677,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
@@ -693,6 +689,10 @@
                 "north rhine-westphalia",
                 "rhineland palatinate",
                 "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
@@ -803,7 +803,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "million eur",
                 ""
               ]
             }
@@ -909,17 +909,6 @@
             }
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "20 to under 65 years",
-                "60 to under 65 years",
-                ""
-              ]
-            }
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -996,9 +985,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "value of consumption, investment and exports (price-adjusted)",
-                "raw material input for consumption, investment and exports",
                 "raw material input productivity",
+                "raw material input for consumption, investment and exports",
+                "value of consumption, investment and exports (price-adjusted)",
                 ""
               ]
             }
@@ -1257,7 +1246,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Units",
@@ -2123,8 +2112,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "calculated annual values",
                 "moving five-year average shown for each middle year",
+                "calculated annual values",
                 ""
               ]
             }

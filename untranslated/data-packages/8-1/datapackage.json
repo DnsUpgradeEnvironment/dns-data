@@ -29,9 +29,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "value of consumption, investment and exports (price-adjusted)",
-                "raw material input for consumption, investment and exports",
                 "raw material input productivity",
+                "raw material input for consumption, investment and exports",
+                "value of consumption, investment and exports (price-adjusted)",
                 ""
               ]
             }

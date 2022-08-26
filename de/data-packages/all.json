@@ -33,14 +33,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
                 "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
@@ -49,6 +41,14 @@
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
                 "Thüringen",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
                 ""
               ]
             },
@@ -733,10 +733,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -749,6 +745,10 @@
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
                 "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
@@ -870,7 +870,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "Millionen EUR",
                 ""
               ]
             },
@@ -986,18 +986,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "20 bis unter 65 Jahre",
-                "60 bis unter 65 Jahre",
-                ""
-              ]
-            },
-            "title": "Altersklasse"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -1080,9 +1068,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
-                "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 "Gesamtrohstoffproduktivität",
+                "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
+                "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
                 ""
               ]
             },
@@ -1363,7 +1351,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -2271,8 +2259,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Berechnete jährliche Werte",
                 "Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr",
+                "Berechnete jährliche Werte",
                 ""
               ]
             },

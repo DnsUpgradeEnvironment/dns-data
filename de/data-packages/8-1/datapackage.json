@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
-                "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 "Gesamtrohstoffproduktivität",
+                "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
+                "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
                 ""
               ]
             },
