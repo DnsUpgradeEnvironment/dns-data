@@ -16,6 +16,30 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alle leitungsgebundenen Technologien",
+                "Reine Glasfasernetze (FTTB/H)",
+                "Kabelfernsehen (CATV)",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

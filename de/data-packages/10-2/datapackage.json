@@ -34,6 +34,7 @@
                 "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
                 "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
                 "Gini-Koeffizient des Markteinkommens",
+                "Gini-Koeffizient des Vermögens",
                 ""
               ]
             },
@@ -46,6 +47,7 @@
               "enum": [
                 "Deutschland",
                 "EU",
+                "Eurozone",
                 ""
               ]
             },

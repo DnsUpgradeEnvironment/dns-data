@@ -34,6 +34,7 @@
                 "Gini coefficient of equivalised disposable income before social transfers",
                 "Gini coefficient of equivalised disposable income",
                 "Gini coefficient of market income",
+                "Gini coefficient of wealth",
                 ""
               ]
             },
@@ -46,6 +47,7 @@
               "enum": [
                 "Germany",
                 "EU",
+                "Eurozone",
                 ""
               ]
             },

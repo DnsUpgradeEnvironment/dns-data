@@ -15,6 +15,28 @@
             "type": "number"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all wired technologies",
+                "fully fibre-optic networks (fttb/h)",
+                "cable television (catv)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

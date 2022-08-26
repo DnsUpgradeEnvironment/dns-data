@@ -1,8 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
 all objects,1,1
+all wired technologies,1,1
+cable television (catv),1,1
 change of gross domestic product (price-adjusted),1,1
-"employment rate, older people (60 to 64-year-olds)",51,1
-"employment rate, total (20 to 64-year-olds)",51,1
 energy consumption in passenger transport,1,1
 energy consumption per passenger-kilometre,1,1
 energy consumption per tonne-kilometre,1,1
@@ -10,10 +10,12 @@ final energy consumption for the transport of goods,1,1
 for the medium-sized and major cities of 2012,1,1
 for the medium-sized and major cities of the year in question,17,1
 foreign school graduates,51,1
+fully fibre-optic networks (fttb/h),1,1
 german school graduates,17,1
 gini coefficient of equivalised disposable income before social transfers,2,1
 gini coefficient of equivalised disposable income,2,1
 gini coefficient of market income,1,1
+gini coefficient of wealth,2,1
 goods transport performance,1,1
 government deficit,1,1
 in management positions in the federal civil service,1,1
