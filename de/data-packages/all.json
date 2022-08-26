@@ -357,7 +357,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung mit erhöhter PM10-Feinstaubexposition"
+      "title": "Anteil der Bevölkerung mit erhöhter PM₁₀-Feinstaubexposition"
     },
     {
       "path": "8-6/data.csv",
@@ -932,7 +932,7 @@
                 "NOₓ",
                 "NH₃",
                 "NMVOC",
-                "PM2.5",
+                "PM₂,₅",
                 ""
               ]
             },
