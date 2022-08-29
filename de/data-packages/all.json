@@ -963,7 +963,7 @@
             "constraints": {
               "enum": [
                 "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte an allen bewirtschafteten Beständen",
+                "share of msy examined in all managed stocks",
                 ""
               ]
             },
@@ -1434,7 +1434,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigte in Tausend",
+                "employees in thousands",
                 "EMAS-Organisationsstandorte",
                 "EMAS-Organisationen",
                 ""

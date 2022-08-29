@@ -963,7 +963,7 @@
             "constraints": {
               "enum": [
                 "Share of commercial exploited fish stocks assessed for MSY that is fished sustainably",
-                "Share of MSY examined in all managed stocks",
+                "share of msy examined in all managed stocks",
                 ""
               ]
             },
@@ -1434,7 +1434,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Employees in thousands",
+                "employees in thousands",
                 "Locations of organisation registered with EMAS",
                 "EMAS organisations",
                 ""

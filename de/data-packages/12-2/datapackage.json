@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigte in Tausend",
+                "employees in thousands",
                 "EMAS-Organisationsstandorte",
                 "EMAS-Organisationen",
                 ""
