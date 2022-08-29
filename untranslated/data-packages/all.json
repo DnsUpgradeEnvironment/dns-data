@@ -160,14 +160,11 @@
             }
           },
           {
-            "name": "criminal offences",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "other offences",
-                "dangerous and serious bodily injury",
-                "fraud",
-                "domestic burglary",
+                "criminal offences",
                 ""
               ]
             }
@@ -200,6 +197,19 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "dangerous and serious bodily injury",
+                "fraud",
+                "domestic burglary",
+                "other offences",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -841,7 +851,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -884,12 +894,12 @@
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "share of commercial exploited fish stocks assessed for msy that is fished sustainably",
-                "share of msy examined in all managed stocks",
+                "share of msy examined stocks in all managed stocks",
                 ""
               ]
             }
@@ -942,6 +952,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "forest sub-index",
                 "settlements sub-index",
                 "farmland sub-index",
                 "inland waters sub-index",
@@ -1067,7 +1078,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1300,6 +1311,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1311,17 +1325,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "'1.000'",
                 "number",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "employees in thousands",
+                "employees in emas organisations",
                 "locations of organisation registered with emas",
                 "emas organisations",
                 ""

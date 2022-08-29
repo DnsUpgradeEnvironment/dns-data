@@ -1,4 +1,4 @@
-Year,Units,time series,sea,Value
+Year,Units,Series,sea,Value
 2003,percentage,share of commercial exploited fish stocks assessed for msy that is fished sustainably,,33.333
 2004,percentage,share of commercial exploited fish stocks assessed for msy that is fished sustainably,,23.333
 2005,percentage,share of commercial exploited fish stocks assessed for msy that is fished sustainably,,20.0
@@ -53,21 +53,21 @@ Year,Units,time series,sea,Value
 2018,percentage,share of commercial exploited fish stocks assessed for msy that is fished sustainably,baltic sea,37.5
 2019,percentage,share of commercial exploited fish stocks assessed for msy that is fished sustainably,baltic sea,50.0
 2020,percentage,share of commercial exploited fish stocks assessed for msy that is fished sustainably,baltic sea,62.5
-2003,percentage,share of msy examined in all managed stocks,,38.462
-2004,percentage,share of msy examined in all managed stocks,,38.462
-2005,percentage,share of msy examined in all managed stocks,,38.462
-2006,percentage,share of msy examined in all managed stocks,,38.462
-2007,percentage,share of msy examined in all managed stocks,,38.462
-2008,percentage,share of msy examined in all managed stocks,,38.462
-2009,percentage,share of msy examined in all managed stocks,,38.462
-2010,percentage,share of msy examined in all managed stocks,,38.462
-2011,percentage,share of msy examined in all managed stocks,,38.462
-2012,percentage,share of msy examined in all managed stocks,,38.462
-2013,percentage,share of msy examined in all managed stocks,,38.462
-2014,percentage,share of msy examined in all managed stocks,,38.462
-2015,percentage,share of msy examined in all managed stocks,,38.462
-2016,percentage,share of msy examined in all managed stocks,,38.462
-2017,percentage,share of msy examined in all managed stocks,,38.462
-2018,percentage,share of msy examined in all managed stocks,,38.462
-2019,percentage,share of msy examined in all managed stocks,,38.462
-2020,percentage,share of msy examined in all managed stocks,,38.462
+2003,percentage,share of msy examined stocks in all managed stocks,,38.462
+2004,percentage,share of msy examined stocks in all managed stocks,,38.462
+2005,percentage,share of msy examined stocks in all managed stocks,,38.462
+2006,percentage,share of msy examined stocks in all managed stocks,,38.462
+2007,percentage,share of msy examined stocks in all managed stocks,,38.462
+2008,percentage,share of msy examined stocks in all managed stocks,,38.462
+2009,percentage,share of msy examined stocks in all managed stocks,,38.462
+2010,percentage,share of msy examined stocks in all managed stocks,,38.462
+2011,percentage,share of msy examined stocks in all managed stocks,,38.462
+2012,percentage,share of msy examined stocks in all managed stocks,,38.462
+2013,percentage,share of msy examined stocks in all managed stocks,,38.462
+2014,percentage,share of msy examined stocks in all managed stocks,,38.462
+2015,percentage,share of msy examined stocks in all managed stocks,,38.462
+2016,percentage,share of msy examined stocks in all managed stocks,,38.462
+2017,percentage,share of msy examined stocks in all managed stocks,,38.462
+2018,percentage,share of msy examined stocks in all managed stocks,,38.462
+2019,percentage,share of msy examined stocks in all managed stocks,,38.462
+2020,percentage,share of msy examined stocks in all managed stocks,,38.462

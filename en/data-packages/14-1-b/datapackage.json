@@ -27,16 +27,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Share of commercial exploited fish stocks assessed for MSY that is fished sustainably",
-                "share of msy examined in all managed stocks",
+                "Share of MSY examined stocks in all managed stocks",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "sea",

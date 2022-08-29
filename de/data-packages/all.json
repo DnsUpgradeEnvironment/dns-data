@@ -173,18 +173,15 @@
             "title": "Units"
           },
           {
-            "name": "criminal offences",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sonstige Straftaten",
-                "Gefährliche und schwere Körperverletzung",
-                "Betrug",
-                "Wohnungseinbruchsdiebstahl",
+                "Straftaten",
                 ""
               ]
             },
-            "title": "Straftaten"
+            "title": "Series"
           },
           {
             "name": "federal state",
@@ -216,6 +213,20 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gefährliche und schwere Körperverletzung",
+                "Betrug",
+                "Wohnungseinbruchsdiebstahl",
+                "Sonstige Straftaten",
+                ""
+              ]
+            },
+            "title": "Straftaten"
           },
           {
             "name": "Value",
@@ -911,7 +922,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -920,7 +931,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -958,16 +969,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "share of msy examined in all managed stocks",
+                "MSY-untersuchte an Bestände allen bewirtschafteten Beständen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "sea",
@@ -1021,6 +1032,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Teilindex Wälder",
                 "Teilindex Siedlungen",
                 "Teilindex Agrarland",
                 "Teilindex Binnengewässer",
@@ -1157,7 +1169,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1166,7 +1178,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1411,6 +1423,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1423,6 +1438,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "'1.000'",
                 "Anzahl",
                 ""
               ]
@@ -1430,17 +1446,17 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "employees in thousands",
+                "Beschäftigte in EMAS Organisationen",
                 "EMAS-Organisationsstandorte",
                 "EMAS-Organisationen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "federal state",

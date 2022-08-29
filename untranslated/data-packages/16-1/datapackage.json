@@ -25,14 +25,11 @@
             }
           },
           {
-            "name": "criminal offences",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "other offences",
-                "dangerous and serious bodily injury",
-                "fraud",
-                "domestic burglary",
+                "criminal offences",
                 ""
               ]
             }
@@ -65,6 +62,19 @@
           {
             "name": "GeoCode",
             "type": "string"
+          },
+          {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "dangerous and serious bodily injury",
+                "fraud",
+                "domestic burglary",
+                "other offences",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -27,18 +27,15 @@
             "title": "Units"
           },
           {
-            "name": "criminal offences",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Other offences",
-                "Dangerous and serious bodily injury",
-                "Fraud",
-                "Domestic burglary",
+                "Criminal offences",
                 ""
               ]
             },
-            "title": "Criminal offences"
+            "title": "Series"
           },
           {
             "name": "federal state",
@@ -70,6 +67,20 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dangerous and serious bodily injury",
+                "Fraud",
+                "Domestic burglary",
+                "Other offences",
+                ""
+              ]
+            },
+            "title": "Criminal offences"
           },
           {
             "name": "Value",

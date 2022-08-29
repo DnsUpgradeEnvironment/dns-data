@@ -173,18 +173,15 @@
             "title": "Units"
           },
           {
-            "name": "criminal offences",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Other offences",
-                "Dangerous and serious bodily injury",
-                "Fraud",
-                "Domestic burglary",
+                "Criminal offences",
                 ""
               ]
             },
-            "title": "Criminal offences"
+            "title": "Series"
           },
           {
             "name": "federal state",
@@ -216,6 +213,20 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dangerous and serious bodily injury",
+                "Fraud",
+                "Domestic burglary",
+                "Other offences",
+                ""
+              ]
+            },
+            "title": "Criminal offences"
           },
           {
             "name": "Value",
@@ -911,7 +922,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -920,7 +931,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -958,16 +969,16 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Share of commercial exploited fish stocks assessed for MSY that is fished sustainably",
-                "share of msy examined in all managed stocks",
+                "Share of MSY examined stocks in all managed stocks",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "sea",
@@ -1021,6 +1032,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Forest sub-index",
                 "Settlements sub-index",
                 "Farmland sub-index",
                 "Inland waters sub-index",
@@ -1157,7 +1169,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1166,7 +1178,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1411,6 +1423,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -1423,6 +1438,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "'1.000'",
                 "Number",
                 ""
               ]
@@ -1430,17 +1446,17 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "employees in thousands",
+                "Employees in EMAS organisations",
                 "Locations of organisation registered with EMAS",
                 "EMAS organisations",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "federal state",

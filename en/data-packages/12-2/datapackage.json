@@ -8,6 +8,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -20,6 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "'1.000'",
                 "Number",
                 ""
               ]
@@ -27,17 +31,17 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "employees in thousands",
+                "Employees in EMAS organisations",
                 "Locations of organisation registered with EMAS",
                 "EMAS organisations",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "federal state",
