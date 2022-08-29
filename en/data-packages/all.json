@@ -1377,7 +1377,7 @@
             "constraints": {
               "enum": [
                 "Corruption Perceptions Index in Germany",
-                "Corruption Perceptions Index in partner countries of German development cooperation",
+                "Number of partner countries involved in German development cooperation with improved CPI scores compared with 2012",
                 ""
               ]
             },
@@ -3612,17 +3612,17 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Global environmental impact by private household consumption – use of raw materials",
-                "Global environmental impact by private household consumption – energy consumption",
-                "Global environmental impact by private household consumption – CO₂ emissions",
+                "Use of raw materials",
+                "Energy consumption",
+                "CO₂ emissions",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

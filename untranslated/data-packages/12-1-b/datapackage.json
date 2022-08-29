@@ -25,13 +25,13 @@
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "global environmental impact by private household consumption – use of raw materials",
-                "global environmental impact by private household consumption – energy consumption",
-                "global environmental impact by private household consumption – co2 emissions",
+                "use of raw materials",
+                "energy consumption",
+                "co2 emissions",
                 ""
               ]
             }

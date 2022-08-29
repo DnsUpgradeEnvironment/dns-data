@@ -1377,7 +1377,7 @@
             "constraints": {
               "enum": [
                 "Corruption Perception Index in Deutschland",
-                "Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit",
+                "Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat",
                 ""
               ]
             },
@@ -3612,17 +3612,17 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Rohstoffeinsatz",
-                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Energieverbrauch",
-                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - CO₂-Emissionen",
+                "Rohstoffeinsatz",
+                "Energieverbrauch",
+                "CO₂-Emissionen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",

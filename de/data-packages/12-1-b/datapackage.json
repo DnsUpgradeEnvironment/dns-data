@@ -27,17 +27,17 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Rohstoffeinsatz",
-                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Energieverbrauch",
-                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - CO₂-Emissionen",
+                "Rohstoffeinsatz",
+                "Energieverbrauch",
+                "CO₂-Emissionen",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
