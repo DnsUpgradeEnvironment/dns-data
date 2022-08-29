@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Million EUR",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Preservation or restoration of forests in developing countries under the REDD+ rulebook",
+                "German gross bilateral development expenditure for the implementation of the UN Convention to Combat Desertification",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

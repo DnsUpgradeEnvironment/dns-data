@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Miligrams per litre",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nitrogen input in coastal and marine waters – nitrogen input via the inflows into the Baltic Sea",
+                "Nitrogen input in coastal and marine waters – nitrogen input via the inflows into the North Sea",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

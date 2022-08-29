@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of commercial exploited fish stocks assessed for MSY that is fished sustainably",
+                "Share of MSY examined in all managed stocks",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
+            "name": "sea",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Greater North Sea",
+                "Baltic sea",
+                ""
+              ]
+            },
+            "title": "Sea"
           },
           {
             "name": "Value",

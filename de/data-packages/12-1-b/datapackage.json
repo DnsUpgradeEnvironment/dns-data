@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010 = 100",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Rohstoffeinsatz",
+                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - Energieverbrauch",
+                "Globale Umweltinanspruchnahme durch den Konsum privater Haushalte - CO₂-Emissionen",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

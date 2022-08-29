@@ -12,8 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Miligramm pro Liter",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nährstoffeinträge in Küstengewässer und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Ostsee",
+                "Nährstoffeinträge in Küstengewässer und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Nordsee",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

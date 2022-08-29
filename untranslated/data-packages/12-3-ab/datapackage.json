@@ -12,7 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015 = 100",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "paper bearing the blue angel label as a proportion of the total paper consumption of the direct federal administration",
+                "co2 emissions of commercially available vehicles in the public sector",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

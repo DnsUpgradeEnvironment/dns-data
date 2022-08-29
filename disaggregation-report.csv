@@ -3,8 +3,11 @@ age group,2,15
 air pollutant,1,5
 area,2,4
 county,2,402
+criminal offences,1,4
 degree of urbanisation,2,2
-federal state,23,16
+federal state,27,16
+sea,1,2
 sex,7,2
-time series,17,41
+sub index,1,4
+time series,27,65
 type of area,1,3

@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010 = 100",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global environmental impact by private household consumption – use of raw materials",
+                "Global environmental impact by private household consumption – energy consumption",
+                "Global environmental impact by private household consumption – CO₂ emissions",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
