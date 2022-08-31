@@ -3792,15 +3792,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Percentage",
                 ""
               ]
             },
@@ -3808,11 +3807,9 @@
           },
           {
             "name": "time series",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Smoking rate among adolescents",
-                "Smoking rate among adults",
                 ""
               ]
             },
@@ -3823,22 +3820,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "{y:28.1",
                 ""
               ]
             },
@@ -3851,7 +3833,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

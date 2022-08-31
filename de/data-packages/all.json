@@ -3792,15 +3792,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Jahr"
           },
           {
             "name": "Units",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Prozent",
                 ""
               ]
             },
@@ -3808,11 +3807,9 @@
           },
           {
             "name": "time series",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Raucherquote von Jugendlichen",
-                "Raucherquote von Erwachsenen",
                 ""
               ]
             },
@@ -3823,22 +3820,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "{y:28.1",
                 ""
               ]
             },
@@ -3851,7 +3833,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
