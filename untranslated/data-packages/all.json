@@ -248,8 +248,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nitrogen input in coastal and marine waters – nitrogen input via the inflows into the baltic sea",
-                "nitrogen input in coastal and marine waters – nitrogen input via the inflows into the north sea",
+                "nitrogen input in coastal and marine waters of the baltic sea",
+                "nitrogen input in coastal and marine waters of the north sea",
                 ""
               ]
             }
@@ -2043,6 +2043,18 @@
             }
           },
           {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany",
+                "eu",
+                "eurozone",
+                ""
+              ]
+            }
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -2051,18 +2063,6 @@
                 "gini coefficient of equivalised disposable income",
                 "gini coefficient of market income",
                 "gini coefficient of wealth",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "germany",
-                "eu",
-                "eurozone",
                 ""
               ]
             }
@@ -3572,42 +3572,39 @@
             "constraints": {
               "enum": [
                 "smoking rate among adolescents",
+                "smoking rate among adults",
                 ""
               ]
             }
           },
           {
             "name": "federal state",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
           },
           {
             "name": "GeoCode",
-            "type": "number"
-          },
-          {
-            "name": "lowerCi",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "upperCi",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "Value",

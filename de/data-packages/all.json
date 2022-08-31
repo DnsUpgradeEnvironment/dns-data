@@ -268,8 +268,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nährstoffeinträge in Küstengewässer und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Ostsee",
-                "Nährstoffeinträge in Küstengewässer und Meeresgewässer – Stickstoffeintrag über die Zuflüsse in die Nordsee",
+                "nitrogen input in coastal and marine waters of the baltic sea",
+                "nitrogen input in coastal and marine waters of the north sea",
                 ""
               ]
             },
@@ -2219,6 +2219,19 @@
             "title": "Units"
           },
           {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "EU",
+                "Eurozone",
+                ""
+              ]
+            },
+            "title": "Gebiet"
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -2231,19 +2244,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "EU",
-                "Eurozone",
-                ""
-              ]
-            },
-            "title": "Gebiet"
           },
           {
             "name": "Value",
@@ -3812,6 +3812,7 @@
             "constraints": {
               "enum": [
                 "Raucherquote von Jugendlichen",
+                "Raucherquote von Erwachsenen",
                 ""
               ]
             },
@@ -3819,9 +3820,25 @@
           },
           {
             "name": "federal state",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
@@ -3829,30 +3846,8 @@
           },
           {
             "name": "GeoCode",
-            "type": "number",
+            "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "lowerCi",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10",
-                ""
-              ]
-            },
-            "title": "lowerCi"
-          },
-          {
-            "name": "upperCi",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "40",
-                ""
-              ]
-            },
-            "title": "upperCi"
           },
           {
             "name": "Value",
