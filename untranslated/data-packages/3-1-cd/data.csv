@@ -1,7 +1,7 @@
-Year,Units,time series,federal state,GeoCode,Value
-smoking rate among adolescents,,,{y:28.1, yMin: 10,yMax: 40}
-smoking rate among adolescents,,,{y:28.1, yMin: 10,yMax: 40}
-smoking rate among adolescents,,,{y:28.1, yMin: 10,yMax: 40}
-smoking rate among adolescents,,,{y:28.1, yMin: 10,yMax: 40}
-smoking rate among adolescents,,,{y:28.1, yMin: 10,yMax: 40}
-smoking rate among adolescents,,,{y:28.1, yMin: 10,yMax: 40}
+Year,Units,time series,federal state,GeoCode,lowerCi,upperCi,Value
+1997,percentage,smoking rate among adolescents,,,10,40,28.1
+2001,percentage,smoking rate among adolescents,,,10,40,28.1
+2003,percentage,smoking rate among adolescents,,,10,40,28.1
+2004,percentage,smoking rate among adolescents,,,10,40,28.1
+2005,percentage,smoking rate among adolescents,,,10,40,28.1
+2007,percentage,smoking rate among adolescents,,,10,40,28.1

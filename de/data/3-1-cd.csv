@@ -1,7 +1,7 @@
-Year,Units,Zeitreihe,Bundesland,GeoCode,Value
-Raucherquote von Jugendlichen,,,{y:28.1, yMin: 10,yMax: 40}
-Raucherquote von Jugendlichen,,,{y:28.1, yMin: 10,yMax: 40}
-Raucherquote von Jugendlichen,,,{y:28.1, yMin: 10,yMax: 40}
-Raucherquote von Jugendlichen,,,{y:28.1, yMin: 10,yMax: 40}
-Raucherquote von Jugendlichen,,,{y:28.1, yMin: 10,yMax: 40}
-Raucherquote von Jugendlichen,,,{y:28.1, yMin: 10,yMax: 40}
+Year,Units,Zeitreihe,Bundesland,GeoCode,lowerCi,upperCi,Value
+1997,Prozent,Raucherquote von Jugendlichen,,,10,40,28.1
+2001,Prozent,Raucherquote von Jugendlichen,,,10,40,28.1
+2003,Prozent,Raucherquote von Jugendlichen,,,10,40,28.1
+2004,Prozent,Raucherquote von Jugendlichen,,,10,40,28.1
+2005,Prozent,Raucherquote von Jugendlichen,,,10,40,28.1
+2007,Prozent,Raucherquote von Jugendlichen,,,10,40,28.1

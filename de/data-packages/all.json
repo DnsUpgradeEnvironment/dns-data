@@ -3792,14 +3792,15 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
             "name": "Units",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Prozent",
                 ""
               ]
             },
@@ -3807,9 +3808,10 @@
           },
           {
             "name": "time series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Raucherquote von Jugendlichen",
                 ""
               ]
             },
@@ -3817,10 +3819,9 @@
           },
           {
             "name": "federal state",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "{y:28.1",
                 ""
               ]
             },
@@ -3828,12 +3829,34 @@
           },
           {
             "name": "GeoCode",
-            "type": "string",
+            "type": "number",
             "title": "GeoCode"
           },
           {
-            "name": "Value",
+            "name": "lowerCi",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "10",
+                ""
+              ]
+            },
+            "title": "lowerCi"
+          },
+          {
+            "name": "upperCi",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "40",
+                ""
+              ]
+            },
+            "title": "upperCi"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
