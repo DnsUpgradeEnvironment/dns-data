@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nitrogen input in coastal and marine waters of the baltic sea",
-                "nitrogen input in coastal and marine waters of the north sea",
+                "Stickstoffeinträge in Küsten- und Meeresgewässer der Ostsee",
+                "Stickstoffeinträge in Küstengewässer und Meeresgewässer der Nordsee",
                 ""
               ]
             },

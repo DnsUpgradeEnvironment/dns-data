@@ -173,17 +173,6 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Criminal offences",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
@@ -268,8 +257,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nitrogen input in coastal and marine waters of the baltic sea",
-                "nitrogen input in coastal and marine waters of the north sea",
+                "Nitrogen input in coastal and marine waters of the Baltic Sea",
+                "Nitrogen input in coastal and marine waters of the North Sea",
                 ""
               ]
             },
@@ -731,7 +720,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000",
+                "1 000",
                 ""
               ]
             },

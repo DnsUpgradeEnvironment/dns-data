@@ -27,17 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Criminal offences",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {

@@ -27,17 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Straftaten",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "federal state",
             "type": "string",
             "constraints": {
