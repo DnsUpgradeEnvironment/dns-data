@@ -2027,18 +2027,6 @@
             }
           },
           {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "germany",
-                "eu",
-                "eurozone",
-                ""
-              ]
-            }
-          },
-          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -2047,6 +2035,18 @@
                 "gini coefficient of equivalised disposable income",
                 "gini coefficient of market income",
                 "gini coefficient of wealth",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany",
+                "eu",
+                "eurozone",
                 ""
               ]
             }
