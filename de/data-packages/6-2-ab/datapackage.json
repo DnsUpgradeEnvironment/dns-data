@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number of people gaining first-time or upgraded access to drinking water or sanitation owing to german support",
+                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten",
                 "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung durch deutsche Unterstützung erhalten",
                 "Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung durch deutsche Unterstützung erhalten",
                 ""
