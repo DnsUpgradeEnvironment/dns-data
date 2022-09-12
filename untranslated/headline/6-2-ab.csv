@@ -1,8 +1,12 @@
-Year,Value,Units
-2012,10.6,millions
-2013,11.6,millions
-2014,31.0,millions
-2015,11.0,millions
-2016,14.3,millions
-2017,28.6,millions
-2018,60.3,millions
+Year,Value,Units,Series
+2012,10.6,millions,
+2013,11.6,millions,
+2014,31.0,millions,
+2015,11.0,millions,
+2016,14.3,millions,
+2017,28.6,millions,
+2018,60.3,millions,
+2019,14.3,millions,number of people gaining first-time or upgraded access to drinking water owing to german support
+2020,10.9,millions,number of people gaining first-time or upgraded access to drinking water owing to german support
+2019,6.1,millions,number of people gaining first-time or improved access to sanitation owing to german support
+2020,1.8,millions,number of people gaining first-time or improved access to sanitation owing to german support

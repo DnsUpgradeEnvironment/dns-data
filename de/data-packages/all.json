@@ -1237,7 +1237,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1246,7 +1246,7 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2202,6 +2202,19 @@
             "title": "Units"
           },
           {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "EU",
+                "Eurozone",
+                ""
+              ]
+            },
+            "title": "Gebiet"
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -2214,19 +2227,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "EU",
-                "Eurozone",
-                ""
-              ]
-            },
-            "title": "Gebiet"
           },
           {
             "name": "Value",

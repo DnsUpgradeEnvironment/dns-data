@@ -1,76 +1,76 @@
-Year,Units,Time series,Area,Value
-2007,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.373
-2008,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.367
-2009,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.355
-2010,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.359
-2011,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.358
-2012,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.345
-2013,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.362
-2014,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.371
-2015,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.363
-2016,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.359
-2017,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.35
-2018,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.366
-2019,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.352
-2020,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.362
-2021,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,Germany,0.376
-2007,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.361
-2008,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.361
-2009,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.36
-2010,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.363
-2011,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.366
-2012,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.36
-2013,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.363
-2014,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.366
-2015,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.365
-2016,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.362
-2017,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.359
-2018,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.359
-2019,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.355
-2020,Gini coefficient,Gini coefficient of equivalised disposable income before social transfers,EU,0.349
-2007,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.304
-2008,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.302
-2009,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.291
-2010,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.293
-2011,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.29
-2012,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.283
-2013,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.297
-2014,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.307
-2015,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.301
-2016,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.295
-2017,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.291
-2018,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.311
-2019,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.297
-2020,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.305
-2021,Gini coefficient,Gini coefficient of equivalised disposable income,Germany,0.309
-2007,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.306
-2008,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.31
-2009,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.306
-2010,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.305
-2011,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.308
-2012,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.305
-2013,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.305
-2014,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.31
-2015,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.31
-2016,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.308
-2017,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.306
-2018,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.308
-2019,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.306
-2020,Gini coefficient,Gini coefficient of equivalised disposable income,EU,0.3
-2008,Gini coefficient,Gini coefficient of market income,Germany,0.494
-2009,Gini coefficient,Gini coefficient of market income,Germany,0.493
-2010,Gini coefficient,Gini coefficient of market income,Germany,0.492
-2011,Gini coefficient,Gini coefficient of market income,Germany,0.505
-2012,Gini coefficient,Gini coefficient of market income,Germany,0.501
-2013,Gini coefficient,Gini coefficient of market income,Germany,0.508
-2014,Gini coefficient,Gini coefficient of market income,Germany,0.5
-2015,Gini coefficient,Gini coefficient of market income,Germany,0.504
-2016,Gini coefficient,Gini coefficient of market income,Germany,0.505
-2017,Gini coefficient,Gini coefficient of market income,Germany,0.5
-2018,Gini coefficient,Gini coefficient of market income,Germany,0.494
-2010,Gini coefficient,Gini coefficient of wealth,Germany,0.758
-2014,Gini coefficient,Gini coefficient of wealth,Germany,0.762
-2017,Gini coefficient,Gini coefficient of wealth,Germany,0.739
-2010,Gini coefficient,Gini coefficient of wealth,Eurozone,0.68
-2014,Gini coefficient,Gini coefficient of wealth,Eurozone,0.685
-2017,Gini coefficient,Gini coefficient of wealth,Eurozone,0.695
+Year,Units,Area,Time series,Value
+2007,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.373
+2008,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.367
+2009,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.355
+2010,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.359
+2011,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.358
+2012,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.345
+2013,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.362
+2014,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.371
+2015,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.363
+2016,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.359
+2017,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.35
+2018,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.366
+2019,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.352
+2020,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.362
+2021,Gini coefficient,Germany,Gini coefficient of equivalised disposable income before social transfers,0.376
+2007,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.361
+2008,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.361
+2009,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.36
+2010,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.363
+2011,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.366
+2012,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.36
+2013,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.363
+2014,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.366
+2015,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.365
+2016,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.362
+2017,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.359
+2018,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.359
+2019,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.355
+2020,Gini coefficient,EU,Gini coefficient of equivalised disposable income before social transfers,0.349
+2007,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.304
+2008,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.302
+2009,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.291
+2010,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.293
+2011,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.29
+2012,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.283
+2013,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.297
+2014,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.307
+2015,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.301
+2016,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.295
+2017,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.291
+2018,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.311
+2019,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.297
+2020,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.305
+2021,Gini coefficient,Germany,Gini coefficient of equivalised disposable income,0.309
+2007,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.306
+2008,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.31
+2009,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.306
+2010,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.305
+2011,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.308
+2012,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.305
+2013,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.305
+2014,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.31
+2015,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.31
+2016,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.308
+2017,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.306
+2018,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.308
+2019,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.306
+2020,Gini coefficient,EU,Gini coefficient of equivalised disposable income,0.3
+2008,Gini coefficient,Germany,Gini coefficient of market income,0.494
+2009,Gini coefficient,Germany,Gini coefficient of market income,0.493
+2010,Gini coefficient,Germany,Gini coefficient of market income,0.492
+2011,Gini coefficient,Germany,Gini coefficient of market income,0.505
+2012,Gini coefficient,Germany,Gini coefficient of market income,0.501
+2013,Gini coefficient,Germany,Gini coefficient of market income,0.508
+2014,Gini coefficient,Germany,Gini coefficient of market income,0.5
+2015,Gini coefficient,Germany,Gini coefficient of market income,0.504
+2016,Gini coefficient,Germany,Gini coefficient of market income,0.505
+2017,Gini coefficient,Germany,Gini coefficient of market income,0.5
+2018,Gini coefficient,Germany,Gini coefficient of market income,0.494
+2010,Gini coefficient,Germany,Gini coefficient of wealth,0.758
+2014,Gini coefficient,Germany,Gini coefficient of wealth,0.762
+2017,Gini coefficient,Germany,Gini coefficient of wealth,0.739
+2010,Gini coefficient,Eurozone,Gini coefficient of wealth,0.68
+2014,Gini coefficient,Eurozone,Gini coefficient of wealth,0.685
+2017,Gini coefficient,Eurozone,Gini coefficient of wealth,0.695
