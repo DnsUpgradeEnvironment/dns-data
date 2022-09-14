@@ -2072,22 +2072,24 @@
             "constraints": {
               "enum": [
                 "Prozent",
+                "Prozentpunkte",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Ausländer",
                 "Deutsche",
+                "Differenz",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "sex",

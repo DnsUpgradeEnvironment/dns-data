@@ -20,17 +20,19 @@
             "constraints": {
               "enum": [
                 "percentage",
+                "percentage points",
                 ""
               ]
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "foreigns",
                 "germans",
+                "difference",
                 ""
               ]
             }

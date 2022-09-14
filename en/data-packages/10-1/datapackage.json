@@ -21,22 +21,24 @@
             "constraints": {
               "enum": [
                 "Percentage",
+                "Percentage points",
                 ""
               ]
             },
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Foreigns",
                 "Germans",
+                "Difference",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "sex",
