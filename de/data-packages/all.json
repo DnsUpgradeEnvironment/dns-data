@@ -209,6 +209,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Straftaten insgesamt",
                 "Gefährliche und schwere Körperverletzung",
                 "Betrug",
                 "Wohnungseinbruchsdiebstahl",
