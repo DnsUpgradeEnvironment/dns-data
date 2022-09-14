@@ -164,7 +164,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutschland insgesamt",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
