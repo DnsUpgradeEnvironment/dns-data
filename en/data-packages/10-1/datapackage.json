@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreign school graduates",
-                "German school graduates",
+                "Foreigns",
+                "Germans",
                 ""
               ]
             },

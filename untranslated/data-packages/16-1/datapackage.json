@@ -58,7 +58,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Straftaten insgesamt",
                 "dangerous and serious bodily injury",
                 "fraud",
                 "domestic burglary",

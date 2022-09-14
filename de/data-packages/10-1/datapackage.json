@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausländische Schulabsolventinnen und Schulabsolventen",
-                "Deutsche Schulabsolventinnen und -absolventen",
+                "Ausländer",
+                "Deutsche",
                 ""
               ]
             },

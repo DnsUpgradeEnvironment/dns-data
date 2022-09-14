@@ -208,7 +208,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Straftaten insgesamt",
                 "Gefährliche und schwere Körperverletzung",
                 "Betrug",
                 "Wohnungseinbruchsdiebstahl",
@@ -961,7 +960,7 @@
             "constraints": {
               "enum": [
                 "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte an Bestände allen bewirtschafteten Beständen",
+                "MSY-untersuchte Bestände an allen bewirtschafteten Beständen",
                 ""
               ]
             },
@@ -2083,8 +2082,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausländische Schulabsolventinnen und Schulabsolventen",
-                "Deutsche Schulabsolventinnen und -absolventen",
+                "Ausländer",
+                "Deutsche",
                 ""
               ]
             },
@@ -2856,7 +2855,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eropäische Union",
+                "Europäische Union",
                 "Deutschland",
                 ""
               ]

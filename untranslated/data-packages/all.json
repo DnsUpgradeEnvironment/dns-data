@@ -193,7 +193,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Straftaten insgesamt",
                 "dangerous and serious bodily injury",
                 "fraud",
                 "domestic burglary",
@@ -1918,8 +1917,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "foreign school graduates",
-                "german school graduates",
+                "foreigns",
+                "germans",
                 ""
               ]
             }
