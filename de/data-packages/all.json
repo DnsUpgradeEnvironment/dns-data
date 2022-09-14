@@ -177,6 +177,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Deutschland insgesamt",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
