@@ -118,42 +118,94 @@ Year,Units,federal state,GeoCode,age group,sex,Value
 2013,percentage,thuringia,code16,,,15.39
 2017,percentage,thuringia,code16,,,17.726
 2021,percentage,thuringia,code16,,,17.051
+1999,percentage,,,18 to under 20 years,,
+2003,percentage,,,18 to under 20 years,,
+2005,percentage,,,18 to under 20 years,,
+2009,percentage,,,18 to under 20 years,,
 2013,percentage,,,18 to under 20 years,,3.473
 2017,percentage,,,18 to under 20 years,,4.241
 2021,percentage,,,18 to under 20 years,,5.5
+1999,percentage,,,20 to under 25 years,,
+2003,percentage,,,20 to under 25 years,,
+2005,percentage,,,20 to under 25 years,,
+2009,percentage,,,20 to under 25 years,,
 2013,percentage,,,20 to under 25 years,,5.597
 2017,percentage,,,20 to under 25 years,,6.013
 2021,percentage,,,20 to under 25 years,,6.2
+1999,percentage,,,25 to under 30 years,,
+2003,percentage,,,25 to under 30 years,,
+2005,percentage,,,25 to under 30 years,,
+2009,percentage,,,25 to under 30 years,,
 2013,percentage,,,25 to under 30 years,,8.023
 2017,percentage,,,25 to under 30 years,,9.416
 2021,percentage,,,25 to under 30 years,,10.8
+1999,percentage,,,30 to under 35 years,,
+2003,percentage,,,30 to under 35 years,,
+2005,percentage,,,30 to under 35 years,,
+2009,percentage,,,30 to under 35 years,,
 2013,percentage,,,30 to under 35 years,,10.891
 2017,percentage,,,30 to under 35 years,,11.866
 2021,percentage,,,30 to under 35 years,,14.1
+1999,percentage,,,35 to under 40 years,,
+2003,percentage,,,35 to under 40 years,,
+2005,percentage,,,35 to under 40 years,,
+2009,percentage,,,35 to under 40 years,,
 2013,percentage,,,35 to under 40 years,,12.713
 2017,percentage,,,35 to under 40 years,,13.308
 2021,percentage,,,35 to under 40 years,,14.5
+1999,percentage,,,40 to under 45 years,,
+2003,percentage,,,40 to under 45 years,,
+2005,percentage,,,40 to under 45 years,,
+2009,percentage,,,40 to under 45 years,,
 2013,percentage,,,40 to under 45 years,,14.255
 2017,percentage,,,40 to under 45 years,,15.673
 2021,percentage,,,40 to under 45 years,,16.5
+1999,percentage,,,45 to under 50 years,,
+2003,percentage,,,45 to under 50 years,,
+2005,percentage,,,45 to under 50 years,,
+2009,percentage,,,45 to under 50 years,,
 2013,percentage,,,45 to under 50 years,,15.221
 2017,percentage,,,45 to under 50 years,,16.237
 2021,percentage,,,45 to under 50 years,,19.6
+1999,percentage,,,50 to under 55 years,,
+2003,percentage,,,50 to under 55 years,,
+2005,percentage,,,50 to under 55 years,,
+2009,percentage,,,50 to under 55 years,,
 2013,percentage,,,50 to under 55 years,,17.709
 2017,percentage,,,50 to under 55 years,,17.994
 2021,percentage,,,50 to under 55 years,,18.9
+1999,percentage,,,55 to under 60 years,,
+2003,percentage,,,55 to under 60 years,,
+2005,percentage,,,55 to under 60 years,,
+2009,percentage,,,55 to under 60 years,,
 2013,percentage,,,55 to under 60 years,,19.977
 2017,percentage,,,55 to under 60 years,,19.669
 2021,percentage,,,55 to under 60 years,,19.6
+1999,percentage,,,60 to under 56 years,,
+2003,percentage,,,60 to under 56 years,,
+2005,percentage,,,60 to under 56 years,,
+2009,percentage,,,60 to under 56 years,,
 2013,percentage,,,60 to under 56 years,,22.704
 2017,percentage,,,60 to under 56 years,,21.982
 2021,percentage,,,60 to under 56 years,,21.0
+1999,percentage,,,65 to under 70 years,,
+2003,percentage,,,65 to under 70 years,,
+2005,percentage,,,65 to under 70 years,,
+2009,percentage,,,65 to under 70 years,,
 2013,percentage,,,65 to under 70 years,,21.943
 2017,percentage,,,65 to under 70 years,,23.506
 2021,percentage,,,65 to under 70 years,,21.3
+1999,percentage,,,70 to under 75 years,,
+2003,percentage,,,70 to under 75 years,,
+2005,percentage,,,70 to under 75 years,,
+2009,percentage,,,70 to under 75 years,,
 2013,percentage,,,70 to under 75 years,,20.257
 2017,percentage,,,70 to under 75 years,,21.164
 2021,percentage,,,70 to under 75 years,,21.2
+1999,percentage,,,75 years and older,,
+2003,percentage,,,75 years and older,,
+2005,percentage,,,75 years and older,,
+2009,percentage,,,75 years and older,,
 2013,percentage,,,75 years and older,,17.403
 2017,percentage,,,75 years and older,,17.837
 2021,percentage,,,75 years and older,,16.2
@@ -276,41 +328,94 @@ Year,Units,federal state,GeoCode,age group,sex,Value
 2013,percentage,thuringia,code16,,female,14.886
 2017,percentage,thuringia,code16,,female,16.743
 2021,percentage,thuringia,code16,,female,14.215
+1999,percentage,,,18 to under 20 years,female,
+2003,percentage,,,18 to under 20 years,female,
+2005,percentage,,,18 to under 20 years,female,
+2009,percentage,,,18 to under 20 years,female,
 2013,percentage,,,18 to under 20 years,female,2.814
 2017,percentage,,,18 to under 20 years,female,3.402
+2021,percentage,,,18 to under 20 years,female,
+1999,percentage,,,20 to under 25 years,female,
+2003,percentage,,,20 to under 25 years,female,
+2005,percentage,,,20 to under 25 years,female,
+2009,percentage,,,20 to under 25 years,female,
 2013,percentage,,,20 to under 25 years,female,4.952
 2017,percentage,,,20 to under 25 years,female,4.886
 2021,percentage,,,20 to under 25 years,female,5.3
+1999,percentage,,,25 to under 30 years,female,
+2003,percentage,,,25 to under 30 years,female,
+2005,percentage,,,25 to under 30 years,female,
+2009,percentage,,,25 to under 30 years,female,
 2013,percentage,,,25 to under 30 years,female,7.15
 2017,percentage,,,25 to under 30 years,female,8.037
 2021,percentage,,,25 to under 30 years,female,9.0
+1999,percentage,,,30 to under 35 years,female,
+2003,percentage,,,30 to under 35 years,female,
+2005,percentage,,,30 to under 35 years,female,
+2009,percentage,,,30 to under 35 years,female,
 2013,percentage,,,30 to under 35 years,female,9.543
 2017,percentage,,,30 to under 35 years,female,10.136
 2021,percentage,,,30 to under 35 years,female,12.5
+1999,percentage,,,35 to under 40 years,female,
+2003,percentage,,,35 to under 40 years,female,
+2005,percentage,,,35 to under 40 years,female,
+2009,percentage,,,35 to under 40 years,female,
 2013,percentage,,,35 to under 40 years,female,10.402
 2017,percentage,,,35 to under 40 years,female,10.833
 2021,percentage,,,35 to under 40 years,female,11.3
+1999,percentage,,,40 to under 45 years,female,
+2003,percentage,,,40 to under 45 years,female,
+2005,percentage,,,40 to under 45 years,female,
+2009,percentage,,,40 to under 45 years,female,
 2013,percentage,,,40 to under 45 years,female,11.419
 2017,percentage,,,40 to under 45 years,female,12.254
 2021,percentage,,,40 to under 45 years,female,13.3
+1999,percentage,,,45 to under 50 years,female,
+2003,percentage,,,45 to under 50 years,female,
+2005,percentage,,,45 to under 50 years,female,
+2009,percentage,,,45 to under 50 years,female,
 2013,percentage,,,45 to under 50 years,female,12.21
 2017,percentage,,,45 to under 50 years,female,12.737
 2021,percentage,,,45 to under 50 years,female,15.3
+1999,percentage,,,50 to under 55 years,female,
+2003,percentage,,,50 to under 55 years,female,
+2005,percentage,,,50 to under 55 years,female,
+2009,percentage,,,50 to under 55 years,female,
 2013,percentage,,,50 to under 55 years,female,15.033
 2017,percentage,,,50 to under 55 years,female,14.766
 2021,percentage,,,50 to under 55 years,female,15.4
+1999,percentage,,,55 to under 60 years,female,
+2003,percentage,,,55 to under 60 years,female,
+2005,percentage,,,55 to under 60 years,female,
+2009,percentage,,,55 to under 60 years,female,
 2013,percentage,,,55 to under 60 years,female,17.315
 2017,percentage,,,55 to under 60 years,female,16.552
 2021,percentage,,,55 to under 60 years,female,16.6
+1999,percentage,,,60 to under 56 years,female,
+2003,percentage,,,60 to under 56 years,female,
+2005,percentage,,,60 to under 56 years,female,
+2009,percentage,,,60 to under 56 years,female,
 2013,percentage,,,60 to under 56 years,female,20.751
 2017,percentage,,,60 to under 56 years,female,19.48
 2021,percentage,,,60 to under 56 years,female,18.4
+1999,percentage,,,65 to under 70 years,female,
+2003,percentage,,,65 to under 70 years,female,
+2005,percentage,,,65 to under 70 years,female,
+2009,percentage,,,65 to under 70 years,female,
 2013,percentage,,,65 to under 70 years,female,20.324
 2017,percentage,,,65 to under 70 years,female,21.724
 2021,percentage,,,65 to under 70 years,female,19.5
+1999,percentage,,,70 to under 75 years,female,
+2003,percentage,,,70 to under 75 years,female,
+2005,percentage,,,70 to under 75 years,female,
+2009,percentage,,,70 to under 75 years,female,
 2013,percentage,,,70 to under 75 years,female,19.42
 2017,percentage,,,70 to under 75 years,female,19.855
 2021,percentage,,,70 to under 75 years,female,19.9
+1999,percentage,,,75 years and older,female,
+2003,percentage,,,75 years and older,female,
+2005,percentage,,,75 years and older,female,
+2009,percentage,,,75 years and older,female,
 2013,percentage,,,75 years and older,female,17.941
 2017,percentage,,,75 years and older,female,18.029
 2021,percentage,,,75 years and older,female,16.2
@@ -433,41 +538,94 @@ Year,Units,federal state,GeoCode,age group,sex,Value
 2013,percentage,thuringia,code16,,male,15.858
 2017,percentage,thuringia,code16,,male,18.608
 2021,percentage,thuringia,code16,,male,19.585
+1999,percentage,,,18 to under 20 years,male,
+2003,percentage,,,18 to under 20 years,male,
+2005,percentage,,,18 to under 20 years,male,
+2009,percentage,,,18 to under 20 years,male,
 2013,percentage,,,18 to under 20 years,male,4.058
 2017,percentage,,,18 to under 20 years,male,4.955
+2021,percentage,,,18 to under 20 years,male,
+1999,percentage,,,20 to under 25 years,male,
+2003,percentage,,,20 to under 25 years,male,
+2005,percentage,,,20 to under 25 years,male,
+2009,percentage,,,20 to under 25 years,male,
 2013,percentage,,,20 to under 25 years,male,6.166
 2017,percentage,,,20 to under 25 years,male,6.973
 2021,percentage,,,20 to under 25 years,male,7.1
+1999,percentage,,,25 to under 30 years,male,
+2003,percentage,,,25 to under 30 years,male,
+2005,percentage,,,25 to under 30 years,male,
+2009,percentage,,,25 to under 30 years,male,
 2013,percentage,,,25 to under 30 years,male,8.808
 2017,percentage,,,25 to under 30 years,male,10.569
 2021,percentage,,,25 to under 30 years,male,12.4
+1999,percentage,,,30 to under 35 years,male,
+2003,percentage,,,30 to under 35 years,male,
+2005,percentage,,,30 to under 35 years,male,
+2009,percentage,,,30 to under 35 years,male,
 2013,percentage,,,30 to under 35 years,male,12.162
 2017,percentage,,,30 to under 35 years,male,13.395
 2021,percentage,,,30 to under 35 years,male,15.4
+1999,percentage,,,35 to under 40 years,male,
+2003,percentage,,,35 to under 40 years,male,
+2005,percentage,,,35 to under 40 years,male,
+2009,percentage,,,35 to under 40 years,male,
 2013,percentage,,,35 to under 40 years,male,14.883
 2017,percentage,,,35 to under 40 years,male,15.493
 2021,percentage,,,35 to under 40 years,male,17.2
+1999,percentage,,,40 to under 45 years,male,
+2003,percentage,,,40 to under 45 years,male,
+2005,percentage,,,40 to under 45 years,male,
+2009,percentage,,,40 to under 45 years,male,
 2013,percentage,,,40 to under 45 years,male,16.774
 2017,percentage,,,40 to under 45 years,male,18.725
 2021,percentage,,,40 to under 45 years,male,19.5
+1999,percentage,,,45 to under 50 years,male,
+2003,percentage,,,45 to under 50 years,male,
+2005,percentage,,,45 to under 50 years,male,
+2009,percentage,,,45 to under 50 years,male,
 2013,percentage,,,45 to under 50 years,male,17.912
 2017,percentage,,,45 to under 50 years,male,19.369
 2021,percentage,,,45 to under 50 years,male,23.5
+1999,percentage,,,50 to under 55 years,male,
+2003,percentage,,,50 to under 55 years,male,
+2005,percentage,,,50 to under 55 years,male,
+2009,percentage,,,50 to under 55 years,male,
 2013,percentage,,,50 to under 55 years,male,20.19
 2017,percentage,,,50 to under 55 years,male,20.941
 2021,percentage,,,50 to under 55 years,male,21.9
+1999,percentage,,,55 to under 60 years,male,
+2003,percentage,,,55 to under 60 years,male,
+2005,percentage,,,55 to under 60 years,male,
+2009,percentage,,,55 to under 60 years,male,
 2013,percentage,,,55 to under 60 years,male,22.595
 2017,percentage,,,55 to under 60 years,male,22.571
 2021,percentage,,,55 to under 60 years,male,22.4
+1999,percentage,,,60 to under 56 years,male,
+2003,percentage,,,60 to under 56 years,male,
+2005,percentage,,,60 to under 56 years,male,
+2009,percentage,,,60 to under 56 years,male,
 2013,percentage,,,60 to under 56 years,male,24.674
 2017,percentage,,,60 to under 56 years,male,24.454
 2021,percentage,,,60 to under 56 years,male,23.6
+1999,percentage,,,65 to under 70 years,male,
+2003,percentage,,,65 to under 70 years,male,
+2005,percentage,,,65 to under 70 years,male,
+2009,percentage,,,65 to under 70 years,male,
 2013,percentage,,,65 to under 70 years,male,23.634
 2017,percentage,,,65 to under 70 years,male,25.324
 2021,percentage,,,65 to under 70 years,male,23.1
+1999,percentage,,,70 to under 75 years,male,
+2003,percentage,,,70 to under 75 years,male,
+2005,percentage,,,70 to under 75 years,male,
+2009,percentage,,,70 to under 75 years,male,
 2013,percentage,,,70 to under 75 years,male,21.188
 2017,percentage,,,70 to under 75 years,male,22.585
 2021,percentage,,,70 to under 75 years,male,22.6
+1999,percentage,,,75 years and older,male,
+2003,percentage,,,75 years and older,male,
+2005,percentage,,,75 years and older,male,
+2009,percentage,,,75 years and older,male,
 2013,percentage,,,75 years and older,male,16.689
 2017,percentage,,,75 years and older,male,17.586
 2021,percentage,,,75 years and older,male,16.2

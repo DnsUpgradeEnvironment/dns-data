@@ -28,6 +28,7 @@ Year,Units,time series,area,Value
 2018,gini coefficient,gini coefficient of equivalised disposable income before social transfers,eu,0.359
 2019,gini coefficient,gini coefficient of equivalised disposable income before social transfers,eu,0.355
 2020,gini coefficient,gini coefficient of equivalised disposable income before social transfers,eu,0.349
+2021,gini coefficient,gini coefficient of equivalised disposable income before social transfers,eu,
 2007,gini coefficient,gini coefficient of equivalised disposable income,germany,0.304
 2008,gini coefficient,gini coefficient of equivalised disposable income,germany,0.302
 2009,gini coefficient,gini coefficient of equivalised disposable income,germany,0.291
@@ -57,6 +58,8 @@ Year,Units,time series,area,Value
 2018,gini coefficient,gini coefficient of equivalised disposable income,eu,0.308
 2019,gini coefficient,gini coefficient of equivalised disposable income,eu,0.306
 2020,gini coefficient,gini coefficient of equivalised disposable income,eu,0.3
+2021,gini coefficient,gini coefficient of equivalised disposable income,eu,
+2007,gini coefficient,gini coefficient of market income,germany,
 2008,gini coefficient,gini coefficient of market income,germany,0.494
 2009,gini coefficient,gini coefficient of market income,germany,0.493
 2010,gini coefficient,gini coefficient of market income,germany,0.492
@@ -68,9 +71,36 @@ Year,Units,time series,area,Value
 2016,gini coefficient,gini coefficient of market income,germany,0.505
 2017,gini coefficient,gini coefficient of market income,germany,0.5
 2018,gini coefficient,gini coefficient of market income,germany,0.494
+2019,gini coefficient,gini coefficient of market income,germany,
+2020,gini coefficient,gini coefficient of market income,germany,
+2021,gini coefficient,gini coefficient of market income,germany,
+2007,gini coefficient,gini coefficient of wealth,germany,
+2008,gini coefficient,gini coefficient of wealth,germany,
+2009,gini coefficient,gini coefficient of wealth,germany,
 2010,gini coefficient,gini coefficient of wealth,germany,0.758
+2011,gini coefficient,gini coefficient of wealth,germany,
+2012,gini coefficient,gini coefficient of wealth,germany,
+2013,gini coefficient,gini coefficient of wealth,germany,
 2014,gini coefficient,gini coefficient of wealth,germany,0.762
+2015,gini coefficient,gini coefficient of wealth,germany,
+2016,gini coefficient,gini coefficient of wealth,germany,
 2017,gini coefficient,gini coefficient of wealth,germany,0.739
+2018,gini coefficient,gini coefficient of wealth,germany,
+2019,gini coefficient,gini coefficient of wealth,germany,
+2020,gini coefficient,gini coefficient of wealth,germany,
+2021,gini coefficient,gini coefficient of wealth,germany,
+2007,gini coefficient,gini coefficient of wealth,eurozone,
+2008,gini coefficient,gini coefficient of wealth,eurozone,
+2009,gini coefficient,gini coefficient of wealth,eurozone,
 2010,gini coefficient,gini coefficient of wealth,eurozone,0.68
+2011,gini coefficient,gini coefficient of wealth,eurozone,
+2012,gini coefficient,gini coefficient of wealth,eurozone,
+2013,gini coefficient,gini coefficient of wealth,eurozone,
 2014,gini coefficient,gini coefficient of wealth,eurozone,0.685
+2015,gini coefficient,gini coefficient of wealth,eurozone,
+2016,gini coefficient,gini coefficient of wealth,eurozone,
 2017,gini coefficient,gini coefficient of wealth,eurozone,0.695
+2018,gini coefficient,gini coefficient of wealth,eurozone,
+2019,gini coefficient,gini coefficient of wealth,eurozone,
+2020,gini coefficient,gini coefficient of wealth,eurozone,
+2021,gini coefficient,gini coefficient of wealth,eurozone,
