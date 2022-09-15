@@ -1,20 +1,20 @@
-Year,time series,Units,Value
-2012,corruption perceptions index in germany,,79.0
-2013,corruption perceptions index in germany,,78.0
-2014,corruption perceptions index in germany,,79.0
-2015,corruption perceptions index in germany,,81.0
-2016,corruption perceptions index in germany,,81.0
-2017,corruption perceptions index in germany,,81.0
-2018,corruption perceptions index in germany,,80.0
-2019,corruption perceptions index in germany,,80.0
-2020,corruption perceptions index in germany,,80.0
-2021,corruption perceptions index in germany,,80.0
-2013,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,20.0
-2014,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,40.0
-2015,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,43.0
-2016,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,45.0
-2017,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,45.0
-2018,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,44.0
-2019,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,45.0
-2020,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,47.0
-2021,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,number,48.0
+Year,Units,time series,Value
+2012, ,corruption perceptions index in germany,79.0
+2013, ,corruption perceptions index in germany,78.0
+2014, ,corruption perceptions index in germany,79.0
+2015, ,corruption perceptions index in germany,81.0
+2016, ,corruption perceptions index in germany,81.0
+2017, ,corruption perceptions index in germany,81.0
+2018, ,corruption perceptions index in germany,80.0
+2019, ,corruption perceptions index in germany,80.0
+2020, ,corruption perceptions index in germany,80.0
+2021, ,corruption perceptions index in germany,80.0
+2013,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,20.0
+2014,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,40.0
+2015,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,43.0
+2016,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,45.0
+2017,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,45.0
+2018,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,44.0
+2019,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,45.0
+2020,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,47.0
+2021,number,number of partner countries involved in german development cooperation with improved cpi scores compared with 2012,48.0

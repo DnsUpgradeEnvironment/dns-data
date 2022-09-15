@@ -1371,6 +1371,18 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                " ",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -1381,17 +1393,6 @@
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
