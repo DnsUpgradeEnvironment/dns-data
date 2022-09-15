@@ -28,6 +28,7 @@ Year,Units,Zeitreihe,Gebiet,Value
 2018,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,0.359
 2019,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,0.355
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,0.349
+2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen,EU,
 2007,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,0.304
 2008,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,0.302
 2009,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,Deutschland,0.291
@@ -57,6 +58,8 @@ Year,Units,Zeitreihe,Gebiet,Value
 2018,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,0.308
 2019,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,0.306
 2020,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,0.3
+2021,Gini-Koeffizient,Gini-Koeffizient des verfügbaren Äquivalenzeinkommens,EU,
+2007,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,
 2008,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,0.494
 2009,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,0.493
 2010,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,0.492
@@ -68,9 +71,36 @@ Year,Units,Zeitreihe,Gebiet,Value
 2016,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,0.505
 2017,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,0.5
 2018,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,0.494
+2019,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,
+2020,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,
+2021,Gini-Koeffizient,Gini-Koeffizient des Markteinkommens,Deutschland,
+2007,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2008,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2009,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
 2010,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,0.758
+2011,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2012,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2013,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
 2014,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,0.762
+2015,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2016,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
 2017,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,0.739
+2018,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2019,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2020,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2021,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Deutschland,
+2007,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2008,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2009,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
 2010,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,0.68
+2011,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2012,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2013,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
 2014,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,0.685
+2015,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2016,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
 2017,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,0.695
+2018,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2019,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2020,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,
+2021,Gini-Koeffizient,Gini-Koeffizient des Vermögens,Eurozone,

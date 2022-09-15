@@ -33,6 +33,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,,,2176.0
 2020,Number,Locations of organisation registered with EMAS,,,2184.0
 2021,Number,Locations of organisation registered with EMAS,,,2290.0
+2005,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,
+2006,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,
+2007,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,
+2008,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,
+2009,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,
 2010,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,493.0
 2011,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,498.0
 2012,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,508.0
@@ -45,6 +50,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,594.0
 2020,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,597.0
 2021,Number,Locations of organisation registered with EMAS,Baden-Wuerttemberg,code08,667.0
+2005,Number,Locations of organisation registered with EMAS,Bavaria,code09,
+2006,Number,Locations of organisation registered with EMAS,Bavaria,code09,
+2007,Number,Locations of organisation registered with EMAS,Bavaria,code09,
+2008,Number,Locations of organisation registered with EMAS,Bavaria,code09,
+2009,Number,Locations of organisation registered with EMAS,Bavaria,code09,
 2010,Number,Locations of organisation registered with EMAS,Bavaria,code09,385.0
 2011,Number,Locations of organisation registered with EMAS,Bavaria,code09,391.0
 2012,Number,Locations of organisation registered with EMAS,Bavaria,code09,388.0
@@ -57,6 +67,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Bavaria,code09,478.0
 2020,Number,Locations of organisation registered with EMAS,Bavaria,code09,502.0
 2021,Number,Locations of organisation registered with EMAS,Bavaria,code09,638.0
+2005,Number,Locations of organisation registered with EMAS,Berlin,code11,
+2006,Number,Locations of organisation registered with EMAS,Berlin,code11,
+2007,Number,Locations of organisation registered with EMAS,Berlin,code11,
+2008,Number,Locations of organisation registered with EMAS,Berlin,code11,
+2009,Number,Locations of organisation registered with EMAS,Berlin,code11,
 2010,Number,Locations of organisation registered with EMAS,Berlin,code11,53.0
 2011,Number,Locations of organisation registered with EMAS,Berlin,code11,53.0
 2012,Number,Locations of organisation registered with EMAS,Berlin,code11,48.0
@@ -69,6 +84,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Berlin,code11,65.0
 2020,Number,Locations of organisation registered with EMAS,Berlin,code11,68.0
 2021,Number,Locations of organisation registered with EMAS,Berlin,code11,66.0
+2005,Number,Locations of organisation registered with EMAS,Brandenburg,code12,
+2006,Number,Locations of organisation registered with EMAS,Brandenburg,code12,
+2007,Number,Locations of organisation registered with EMAS,Brandenburg,code12,
+2008,Number,Locations of organisation registered with EMAS,Brandenburg,code12,
+2009,Number,Locations of organisation registered with EMAS,Brandenburg,code12,
 2010,Number,Locations of organisation registered with EMAS,Brandenburg,code12,52.0
 2011,Number,Locations of organisation registered with EMAS,Brandenburg,code12,47.0
 2012,Number,Locations of organisation registered with EMAS,Brandenburg,code12,36.0
@@ -81,6 +101,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Brandenburg,code12,64.0
 2020,Number,Locations of organisation registered with EMAS,Brandenburg,code12,64.0
 2021,Number,Locations of organisation registered with EMAS,Brandenburg,code12,57.0
+2005,Number,Locations of organisation registered with EMAS,Bremen,code04,
+2006,Number,Locations of organisation registered with EMAS,Bremen,code04,
+2007,Number,Locations of organisation registered with EMAS,Bremen,code04,
+2008,Number,Locations of organisation registered with EMAS,Bremen,code04,
+2009,Number,Locations of organisation registered with EMAS,Bremen,code04,
 2010,Number,Locations of organisation registered with EMAS,Bremen,code04,26.0
 2011,Number,Locations of organisation registered with EMAS,Bremen,code04,26.0
 2012,Number,Locations of organisation registered with EMAS,Bremen,code04,28.0
@@ -93,6 +118,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Bremen,code04,31.0
 2020,Number,Locations of organisation registered with EMAS,Bremen,code04,30.0
 2021,Number,Locations of organisation registered with EMAS,Bremen,code04,25.0
+2005,Number,Locations of organisation registered with EMAS,Hamburg,code02,
+2006,Number,Locations of organisation registered with EMAS,Hamburg,code02,
+2007,Number,Locations of organisation registered with EMAS,Hamburg,code02,
+2008,Number,Locations of organisation registered with EMAS,Hamburg,code02,
+2009,Number,Locations of organisation registered with EMAS,Hamburg,code02,
 2010,Number,Locations of organisation registered with EMAS,Hamburg,code02,37.0
 2011,Number,Locations of organisation registered with EMAS,Hamburg,code02,36.0
 2012,Number,Locations of organisation registered with EMAS,Hamburg,code02,33.0
@@ -105,6 +135,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Hamburg,code02,58.0
 2020,Number,Locations of organisation registered with EMAS,Hamburg,code02,59.0
 2021,Number,Locations of organisation registered with EMAS,Hamburg,code02,69.0
+2005,Number,Locations of organisation registered with EMAS,Hesse,code06,
+2006,Number,Locations of organisation registered with EMAS,Hesse,code06,
+2007,Number,Locations of organisation registered with EMAS,Hesse,code06,
+2008,Number,Locations of organisation registered with EMAS,Hesse,code06,
+2009,Number,Locations of organisation registered with EMAS,Hesse,code06,
 2010,Number,Locations of organisation registered with EMAS,Hesse,code06,138.0
 2011,Number,Locations of organisation registered with EMAS,Hesse,code06,139.0
 2012,Number,Locations of organisation registered with EMAS,Hesse,code06,140.0
@@ -117,6 +152,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Hesse,code06,126.0
 2020,Number,Locations of organisation registered with EMAS,Hesse,code06,132.0
 2021,Number,Locations of organisation registered with EMAS,Hesse,code06,157.0
+2005,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,
+2006,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,
+2007,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,
+2008,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,
+2009,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,
 2010,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,10.0
 2011,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,10.0
 2012,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,10.0
@@ -129,6 +169,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,3.0
 2020,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,3.0
 2021,Number,Locations of organisation registered with EMAS,Mecklenburg Western Pomerania,code13,1.0
+2005,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,
+2006,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,
+2007,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,
+2008,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,
+2009,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,
 2010,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,91.0
 2011,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,95.0
 2012,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,82.0
@@ -141,6 +186,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,87.0
 2020,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,85.0
 2021,Number,Locations of organisation registered with EMAS,Lower Saxony,code03,84.0
+2005,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,
+2006,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,
+2007,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,
+2008,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,
+2009,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,
 2010,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,262.0
 2011,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,263.0
 2012,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,232.0
@@ -153,6 +203,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,236.0
 2020,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,232.0
 2021,Number,Locations of organisation registered with EMAS,North Rhine-Westphalia,code05,220.0
+2005,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,
+2006,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,
+2007,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,
+2008,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,
+2009,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,
 2010,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,53.0
 2011,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,48.0
 2012,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,49.0
@@ -165,6 +220,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,66.0
 2020,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,50.0
 2021,Number,Locations of organisation registered with EMAS,Rhineland Palatinate,code07,53.0
+2005,Number,Locations of organisation registered with EMAS,Saarland,code10,
+2006,Number,Locations of organisation registered with EMAS,Saarland,code10,
+2007,Number,Locations of organisation registered with EMAS,Saarland,code10,
+2008,Number,Locations of organisation registered with EMAS,Saarland,code10,
+2009,Number,Locations of organisation registered with EMAS,Saarland,code10,
 2010,Number,Locations of organisation registered with EMAS,Saarland,code10,60.0
 2011,Number,Locations of organisation registered with EMAS,Saarland,code10,55.0
 2012,Number,Locations of organisation registered with EMAS,Saarland,code10,55.0
@@ -177,6 +237,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Saarland,code10,59.0
 2020,Number,Locations of organisation registered with EMAS,Saarland,code10,60.0
 2021,Number,Locations of organisation registered with EMAS,Saarland,code10,55.0
+2005,Number,Locations of organisation registered with EMAS,Saxony,code14,
+2006,Number,Locations of organisation registered with EMAS,Saxony,code14,
+2007,Number,Locations of organisation registered with EMAS,Saxony,code14,
+2008,Number,Locations of organisation registered with EMAS,Saxony,code14,
+2009,Number,Locations of organisation registered with EMAS,Saxony,code14,
 2010,Number,Locations of organisation registered with EMAS,Saxony,code14,63.0
 2011,Number,Locations of organisation registered with EMAS,Saxony,code14,62.0
 2012,Number,Locations of organisation registered with EMAS,Saxony,code14,66.0
@@ -189,6 +254,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Saxony,code14,113.0
 2020,Number,Locations of organisation registered with EMAS,Saxony,code14,106.0
 2021,Number,Locations of organisation registered with EMAS,Saxony,code14,86.0
+2005,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,
+2006,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,
+2007,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,
+2008,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,
+2009,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,
 2010,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,53.0
 2011,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,50.0
 2012,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,40.0
@@ -201,6 +271,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,66.0
 2020,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,65.0
 2021,Number,Locations of organisation registered with EMAS,Saxony-Anhalt,code15,65.0
+2005,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,
+2006,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,
+2007,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,
+2008,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,
+2009,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,
 2010,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,59.0
 2011,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,59.0
 2012,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,45.0
@@ -213,6 +288,11 @@ Year,Units,Series,Federal state,GeoCode,Value
 2019,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,37.0
 2020,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,40.0
 2021,Number,Locations of organisation registered with EMAS,Schleswig-Holstein,code01,29.0
+2005,Number,Locations of organisation registered with EMAS,Thuringia,code16,
+2006,Number,Locations of organisation registered with EMAS,Thuringia,code16,
+2007,Number,Locations of organisation registered with EMAS,Thuringia,code16,
+2008,Number,Locations of organisation registered with EMAS,Thuringia,code16,
+2009,Number,Locations of organisation registered with EMAS,Thuringia,code16,
 2010,Number,Locations of organisation registered with EMAS,Thuringia,code16,78.0
 2011,Number,Locations of organisation registered with EMAS,Thuringia,code16,71.0
 2012,Number,Locations of organisation registered with EMAS,Thuringia,code16,62.0

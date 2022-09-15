@@ -30,6 +30,20 @@ Year,Units,Zeitreihe,Value
 2019,Prozent,Staatsdefizit,1.531
 2020,Prozent,Staatsdefizit,-4.333
 2021,Prozent,Staatsdefizit,-3.727
+1991,Prozent,Strukturelles Defizit,
+1992,Prozent,Strukturelles Defizit,
+1993,Prozent,Strukturelles Defizit,
+1994,Prozent,Strukturelles Defizit,
+1995,Prozent,Strukturelles Defizit,
+1996,Prozent,Strukturelles Defizit,
+1997,Prozent,Strukturelles Defizit,
+1998,Prozent,Strukturelles Defizit,
+1999,Prozent,Strukturelles Defizit,
+2000,Prozent,Strukturelles Defizit,
+2001,Prozent,Strukturelles Defizit,
+2002,Prozent,Strukturelles Defizit,
+2003,Prozent,Strukturelles Defizit,
+2004,Prozent,Strukturelles Defizit,
 2005,Prozent,Strukturelles Defizit,-2.2
 2006,Prozent,Strukturelles Defizit,-1.8
 2007,Prozent,Strukturelles Defizit,-0.7
@@ -47,6 +61,7 @@ Year,Units,Zeitreihe,Value
 2019,Prozent,Strukturelles Defizit,0.8
 2020,Prozent,Strukturelles Defizit,-2.2
 2021,Prozent,Strukturelles Defizit,-2.5
+1991,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),
 1992,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),1.9
 1993,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),-1.0
 1994,Prozent,Änderung des Bruttoinlandsprodukts (preisbereinigt),2.4

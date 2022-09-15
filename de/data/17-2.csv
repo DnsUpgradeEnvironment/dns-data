@@ -15,6 +15,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,,,,267250.0
 2019,Anzahl,,,,285449.0
 2020,Anzahl,,,,298149.0
+2005,Anzahl,Baden-Württemberg,code08,,
 2006,Anzahl,Baden-Württemberg,code08,,20133.0
 2007,Anzahl,Baden-Württemberg,code08,,19383.0
 2008,Anzahl,Baden-Württemberg,code08,,19840.0
@@ -30,6 +31,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Baden-Württemberg,code08,,32221.0
 2019,Anzahl,Baden-Württemberg,code08,,31590.0
 2020,Anzahl,Baden-Württemberg,code08,,30143.0
+2005,Anzahl,Bayern,code09,,
 2006,Anzahl,Bayern,code09,,13978.0
 2007,Anzahl,Bayern,code09,,13633.0
 2008,Anzahl,Bayern,code09,,14130.0
@@ -45,6 +47,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Bayern,code09,,34357.0
 2019,Anzahl,Bayern,code09,,37939.0
 2020,Anzahl,Bayern,code09,,42253.0
+2005,Anzahl,Berlin,code11,,
 2006,Anzahl,Berlin,code11,,9715.0
 2007,Anzahl,Berlin,code11,,10005.0
 2008,Anzahl,Berlin,code11,,10531.0
@@ -60,6 +63,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Berlin,code11,,22086.0
 2019,Anzahl,Berlin,code11,,24341.0
 2020,Anzahl,Berlin,code11,,25828.0
+2005,Anzahl,Brandenburg,code12,,
 2006,Anzahl,Brandenburg,code12,,2568.0
 2007,Anzahl,Brandenburg,code12,,2630.0
 2008,Anzahl,Brandenburg,code12,,2675.0
@@ -75,6 +79,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Brandenburg,code12,,5378.0
 2019,Anzahl,Brandenburg,code12,,5905.0
 2020,Anzahl,Brandenburg,code12,,6244.0
+2005,Anzahl,Bremen,code04,,
 2006,Anzahl,Bremen,code04,,3789.0
 2007,Anzahl,Bremen,code04,,3644.0
 2008,Anzahl,Bremen,code04,,3552.0
@@ -90,6 +95,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Bremen,code04,,4716.0
 2019,Anzahl,Bremen,code04,,5144.0
 2020,Anzahl,Bremen,code04,,5349.0
+2005,Anzahl,Hamburg,code02,,
 2006,Anzahl,Hamburg,code02,,5311.0
 2007,Anzahl,Hamburg,code02,,4970.0
 2008,Anzahl,Hamburg,code02,,5028.0
@@ -105,6 +111,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Hamburg,code02,,8619.0
 2019,Anzahl,Hamburg,code02,,9058.0
 2020,Anzahl,Hamburg,code02,,9345.0
+2005,Anzahl,Hessen,code06,,
 2006,Anzahl,Hessen,code06,,14955.0
 2007,Anzahl,Hessen,code06,,13532.0
 2008,Anzahl,Hessen,code06,,15441.0
@@ -120,6 +127,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Hessen,code06,,27467.0
 2019,Anzahl,Hessen,code06,,28777.0
 2020,Anzahl,Hessen,code06,,29788.0
+2005,Anzahl,Mecklenburg-Vorpommern,code13,,
 2006,Anzahl,Mecklenburg-Vorpommern,code13,,1194.0
 2007,Anzahl,Mecklenburg-Vorpommern,code13,,1207.0
 2008,Anzahl,Mecklenburg-Vorpommern,code13,,1195.0
@@ -135,6 +143,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Mecklenburg-Vorpommern,code13,,3115.0
 2019,Anzahl,Mecklenburg-Vorpommern,code13,,3247.0
 2020,Anzahl,Mecklenburg-Vorpommern,code13,,3352.0
+2005,Anzahl,Niedersachsen,code03,,
 2006,Anzahl,Niedersachsen,code03,,10759.0
 2007,Anzahl,Niedersachsen,code03,,10237.0
 2008,Anzahl,Niedersachsen,code03,,10357.0
@@ -150,6 +159,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Niedersachsen,code03,,19333.0
 2019,Anzahl,Niedersachsen,code03,,20687.0
 2020,Anzahl,Niedersachsen,code03,,21354.0
+2005,Anzahl,Nordrhein-Westfalen,code05,,
 2006,Anzahl,Nordrhein-Westfalen,code05,,38324.0
 2007,Anzahl,Nordrhein-Westfalen,code05,,35303.0
 2008,Anzahl,Nordrhein-Westfalen,code05,,36388.0
@@ -165,6 +175,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Nordrhein-Westfalen,code05,,67424.0
 2019,Anzahl,Nordrhein-Westfalen,code05,,72166.0
 2020,Anzahl,Nordrhein-Westfalen,code05,,75112.0
+2005,Anzahl,Rheinland-Pfalz,code07,,
 2006,Anzahl,Rheinland-Pfalz,code07,,6488.0
 2007,Anzahl,Rheinland-Pfalz,code07,,6993.0
 2008,Anzahl,Rheinland-Pfalz,code07,,7166.0
@@ -180,6 +191,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Rheinland-Pfalz,code07,,10194.0
 2019,Anzahl,Rheinland-Pfalz,code07,,11069.0
 2020,Anzahl,Rheinland-Pfalz,code07,,11896.0
+2005,Anzahl,Saarland,code10,,
 2006,Anzahl,Saarland,code10,,1572.0
 2007,Anzahl,Saarland,code10,,1573.0
 2008,Anzahl,Saarland,code10,,1597.0
@@ -195,6 +207,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Saarland,code10,,2725.0
 2019,Anzahl,Saarland,code10,,2961.0
 2020,Anzahl,Saarland,code10,,3114.0
+2005,Anzahl,Sachsen,code14,,
 2006,Anzahl,Sachsen,code14,,4963.0
 2007,Anzahl,Sachsen,code14,,5139.0
 2008,Anzahl,Sachsen,code14,,5053.0
@@ -210,6 +223,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Sachsen,code14,,12575.0
 2019,Anzahl,Sachsen,code14,,13267.0
 2020,Anzahl,Sachsen,code14,,13507.0
+2005,Anzahl,Sachsen-Anhalt,code15,,
 2006,Anzahl,Sachsen-Anhalt,code15,,3198.0
 2007,Anzahl,Sachsen-Anhalt,code15,,3247.0
 2008,Anzahl,Sachsen-Anhalt,code15,,3251.0
@@ -225,6 +239,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Sachsen-Anhalt,code15,,6641.0
 2019,Anzahl,Sachsen-Anhalt,code15,,7321.0
 2020,Anzahl,Sachsen-Anhalt,code15,,7679.0
+2005,Anzahl,Schleswig-Holstein,code01,,
 2006,Anzahl,Schleswig-Holstein,code01,,2406.0
 2007,Anzahl,Schleswig-Holstein,code01,,2416.0
 2008,Anzahl,Schleswig-Holstein,code01,,2436.0
@@ -240,6 +255,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Schleswig-Holstein,code01,,4002.0
 2019,Anzahl,Schleswig-Holstein,code01,,4276.0
 2020,Anzahl,Schleswig-Holstein,code01,,4402.0
+2005,Anzahl,Thüringen,code16,,
 2006,Anzahl,Thüringen,code16,,1937.0
 2007,Anzahl,Thüringen,code16,,2176.0
 2008,Anzahl,Thüringen,code16,,2192.0
@@ -815,6 +831,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,,,Forschende aus LDCs,687.0
 2019,Anzahl,,,Forschende aus LDCs,681.0
 2020,Anzahl,,,Forschende aus LDCs,838.0
+2005,Anzahl,Baden-Württemberg,code08,Forschende aus LDCs,
 2006,Anzahl,Baden-Württemberg,code08,Forschende aus LDCs,40.0
 2007,Anzahl,Baden-Württemberg,code08,Forschende aus LDCs,45.0
 2008,Anzahl,Baden-Württemberg,code08,Forschende aus LDCs,52.0
@@ -830,6 +847,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Baden-Württemberg,code08,Forschende aus LDCs,140.0
 2019,Anzahl,Baden-Württemberg,code08,Forschende aus LDCs,141.0
 2020,Anzahl,Baden-Württemberg,code08,Forschende aus LDCs,146.0
+2005,Anzahl,Bayern,code09,Forschende aus LDCs,
 2006,Anzahl,Bayern,code09,Forschende aus LDCs,26.0
 2007,Anzahl,Bayern,code09,Forschende aus LDCs,23.0
 2008,Anzahl,Bayern,code09,Forschende aus LDCs,24.0
@@ -845,6 +863,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Bayern,code09,Forschende aus LDCs,63.0
 2019,Anzahl,Bayern,code09,Forschende aus LDCs,76.0
 2020,Anzahl,Bayern,code09,Forschende aus LDCs,105.0
+2005,Anzahl,Berlin,code11,Forschende aus LDCs,
 2006,Anzahl,Berlin,code11,Forschende aus LDCs,6.0
 2007,Anzahl,Berlin,code11,Forschende aus LDCs,5.0
 2008,Anzahl,Berlin,code11,Forschende aus LDCs,7.0
@@ -860,6 +879,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Berlin,code11,Forschende aus LDCs,31.0
 2019,Anzahl,Berlin,code11,Forschende aus LDCs,35.0
 2020,Anzahl,Berlin,code11,Forschende aus LDCs,36.0
+2005,Anzahl,Brandenburg,code12,Forschende aus LDCs,
 2006,Anzahl,Brandenburg,code12,Forschende aus LDCs,3.0
 2007,Anzahl,Brandenburg,code12,Forschende aus LDCs,2.0
 2008,Anzahl,Brandenburg,code12,Forschende aus LDCs,6.0
@@ -875,6 +895,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Brandenburg,code12,Forschende aus LDCs,8.0
 2019,Anzahl,Brandenburg,code12,Forschende aus LDCs,18.0
 2020,Anzahl,Brandenburg,code12,Forschende aus LDCs,27.0
+2005,Anzahl,Bremen,code04,Forschende aus LDCs,
 2006,Anzahl,Bremen,code04,Forschende aus LDCs,5.0
 2007,Anzahl,Bremen,code04,Forschende aus LDCs,3.0
 2008,Anzahl,Bremen,code04,Forschende aus LDCs,6.0
@@ -890,6 +911,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Bremen,code04,Forschende aus LDCs,10.0
 2019,Anzahl,Bremen,code04,Forschende aus LDCs,11.0
 2020,Anzahl,Bremen,code04,Forschende aus LDCs,12.0
+2005,Anzahl,Hamburg,code02,Forschende aus LDCs,
 2006,Anzahl,Hamburg,code02,Forschende aus LDCs,8.0
 2007,Anzahl,Hamburg,code02,Forschende aus LDCs,11.0
 2008,Anzahl,Hamburg,code02,Forschende aus LDCs,5.0
@@ -905,6 +927,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Hamburg,code02,Forschende aus LDCs,20.0
 2019,Anzahl,Hamburg,code02,Forschende aus LDCs,19.0
 2020,Anzahl,Hamburg,code02,Forschende aus LDCs,29.0
+2005,Anzahl,Hessen,code06,Forschende aus LDCs,
 2006,Anzahl,Hessen,code06,Forschende aus LDCs,18.0
 2007,Anzahl,Hessen,code06,Forschende aus LDCs,19.0
 2008,Anzahl,Hessen,code06,Forschende aus LDCs,20.0
@@ -920,6 +943,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Hessen,code06,Forschende aus LDCs,59.0
 2019,Anzahl,Hessen,code06,Forschende aus LDCs,43.0
 2020,Anzahl,Hessen,code06,Forschende aus LDCs,42.0
+2005,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus LDCs,
 2006,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus LDCs,5.0
 2007,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus LDCs,3.0
 2008,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus LDCs,4.0
@@ -935,6 +959,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus LDCs,13.0
 2019,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus LDCs,9.0
 2020,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus LDCs,14.0
+2005,Anzahl,Niedersachsen,code03,Forschende aus LDCs,
 2006,Anzahl,Niedersachsen,code03,Forschende aus LDCs,32.0
 2007,Anzahl,Niedersachsen,code03,Forschende aus LDCs,27.0
 2008,Anzahl,Niedersachsen,code03,Forschende aus LDCs,26.0
@@ -950,6 +975,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Niedersachsen,code03,Forschende aus LDCs,58.0
 2019,Anzahl,Niedersachsen,code03,Forschende aus LDCs,49.0
 2020,Anzahl,Niedersachsen,code03,Forschende aus LDCs,57.0
+2005,Anzahl,Nordrhein-Westfalen,code05,Forschende aus LDCs,
 2006,Anzahl,Nordrhein-Westfalen,code05,Forschende aus LDCs,24.0
 2007,Anzahl,Nordrhein-Westfalen,code05,Forschende aus LDCs,24.0
 2008,Anzahl,Nordrhein-Westfalen,code05,Forschende aus LDCs,48.0
@@ -965,6 +991,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Nordrhein-Westfalen,code05,Forschende aus LDCs,127.0
 2019,Anzahl,Nordrhein-Westfalen,code05,Forschende aus LDCs,123.0
 2020,Anzahl,Nordrhein-Westfalen,code05,Forschende aus LDCs,150.0
+2005,Anzahl,Rheinland-Pfalz,code07,Forschende aus LDCs,
 2006,Anzahl,Rheinland-Pfalz,code07,Forschende aus LDCs,10.0
 2007,Anzahl,Rheinland-Pfalz,code07,Forschende aus LDCs,13.0
 2008,Anzahl,Rheinland-Pfalz,code07,Forschende aus LDCs,15.0
@@ -980,6 +1007,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Rheinland-Pfalz,code07,Forschende aus LDCs,25.0
 2019,Anzahl,Rheinland-Pfalz,code07,Forschende aus LDCs,31.0
 2020,Anzahl,Rheinland-Pfalz,code07,Forschende aus LDCs,48.0
+2005,Anzahl,Saarland,code10,Forschende aus LDCs,
 2006,Anzahl,Saarland,code10,Forschende aus LDCs,3.0
 2007,Anzahl,Saarland,code10,Forschende aus LDCs,3.0
 2008,Anzahl,Saarland,code10,Forschende aus LDCs,4.0
@@ -995,6 +1023,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Saarland,code10,Forschende aus LDCs,8.0
 2019,Anzahl,Saarland,code10,Forschende aus LDCs,9.0
 2020,Anzahl,Saarland,code10,Forschende aus LDCs,15.0
+2005,Anzahl,Sachsen,code14,Forschende aus LDCs,
 2006,Anzahl,Sachsen,code14,Forschende aus LDCs,19.0
 2007,Anzahl,Sachsen,code14,Forschende aus LDCs,17.0
 2008,Anzahl,Sachsen,code14,Forschende aus LDCs,19.0
@@ -1010,6 +1039,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Sachsen,code14,Forschende aus LDCs,56.0
 2019,Anzahl,Sachsen,code14,Forschende aus LDCs,53.0
 2020,Anzahl,Sachsen,code14,Forschende aus LDCs,69.0
+2005,Anzahl,Sachsen-Anhalt,code15,Forschende aus LDCs,
 2006,Anzahl,Sachsen-Anhalt,code15,Forschende aus LDCs,5.0
 2007,Anzahl,Sachsen-Anhalt,code15,Forschende aus LDCs,1.0
 2008,Anzahl,Sachsen-Anhalt,code15,Forschende aus LDCs,3.0
@@ -1025,6 +1055,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Sachsen-Anhalt,code15,Forschende aus LDCs,17.0
 2019,Anzahl,Sachsen-Anhalt,code15,Forschende aus LDCs,14.0
 2020,Anzahl,Sachsen-Anhalt,code15,Forschende aus LDCs,22.0
+2005,Anzahl,Schleswig-Holstein,code01,Forschende aus LDCs,
 2006,Anzahl,Schleswig-Holstein,code01,Forschende aus LDCs,5.0
 2007,Anzahl,Schleswig-Holstein,code01,Forschende aus LDCs,6.0
 2008,Anzahl,Schleswig-Holstein,code01,Forschende aus LDCs,8.0
@@ -1040,6 +1071,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Schleswig-Holstein,code01,Forschende aus LDCs,23.0
 2019,Anzahl,Schleswig-Holstein,code01,Forschende aus LDCs,27.0
 2020,Anzahl,Schleswig-Holstein,code01,Forschende aus LDCs,28.0
+2005,Anzahl,Thüringen,code16,Forschende aus LDCs,
 2006,Anzahl,Thüringen,code16,Forschende aus LDCs,3.0
 2007,Anzahl,Thüringen,code16,Forschende aus LDCs,5.0
 2008,Anzahl,Thüringen,code16,Forschende aus LDCs,7.0
@@ -1071,6 +1103,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,,,Forschende aus den übrigen Entwicklungs- und Schwellenländern,18429.0
 2019,Anzahl,,,Forschende aus den übrigen Entwicklungs- und Schwellenländern,20214.0
 2020,Anzahl,,,Forschende aus den übrigen Entwicklungs- und Schwellenländern,22257.0
+2005,Anzahl,Baden-Württemberg,code08,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Baden-Württemberg,code08,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1190.0
 2007,Anzahl,Baden-Württemberg,code08,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1333.0
 2008,Anzahl,Baden-Württemberg,code08,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1579.0
@@ -1086,6 +1119,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Baden-Württemberg,code08,Forschende aus den übrigen Entwicklungs- und Schwellenländern,3314.0
 2019,Anzahl,Baden-Württemberg,code08,Forschende aus den übrigen Entwicklungs- und Schwellenländern,3458.0
 2020,Anzahl,Baden-Württemberg,code08,Forschende aus den übrigen Entwicklungs- und Schwellenländern,3897.0
+2005,Anzahl,Bayern,code09,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Bayern,code09,Forschende aus den übrigen Entwicklungs- und Schwellenländern,872.0
 2007,Anzahl,Bayern,code09,Forschende aus den übrigen Entwicklungs- und Schwellenländern,934.0
 2008,Anzahl,Bayern,code09,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1171.0
@@ -1101,6 +1135,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Bayern,code09,Forschende aus den übrigen Entwicklungs- und Schwellenländern,2600.0
 2019,Anzahl,Bayern,code09,Forschende aus den übrigen Entwicklungs- und Schwellenländern,2910.0
 2020,Anzahl,Bayern,code09,Forschende aus den übrigen Entwicklungs- und Schwellenländern,3265.0
+2005,Anzahl,Berlin,code11,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Berlin,code11,Forschende aus den übrigen Entwicklungs- und Schwellenländern,468.0
 2007,Anzahl,Berlin,code11,Forschende aus den übrigen Entwicklungs- und Schwellenländern,461.0
 2008,Anzahl,Berlin,code11,Forschende aus den übrigen Entwicklungs- und Schwellenländern,550.0
@@ -1116,6 +1151,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Berlin,code11,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1000.0
 2019,Anzahl,Berlin,code11,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1138.0
 2020,Anzahl,Berlin,code11,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1322.0
+2005,Anzahl,Brandenburg,code12,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Brandenburg,code12,Forschende aus den übrigen Entwicklungs- und Schwellenländern,97.0
 2007,Anzahl,Brandenburg,code12,Forschende aus den übrigen Entwicklungs- und Schwellenländern,109.0
 2008,Anzahl,Brandenburg,code12,Forschende aus den übrigen Entwicklungs- und Schwellenländern,124.0
@@ -1131,6 +1167,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Brandenburg,code12,Forschende aus den übrigen Entwicklungs- und Schwellenländern,352.0
 2019,Anzahl,Brandenburg,code12,Forschende aus den übrigen Entwicklungs- und Schwellenländern,414.0
 2020,Anzahl,Brandenburg,code12,Forschende aus den übrigen Entwicklungs- und Schwellenländern,492.0
+2005,Anzahl,Bremen,code04,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Bremen,code04,Forschende aus den übrigen Entwicklungs- und Schwellenländern,108.0
 2007,Anzahl,Bremen,code04,Forschende aus den übrigen Entwicklungs- und Schwellenländern,96.0
 2008,Anzahl,Bremen,code04,Forschende aus den übrigen Entwicklungs- und Schwellenländern,116.0
@@ -1146,6 +1183,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Bremen,code04,Forschende aus den übrigen Entwicklungs- und Schwellenländern,219.0
 2019,Anzahl,Bremen,code04,Forschende aus den übrigen Entwicklungs- und Schwellenländern,238.0
 2020,Anzahl,Bremen,code04,Forschende aus den übrigen Entwicklungs- und Schwellenländern,238.0
+2005,Anzahl,Hamburg,code02,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Hamburg,code02,Forschende aus den übrigen Entwicklungs- und Schwellenländern,162.0
 2007,Anzahl,Hamburg,code02,Forschende aus den übrigen Entwicklungs- und Schwellenländern,215.0
 2008,Anzahl,Hamburg,code02,Forschende aus den übrigen Entwicklungs- und Schwellenländern,242.0
@@ -1161,6 +1199,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Hamburg,code02,Forschende aus den übrigen Entwicklungs- und Schwellenländern,496.0
 2019,Anzahl,Hamburg,code02,Forschende aus den übrigen Entwicklungs- und Schwellenländern,578.0
 2020,Anzahl,Hamburg,code02,Forschende aus den übrigen Entwicklungs- und Schwellenländern,649.0
+2005,Anzahl,Hessen,code06,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Hessen,code06,Forschende aus den übrigen Entwicklungs- und Schwellenländern,469.0
 2007,Anzahl,Hessen,code06,Forschende aus den übrigen Entwicklungs- und Schwellenländern,520.0
 2008,Anzahl,Hessen,code06,Forschende aus den übrigen Entwicklungs- und Schwellenländern,628.0
@@ -1176,6 +1215,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Hessen,code06,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1238.0
 2019,Anzahl,Hessen,code06,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1344.0
 2020,Anzahl,Hessen,code06,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1424.0
+2005,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus den übrigen Entwicklungs- und Schwellenländern,67.0
 2007,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus den übrigen Entwicklungs- und Schwellenländern,73.0
 2008,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus den übrigen Entwicklungs- und Schwellenländern,94.0
@@ -1191,6 +1231,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus den übrigen Entwicklungs- und Schwellenländern,239.0
 2019,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus den übrigen Entwicklungs- und Schwellenländern,276.0
 2020,Anzahl,Mecklenburg-Vorpommern,code13,Forschende aus den übrigen Entwicklungs- und Schwellenländern,308.0
+2005,Anzahl,Niedersachsen,code03,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Niedersachsen,code03,Forschende aus den übrigen Entwicklungs- und Schwellenländern,519.0
 2007,Anzahl,Niedersachsen,code03,Forschende aus den übrigen Entwicklungs- und Schwellenländern,646.0
 2008,Anzahl,Niedersachsen,code03,Forschende aus den übrigen Entwicklungs- und Schwellenländern,710.0
@@ -1206,6 +1247,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Niedersachsen,code03,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1475.0
 2019,Anzahl,Niedersachsen,code03,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1549.0
 2020,Anzahl,Niedersachsen,code03,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1638.0
+2005,Anzahl,Nordrhein-Westfalen,code05,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Nordrhein-Westfalen,code05,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1399.0
 2007,Anzahl,Nordrhein-Westfalen,code05,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1240.0
 2008,Anzahl,Nordrhein-Westfalen,code05,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1675.0
@@ -1221,6 +1263,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Nordrhein-Westfalen,code05,Forschende aus den übrigen Entwicklungs- und Schwellenländern,3955.0
 2019,Anzahl,Nordrhein-Westfalen,code05,Forschende aus den übrigen Entwicklungs- und Schwellenländern,4306.0
 2020,Anzahl,Nordrhein-Westfalen,code05,Forschende aus den übrigen Entwicklungs- und Schwellenländern,4628.0
+2005,Anzahl,Rheinland-Pfalz,code07,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Rheinland-Pfalz,code07,Forschende aus den übrigen Entwicklungs- und Schwellenländern,238.0
 2007,Anzahl,Rheinland-Pfalz,code07,Forschende aus den übrigen Entwicklungs- und Schwellenländern,254.0
 2008,Anzahl,Rheinland-Pfalz,code07,Forschende aus den übrigen Entwicklungs- und Schwellenländern,291.0
@@ -1236,6 +1279,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Rheinland-Pfalz,code07,Forschende aus den übrigen Entwicklungs- und Schwellenländern,653.0
 2019,Anzahl,Rheinland-Pfalz,code07,Forschende aus den übrigen Entwicklungs- und Schwellenländern,756.0
 2020,Anzahl,Rheinland-Pfalz,code07,Forschende aus den übrigen Entwicklungs- und Schwellenländern,823.0
+2005,Anzahl,Saarland,code10,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Saarland,code10,Forschende aus den übrigen Entwicklungs- und Schwellenländern,111.0
 2007,Anzahl,Saarland,code10,Forschende aus den übrigen Entwicklungs- und Schwellenländern,102.0
 2008,Anzahl,Saarland,code10,Forschende aus den übrigen Entwicklungs- und Schwellenländern,108.0
@@ -1251,6 +1295,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Saarland,code10,Forschende aus den übrigen Entwicklungs- und Schwellenländern,384.0
 2019,Anzahl,Saarland,code10,Forschende aus den übrigen Entwicklungs- und Schwellenländern,371.0
 2020,Anzahl,Saarland,code10,Forschende aus den übrigen Entwicklungs- und Schwellenländern,404.0
+2005,Anzahl,Sachsen,code14,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Sachsen,code14,Forschende aus den übrigen Entwicklungs- und Schwellenländern,304.0
 2007,Anzahl,Sachsen,code14,Forschende aus den übrigen Entwicklungs- und Schwellenländern,326.0
 2008,Anzahl,Sachsen,code14,Forschende aus den übrigen Entwicklungs- und Schwellenländern,376.0
@@ -1266,6 +1311,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Sachsen,code14,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1114.0
 2019,Anzahl,Sachsen,code14,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1338.0
 2020,Anzahl,Sachsen,code14,Forschende aus den übrigen Entwicklungs- und Schwellenländern,1379.0
+2005,Anzahl,Sachsen-Anhalt,code15,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Sachsen-Anhalt,code15,Forschende aus den übrigen Entwicklungs- und Schwellenländern,136.0
 2007,Anzahl,Sachsen-Anhalt,code15,Forschende aus den übrigen Entwicklungs- und Schwellenländern,161.0
 2008,Anzahl,Sachsen-Anhalt,code15,Forschende aus den übrigen Entwicklungs- und Schwellenländern,175.0
@@ -1281,6 +1327,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Sachsen-Anhalt,code15,Forschende aus den übrigen Entwicklungs- und Schwellenländern,470.0
 2019,Anzahl,Sachsen-Anhalt,code15,Forschende aus den übrigen Entwicklungs- und Schwellenländern,512.0
 2020,Anzahl,Sachsen-Anhalt,code15,Forschende aus den übrigen Entwicklungs- und Schwellenländern,544.0
+2005,Anzahl,Schleswig-Holstein,code01,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Schleswig-Holstein,code01,Forschende aus den übrigen Entwicklungs- und Schwellenländern,148.0
 2007,Anzahl,Schleswig-Holstein,code01,Forschende aus den übrigen Entwicklungs- und Schwellenländern,129.0
 2008,Anzahl,Schleswig-Holstein,code01,Forschende aus den übrigen Entwicklungs- und Schwellenländern,147.0
@@ -1296,6 +1343,7 @@ Year,Units,Bundesland,GeoCode,Zeitreihe,Value
 2018,Anzahl,Schleswig-Holstein,code01,Forschende aus den übrigen Entwicklungs- und Schwellenländern,326.0
 2019,Anzahl,Schleswig-Holstein,code01,Forschende aus den übrigen Entwicklungs- und Schwellenländern,361.0
 2020,Anzahl,Schleswig-Holstein,code01,Forschende aus den übrigen Entwicklungs- und Schwellenländern,391.0
+2005,Anzahl,Thüringen,code16,Forschende aus den übrigen Entwicklungs- und Schwellenländern,
 2006,Anzahl,Thüringen,code16,Forschende aus den übrigen Entwicklungs- und Schwellenländern,146.0
 2007,Anzahl,Thüringen,code16,Forschende aus den übrigen Entwicklungs- und Schwellenländern,167.0
 2008,Anzahl,Thüringen,code16,Forschende aus den übrigen Entwicklungs- und Schwellenländern,194.0

@@ -59,6 +59,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Baden-Wuerttemberg,code08,21.85
 2018,Percentage,Baden-Wuerttemberg,code08,22.9
 2019,Percentage,Baden-Wuerttemberg,code08,23.44
+2020,Percentage,Baden-Wuerttemberg,code08,
+2021,Percentage,Baden-Wuerttemberg,code08,
 1991,Percentage,Bavaria,code09,28.11
 1992,Percentage,Bavaria,code09,27.4
 1993,Percentage,Bavaria,code09,24.58
@@ -88,6 +90,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Bavaria,code09,23.51
 2018,Percentage,Bavaria,code09,24.38
 2019,Percentage,Bavaria,code09,24.48
+2020,Percentage,Bavaria,code09,
+2021,Percentage,Bavaria,code09,
 1991,Percentage,Berlin,code11,22.48
 1992,Percentage,Berlin,code11,23.05
 1993,Percentage,Berlin,code11,21.86
@@ -117,6 +121,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Berlin,code11,18.49
 2018,Percentage,Berlin,code11,19.09
 2019,Percentage,Berlin,code11,17.96
+2020,Percentage,Berlin,code11,
+2021,Percentage,Berlin,code11,
 1991,Percentage,Brandenburg,code12,41.35
 1992,Percentage,Brandenburg,code12,44.82
 1993,Percentage,Brandenburg,code12,49.55
@@ -146,6 +152,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Brandenburg,code12,23.49
 2018,Percentage,Brandenburg,code12,24.55
 2019,Percentage,Brandenburg,code12,23.86
+2020,Percentage,Brandenburg,code12,
+2021,Percentage,Brandenburg,code12,
 1991,Percentage,Bremen,code04,18.1
 1992,Percentage,Bremen,code04,17.48
 1993,Percentage,Bremen,code04,18.32
@@ -175,6 +183,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Bremen,code04,14.01
 2018,Percentage,Bremen,code04,16.22
 2019,Percentage,Bremen,code04,15.79
+2020,Percentage,Bremen,code04,
+2021,Percentage,Bremen,code04,
 1991,Percentage,Hamburg,code02,16.47
 1992,Percentage,Hamburg,code02,18.11
 1993,Percentage,Hamburg,code02,17.08
@@ -204,6 +214,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Hamburg,code02,16.01
 2018,Percentage,Hamburg,code02,18.15
 2019,Percentage,Hamburg,code02,18.2
+2020,Percentage,Hamburg,code02,
+2021,Percentage,Hamburg,code02,
 1991,Percentage,Hesse,code06,21.9
 1992,Percentage,Hesse,code06,21.43
 1993,Percentage,Hesse,code06,20.49
@@ -233,6 +245,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Hesse,code06,18.51
 2018,Percentage,Hesse,code06,18.7
 2019,Percentage,Hesse,code06,19.27
+2020,Percentage,Hesse,code06,
+2021,Percentage,Hesse,code06,
 1991,Percentage,Mecklenburg Western Pomerania,code13,49.47
 1992,Percentage,Mecklenburg Western Pomerania,code13,61.6
 1993,Percentage,Mecklenburg Western Pomerania,code13,60.16
@@ -262,6 +276,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Mecklenburg Western Pomerania,code13,22.85
 2018,Percentage,Mecklenburg Western Pomerania,code13,25.52
 2019,Percentage,Mecklenburg Western Pomerania,code13,27.68
+2020,Percentage,Mecklenburg Western Pomerania,code13,
+2021,Percentage,Mecklenburg Western Pomerania,code13,
 1991,Percentage,Lower Saxony,code03,27.84
 1992,Percentage,Lower Saxony,code03,26.37
 1993,Percentage,Lower Saxony,code03,24.03
@@ -291,6 +307,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Lower Saxony,code03,25.36
 2018,Percentage,Lower Saxony,code03,24.98
 2019,Percentage,Lower Saxony,code03,27.26
+2020,Percentage,Lower Saxony,code03,
+2021,Percentage,Lower Saxony,code03,
 1991,Percentage,North Rhine-Westphalia,code05,20.48
 1992,Percentage,North Rhine-Westphalia,code05,20.25
 1993,Percentage,North Rhine-Westphalia,code05,18.36
@@ -320,6 +338,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,North Rhine-Westphalia,code05,16.54
 2018,Percentage,North Rhine-Westphalia,code05,16.71
 2019,Percentage,North Rhine-Westphalia,code05,16.41
+2020,Percentage,North Rhine-Westphalia,code05,
+2021,Percentage,North Rhine-Westphalia,code05,
 1991,Percentage,Rhineland Palatinate,code07,23.67
 1992,Percentage,Rhineland Palatinate,code07,22.7
 1993,Percentage,Rhineland Palatinate,code07,21.93
@@ -349,6 +369,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Rhineland Palatinate,code07,21.03
 2018,Percentage,Rhineland Palatinate,code07,22.93
 2019,Percentage,Rhineland Palatinate,code07,21.66
+2020,Percentage,Rhineland Palatinate,code07,
+2021,Percentage,Rhineland Palatinate,code07,
 1991,Percentage,Saarland,code10,20.72
 1992,Percentage,Saarland,code10,20.34
 1993,Percentage,Saarland,code10,18.6
@@ -378,6 +400,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Saarland,code10,16.55
 2018,Percentage,Saarland,code10,17.56
 2019,Percentage,Saarland,code10,17.9
+2020,Percentage,Saarland,code10,
+2021,Percentage,Saarland,code10,
 1991,Percentage,Saxony,code14,42.68
 1992,Percentage,Saxony,code14,41.58
 1993,Percentage,Saxony,code14,39.35
@@ -407,6 +431,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Saxony,code14,19.95
 2018,Percentage,Saxony,code14,20.51
 2019,Percentage,Saxony,code14,21.67
+2020,Percentage,Saxony,code14,
+2021,Percentage,Saxony,code14,
 1991,Percentage,Saxony-Anhalt,code15,42.81
 1992,Percentage,Saxony-Anhalt,code15,54.18
 1993,Percentage,Saxony-Anhalt,code15,53.43
@@ -436,6 +462,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Saxony-Anhalt,code15,18.82
 2018,Percentage,Saxony-Anhalt,code15,18.73
 2019,Percentage,Saxony-Anhalt,code15,19.86
+2020,Percentage,Saxony-Anhalt,code15,
+2021,Percentage,Saxony-Anhalt,code15,
 1991,Percentage,Schleswig-Holstein,code01,21.71
 1992,Percentage,Schleswig-Holstein,code01,22.33
 1993,Percentage,Schleswig-Holstein,code01,21.23
@@ -465,6 +493,8 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Schleswig-Holstein,code01,21.47
 2018,Percentage,Schleswig-Holstein,code01,21.31
 2019,Percentage,Schleswig-Holstein,code01,22.24
+2020,Percentage,Schleswig-Holstein,code01,
+2021,Percentage,Schleswig-Holstein,code01,
 1991,Percentage,Thuringia,code16,45.78
 1992,Percentage,Thuringia,code16,52.46
 1993,Percentage,Thuringia,code16,55.58
@@ -494,3 +524,5 @@ Year,Units,Federal state,GeoCode,Value
 2017,Percentage,Thuringia,code16,19.05
 2018,Percentage,Thuringia,code16,20.1
 2019,Percentage,Thuringia,code16,20.24
+2020,Percentage,Thuringia,code16,
+2021,Percentage,Thuringia,code16,

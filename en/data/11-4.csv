@@ -1,32 +1,19 @@
 Year,Units,Time series,Value
-2014.0,Millions,All objects,7.9
-2014.5,Millions,All objects,11.2
-2015.0,Millions,All objects,15.1
-2015.5,Millions,All objects,18.2
-2016.0,Millions,All objects,19.7
-2016.5,Millions,All objects,20.4
-2017.0,Millions,All objects,22.5
-2017.5,Millions,All objects,23.7
-2018.0,Millions,All objects,24.2
-2018.5,Millions,All objects,24.2
-2019.0,Millions,All objects,26.4
-2019.5,Millions,All objects,32.1
-2020.0,Millions,All objects,33.0
-2020.5,Millions,All objects,35.6
-2021.0,Millions,All objects,37.6
-2021.5,Millions,All objects,40.2
-2022.0,Millions,All objects,42.3
-2015.5,Millions,Objects with digitised media,6.3
-2016.0,Millions,Objects with digitised media,7.7
-2016.5,Millions,Objects with digitised media,8.1
-2017.0,Millions,Objects with digitised media,9.1
-2017.5,Millions,Objects with digitised media,9.7
-2018.0,Millions,Objects with digitised media,9.7
-2018.5,Millions,Objects with digitised media,9.7
-2019.0,Millions,Objects with digitised media,12.1
-2019.5,Millions,Objects with digitised media,13.0
-2020.0,Millions,Objects with digitised media,11.0
-2020.5,Millions,Objects with digitised media,11.9
-2021.0,Millions,Objects with digitised media,13.3
-2021.5,Millions,Objects with digitised media,14.4
-2022.0,Millions,Objects with digitised media,14.9
+2014,Millions,All objects,7.9
+2015,Millions,All objects,15.1
+2016,Millions,All objects,19.7
+2017,Millions,All objects,22.5
+2018,Millions,All objects,24.2
+2019,Millions,All objects,26.4
+2020,Millions,All objects,33.0
+2021,Millions,All objects,37.6
+2022,Millions,All objects,42.3
+2014,Millions,Objects with digitised media,
+2015,Millions,Objects with digitised media,
+2016,Millions,Objects with digitised media,7.7
+2017,Millions,Objects with digitised media,9.1
+2018,Millions,Objects with digitised media,9.7
+2019,Millions,Objects with digitised media,12.1
+2020,Millions,Objects with digitised media,11.0
+2021,Millions,Objects with digitised media,13.3
+2022,Millions,Objects with digitised media,14.9

@@ -33,7 +33,10 @@
               "enum": [
                 "Baden-Wuerttemberg",
                 "Bavaria",
+                "Berlin",
                 "Brandenburg",
+                "Bremen",
+                "Hamburg",
                 "Hesse",
                 "Mecklenburg Western Pomerania",
                 "Lower Saxony",

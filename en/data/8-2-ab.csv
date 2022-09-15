@@ -30,6 +30,20 @@ Year,Units,Time series,Value
 2019,Percentage,Government deficit,1.531
 2020,Percentage,Government deficit,-4.333
 2021,Percentage,Government deficit,-3.727
+1991,Percentage,Structural deficit,
+1992,Percentage,Structural deficit,
+1993,Percentage,Structural deficit,
+1994,Percentage,Structural deficit,
+1995,Percentage,Structural deficit,
+1996,Percentage,Structural deficit,
+1997,Percentage,Structural deficit,
+1998,Percentage,Structural deficit,
+1999,Percentage,Structural deficit,
+2000,Percentage,Structural deficit,
+2001,Percentage,Structural deficit,
+2002,Percentage,Structural deficit,
+2003,Percentage,Structural deficit,
+2004,Percentage,Structural deficit,
 2005,Percentage,Structural deficit,-2.2
 2006,Percentage,Structural deficit,-1.8
 2007,Percentage,Structural deficit,-0.7
@@ -47,6 +61,7 @@ Year,Units,Time series,Value
 2019,Percentage,Structural deficit,0.8
 2020,Percentage,Structural deficit,-2.2
 2021,Percentage,Structural deficit,-2.5
+1991,Percentage,Change of gross domestic product (price-adjusted),
 1992,Percentage,Change of gross domestic product (price-adjusted),1.9
 1993,Percentage,Change of gross domestic product (price-adjusted),-1.0
 1994,Percentage,Change of gross domestic product (price-adjusted),2.4
