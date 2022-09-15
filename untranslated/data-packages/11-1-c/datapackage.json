@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
+                "inhabitants per m² settlement and transport area",
                 ""
               ]
             }
