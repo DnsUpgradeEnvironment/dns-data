@@ -1743,7 +1743,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Units",
@@ -1862,7 +1862,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Units",
