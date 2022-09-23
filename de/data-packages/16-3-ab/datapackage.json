@@ -16,6 +16,17 @@
             "title": "Jahr"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
@@ -26,17 +37,6 @@
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

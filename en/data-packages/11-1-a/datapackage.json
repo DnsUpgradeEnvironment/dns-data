@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-9",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -44,6 +44,8 @@
             "constraints": {
               "enum": [
                 "Verkehrsfläche",
+                "Settlement area (built on)",
+                "Recreation area, cemetery",
                 ""
               ]
             },
@@ -55,6 +57,21 @@
             "constraints": {
               "enum": [
                 "Baden-Wuerttemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },

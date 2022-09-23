@@ -25,11 +25,39 @@
             }
           },
           {
+            "name": "criminal offences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "dangerous and serious bodily injury",
+                "fraud",
+                "domestic burglary",
+                "other offences",
+                ""
+              ]
+            }
+          },
+          {
             "name": "federal state",
             "type": "string",
             "constraints": {
               "enum": [
                 "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
@@ -37,16 +65,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "criminal offences",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "dangerous and serious bodily injury",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

@@ -32,6 +32,10 @@
             "constraints": {
               "enum": [
                 "Forest sub-index",
+                "Settlements sub-index",
+                "Farmland sub-index",
+                "Inland waters sub-index",
+                "Coasts and seas sub-index",
                 ""
               ]
             },

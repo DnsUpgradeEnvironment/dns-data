@@ -31,6 +31,7 @@
             "constraints": {
               "enum": [
                 "non-rural areas",
+                "rural areas",
                 ""
               ]
             }
@@ -41,6 +42,21 @@
             "constraints": {
               "enum": [
                 "baden-wuerttemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }

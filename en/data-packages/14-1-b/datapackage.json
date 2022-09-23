@@ -44,6 +44,7 @@
             "constraints": {
               "enum": [
                 "Greater North Sea",
+                "Baltic sea",
                 ""
               ]
             },
