@@ -9,8 +9,8 @@ Year,Units,Zeitreihe,Gebiet,Geschlecht,Value
 2017,Prozent,Materielle Deprivation,Europäische Union,,14.0
 2018,Prozent,Materielle Deprivation,Europäische Union,,13.1
 2019,Prozent,Materielle Deprivation,Europäische Union,,12.4
-2020,Prozent,Materielle Deprivation,Europäische Union,,12.6
-2021,Prozent,Materielle Deprivation,Europäische Union,,
+2020,Prozent,Materielle Deprivation,Europäische Union,,12.7
+2021,Prozent,Materielle Deprivation,Europäische Union,,11.9
 2010,Prozent,Materielle Deprivation,Europäische Union,Weiblich,18.4
 2011,Prozent,Materielle Deprivation,Europäische Union,Weiblich,19.1
 2012,Prozent,Materielle Deprivation,Europäische Union,Weiblich,20.3
@@ -22,7 +22,7 @@ Year,Units,Zeitreihe,Gebiet,Geschlecht,Value
 2018,Prozent,Materielle Deprivation,Europäische Union,Weiblich,13.9
 2019,Prozent,Materielle Deprivation,Europäische Union,Weiblich,13.2
 2020,Prozent,Materielle Deprivation,Europäische Union,Weiblich,13.3
-2021,Prozent,Materielle Deprivation,Europäische Union,Weiblich,
+2021,Prozent,Materielle Deprivation,Europäische Union,Weiblich,12.3
 2010,Prozent,Materielle Deprivation,Europäische Union,Männlich,17.2
 2011,Prozent,Materielle Deprivation,Europäische Union,Männlich,17.8
 2012,Prozent,Materielle Deprivation,Europäische Union,Männlich,19.1
@@ -34,7 +34,7 @@ Year,Units,Zeitreihe,Gebiet,Geschlecht,Value
 2018,Prozent,Materielle Deprivation,Europäische Union,Männlich,12.1
 2019,Prozent,Materielle Deprivation,Europäische Union,Männlich,11.5
 2020,Prozent,Materielle Deprivation,Europäische Union,Männlich,12.0
-2021,Prozent,Materielle Deprivation,Europäische Union,Männlich,
+2021,Prozent,Materielle Deprivation,Europäische Union,Männlich,11.4
 2010,Prozent,Materielle Deprivation,Deutschland,,11.1
 2011,Prozent,Materielle Deprivation,Deutschland,,12.4
 2012,Prozent,Materielle Deprivation,Deutschland,,11.3
@@ -93,7 +93,7 @@ Year,Units,Zeitreihe,Gebiet,Geschlecht,Value
 2017,Prozent,Erhebliche materielle Deprivation,Europäische Union,Weiblich,6.8
 2018,Prozent,Erhebliche materielle Deprivation,Europäische Union,Weiblich,6.1
 2019,Prozent,Erhebliche materielle Deprivation,Europäische Union,Weiblich,5.6
-2020,Prozent,Erhebliche materielle Deprivation,Europäische Union,Weiblich,5.9
+2020,Prozent,Erhebliche materielle Deprivation,Europäische Union,Weiblich,6.0
 2021,Prozent,Erhebliche materielle Deprivation,Europäische Union,Weiblich,
 2010,Prozent,Erhebliche materielle Deprivation,Europäische Union,Männlich,
 2011,Prozent,Erhebliche materielle Deprivation,Europäische Union,Männlich,8.6

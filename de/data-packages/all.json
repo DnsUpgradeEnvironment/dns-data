@@ -2210,6 +2210,19 @@
             "title": "Units"
           },
           {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "EU",
+                "Eurozone",
+                ""
+              ]
+            },
+            "title": "Gebiet"
+          },
+          {
             "name": "time series",
             "type": "string",
             "constraints": {
@@ -2222,19 +2235,6 @@
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "EU",
-                "Eurozone",
-                ""
-              ]
-            },
-            "title": "Gebiet"
           },
           {
             "name": "Value",
@@ -4021,18 +4021,6 @@
             "title": "Units"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Tertiärer Abschluss",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -4074,6 +4062,18 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tertiärer Abschluss",
+                "Postsekundarer nicht-tertiärer Abschluss",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

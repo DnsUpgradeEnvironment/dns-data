@@ -27,18 +27,6 @@
             "title": "Units"
           },
           {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "With tertiary qualification",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -80,6 +68,18 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "With tertiary qualification",
+                "With post-secondary non-tertiary qualification",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",
