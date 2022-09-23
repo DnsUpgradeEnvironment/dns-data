@@ -39,18 +39,6 @@
             "title": "Time series"
           },
           {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "European Union",
-                "Germany",
-                ""
-              ]
-            },
-            "title": "Area"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -61,6 +49,18 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "European Union",
+                "Germany",
+                ""
+              ]
+            },
+            "title": "Area"
           },
           {
             "name": "Value",

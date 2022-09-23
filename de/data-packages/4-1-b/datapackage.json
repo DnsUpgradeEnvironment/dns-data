@@ -27,6 +27,18 @@
             "title": "Units"
           },
           {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tertiärer Abschluss",
+                "Postsekundarer nicht-tertiärer Abschluss",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -68,18 +80,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tertiärer Abschluss",
-                "Postsekundarer nicht-tertiärer Abschluss",
-                ""
-              ]
-            },
-            "title": "Zeitreihe"
           },
           {
             "name": "Value",

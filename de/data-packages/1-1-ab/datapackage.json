@@ -39,18 +39,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Europäische Union",
-                "Deutschland",
-                ""
-              ]
-            },
-            "title": "Gebiet"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -61,6 +49,18 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Europäische Union",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Gebiet"
           },
           {
             "name": "Value",

@@ -25,6 +25,17 @@
             }
           },
           {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "with tertiary qualification",
+                "with post-secondary non-tertiary qualification",
+                ""
+              ]
+            }
+          },
+          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -63,17 +74,6 @@
           {
             "name": "GeoCode",
             "type": "string"
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "with tertiary qualification",
-                "with post-secondary non-tertiary qualification",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
