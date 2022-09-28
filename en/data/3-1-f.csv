@@ -1,11 +1,4 @@
 Year,Units,Sex,Age group,Federal state,GeoCode,Value
-1999,Percentage,,,,,10.7
-2003,Percentage,,,,,11.7
-2005,Percentage,,,,,12.5
-2009,Percentage,,,,,13.3
-2013,Percentage,,,,,14.1
-2017,Percentage,,,,,14.789
-2021,Percentage,,,,,15.418
 1999,Percentage,,,Baden-Wuerttemberg,code08,9.78
 2003,Percentage,,,Baden-Wuerttemberg,code08,10.913
 2005,Percentage,,,Baden-Wuerttemberg,code08,11.371
@@ -13,6 +6,13 @@ Year,Units,Sex,Age group,Federal state,GeoCode,Value
 2013,Percentage,,,Baden-Wuerttemberg,code08,12.923
 2017,Percentage,,,Baden-Wuerttemberg,code08,13.774
 2021,Percentage,,,Baden-Wuerttemberg,code08,14.034
+1999,Percentage,,,,,10.7
+2003,Percentage,,,,,11.7
+2005,Percentage,,,,,12.5
+2009,Percentage,,,,,13.3
+2013,Percentage,,,,,14.1
+2017,Percentage,,,,,14.789
+2021,Percentage,,,,,15.418
 1999,Percentage,,,Bavaria,code09,10.73
 2003,Percentage,,,Bavaria,code09,11.668
 2005,Percentage,,,Bavaria,code09,11.83
