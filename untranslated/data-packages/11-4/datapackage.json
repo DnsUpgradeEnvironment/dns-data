@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all objects",
                 "objects with digitised media",
+                "objects without digitised media",
                 ""
               ]
             }

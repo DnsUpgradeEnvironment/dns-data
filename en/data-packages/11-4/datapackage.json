@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All objects",
                 "Objects with digitised media",
+                "Objects without digitised media",
                 ""
               ]
             },

@@ -2456,8 +2456,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Objekte insgesamt",
                 "Objekte mit Digitalisat",
+                "Objekte ohne Digitalisat",
                 ""
               ]
             },
@@ -4274,8 +4274,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
                 "Anzahl",
+                "1 000",
                 ""
               ]
             },
@@ -4286,8 +4286,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Beschäftigte in EMAS Organisationen",
                 "EMAS-Organisationsstandorte",
+                "Beschäftigte in EMAS Organisationen",
                 "EMAS-Organisationen",
                 ""
               ]

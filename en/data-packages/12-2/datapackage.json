@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
                 "Number",
+                "1 000",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Employees in EMAS organisations",
                 "Locations of organisation registered with EMAS",
+                "Employees in EMAS organisations",
                 "EMAS organisations",
                 ""
               ]

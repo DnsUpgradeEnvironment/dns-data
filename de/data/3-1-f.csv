@@ -1,11 +1,4 @@
 Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
-1999,Prozent,,,Baden-Württemberg,code08,9.78
-2003,Prozent,,,Baden-Württemberg,code08,10.913
-2005,Prozent,,,Baden-Württemberg,code08,11.371
-2009,Prozent,,,Baden-Württemberg,code08,12.259
-2013,Prozent,,,Baden-Württemberg,code08,12.923
-2017,Prozent,,,Baden-Württemberg,code08,13.774
-2021,Prozent,,,Baden-Württemberg,code08,14.034
 1999,Prozent,,,,,10.7
 2003,Prozent,,,,,11.7
 2005,Prozent,,,,,12.5
@@ -13,6 +6,13 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,,,14.1
 2017,Prozent,,,,,14.789
 2021,Prozent,,,,,15.418
+1999,Prozent,,,Baden-Württemberg,code08,9.78
+2003,Prozent,,,Baden-Württemberg,code08,10.913
+2005,Prozent,,,Baden-Württemberg,code08,11.371
+2009,Prozent,,,Baden-Württemberg,code08,12.259
+2013,Prozent,,,Baden-Württemberg,code08,12.923
+2017,Prozent,,,Baden-Württemberg,code08,13.774
+2021,Prozent,,,Baden-Württemberg,code08,14.034
 1999,Prozent,,,Bayern,code09,10.73
 2003,Prozent,,,Bayern,code09,11.668
 2005,Prozent,,,Bayern,code09,11.83

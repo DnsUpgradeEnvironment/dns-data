@@ -2294,8 +2294,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all objects",
                 "objects with digitised media",
+                "objects without digitised media",
                 ""
               ]
             }
@@ -3998,8 +3998,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
                 "number",
+                "1 000",
                 ""
               ]
             }
@@ -4009,8 +4009,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "employees in emas organisations",
                 "locations of organisation registered with emas",
+                "employees in emas organisations",
                 "emas organisations",
                 ""
               ]
