@@ -1,25 +1,27 @@
 Year,Units,Series,federal state,GeoCode,Value
-2001,percentage,data from the federal statistical office,,,3.6
+1999,percentage,data from the federal statistical office,,,2.852
+2001,percentage,data from the federal statistical office,,,3.573
 2002,percentage,data from the federal statistical office,,,
-2003,percentage,data from the federal statistical office,,,4.3
+2003,percentage,data from the federal statistical office,,,4.299
 2004,percentage,data from the federal statistical office,,,
-2005,percentage,data from the federal statistical office,,,4.6
+2005,percentage,data from the federal statistical office,,,4.593
 2006,percentage,data from the federal statistical office,,,
-2007,percentage,data from the federal statistical office,,,5.1
+2007,percentage,data from the federal statistical office,,,5.079
 2008,percentage,data from the federal statistical office,,,
 2009,percentage,data from the federal statistical office,,,
-2010,percentage,data from the federal statistical office,,,5.6
+2010,percentage,data from the federal statistical office,,,5.636
 2011,percentage,data from the federal statistical office,,,
-2012,percentage,data from the federal statistical office,,,5.8
-2013,percentage,data from the federal statistical office,,,6.0
-2014,percentage,data from the federal statistical office,,,6.2
-2015,percentage,data from the federal statistical office,,,6.3
-2016,percentage,data from the federal statistical office,,,6.8
-2017,percentage,data from the federal statistical office,,,6.8
-2018,percentage,data from the federal statistical office,,,7.3
-2019,percentage,data from the federal statistical office,,,7.8
-2020,percentage,data from the federal statistical office,,,9.6
-2021,percentage,data from the federal statistical office,,,
+2012,percentage,data from the federal statistical office,,,5.76
+2013,percentage,data from the federal statistical office,,,6.04
+2014,percentage,data from the federal statistical office,,,6.18
+2015,percentage,data from the federal statistical office,,,6.34
+2016,percentage,data from the federal statistical office,,,6.82
+2017,percentage,data from the federal statistical office,,,6.82
+2018,percentage,data from the federal statistical office,,,7.34
+2019,percentage,data from the federal statistical office,,,7.75
+2020,percentage,data from the federal statistical office,,,9.59
+2021,percentage,data from the federal statistical office,,,9.535
+1999,percentage,data from the federal statistical office,baden-wuerttemberg,code08,
 2001,percentage,data from the federal statistical office,baden-wuerttemberg,code08,6.7
 2002,percentage,data from the federal statistical office,baden-wuerttemberg,code08,
 2003,percentage,data from the federal statistical office,baden-wuerttemberg,code08,6.4
@@ -41,6 +43,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,baden-wuerttemberg,code08,
 2020,percentage,data from the federal statistical office,baden-wuerttemberg,code08,12.3
 2021,percentage,data from the federal statistical office,baden-wuerttemberg,code08,
+1999,percentage,data from the federal statistical office,bavaria,code09,
 2001,percentage,data from the federal statistical office,bavaria,code09,2.8
 2002,percentage,data from the federal statistical office,bavaria,code09,
 2003,percentage,data from the federal statistical office,bavaria,code09,3.9
@@ -62,6 +65,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,bavaria,code09,
 2020,percentage,data from the federal statistical office,bavaria,code09,12.1
 2021,percentage,data from the federal statistical office,bavaria,code09,
+1999,percentage,data from the federal statistical office,berlin,code11,
 2001,percentage,data from the federal statistical office,berlin,code11,
 2002,percentage,data from the federal statistical office,berlin,code11,
 2003,percentage,data from the federal statistical office,berlin,code11,
@@ -83,6 +87,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,berlin,code11,
 2020,percentage,data from the federal statistical office,berlin,code11,15.8
 2021,percentage,data from the federal statistical office,berlin,code11,
+1999,percentage,data from the federal statistical office,brandenburg,code12,
 2001,percentage,data from the federal statistical office,brandenburg,code12,7.1
 2002,percentage,data from the federal statistical office,brandenburg,code12,
 2003,percentage,data from the federal statistical office,brandenburg,code12,8.7
@@ -104,6 +109,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,brandenburg,code12,
 2020,percentage,data from the federal statistical office,brandenburg,code12,13.3
 2021,percentage,data from the federal statistical office,brandenburg,code12,
+1999,percentage,data from the federal statistical office,bremen,code04,
 2001,percentage,data from the federal statistical office,bremen,code04,
 2002,percentage,data from the federal statistical office,bremen,code04,
 2003,percentage,data from the federal statistical office,bremen,code04,
@@ -125,6 +131,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,bremen,code04,
 2020,percentage,data from the federal statistical office,bremen,code04,22.7
 2021,percentage,data from the federal statistical office,bremen,code04,
+1999,percentage,data from the federal statistical office,hamburg,code02,
 2001,percentage,data from the federal statistical office,hamburg,code02,
 2002,percentage,data from the federal statistical office,hamburg,code02,
 2003,percentage,data from the federal statistical office,hamburg,code02,
@@ -146,6 +153,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,hamburg,code02,
 2020,percentage,data from the federal statistical office,hamburg,code02,8.6
 2021,percentage,data from the federal statistical office,hamburg,code02,
+1999,percentage,data from the federal statistical office,hesse,code06,
 2001,percentage,data from the federal statistical office,hesse,code06,6.8
 2002,percentage,data from the federal statistical office,hesse,code06,
 2003,percentage,data from the federal statistical office,hesse,code06,7.0
@@ -167,6 +175,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,hesse,code06,
 2020,percentage,data from the federal statistical office,hesse,code06,15.0
 2021,percentage,data from the federal statistical office,hesse,code06,
+1999,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,
 2001,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,7.2
 2002,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,
 2003,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,8.1
@@ -188,6 +197,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,
 2020,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,12.2
 2021,percentage,data from the federal statistical office,mecklenburg western pomerania,code13,
+1999,percentage,data from the federal statistical office,lower saxony,code03,
 2001,percentage,data from the federal statistical office,lower saxony,code03,1.4
 2002,percentage,data from the federal statistical office,lower saxony,code03,
 2003,percentage,data from the federal statistical office,lower saxony,code03,2.1
@@ -209,6 +219,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,lower saxony,code03,
 2020,percentage,data from the federal statistical office,lower saxony,code03,4.8
 2021,percentage,data from the federal statistical office,lower saxony,code03,
+1999,percentage,data from the federal statistical office,north rhine-westphalia,code05,
 2001,percentage,data from the federal statistical office,north rhine-westphalia,code05,1.5
 2002,percentage,data from the federal statistical office,north rhine-westphalia,code05,
 2003,percentage,data from the federal statistical office,north rhine-westphalia,code05,2.5
@@ -230,6 +241,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,north rhine-westphalia,code05,
 2020,percentage,data from the federal statistical office,north rhine-westphalia,code05,5.7
 2021,percentage,data from the federal statistical office,north rhine-westphalia,code05,
+1999,percentage,data from the federal statistical office,rhineland palatinate,code07,
 2001,percentage,data from the federal statistical office,rhineland palatinate,code07,2.2
 2002,percentage,data from the federal statistical office,rhineland palatinate,code07,
 2003,percentage,data from the federal statistical office,rhineland palatinate,code07,2.4
@@ -251,6 +263,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,rhineland palatinate,code07,
 2020,percentage,data from the federal statistical office,rhineland palatinate,code07,11.3
 2021,percentage,data from the federal statistical office,rhineland palatinate,code07,
+1999,percentage,data from the federal statistical office,saarland,code10,
 2001,percentage,data from the federal statistical office,saarland,code10,5.4
 2002,percentage,data from the federal statistical office,saarland,code10,
 2003,percentage,data from the federal statistical office,saarland,code10,6.7
@@ -272,6 +285,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,saarland,code10,
 2020,percentage,data from the federal statistical office,saarland,code10,18.0
 2021,percentage,data from the federal statistical office,saarland,code10,
+1999,percentage,data from the federal statistical office,saxony,code14,
 2001,percentage,data from the federal statistical office,saxony,code14,2.6
 2002,percentage,data from the federal statistical office,saxony,code14,
 2003,percentage,data from the federal statistical office,saxony,code14,3.4
@@ -293,6 +307,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,saxony,code14,
 2020,percentage,data from the federal statistical office,saxony,code14,7.9
 2021,percentage,data from the federal statistical office,saxony,code14,
+1999,percentage,data from the federal statistical office,saxony-anhalt,code15,
 2001,percentage,data from the federal statistical office,saxony-anhalt,code15,2.6
 2002,percentage,data from the federal statistical office,saxony-anhalt,code15,
 2003,percentage,data from the federal statistical office,saxony-anhalt,code15,3.2
@@ -314,6 +329,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,saxony-anhalt,code15,
 2020,percentage,data from the federal statistical office,saxony-anhalt,code15,9.0
 2021,percentage,data from the federal statistical office,saxony-anhalt,code15,
+1999,percentage,data from the federal statistical office,schleswig-holstein,code01,
 2001,percentage,data from the federal statistical office,schleswig-holstein,code01,1.9
 2002,percentage,data from the federal statistical office,schleswig-holstein,code01,
 2003,percentage,data from the federal statistical office,schleswig-holstein,code01,2.2
@@ -335,6 +351,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,schleswig-holstein,code01,
 2020,percentage,data from the federal statistical office,schleswig-holstein,code01,6.4
 2021,percentage,data from the federal statistical office,schleswig-holstein,code01,
+1999,percentage,data from the federal statistical office,thuringia,code16,
 2001,percentage,data from the federal statistical office,thuringia,code16,2.1
 2002,percentage,data from the federal statistical office,thuringia,code16,
 2003,percentage,data from the federal statistical office,thuringia,code16,3.0
@@ -356,6 +373,7 @@ Year,Units,Series,federal state,GeoCode,Value
 2019,percentage,data from the federal statistical office,thuringia,code16,
 2020,percentage,data from the federal statistical office,thuringia,code16,6.6
 2021,percentage,data from the federal statistical office,thuringia,code16,
+1999,percentage,data from the federal ministry of food and agriculture,,,
 2001,percentage,data from the federal ministry of food and agriculture,,,3.7
 2002,percentage,data from the federal ministry of food and agriculture,,,4.1
 2003,percentage,data from the federal ministry of food and agriculture,,,4.3
