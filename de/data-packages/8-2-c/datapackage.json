@@ -31,14 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
@@ -47,6 +39,14 @@
                 "Hamburg",
                 "Hessen",
                 "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },

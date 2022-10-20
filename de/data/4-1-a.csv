@@ -21,6 +21,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,,,10.34
 2019,Prozent,,,,10.34
 2020,Prozent,,,,10.1
+2021,Prozent,,,,11.6
 1999,Prozent,Weiblich,,,15.6
 2000,Prozent,Weiblich,,,15.2
 2001,Prozent,Weiblich,,,12.8
@@ -43,6 +44,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,,,9.13
 2019,Prozent,Weiblich,,,8.73
 2020,Prozent,Weiblich,,,8.4
+2021,Prozent,Weiblich,,,9.6
 1999,Prozent,Männlich,,,14.2
 2000,Prozent,Männlich,,,14.6
 2001,Prozent,Männlich,,,12.2
@@ -65,6 +67,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,,,11.42
 2019,Prozent,Männlich,,,11.8
 2020,Prozent,Männlich,,,11.7
+2021,Prozent,Männlich,,,13.5
 1999,Prozent,,Baden-Württemberg,code08,
 2000,Prozent,,Baden-Württemberg,code08,
 2001,Prozent,,Baden-Württemberg,code08,
@@ -87,6 +90,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Baden-Württemberg,code08,9.71
 2019,Prozent,,Baden-Württemberg,code08,9.18
 2020,Prozent,,Baden-Württemberg,code08,9.1
+2021,Prozent,,Baden-Württemberg,code08,11.1
 1999,Prozent,Weiblich,Baden-Württemberg,code08,
 2000,Prozent,Weiblich,Baden-Württemberg,code08,
 2001,Prozent,Weiblich,Baden-Württemberg,code08,
@@ -109,6 +113,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Baden-Württemberg,code08,8.52
 2019,Prozent,Weiblich,Baden-Württemberg,code08,7.55
 2020,Prozent,Weiblich,Baden-Württemberg,code08,8.5
+2021,Prozent,Weiblich,Baden-Württemberg,code08,9.4
 1999,Prozent,Männlich,Baden-Württemberg,code08,
 2000,Prozent,Männlich,Baden-Württemberg,code08,
 2001,Prozent,Männlich,Baden-Württemberg,code08,
@@ -131,6 +136,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Baden-Württemberg,code08,10.75
 2019,Prozent,Männlich,Baden-Württemberg,code08,10.67
 2020,Prozent,Männlich,Baden-Württemberg,code08,9.6
+2021,Prozent,Männlich,Baden-Württemberg,code08,12.7
 1999,Prozent,,Bayern,code09,
 2000,Prozent,,Bayern,code09,
 2001,Prozent,,Bayern,code09,
@@ -153,6 +159,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Bayern,code09,7.23
 2019,Prozent,,Bayern,code09,7.62
 2020,Prozent,,Bayern,code09,8.3
+2021,Prozent,,Bayern,code09,9.8
 1999,Prozent,Weiblich,Bayern,code09,
 2000,Prozent,Weiblich,Bayern,code09,
 2001,Prozent,Weiblich,Bayern,code09,
@@ -175,6 +182,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Bayern,code09,6.43
 2019,Prozent,Weiblich,Bayern,code09,6.52
 2020,Prozent,Weiblich,Bayern,code09,7.2
+2021,Prozent,Weiblich,Bayern,code09,7.9
 1999,Prozent,Männlich,Bayern,code09,
 2000,Prozent,Männlich,Bayern,code09,
 2001,Prozent,Männlich,Bayern,code09,
@@ -197,6 +205,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Bayern,code09,7.98
 2019,Prozent,Männlich,Bayern,code09,8.63
 2020,Prozent,Männlich,Bayern,code09,9.3
+2021,Prozent,Männlich,Bayern,code09,11.4
 1999,Prozent,,Berlin,code11,
 2000,Prozent,,Berlin,code11,
 2001,Prozent,,Berlin,code11,
@@ -219,6 +228,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Berlin,code11,13.55
 2019,Prozent,,Berlin,code11,11.6
 2020,Prozent,,Berlin,code11,9.8
+2021,Prozent,,Berlin,code11,9.5
 1999,Prozent,Weiblich,Berlin,code11,
 2000,Prozent,Weiblich,Berlin,code11,
 2001,Prozent,Weiblich,Berlin,code11,
@@ -241,6 +251,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Berlin,code11,10.41
 2019,Prozent,Weiblich,Berlin,code11,7.99
 2020,Prozent,Weiblich,Berlin,code11,
+2021,Prozent,Weiblich,Berlin,code11,
 1999,Prozent,Männlich,Berlin,code11,
 2000,Prozent,Männlich,Berlin,code11,
 2001,Prozent,Männlich,Berlin,code11,
@@ -263,6 +274,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Berlin,code11,16.89
 2019,Prozent,Männlich,Berlin,code11,15.05
 2020,Prozent,Männlich,Berlin,code11,
+2021,Prozent,Männlich,Berlin,code11,1.2
 1999,Prozent,,Brandenburg,code12,
 2000,Prozent,,Brandenburg,code12,
 2001,Prozent,,Brandenburg,code12,
@@ -285,6 +297,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Brandenburg,code12,11.52
 2019,Prozent,,Brandenburg,code12,10.78
 2020,Prozent,,Brandenburg,code12,
+2021,Prozent,,Brandenburg,code12,1.3
 1999,Prozent,Weiblich,Brandenburg,code12,
 2000,Prozent,Weiblich,Brandenburg,code12,
 2001,Prozent,Weiblich,Brandenburg,code12,
@@ -307,6 +320,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Brandenburg,code12,10.41
 2019,Prozent,Weiblich,Brandenburg,code12,
 2020,Prozent,Weiblich,Brandenburg,code12,
+2021,Prozent,Weiblich,Brandenburg,code12,
 1999,Prozent,Männlich,Brandenburg,code12,
 2000,Prozent,Männlich,Brandenburg,code12,
 2001,Prozent,Männlich,Brandenburg,code12,
@@ -329,6 +343,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Brandenburg,code12,12.43
 2019,Prozent,Männlich,Brandenburg,code12,13.55
 2020,Prozent,Männlich,Brandenburg,code12,
+2021,Prozent,Männlich,Brandenburg,code12,1.6
 1999,Prozent,,Bremen,code04,
 2000,Prozent,,Bremen,code04,
 2001,Prozent,,Bremen,code04,
@@ -351,6 +366,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Bremen,code04,14.64
 2019,Prozent,,Bremen,code04,16.04
 2020,Prozent,,Bremen,code04,15.3
+2021,Prozent,,Bremen,code04,1.4
 1999,Prozent,Weiblich,Bremen,code04,
 2000,Prozent,Weiblich,Bremen,code04,
 2001,Prozent,Weiblich,Bremen,code04,
@@ -373,6 +389,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Bremen,code04,
 2019,Prozent,Weiblich,Bremen,code04,
 2020,Prozent,Weiblich,Bremen,code04,
+2021,Prozent,Weiblich,Bremen,code04,
 1999,Prozent,Männlich,Bremen,code04,
 2000,Prozent,Männlich,Bremen,code04,
 2001,Prozent,Männlich,Bremen,code04,
@@ -395,6 +412,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Bremen,code04,17.71
 2019,Prozent,Männlich,Bremen,code04,17.71
 2020,Prozent,Männlich,Bremen,code04,
+2021,Prozent,Männlich,Bremen,code04,
 1999,Prozent,,Hamburg,code02,
 2000,Prozent,,Hamburg,code02,
 2001,Prozent,,Hamburg,code02,
@@ -417,6 +435,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Hamburg,code02,11.56
 2019,Prozent,,Hamburg,code02,13.96
 2020,Prozent,,Hamburg,code02,11.3
+2021,Prozent,,Hamburg,code02,1.3
 1999,Prozent,Weiblich,Hamburg,code02,
 2000,Prozent,Weiblich,Hamburg,code02,
 2001,Prozent,Weiblich,Hamburg,code02,
@@ -439,6 +458,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Hamburg,code02,12.17
 2019,Prozent,Weiblich,Hamburg,code02,13.45
 2020,Prozent,Weiblich,Hamburg,code02,
+2021,Prozent,Weiblich,Hamburg,code02,
 1999,Prozent,Männlich,Hamburg,code02,
 2000,Prozent,Männlich,Hamburg,code02,
 2001,Prozent,Männlich,Hamburg,code02,
@@ -461,6 +481,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Hamburg,code02,10.97
 2019,Prozent,Männlich,Hamburg,code02,14.44
 2020,Prozent,Männlich,Hamburg,code02,
+2021,Prozent,Männlich,Hamburg,code02,
 1999,Prozent,,Hessen,code06,
 2000,Prozent,,Hessen,code06,
 2001,Prozent,,Hessen,code06,
@@ -483,6 +504,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Hessen,code06,10.7
 2019,Prozent,,Hessen,code06,10.33
 2020,Prozent,,Hessen,code06,12.3
+2021,Prozent,,Hessen,code06,13.6
 1999,Prozent,Weiblich,Hessen,code06,
 2000,Prozent,Weiblich,Hessen,code06,
 2001,Prozent,Weiblich,Hessen,code06,
@@ -505,6 +527,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Hessen,code06,8.91
 2019,Prozent,Weiblich,Hessen,code06,8.75
 2020,Prozent,Weiblich,Hessen,code06,9.4
+2021,Prozent,Weiblich,Hessen,code06,10.6
 1999,Prozent,Männlich,Hessen,code06,
 2000,Prozent,Männlich,Hessen,code06,
 2001,Prozent,Männlich,Hessen,code06,
@@ -527,6 +550,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Hessen,code06,12.35
 2019,Prozent,Männlich,Hessen,code06,11.78
 2020,Prozent,Männlich,Hessen,code06,14.8
+2021,Prozent,Männlich,Hessen,code06,16.3
 1999,Prozent,,Mecklenburg-Vorpommern,code13,
 2000,Prozent,,Mecklenburg-Vorpommern,code13,
 2001,Prozent,,Mecklenburg-Vorpommern,code13,
@@ -549,6 +573,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Mecklenburg-Vorpommern,code13,11.13
 2019,Prozent,,Mecklenburg-Vorpommern,code13,11.4
 2020,Prozent,,Mecklenburg-Vorpommern,code13,13.7
+2021,Prozent,,Mecklenburg-Vorpommern,code13,1.4
 1999,Prozent,Weiblich,Mecklenburg-Vorpommern,code13,
 2000,Prozent,Weiblich,Mecklenburg-Vorpommern,code13,
 2001,Prozent,Weiblich,Mecklenburg-Vorpommern,code13,
@@ -571,6 +596,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Mecklenburg-Vorpommern,code13,
 2019,Prozent,Weiblich,Mecklenburg-Vorpommern,code13,
 2020,Prozent,Weiblich,Mecklenburg-Vorpommern,code13,
+2021,Prozent,Weiblich,Mecklenburg-Vorpommern,code13,
 1999,Prozent,Männlich,Mecklenburg-Vorpommern,code13,
 2000,Prozent,Männlich,Mecklenburg-Vorpommern,code13,
 2001,Prozent,Männlich,Mecklenburg-Vorpommern,code13,
@@ -593,6 +619,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Mecklenburg-Vorpommern,code13,12.6
 2019,Prozent,Männlich,Mecklenburg-Vorpommern,code13,11.75
 2020,Prozent,Männlich,Mecklenburg-Vorpommern,code13,
+2021,Prozent,Männlich,Mecklenburg-Vorpommern,code13,1.8
 1999,Prozent,,Niedersachsen,code03,
 2000,Prozent,,Niedersachsen,code03,
 2001,Prozent,,Niedersachsen,code03,
@@ -615,6 +642,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Niedersachsen,code03,11.0
 2019,Prozent,,Niedersachsen,code03,11.91
 2020,Prozent,,Niedersachsen,code03,10.4
+2021,Prozent,,Niedersachsen,code03,12.2
 1999,Prozent,Weiblich,Niedersachsen,code03,
 2000,Prozent,Weiblich,Niedersachsen,code03,
 2001,Prozent,Weiblich,Niedersachsen,code03,
@@ -637,6 +665,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Niedersachsen,code03,9.74
 2019,Prozent,Weiblich,Niedersachsen,code03,10.67
 2020,Prozent,Weiblich,Niedersachsen,code03,8.7
+2021,Prozent,Weiblich,Niedersachsen,code03,10.8
 1999,Prozent,Männlich,Niedersachsen,code03,
 2000,Prozent,Männlich,Niedersachsen,code03,
 2001,Prozent,Männlich,Niedersachsen,code03,
@@ -659,6 +688,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Niedersachsen,code03,12.13
 2019,Prozent,Männlich,Niedersachsen,code03,13.06
 2020,Prozent,Männlich,Niedersachsen,code03,11.9
+2021,Prozent,Männlich,Niedersachsen,code03,13.5
 1999,Prozent,,Nordrhein-Westfalen,code05,
 2000,Prozent,,Nordrhein-Westfalen,code05,
 2001,Prozent,,Nordrhein-Westfalen,code05,
@@ -681,6 +711,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Nordrhein-Westfalen,code05,11.98
 2019,Prozent,,Nordrhein-Westfalen,code05,11.17
 2020,Prozent,,Nordrhein-Westfalen,code05,10.8
+2021,Prozent,,Nordrhein-Westfalen,code05,11.8
 1999,Prozent,Weiblich,Nordrhein-Westfalen,code05,
 2000,Prozent,Weiblich,Nordrhein-Westfalen,code05,
 2001,Prozent,Weiblich,Nordrhein-Westfalen,code05,
@@ -703,6 +734,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Nordrhein-Westfalen,code05,11.15
 2019,Prozent,Weiblich,Nordrhein-Westfalen,code05,9.39
 2020,Prozent,Weiblich,Nordrhein-Westfalen,code05,9.0
+2021,Prozent,Weiblich,Nordrhein-Westfalen,code05,9.8
 1999,Prozent,Männlich,Nordrhein-Westfalen,code05,
 2000,Prozent,Männlich,Nordrhein-Westfalen,code05,
 2001,Prozent,Männlich,Nordrhein-Westfalen,code05,
@@ -725,6 +757,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Nordrhein-Westfalen,code05,12.72
 2019,Prozent,Männlich,Nordrhein-Westfalen,code05,12.79
 2020,Prozent,Männlich,Nordrhein-Westfalen,code05,12.4
+2021,Prozent,Männlich,Nordrhein-Westfalen,code05,13.6
 1999,Prozent,,Rheinland-Pfalz,code07,
 2000,Prozent,,Rheinland-Pfalz,code07,
 2001,Prozent,,Rheinland-Pfalz,code07,
@@ -747,6 +780,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Rheinland-Pfalz,code07,11.53
 2019,Prozent,,Rheinland-Pfalz,code07,11.62
 2020,Prozent,,Rheinland-Pfalz,code07,10.1
+2021,Prozent,,Rheinland-Pfalz,code07,13.0
 1999,Prozent,Weiblich,Rheinland-Pfalz,code07,
 2000,Prozent,Weiblich,Rheinland-Pfalz,code07,
 2001,Prozent,Weiblich,Rheinland-Pfalz,code07,
@@ -769,6 +803,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Rheinland-Pfalz,code07,9.59
 2019,Prozent,Weiblich,Rheinland-Pfalz,code07,10.51
 2020,Prozent,Weiblich,Rheinland-Pfalz,code07,7.9
+2021,Prozent,Weiblich,Rheinland-Pfalz,code07,10.8
 1999,Prozent,Männlich,Rheinland-Pfalz,code07,
 2000,Prozent,Männlich,Rheinland-Pfalz,code07,
 2001,Prozent,Männlich,Rheinland-Pfalz,code07,
@@ -791,6 +826,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Rheinland-Pfalz,code07,13.21
 2019,Prozent,Männlich,Rheinland-Pfalz,code07,12.61
 2020,Prozent,Männlich,Rheinland-Pfalz,code07,12.1
+2021,Prozent,Männlich,Rheinland-Pfalz,code07,14.9
 1999,Prozent,,Saarland,code10,
 2000,Prozent,,Saarland,code10,
 2001,Prozent,,Saarland,code10,
@@ -813,6 +849,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Saarland,code10,11.78
 2019,Prozent,,Saarland,code10,11.52
 2020,Prozent,,Saarland,code10,
+2021,Prozent,,Saarland,code10,
 1999,Prozent,Weiblich,Saarland,code10,
 2000,Prozent,Weiblich,Saarland,code10,
 2001,Prozent,Weiblich,Saarland,code10,
@@ -835,6 +872,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Saarland,code10,
 2019,Prozent,Weiblich,Saarland,code10,
 2020,Prozent,Weiblich,Saarland,code10,
+2021,Prozent,Weiblich,Saarland,code10,
 1999,Prozent,Männlich,Saarland,code10,
 2000,Prozent,Männlich,Saarland,code10,
 2001,Prozent,Männlich,Saarland,code10,
@@ -857,6 +895,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Saarland,code10,
 2019,Prozent,Männlich,Saarland,code10,
 2020,Prozent,Männlich,Saarland,code10,
+2021,Prozent,Männlich,Saarland,code10,
 1999,Prozent,,Sachsen,code14,
 2000,Prozent,,Sachsen,code14,
 2001,Prozent,,Sachsen,code14,
@@ -879,6 +918,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Sachsen,code14,7.51
 2019,Prozent,,Sachsen,code14,8.29
 2020,Prozent,,Sachsen,code14,8.0
+2021,Prozent,,Sachsen,code14,9.3
 1999,Prozent,Weiblich,Sachsen,code14,
 2000,Prozent,Weiblich,Sachsen,code14,
 2001,Prozent,Weiblich,Sachsen,code14,
@@ -901,6 +941,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Sachsen,code14,7.0
 2019,Prozent,Weiblich,Sachsen,code14,6.97
 2020,Prozent,Weiblich,Sachsen,code14,
+2021,Prozent,Weiblich,Sachsen,code14,0.8
 1999,Prozent,Männlich,Sachsen,code14,
 2000,Prozent,Männlich,Sachsen,code14,
 2001,Prozent,Männlich,Sachsen,code14,
@@ -923,6 +964,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Sachsen,code14,7.95
 2019,Prozent,Männlich,Sachsen,code14,9.39
 2020,Prozent,Männlich,Sachsen,code14,8.9
+2021,Prozent,Männlich,Sachsen,code14,10.5
 1999,Prozent,,Sachsen-Anhalt,code15,
 2000,Prozent,,Sachsen-Anhalt,code15,
 2001,Prozent,,Sachsen-Anhalt,code15,
@@ -945,6 +987,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Sachsen-Anhalt,code15,9.07
 2019,Prozent,,Sachsen-Anhalt,code15,12.68
 2020,Prozent,,Sachsen-Anhalt,code15,13.2
+2021,Prozent,,Sachsen-Anhalt,code15,17.0
 1999,Prozent,Weiblich,Sachsen-Anhalt,code15,
 2000,Prozent,Weiblich,Sachsen-Anhalt,code15,
 2001,Prozent,Weiblich,Sachsen-Anhalt,code15,
@@ -967,6 +1010,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Sachsen-Anhalt,code15,
 2019,Prozent,Weiblich,Sachsen-Anhalt,code15,9.99
 2020,Prozent,Weiblich,Sachsen-Anhalt,code15,
+2021,Prozent,Weiblich,Sachsen-Anhalt,code15,1.6
 1999,Prozent,Männlich,Sachsen-Anhalt,code15,
 2000,Prozent,Männlich,Sachsen-Anhalt,code15,
 2001,Prozent,Männlich,Sachsen-Anhalt,code15,
@@ -989,6 +1033,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Sachsen-Anhalt,code15,9.99
 2019,Prozent,Männlich,Sachsen-Anhalt,code15,14.82
 2020,Prozent,Männlich,Sachsen-Anhalt,code15,
+2021,Prozent,Männlich,Sachsen-Anhalt,code15,1.8
 1999,Prozent,,Schleswig-Holstein,code01,
 2000,Prozent,,Schleswig-Holstein,code01,
 2001,Prozent,,Schleswig-Holstein,code01,
@@ -1011,6 +1056,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Schleswig-Holstein,code01,10.09
 2019,Prozent,,Schleswig-Holstein,code01,10.97
 2020,Prozent,,Schleswig-Holstein,code01,11.8
+2021,Prozent,,Schleswig-Holstein,code01,12.5
 1999,Prozent,Weiblich,Schleswig-Holstein,code01,
 2000,Prozent,Weiblich,Schleswig-Holstein,code01,
 2001,Prozent,Weiblich,Schleswig-Holstein,code01,
@@ -1033,6 +1079,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Schleswig-Holstein,code01,8.93
 2019,Prozent,Weiblich,Schleswig-Holstein,code01,8.66
 2020,Prozent,Weiblich,Schleswig-Holstein,code01,
+2021,Prozent,Weiblich,Schleswig-Holstein,code01,1.1
 1999,Prozent,Männlich,Schleswig-Holstein,code01,
 2000,Prozent,Männlich,Schleswig-Holstein,code01,
 2001,Prozent,Männlich,Schleswig-Holstein,code01,
@@ -1055,6 +1102,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Schleswig-Holstein,code01,11.18
 2019,Prozent,Männlich,Schleswig-Holstein,code01,13.23
 2020,Prozent,Männlich,Schleswig-Holstein,code01,14.2
+2021,Prozent,Männlich,Schleswig-Holstein,code01,1.4
 1999,Prozent,,Thüringen,code16,
 2000,Prozent,,Thüringen,code16,
 2001,Prozent,,Thüringen,code16,
@@ -1077,6 +1125,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,,Thüringen,code16,8.46
 2019,Prozent,,Thüringen,code16,9.6
 2020,Prozent,,Thüringen,code16,9.1
+2021,Prozent,,Thüringen,code16,10.8
 1999,Prozent,Weiblich,Thüringen,code16,
 2000,Prozent,Weiblich,Thüringen,code16,
 2001,Prozent,Weiblich,Thüringen,code16,
@@ -1099,6 +1148,7 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Weiblich,Thüringen,code16,
 2019,Prozent,Weiblich,Thüringen,code16,
 2020,Prozent,Weiblich,Thüringen,code16,
+2021,Prozent,Weiblich,Thüringen,code16,
 1999,Prozent,Männlich,Thüringen,code16,
 2000,Prozent,Männlich,Thüringen,code16,
 2001,Prozent,Männlich,Thüringen,code16,
@@ -1121,3 +1171,4 @@ Year,Units,Geschlecht,Bundesland,GeoCode,Value
 2018,Prozent,Männlich,Thüringen,code16,10.1
 2019,Prozent,Männlich,Thüringen,code16,10.48
 2020,Prozent,Männlich,Thüringen,code16,
+2021,Prozent,Männlich,Thüringen,code16,1.2

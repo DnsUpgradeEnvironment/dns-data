@@ -3738,14 +3738,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
@@ -3754,6 +3746,14 @@
                 "hamburg",
                 "hesse",
                 "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             }
