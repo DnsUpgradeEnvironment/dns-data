@@ -1,37 +1,37 @@
 Year,Units,Zeitreihe,Value
-2/2015,Prozent,Alle leitungsgebundenen Technologien,
-1/2016,Prozent,Alle leitungsgebundenen Technologien,
-2/2016,Prozent,Alle leitungsgebundenen Technologien,
-1/2017,Prozent,Alle leitungsgebundenen Technologien,
-2/2017,Prozent,Alle leitungsgebundenen Technologien,
-1/2018,Prozent,Alle leitungsgebundenen Technologien,
-2/2018,Prozent,Alle leitungsgebundenen Technologien,27.3
-1/2019,Prozent,Alle leitungsgebundenen Technologien,34.1
-2/2019,Prozent,Alle leitungsgebundenen Technologien,43.2
-1/2020,Prozent,Alle leitungsgebundenen Technologien,55.9
-2/2020,Prozent,Alle leitungsgebundenen Technologien,59.2
-1/2021,Prozent,Alle leitungsgebundenen Technologien,62.1
-2/2015,Prozent,Reine Glasfasernetze (FTTB/H),6.7
-1/2016,Prozent,Reine Glasfasernetze (FTTB/H),7.1
-2/2016,Prozent,Reine Glasfasernetze (FTTB/H),7.1
-1/2017,Prozent,Reine Glasfasernetze (FTTB/H),7.3
-2/2017,Prozent,Reine Glasfasernetze (FTTB/H),8.0
-1/2018,Prozent,Reine Glasfasernetze (FTTB/H),8.5
-2/2018,Prozent,Reine Glasfasernetze (FTTB/H),9.0
-1/2019,Prozent,Reine Glasfasernetze (FTTB/H),10.5
-2/2019,Prozent,Reine Glasfasernetze (FTTB/H),11.8
-1/2020,Prozent,Reine Glasfasernetze (FTTB/H),13.8
-2/2020,Prozent,Reine Glasfasernetze (FTTB/H),14.5
-1/2021,Prozent,Reine Glasfasernetze (FTTB/H),15.4
-2/2015,Prozent,Kabelfernsehen (CATV),
-1/2016,Prozent,Kabelfernsehen (CATV),
-2/2016,Prozent,Kabelfernsehen (CATV),
-1/2017,Prozent,Kabelfernsehen (CATV),
-2/2017,Prozent,Kabelfernsehen (CATV),
-1/2018,Prozent,Kabelfernsehen (CATV),
-2/2018,Prozent,Kabelfernsehen (CATV),23.7
-1/2019,Prozent,Kabelfernsehen (CATV),29.3
-2/2019,Prozent,Kabelfernsehen (CATV),37.8
-1/2020,Prozent,Kabelfernsehen (CATV),50.2
-2/2020,Prozent,Kabelfernsehen (CATV),53.5
-1/2021,Prozent,Kabelfernsehen (CATV),56.5
+2015/2,Prozent,Alle leitungsgebundenen Technologien,
+2016/1,Prozent,Alle leitungsgebundenen Technologien,
+2016/2,Prozent,Alle leitungsgebundenen Technologien,
+2017/1,Prozent,Alle leitungsgebundenen Technologien,
+2017/2,Prozent,Alle leitungsgebundenen Technologien,
+2018/1,Prozent,Alle leitungsgebundenen Technologien,
+2018/2,Prozent,Alle leitungsgebundenen Technologien,27.3
+2019/1,Prozent,Alle leitungsgebundenen Technologien,34.1
+2019/2,Prozent,Alle leitungsgebundenen Technologien,43.2
+2020/1,Prozent,Alle leitungsgebundenen Technologien,55.9
+2020/2,Prozent,Alle leitungsgebundenen Technologien,59.2
+2021/1,Prozent,Alle leitungsgebundenen Technologien,62.1
+2015/2,Prozent,Reine Glasfasernetze (FTTB/H),6.7
+2016/1,Prozent,Reine Glasfasernetze (FTTB/H),7.1
+2016/2,Prozent,Reine Glasfasernetze (FTTB/H),7.1
+2017/1,Prozent,Reine Glasfasernetze (FTTB/H),7.3
+2017/2,Prozent,Reine Glasfasernetze (FTTB/H),8.0
+2018/1,Prozent,Reine Glasfasernetze (FTTB/H),8.5
+2018/2,Prozent,Reine Glasfasernetze (FTTB/H),9.0
+2019/1,Prozent,Reine Glasfasernetze (FTTB/H),10.5
+2019/2,Prozent,Reine Glasfasernetze (FTTB/H),11.8
+2020/1,Prozent,Reine Glasfasernetze (FTTB/H),13.8
+2020/2,Prozent,Reine Glasfasernetze (FTTB/H),14.5
+2021/1,Prozent,Reine Glasfasernetze (FTTB/H),15.4
+2015/2,Prozent,Kabelfernsehen (CATV),
+2016/1,Prozent,Kabelfernsehen (CATV),
+2016/2,Prozent,Kabelfernsehen (CATV),
+2017/1,Prozent,Kabelfernsehen (CATV),
+2017/2,Prozent,Kabelfernsehen (CATV),
+2018/1,Prozent,Kabelfernsehen (CATV),
+2018/2,Prozent,Kabelfernsehen (CATV),23.7
+2019/1,Prozent,Kabelfernsehen (CATV),29.3
+2019/2,Prozent,Kabelfernsehen (CATV),37.8
+2020/1,Prozent,Kabelfernsehen (CATV),50.2
+2020/2,Prozent,Kabelfernsehen (CATV),53.5
+2021/1,Prozent,Kabelfernsehen (CATV),56.5
