@@ -436,7 +436,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Jahr"
           },
           {
@@ -3036,7 +3036,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Jahr"
           },
           {

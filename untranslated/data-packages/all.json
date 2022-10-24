@@ -402,7 +402,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Units",
@@ -2859,7 +2859,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Units",
