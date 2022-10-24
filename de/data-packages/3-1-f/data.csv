@@ -6,6 +6,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,,,14.1
 2017,Prozent,,,,,14.789
 2021,Prozent,,,,,15.418
+1999,Prozent,,,,,10.7
+2000,Prozent,,,,,
+2001,Prozent,,,,,
+2002,Prozent,,,,,
+2003,Prozent,,,,,11.7
+2004,Prozent,,,,,
+2005,Prozent,,,,,12.5
+2006,Prozent,,,,,
+2007,Prozent,,,,,
+2008,Prozent,,,,,
+2009,Prozent,,,,,13.3
+2010,Prozent,,,,,
+2011,Prozent,,,,,
+2012,Prozent,,,,,
+2013,Prozent,,,,,14.1
+2014,Prozent,,,,,
+2015,Prozent,,,,,
+2016,Prozent,,,,,
+2017,Prozent,,,,,14.789
+2018,Prozent,,,,,
+2019,Prozent,,,,,
+2020,Prozent,,,,,
 1999,Prozent,,,Baden-Württemberg,code08,9.78
 2003,Prozent,,,Baden-Württemberg,code08,10.913
 2005,Prozent,,,Baden-Württemberg,code08,11.371
@@ -13,6 +35,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Baden-Württemberg,code08,12.923
 2017,Prozent,,,Baden-Württemberg,code08,13.774
 2021,Prozent,,,Baden-Württemberg,code08,14.034
+1999,Prozent,,,Baden-Württemberg,code08,9.78
+2000,Prozent,,,Baden-Württemberg,code08,
+2001,Prozent,,,Baden-Württemberg,code08,
+2002,Prozent,,,Baden-Württemberg,code08,
+2003,Prozent,,,Baden-Württemberg,code08,10.913
+2004,Prozent,,,Baden-Württemberg,code08,
+2005,Prozent,,,Baden-Württemberg,code08,11.371
+2006,Prozent,,,Baden-Württemberg,code08,
+2007,Prozent,,,Baden-Württemberg,code08,
+2008,Prozent,,,Baden-Württemberg,code08,
+2009,Prozent,,,Baden-Württemberg,code08,12.259
+2010,Prozent,,,Baden-Württemberg,code08,
+2011,Prozent,,,Baden-Württemberg,code08,
+2012,Prozent,,,Baden-Württemberg,code08,
+2013,Prozent,,,Baden-Württemberg,code08,12.923
+2014,Prozent,,,Baden-Württemberg,code08,
+2015,Prozent,,,Baden-Württemberg,code08,
+2016,Prozent,,,Baden-Württemberg,code08,
+2017,Prozent,,,Baden-Württemberg,code08,13.774
+2018,Prozent,,,Baden-Württemberg,code08,
+2019,Prozent,,,Baden-Württemberg,code08,
+2020,Prozent,,,Baden-Württemberg,code08,
 1999,Prozent,,,Bayern,code09,10.73
 2003,Prozent,,,Bayern,code09,11.668
 2005,Prozent,,,Bayern,code09,11.83
@@ -20,6 +64,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Bayern,code09,13.255
 2017,Prozent,,,Bayern,code09,13.728
 2021,Prozent,,,Bayern,code09,13.911
+1999,Prozent,,,Bayern,code09,10.73
+2000,Prozent,,,Bayern,code09,
+2001,Prozent,,,Bayern,code09,
+2002,Prozent,,,Bayern,code09,
+2003,Prozent,,,Bayern,code09,11.668
+2004,Prozent,,,Bayern,code09,
+2005,Prozent,,,Bayern,code09,11.83
+2006,Prozent,,,Bayern,code09,
+2007,Prozent,,,Bayern,code09,
+2008,Prozent,,,Bayern,code09,
+2009,Prozent,,,Bayern,code09,12.784
+2010,Prozent,,,Bayern,code09,
+2011,Prozent,,,Bayern,code09,
+2012,Prozent,,,Bayern,code09,
+2013,Prozent,,,Bayern,code09,13.255
+2014,Prozent,,,Bayern,code09,
+2015,Prozent,,,Bayern,code09,
+2016,Prozent,,,Bayern,code09,
+2017,Prozent,,,Bayern,code09,13.728
+2018,Prozent,,,Bayern,code09,
+2019,Prozent,,,Bayern,code09,
+2020,Prozent,,,Bayern,code09,
 1999,Prozent,,,Berlin,code11,9.206
 2003,Prozent,,,Berlin,code11,10.185
 2005,Prozent,,,Berlin,code11,11.228
@@ -27,6 +93,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Berlin,code11,11.727
 2017,Prozent,,,Berlin,code11,11.913
 2021,Prozent,,,Berlin,code11,13.114
+1999,Prozent,,,Berlin,code11,9.206
+2000,Prozent,,,Berlin,code11,
+2001,Prozent,,,Berlin,code11,
+2002,Prozent,,,Berlin,code11,
+2003,Prozent,,,Berlin,code11,10.185
+2004,Prozent,,,Berlin,code11,
+2005,Prozent,,,Berlin,code11,11.228
+2006,Prozent,,,Berlin,code11,
+2007,Prozent,,,Berlin,code11,
+2008,Prozent,,,Berlin,code11,
+2009,Prozent,,,Berlin,code11,11.187
+2010,Prozent,,,Berlin,code11,
+2011,Prozent,,,Berlin,code11,
+2012,Prozent,,,Berlin,code11,
+2013,Prozent,,,Berlin,code11,11.727
+2014,Prozent,,,Berlin,code11,
+2015,Prozent,,,Berlin,code11,
+2016,Prozent,,,Berlin,code11,
+2017,Prozent,,,Berlin,code11,11.913
+2018,Prozent,,,Berlin,code11,
+2019,Prozent,,,Berlin,code11,
+2020,Prozent,,,Berlin,code11,
 1999,Prozent,,,Brandenburg,code12,13.054
 2003,Prozent,,,Brandenburg,code12,13.122
 2005,Prozent,,,Brandenburg,code12,13.811
@@ -34,6 +122,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Brandenburg,code12,14.925
 2017,Prozent,,,Brandenburg,code12,15.47
 2021,Prozent,,,Brandenburg,code12,16.36
+1999,Prozent,,,Brandenburg,code12,13.054
+2000,Prozent,,,Brandenburg,code12,
+2001,Prozent,,,Brandenburg,code12,
+2002,Prozent,,,Brandenburg,code12,
+2003,Prozent,,,Brandenburg,code12,13.122
+2004,Prozent,,,Brandenburg,code12,
+2005,Prozent,,,Brandenburg,code12,13.811
+2006,Prozent,,,Brandenburg,code12,
+2007,Prozent,,,Brandenburg,code12,
+2008,Prozent,,,Brandenburg,code12,
+2009,Prozent,,,Brandenburg,code12,14.843
+2010,Prozent,,,Brandenburg,code12,
+2011,Prozent,,,Brandenburg,code12,
+2012,Prozent,,,Brandenburg,code12,
+2013,Prozent,,,Brandenburg,code12,14.925
+2014,Prozent,,,Brandenburg,code12,
+2015,Prozent,,,Brandenburg,code12,
+2016,Prozent,,,Brandenburg,code12,
+2017,Prozent,,,Brandenburg,code12,15.47
+2018,Prozent,,,Brandenburg,code12,
+2019,Prozent,,,Brandenburg,code12,
+2020,Prozent,,,Brandenburg,code12,
 1999,Prozent,,,Bremen,code04,8.863
 2003,Prozent,,,Bremen,code04,10.82
 2005,Prozent,,,Bremen,code04,10.152
@@ -41,6 +151,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Bremen,code04,13.546
 2017,Prozent,,,Bremen,code04,16.937
 2021,Prozent,,,Bremen,code04,16.966
+1999,Prozent,,,Bremen,code04,8.863
+2000,Prozent,,,Bremen,code04,
+2001,Prozent,,,Bremen,code04,
+2002,Prozent,,,Bremen,code04,
+2003,Prozent,,,Bremen,code04,10.82
+2004,Prozent,,,Bremen,code04,
+2005,Prozent,,,Bremen,code04,10.152
+2006,Prozent,,,Bremen,code04,
+2007,Prozent,,,Bremen,code04,
+2008,Prozent,,,Bremen,code04,
+2009,Prozent,,,Bremen,code04,11.745
+2010,Prozent,,,Bremen,code04,
+2011,Prozent,,,Bremen,code04,
+2012,Prozent,,,Bremen,code04,
+2013,Prozent,,,Bremen,code04,13.546
+2014,Prozent,,,Bremen,code04,
+2015,Prozent,,,Bremen,code04,
+2016,Prozent,,,Bremen,code04,
+2017,Prozent,,,Bremen,code04,16.937
+2018,Prozent,,,Bremen,code04,
+2019,Prozent,,,Bremen,code04,
+2020,Prozent,,,Bremen,code04,
 1999,Prozent,,,Hamburg,code02,8.318
 2003,Prozent,,,Hamburg,code02,9.04
 2005,Prozent,,,Hamburg,code02,9.702
@@ -48,6 +180,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Hamburg,code02,10.515
 2017,Prozent,,,Hamburg,code02,11.483
 2021,Prozent,,,Hamburg,code02,11.936
+1999,Prozent,,,Hamburg,code02,8.318
+2000,Prozent,,,Hamburg,code02,
+2001,Prozent,,,Hamburg,code02,
+2002,Prozent,,,Hamburg,code02,
+2003,Prozent,,,Hamburg,code02,9.04
+2004,Prozent,,,Hamburg,code02,
+2005,Prozent,,,Hamburg,code02,9.702
+2006,Prozent,,,Hamburg,code02,
+2007,Prozent,,,Hamburg,code02,
+2008,Prozent,,,Hamburg,code02,
+2009,Prozent,,,Hamburg,code02,9.909
+2010,Prozent,,,Hamburg,code02,
+2011,Prozent,,,Hamburg,code02,
+2012,Prozent,,,Hamburg,code02,
+2013,Prozent,,,Hamburg,code02,10.515
+2014,Prozent,,,Hamburg,code02,
+2015,Prozent,,,Hamburg,code02,
+2016,Prozent,,,Hamburg,code02,
+2017,Prozent,,,Hamburg,code02,11.483
+2018,Prozent,,,Hamburg,code02,
+2019,Prozent,,,Hamburg,code02,
+2020,Prozent,,,Hamburg,code02,
 1999,Prozent,,,Hessen,code06,10.812
 2003,Prozent,,,Hessen,code06,11.599
 2005,Prozent,,,Hessen,code06,11.943
@@ -55,6 +209,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Hessen,code06,14.233
 2017,Prozent,,,Hessen,code06,14.898
 2021,Prozent,,,Hessen,code06,15.654
+1999,Prozent,,,Hessen,code06,10.812
+2000,Prozent,,,Hessen,code06,
+2001,Prozent,,,Hessen,code06,
+2002,Prozent,,,Hessen,code06,
+2003,Prozent,,,Hessen,code06,11.599
+2004,Prozent,,,Hessen,code06,
+2005,Prozent,,,Hessen,code06,11.943
+2006,Prozent,,,Hessen,code06,
+2007,Prozent,,,Hessen,code06,
+2008,Prozent,,,Hessen,code06,
+2009,Prozent,,,Hessen,code06,13.288
+2010,Prozent,,,Hessen,code06,
+2011,Prozent,,,Hessen,code06,
+2012,Prozent,,,Hessen,code06,
+2013,Prozent,,,Hessen,code06,14.233
+2014,Prozent,,,Hessen,code06,
+2015,Prozent,,,Hessen,code06,
+2016,Prozent,,,Hessen,code06,
+2017,Prozent,,,Hessen,code06,14.898
+2018,Prozent,,,Hessen,code06,
+2019,Prozent,,,Hessen,code06,
+2020,Prozent,,,Hessen,code06,
 1999,Prozent,,,Mecklenburg-Vorpommern,code13,13.848
 2003,Prozent,,,Mecklenburg-Vorpommern,code13,16.326
 2005,Prozent,,,Mecklenburg-Vorpommern,code13,17.169
@@ -62,6 +238,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Mecklenburg-Vorpommern,code13,17.324
 2017,Prozent,,,Mecklenburg-Vorpommern,code13,18.844
 2021,Prozent,,,Mecklenburg-Vorpommern,code13,19.044
+1999,Prozent,,,Mecklenburg-Vorpommern,code13,13.848
+2000,Prozent,,,Mecklenburg-Vorpommern,code13,
+2001,Prozent,,,Mecklenburg-Vorpommern,code13,
+2002,Prozent,,,Mecklenburg-Vorpommern,code13,
+2003,Prozent,,,Mecklenburg-Vorpommern,code13,16.326
+2004,Prozent,,,Mecklenburg-Vorpommern,code13,
+2005,Prozent,,,Mecklenburg-Vorpommern,code13,17.169
+2006,Prozent,,,Mecklenburg-Vorpommern,code13,
+2007,Prozent,,,Mecklenburg-Vorpommern,code13,
+2008,Prozent,,,Mecklenburg-Vorpommern,code13,
+2009,Prozent,,,Mecklenburg-Vorpommern,code13,17.262
+2010,Prozent,,,Mecklenburg-Vorpommern,code13,
+2011,Prozent,,,Mecklenburg-Vorpommern,code13,
+2012,Prozent,,,Mecklenburg-Vorpommern,code13,
+2013,Prozent,,,Mecklenburg-Vorpommern,code13,17.324
+2014,Prozent,,,Mecklenburg-Vorpommern,code13,
+2015,Prozent,,,Mecklenburg-Vorpommern,code13,
+2016,Prozent,,,Mecklenburg-Vorpommern,code13,
+2017,Prozent,,,Mecklenburg-Vorpommern,code13,18.844
+2018,Prozent,,,Mecklenburg-Vorpommern,code13,
+2019,Prozent,,,Mecklenburg-Vorpommern,code13,
+2020,Prozent,,,Mecklenburg-Vorpommern,code13,
 1999,Prozent,,,Niedersachsen,code03,9.501
 2003,Prozent,,,Niedersachsen,code03,10.482
 2005,Prozent,,,Niedersachsen,code03,11.365
@@ -69,6 +267,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Niedersachsen,code03,14.218
 2017,Prozent,,,Niedersachsen,code03,15.244
 2021,Prozent,,,Niedersachsen,code03,17.557
+1999,Prozent,,,Niedersachsen,code03,9.501
+2000,Prozent,,,Niedersachsen,code03,
+2001,Prozent,,,Niedersachsen,code03,
+2002,Prozent,,,Niedersachsen,code03,
+2003,Prozent,,,Niedersachsen,code03,10.482
+2004,Prozent,,,Niedersachsen,code03,
+2005,Prozent,,,Niedersachsen,code03,11.365
+2006,Prozent,,,Niedersachsen,code03,
+2007,Prozent,,,Niedersachsen,code03,
+2008,Prozent,,,Niedersachsen,code03,
+2009,Prozent,,,Niedersachsen,code03,12.761
+2010,Prozent,,,Niedersachsen,code03,
+2011,Prozent,,,Niedersachsen,code03,
+2012,Prozent,,,Niedersachsen,code03,
+2013,Prozent,,,Niedersachsen,code03,14.218
+2014,Prozent,,,Niedersachsen,code03,
+2015,Prozent,,,Niedersachsen,code03,
+2016,Prozent,,,Niedersachsen,code03,
+2017,Prozent,,,Niedersachsen,code03,15.244
+2018,Prozent,,,Niedersachsen,code03,
+2019,Prozent,,,Niedersachsen,code03,
+2020,Prozent,,,Niedersachsen,code03,
 1999,Prozent,,,Nordrhein-Westfalen,code05,10.394
 2003,Prozent,,,Nordrhein-Westfalen,code05,11.622
 2005,Prozent,,,Nordrhein-Westfalen,code05,12.575
@@ -76,6 +296,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Nordrhein-Westfalen,code05,14.865
 2017,Prozent,,,Nordrhein-Westfalen,code05,15.125
 2021,Prozent,,,Nordrhein-Westfalen,code05,16.485
+1999,Prozent,,,Nordrhein-Westfalen,code05,10.394
+2000,Prozent,,,Nordrhein-Westfalen,code05,
+2001,Prozent,,,Nordrhein-Westfalen,code05,
+2002,Prozent,,,Nordrhein-Westfalen,code05,
+2003,Prozent,,,Nordrhein-Westfalen,code05,11.622
+2004,Prozent,,,Nordrhein-Westfalen,code05,
+2005,Prozent,,,Nordrhein-Westfalen,code05,12.575
+2006,Prozent,,,Nordrhein-Westfalen,code05,
+2007,Prozent,,,Nordrhein-Westfalen,code05,
+2008,Prozent,,,Nordrhein-Westfalen,code05,
+2009,Prozent,,,Nordrhein-Westfalen,code05,13.591
+2010,Prozent,,,Nordrhein-Westfalen,code05,
+2011,Prozent,,,Nordrhein-Westfalen,code05,
+2012,Prozent,,,Nordrhein-Westfalen,code05,
+2013,Prozent,,,Nordrhein-Westfalen,code05,14.865
+2014,Prozent,,,Nordrhein-Westfalen,code05,
+2015,Prozent,,,Nordrhein-Westfalen,code05,
+2016,Prozent,,,Nordrhein-Westfalen,code05,
+2017,Prozent,,,Nordrhein-Westfalen,code05,15.125
+2018,Prozent,,,Nordrhein-Westfalen,code05,
+2019,Prozent,,,Nordrhein-Westfalen,code05,
+2020,Prozent,,,Nordrhein-Westfalen,code05,
 1999,Prozent,,,Rheinland-Pfalz,code07,11.101
 2003,Prozent,,,Rheinland-Pfalz,code07,12.228
 2005,Prozent,,,Rheinland-Pfalz,code07,13.218
@@ -83,6 +325,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Rheinland-Pfalz,code07,15.185
 2017,Prozent,,,Rheinland-Pfalz,code07,16.103
 2021,Prozent,,,Rheinland-Pfalz,code07,16.857
+1999,Prozent,,,Rheinland-Pfalz,code07,11.101
+2000,Prozent,,,Rheinland-Pfalz,code07,
+2001,Prozent,,,Rheinland-Pfalz,code07,
+2002,Prozent,,,Rheinland-Pfalz,code07,
+2003,Prozent,,,Rheinland-Pfalz,code07,12.228
+2004,Prozent,,,Rheinland-Pfalz,code07,
+2005,Prozent,,,Rheinland-Pfalz,code07,13.218
+2006,Prozent,,,Rheinland-Pfalz,code07,
+2007,Prozent,,,Rheinland-Pfalz,code07,
+2008,Prozent,,,Rheinland-Pfalz,code07,
+2009,Prozent,,,Rheinland-Pfalz,code07,14.015
+2010,Prozent,,,Rheinland-Pfalz,code07,
+2011,Prozent,,,Rheinland-Pfalz,code07,
+2012,Prozent,,,Rheinland-Pfalz,code07,
+2013,Prozent,,,Rheinland-Pfalz,code07,15.185
+2014,Prozent,,,Rheinland-Pfalz,code07,
+2015,Prozent,,,Rheinland-Pfalz,code07,
+2016,Prozent,,,Rheinland-Pfalz,code07,
+2017,Prozent,,,Rheinland-Pfalz,code07,16.103
+2018,Prozent,,,Rheinland-Pfalz,code07,
+2019,Prozent,,,Rheinland-Pfalz,code07,
+2020,Prozent,,,Rheinland-Pfalz,code07,
 1999,Prozent,,,Saarland,code10,9.576
 2003,Prozent,,,Saarland,code10,10.306
 2005,Prozent,,,Saarland,code10,13.111
@@ -90,6 +354,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Saarland,code10,14.133
 2017,Prozent,,,Saarland,code10,14.688
 2021,Prozent,,,Saarland,code10,16.877
+1999,Prozent,,,Saarland,code10,9.576
+2000,Prozent,,,Saarland,code10,
+2001,Prozent,,,Saarland,code10,
+2002,Prozent,,,Saarland,code10,
+2003,Prozent,,,Saarland,code10,10.306
+2004,Prozent,,,Saarland,code10,
+2005,Prozent,,,Saarland,code10,13.111
+2006,Prozent,,,Saarland,code10,
+2007,Prozent,,,Saarland,code10,
+2008,Prozent,,,Saarland,code10,
+2009,Prozent,,,Saarland,code10,14.111
+2010,Prozent,,,Saarland,code10,
+2011,Prozent,,,Saarland,code10,
+2012,Prozent,,,Saarland,code10,
+2013,Prozent,,,Saarland,code10,14.133
+2014,Prozent,,,Saarland,code10,
+2015,Prozent,,,Saarland,code10,
+2016,Prozent,,,Saarland,code10,
+2017,Prozent,,,Saarland,code10,14.688
+2018,Prozent,,,Saarland,code10,
+2019,Prozent,,,Saarland,code10,
+2020,Prozent,,,Saarland,code10,
 1999,Prozent,,,Sachsen,code14,11.838
 2003,Prozent,,,Sachsen,code14,13.373
 2005,Prozent,,,Sachsen,code14,13.693
@@ -97,6 +383,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Sachsen,code14,14.286
 2017,Prozent,,,Sachsen,code14,15.453
 2021,Prozent,,,Sachsen,code14,14.805
+1999,Prozent,,,Sachsen,code14,11.838
+2000,Prozent,,,Sachsen,code14,
+2001,Prozent,,,Sachsen,code14,
+2002,Prozent,,,Sachsen,code14,
+2003,Prozent,,,Sachsen,code14,13.373
+2004,Prozent,,,Sachsen,code14,
+2005,Prozent,,,Sachsen,code14,13.693
+2006,Prozent,,,Sachsen,code14,
+2007,Prozent,,,Sachsen,code14,
+2008,Prozent,,,Sachsen,code14,
+2009,Prozent,,,Sachsen,code14,13.958
+2010,Prozent,,,Sachsen,code14,
+2011,Prozent,,,Sachsen,code14,
+2012,Prozent,,,Sachsen,code14,
+2013,Prozent,,,Sachsen,code14,14.286
+2014,Prozent,,,Sachsen,code14,
+2015,Prozent,,,Sachsen,code14,
+2016,Prozent,,,Sachsen,code14,
+2017,Prozent,,,Sachsen,code14,15.453
+2018,Prozent,,,Sachsen,code14,
+2019,Prozent,,,Sachsen,code14,
+2020,Prozent,,,Sachsen,code14,
 1999,Prozent,,,Sachsen-Anhalt,code15,13.139
 2003,Prozent,,,Sachsen-Anhalt,code15,15.012
 2005,Prozent,,,Sachsen-Anhalt,code15,15.935
@@ -104,6 +412,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Sachsen-Anhalt,code15,17.149
 2017,Prozent,,,Sachsen-Anhalt,code15,17.6
 2021,Prozent,,,Sachsen-Anhalt,code15,16.545
+1999,Prozent,,,Sachsen-Anhalt,code15,13.139
+2000,Prozent,,,Sachsen-Anhalt,code15,
+2001,Prozent,,,Sachsen-Anhalt,code15,
+2002,Prozent,,,Sachsen-Anhalt,code15,
+2003,Prozent,,,Sachsen-Anhalt,code15,15.012
+2004,Prozent,,,Sachsen-Anhalt,code15,
+2005,Prozent,,,Sachsen-Anhalt,code15,15.935
+2006,Prozent,,,Sachsen-Anhalt,code15,
+2007,Prozent,,,Sachsen-Anhalt,code15,
+2008,Prozent,,,Sachsen-Anhalt,code15,
+2009,Prozent,,,Sachsen-Anhalt,code15,16.266
+2010,Prozent,,,Sachsen-Anhalt,code15,
+2011,Prozent,,,Sachsen-Anhalt,code15,
+2012,Prozent,,,Sachsen-Anhalt,code15,
+2013,Prozent,,,Sachsen-Anhalt,code15,17.149
+2014,Prozent,,,Sachsen-Anhalt,code15,
+2015,Prozent,,,Sachsen-Anhalt,code15,
+2016,Prozent,,,Sachsen-Anhalt,code15,
+2017,Prozent,,,Sachsen-Anhalt,code15,17.6
+2018,Prozent,,,Sachsen-Anhalt,code15,
+2019,Prozent,,,Sachsen-Anhalt,code15,
+2020,Prozent,,,Sachsen-Anhalt,code15,
 1999,Prozent,,,Schleswig-Holstein,code01,9.248
 2003,Prozent,,,Schleswig-Holstein,code01,10.295
 2005,Prozent,,,Schleswig-Holstein,code01,11.306
@@ -111,6 +441,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Schleswig-Holstein,code01,13.323
 2017,Prozent,,,Schleswig-Holstein,code01,14.359
 2021,Prozent,,,Schleswig-Holstein,code01,16.693
+1999,Prozent,,,Schleswig-Holstein,code01,9.248
+2000,Prozent,,,Schleswig-Holstein,code01,
+2001,Prozent,,,Schleswig-Holstein,code01,
+2002,Prozent,,,Schleswig-Holstein,code01,
+2003,Prozent,,,Schleswig-Holstein,code01,10.295
+2004,Prozent,,,Schleswig-Holstein,code01,
+2005,Prozent,,,Schleswig-Holstein,code01,11.306
+2006,Prozent,,,Schleswig-Holstein,code01,
+2007,Prozent,,,Schleswig-Holstein,code01,
+2008,Prozent,,,Schleswig-Holstein,code01,
+2009,Prozent,,,Schleswig-Holstein,code01,12.144
+2010,Prozent,,,Schleswig-Holstein,code01,
+2011,Prozent,,,Schleswig-Holstein,code01,
+2012,Prozent,,,Schleswig-Holstein,code01,
+2013,Prozent,,,Schleswig-Holstein,code01,13.323
+2014,Prozent,,,Schleswig-Holstein,code01,
+2015,Prozent,,,Schleswig-Holstein,code01,
+2016,Prozent,,,Schleswig-Holstein,code01,
+2017,Prozent,,,Schleswig-Holstein,code01,14.359
+2018,Prozent,,,Schleswig-Holstein,code01,
+2019,Prozent,,,Schleswig-Holstein,code01,
+2020,Prozent,,,Schleswig-Holstein,code01,
 1999,Prozent,,,Thüringen,code16,13.768
 2003,Prozent,,,Thüringen,code16,13.159
 2005,Prozent,,,Thüringen,code16,14.527
@@ -118,6 +470,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,,Thüringen,code16,15.39
 2017,Prozent,,,Thüringen,code16,17.726
 2021,Prozent,,,Thüringen,code16,17.051
+1999,Prozent,,,Thüringen,code16,13.768
+2000,Prozent,,,Thüringen,code16,
+2001,Prozent,,,Thüringen,code16,
+2002,Prozent,,,Thüringen,code16,
+2003,Prozent,,,Thüringen,code16,13.159
+2004,Prozent,,,Thüringen,code16,
+2005,Prozent,,,Thüringen,code16,14.527
+2006,Prozent,,,Thüringen,code16,
+2007,Prozent,,,Thüringen,code16,
+2008,Prozent,,,Thüringen,code16,
+2009,Prozent,,,Thüringen,code16,14.922
+2010,Prozent,,,Thüringen,code16,
+2011,Prozent,,,Thüringen,code16,
+2012,Prozent,,,Thüringen,code16,
+2013,Prozent,,,Thüringen,code16,15.39
+2014,Prozent,,,Thüringen,code16,
+2015,Prozent,,,Thüringen,code16,
+2016,Prozent,,,Thüringen,code16,
+2017,Prozent,,,Thüringen,code16,17.726
+2018,Prozent,,,Thüringen,code16,
+2019,Prozent,,,Thüringen,code16,
+2020,Prozent,,,Thüringen,code16,
 1999,Prozent,,18 bis unter 20 Jahre,,,
 2003,Prozent,,18 bis unter 20 Jahre,,,
 2005,Prozent,,18 bis unter 20 Jahre,,,
@@ -125,6 +499,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,18 bis unter 20 Jahre,,,3.473
 2017,Prozent,,18 bis unter 20 Jahre,,,4.241
 2021,Prozent,,18 bis unter 20 Jahre,,,5.5
+1999,Prozent,,18 bis unter 20 Jahre,,,
+2000,Prozent,,18 bis unter 20 Jahre,,,
+2001,Prozent,,18 bis unter 20 Jahre,,,
+2002,Prozent,,18 bis unter 20 Jahre,,,
+2003,Prozent,,18 bis unter 20 Jahre,,,
+2004,Prozent,,18 bis unter 20 Jahre,,,
+2005,Prozent,,18 bis unter 20 Jahre,,,
+2006,Prozent,,18 bis unter 20 Jahre,,,
+2007,Prozent,,18 bis unter 20 Jahre,,,
+2008,Prozent,,18 bis unter 20 Jahre,,,
+2009,Prozent,,18 bis unter 20 Jahre,,,
+2010,Prozent,,18 bis unter 20 Jahre,,,
+2011,Prozent,,18 bis unter 20 Jahre,,,
+2012,Prozent,,18 bis unter 20 Jahre,,,
+2013,Prozent,,18 bis unter 20 Jahre,,,3.473
+2014,Prozent,,18 bis unter 20 Jahre,,,
+2015,Prozent,,18 bis unter 20 Jahre,,,
+2016,Prozent,,18 bis unter 20 Jahre,,,
+2017,Prozent,,18 bis unter 20 Jahre,,,4.241
+2018,Prozent,,18 bis unter 20 Jahre,,,
+2019,Prozent,,18 bis unter 20 Jahre,,,
+2020,Prozent,,18 bis unter 20 Jahre,,,
 1999,Prozent,,20 bis unter 25 Jahre,,,
 2003,Prozent,,20 bis unter 25 Jahre,,,
 2005,Prozent,,20 bis unter 25 Jahre,,,
@@ -132,6 +528,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,20 bis unter 25 Jahre,,,5.597
 2017,Prozent,,20 bis unter 25 Jahre,,,6.013
 2021,Prozent,,20 bis unter 25 Jahre,,,6.2
+1999,Prozent,,20 bis unter 25 Jahre,,,
+2000,Prozent,,20 bis unter 25 Jahre,,,
+2001,Prozent,,20 bis unter 25 Jahre,,,
+2002,Prozent,,20 bis unter 25 Jahre,,,
+2003,Prozent,,20 bis unter 25 Jahre,,,
+2004,Prozent,,20 bis unter 25 Jahre,,,
+2005,Prozent,,20 bis unter 25 Jahre,,,
+2006,Prozent,,20 bis unter 25 Jahre,,,
+2007,Prozent,,20 bis unter 25 Jahre,,,
+2008,Prozent,,20 bis unter 25 Jahre,,,
+2009,Prozent,,20 bis unter 25 Jahre,,,
+2010,Prozent,,20 bis unter 25 Jahre,,,
+2011,Prozent,,20 bis unter 25 Jahre,,,
+2012,Prozent,,20 bis unter 25 Jahre,,,
+2013,Prozent,,20 bis unter 25 Jahre,,,5.597
+2014,Prozent,,20 bis unter 25 Jahre,,,
+2015,Prozent,,20 bis unter 25 Jahre,,,
+2016,Prozent,,20 bis unter 25 Jahre,,,
+2017,Prozent,,20 bis unter 25 Jahre,,,6.013
+2018,Prozent,,20 bis unter 25 Jahre,,,
+2019,Prozent,,20 bis unter 25 Jahre,,,
+2020,Prozent,,20 bis unter 25 Jahre,,,
 1999,Prozent,,25 bis unter 30 Jahre,,,
 2003,Prozent,,25 bis unter 30 Jahre,,,
 2005,Prozent,,25 bis unter 30 Jahre,,,
@@ -139,6 +557,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,25 bis unter 30 Jahre,,,8.023
 2017,Prozent,,25 bis unter 30 Jahre,,,9.416
 2021,Prozent,,25 bis unter 30 Jahre,,,10.8
+1999,Prozent,,25 bis unter 30 Jahre,,,
+2000,Prozent,,25 bis unter 30 Jahre,,,
+2001,Prozent,,25 bis unter 30 Jahre,,,
+2002,Prozent,,25 bis unter 30 Jahre,,,
+2003,Prozent,,25 bis unter 30 Jahre,,,
+2004,Prozent,,25 bis unter 30 Jahre,,,
+2005,Prozent,,25 bis unter 30 Jahre,,,
+2006,Prozent,,25 bis unter 30 Jahre,,,
+2007,Prozent,,25 bis unter 30 Jahre,,,
+2008,Prozent,,25 bis unter 30 Jahre,,,
+2009,Prozent,,25 bis unter 30 Jahre,,,
+2010,Prozent,,25 bis unter 30 Jahre,,,
+2011,Prozent,,25 bis unter 30 Jahre,,,
+2012,Prozent,,25 bis unter 30 Jahre,,,
+2013,Prozent,,25 bis unter 30 Jahre,,,8.023
+2014,Prozent,,25 bis unter 30 Jahre,,,
+2015,Prozent,,25 bis unter 30 Jahre,,,
+2016,Prozent,,25 bis unter 30 Jahre,,,
+2017,Prozent,,25 bis unter 30 Jahre,,,9.416
+2018,Prozent,,25 bis unter 30 Jahre,,,
+2019,Prozent,,25 bis unter 30 Jahre,,,
+2020,Prozent,,25 bis unter 30 Jahre,,,
 1999,Prozent,,30 bis unter 35 Jahre,,,
 2003,Prozent,,30 bis unter 35 Jahre,,,
 2005,Prozent,,30 bis unter 35 Jahre,,,
@@ -146,6 +586,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,30 bis unter 35 Jahre,,,10.891
 2017,Prozent,,30 bis unter 35 Jahre,,,11.866
 2021,Prozent,,30 bis unter 35 Jahre,,,14.1
+1999,Prozent,,30 bis unter 35 Jahre,,,
+2000,Prozent,,30 bis unter 35 Jahre,,,
+2001,Prozent,,30 bis unter 35 Jahre,,,
+2002,Prozent,,30 bis unter 35 Jahre,,,
+2003,Prozent,,30 bis unter 35 Jahre,,,
+2004,Prozent,,30 bis unter 35 Jahre,,,
+2005,Prozent,,30 bis unter 35 Jahre,,,
+2006,Prozent,,30 bis unter 35 Jahre,,,
+2007,Prozent,,30 bis unter 35 Jahre,,,
+2008,Prozent,,30 bis unter 35 Jahre,,,
+2009,Prozent,,30 bis unter 35 Jahre,,,
+2010,Prozent,,30 bis unter 35 Jahre,,,
+2011,Prozent,,30 bis unter 35 Jahre,,,
+2012,Prozent,,30 bis unter 35 Jahre,,,
+2013,Prozent,,30 bis unter 35 Jahre,,,10.891
+2014,Prozent,,30 bis unter 35 Jahre,,,
+2015,Prozent,,30 bis unter 35 Jahre,,,
+2016,Prozent,,30 bis unter 35 Jahre,,,
+2017,Prozent,,30 bis unter 35 Jahre,,,11.866
+2018,Prozent,,30 bis unter 35 Jahre,,,
+2019,Prozent,,30 bis unter 35 Jahre,,,
+2020,Prozent,,30 bis unter 35 Jahre,,,
 1999,Prozent,,35 bis unter 40 Jahre,,,
 2003,Prozent,,35 bis unter 40 Jahre,,,
 2005,Prozent,,35 bis unter 40 Jahre,,,
@@ -153,6 +615,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,35 bis unter 40 Jahre,,,12.713
 2017,Prozent,,35 bis unter 40 Jahre,,,13.308
 2021,Prozent,,35 bis unter 40 Jahre,,,14.5
+1999,Prozent,,35 bis unter 40 Jahre,,,
+2000,Prozent,,35 bis unter 40 Jahre,,,
+2001,Prozent,,35 bis unter 40 Jahre,,,
+2002,Prozent,,35 bis unter 40 Jahre,,,
+2003,Prozent,,35 bis unter 40 Jahre,,,
+2004,Prozent,,35 bis unter 40 Jahre,,,
+2005,Prozent,,35 bis unter 40 Jahre,,,
+2006,Prozent,,35 bis unter 40 Jahre,,,
+2007,Prozent,,35 bis unter 40 Jahre,,,
+2008,Prozent,,35 bis unter 40 Jahre,,,
+2009,Prozent,,35 bis unter 40 Jahre,,,
+2010,Prozent,,35 bis unter 40 Jahre,,,
+2011,Prozent,,35 bis unter 40 Jahre,,,
+2012,Prozent,,35 bis unter 40 Jahre,,,
+2013,Prozent,,35 bis unter 40 Jahre,,,12.713
+2014,Prozent,,35 bis unter 40 Jahre,,,
+2015,Prozent,,35 bis unter 40 Jahre,,,
+2016,Prozent,,35 bis unter 40 Jahre,,,
+2017,Prozent,,35 bis unter 40 Jahre,,,13.308
+2018,Prozent,,35 bis unter 40 Jahre,,,
+2019,Prozent,,35 bis unter 40 Jahre,,,
+2020,Prozent,,35 bis unter 40 Jahre,,,
 1999,Prozent,,40 bis unter 45 Jahre,,,
 2003,Prozent,,40 bis unter 45 Jahre,,,
 2005,Prozent,,40 bis unter 45 Jahre,,,
@@ -160,6 +644,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,40 bis unter 45 Jahre,,,14.255
 2017,Prozent,,40 bis unter 45 Jahre,,,15.673
 2021,Prozent,,40 bis unter 45 Jahre,,,16.5
+1999,Prozent,,40 bis unter 45 Jahre,,,
+2000,Prozent,,40 bis unter 45 Jahre,,,
+2001,Prozent,,40 bis unter 45 Jahre,,,
+2002,Prozent,,40 bis unter 45 Jahre,,,
+2003,Prozent,,40 bis unter 45 Jahre,,,
+2004,Prozent,,40 bis unter 45 Jahre,,,
+2005,Prozent,,40 bis unter 45 Jahre,,,
+2006,Prozent,,40 bis unter 45 Jahre,,,
+2007,Prozent,,40 bis unter 45 Jahre,,,
+2008,Prozent,,40 bis unter 45 Jahre,,,
+2009,Prozent,,40 bis unter 45 Jahre,,,
+2010,Prozent,,40 bis unter 45 Jahre,,,
+2011,Prozent,,40 bis unter 45 Jahre,,,
+2012,Prozent,,40 bis unter 45 Jahre,,,
+2013,Prozent,,40 bis unter 45 Jahre,,,14.255
+2014,Prozent,,40 bis unter 45 Jahre,,,
+2015,Prozent,,40 bis unter 45 Jahre,,,
+2016,Prozent,,40 bis unter 45 Jahre,,,
+2017,Prozent,,40 bis unter 45 Jahre,,,15.673
+2018,Prozent,,40 bis unter 45 Jahre,,,
+2019,Prozent,,40 bis unter 45 Jahre,,,
+2020,Prozent,,40 bis unter 45 Jahre,,,
 1999,Prozent,,45 bis unter 50 Jahre,,,
 2003,Prozent,,45 bis unter 50 Jahre,,,
 2005,Prozent,,45 bis unter 50 Jahre,,,
@@ -167,6 +673,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,45 bis unter 50 Jahre,,,15.221
 2017,Prozent,,45 bis unter 50 Jahre,,,16.237
 2021,Prozent,,45 bis unter 50 Jahre,,,19.6
+1999,Prozent,,45 bis unter 50 Jahre,,,
+2000,Prozent,,45 bis unter 50 Jahre,,,
+2001,Prozent,,45 bis unter 50 Jahre,,,
+2002,Prozent,,45 bis unter 50 Jahre,,,
+2003,Prozent,,45 bis unter 50 Jahre,,,
+2004,Prozent,,45 bis unter 50 Jahre,,,
+2005,Prozent,,45 bis unter 50 Jahre,,,
+2006,Prozent,,45 bis unter 50 Jahre,,,
+2007,Prozent,,45 bis unter 50 Jahre,,,
+2008,Prozent,,45 bis unter 50 Jahre,,,
+2009,Prozent,,45 bis unter 50 Jahre,,,
+2010,Prozent,,45 bis unter 50 Jahre,,,
+2011,Prozent,,45 bis unter 50 Jahre,,,
+2012,Prozent,,45 bis unter 50 Jahre,,,
+2013,Prozent,,45 bis unter 50 Jahre,,,15.221
+2014,Prozent,,45 bis unter 50 Jahre,,,
+2015,Prozent,,45 bis unter 50 Jahre,,,
+2016,Prozent,,45 bis unter 50 Jahre,,,
+2017,Prozent,,45 bis unter 50 Jahre,,,16.237
+2018,Prozent,,45 bis unter 50 Jahre,,,
+2019,Prozent,,45 bis unter 50 Jahre,,,
+2020,Prozent,,45 bis unter 50 Jahre,,,
 1999,Prozent,,50 bis unter 55 Jahre,,,
 2003,Prozent,,50 bis unter 55 Jahre,,,
 2005,Prozent,,50 bis unter 55 Jahre,,,
@@ -174,6 +702,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,50 bis unter 55 Jahre,,,17.709
 2017,Prozent,,50 bis unter 55 Jahre,,,17.994
 2021,Prozent,,50 bis unter 55 Jahre,,,18.9
+1999,Prozent,,50 bis unter 55 Jahre,,,
+2000,Prozent,,50 bis unter 55 Jahre,,,
+2001,Prozent,,50 bis unter 55 Jahre,,,
+2002,Prozent,,50 bis unter 55 Jahre,,,
+2003,Prozent,,50 bis unter 55 Jahre,,,
+2004,Prozent,,50 bis unter 55 Jahre,,,
+2005,Prozent,,50 bis unter 55 Jahre,,,
+2006,Prozent,,50 bis unter 55 Jahre,,,
+2007,Prozent,,50 bis unter 55 Jahre,,,
+2008,Prozent,,50 bis unter 55 Jahre,,,
+2009,Prozent,,50 bis unter 55 Jahre,,,
+2010,Prozent,,50 bis unter 55 Jahre,,,
+2011,Prozent,,50 bis unter 55 Jahre,,,
+2012,Prozent,,50 bis unter 55 Jahre,,,
+2013,Prozent,,50 bis unter 55 Jahre,,,17.709
+2014,Prozent,,50 bis unter 55 Jahre,,,
+2015,Prozent,,50 bis unter 55 Jahre,,,
+2016,Prozent,,50 bis unter 55 Jahre,,,
+2017,Prozent,,50 bis unter 55 Jahre,,,17.994
+2018,Prozent,,50 bis unter 55 Jahre,,,
+2019,Prozent,,50 bis unter 55 Jahre,,,
+2020,Prozent,,50 bis unter 55 Jahre,,,
 1999,Prozent,,55 bis unter 60 Jahre,,,
 2003,Prozent,,55 bis unter 60 Jahre,,,
 2005,Prozent,,55 bis unter 60 Jahre,,,
@@ -181,6 +731,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,55 bis unter 60 Jahre,,,19.977
 2017,Prozent,,55 bis unter 60 Jahre,,,19.669
 2021,Prozent,,55 bis unter 60 Jahre,,,19.6
+1999,Prozent,,55 bis unter 60 Jahre,,,
+2000,Prozent,,55 bis unter 60 Jahre,,,
+2001,Prozent,,55 bis unter 60 Jahre,,,
+2002,Prozent,,55 bis unter 60 Jahre,,,
+2003,Prozent,,55 bis unter 60 Jahre,,,
+2004,Prozent,,55 bis unter 60 Jahre,,,
+2005,Prozent,,55 bis unter 60 Jahre,,,
+2006,Prozent,,55 bis unter 60 Jahre,,,
+2007,Prozent,,55 bis unter 60 Jahre,,,
+2008,Prozent,,55 bis unter 60 Jahre,,,
+2009,Prozent,,55 bis unter 60 Jahre,,,
+2010,Prozent,,55 bis unter 60 Jahre,,,
+2011,Prozent,,55 bis unter 60 Jahre,,,
+2012,Prozent,,55 bis unter 60 Jahre,,,
+2013,Prozent,,55 bis unter 60 Jahre,,,19.977
+2014,Prozent,,55 bis unter 60 Jahre,,,
+2015,Prozent,,55 bis unter 60 Jahre,,,
+2016,Prozent,,55 bis unter 60 Jahre,,,
+2017,Prozent,,55 bis unter 60 Jahre,,,19.669
+2018,Prozent,,55 bis unter 60 Jahre,,,
+2019,Prozent,,55 bis unter 60 Jahre,,,
+2020,Prozent,,55 bis unter 60 Jahre,,,
 1999,Prozent,,60 bis unter 56 Jahre,,,
 2003,Prozent,,60 bis unter 56 Jahre,,,
 2005,Prozent,,60 bis unter 56 Jahre,,,
@@ -188,6 +760,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,60 bis unter 56 Jahre,,,22.704
 2017,Prozent,,60 bis unter 56 Jahre,,,21.982
 2021,Prozent,,60 bis unter 56 Jahre,,,21.0
+1999,Prozent,,60 bis unter 56 Jahre,,,
+2000,Prozent,,60 bis unter 56 Jahre,,,
+2001,Prozent,,60 bis unter 56 Jahre,,,
+2002,Prozent,,60 bis unter 56 Jahre,,,
+2003,Prozent,,60 bis unter 56 Jahre,,,
+2004,Prozent,,60 bis unter 56 Jahre,,,
+2005,Prozent,,60 bis unter 56 Jahre,,,
+2006,Prozent,,60 bis unter 56 Jahre,,,
+2007,Prozent,,60 bis unter 56 Jahre,,,
+2008,Prozent,,60 bis unter 56 Jahre,,,
+2009,Prozent,,60 bis unter 56 Jahre,,,
+2010,Prozent,,60 bis unter 56 Jahre,,,
+2011,Prozent,,60 bis unter 56 Jahre,,,
+2012,Prozent,,60 bis unter 56 Jahre,,,
+2013,Prozent,,60 bis unter 56 Jahre,,,22.704
+2014,Prozent,,60 bis unter 56 Jahre,,,
+2015,Prozent,,60 bis unter 56 Jahre,,,
+2016,Prozent,,60 bis unter 56 Jahre,,,
+2017,Prozent,,60 bis unter 56 Jahre,,,21.982
+2018,Prozent,,60 bis unter 56 Jahre,,,
+2019,Prozent,,60 bis unter 56 Jahre,,,
+2020,Prozent,,60 bis unter 56 Jahre,,,
 1999,Prozent,,65 bis unter 70 Jahre,,,
 2003,Prozent,,65 bis unter 70 Jahre,,,
 2005,Prozent,,65 bis unter 70 Jahre,,,
@@ -195,6 +789,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,65 bis unter 70 Jahre,,,21.943
 2017,Prozent,,65 bis unter 70 Jahre,,,23.506
 2021,Prozent,,65 bis unter 70 Jahre,,,21.3
+1999,Prozent,,65 bis unter 70 Jahre,,,
+2000,Prozent,,65 bis unter 70 Jahre,,,
+2001,Prozent,,65 bis unter 70 Jahre,,,
+2002,Prozent,,65 bis unter 70 Jahre,,,
+2003,Prozent,,65 bis unter 70 Jahre,,,
+2004,Prozent,,65 bis unter 70 Jahre,,,
+2005,Prozent,,65 bis unter 70 Jahre,,,
+2006,Prozent,,65 bis unter 70 Jahre,,,
+2007,Prozent,,65 bis unter 70 Jahre,,,
+2008,Prozent,,65 bis unter 70 Jahre,,,
+2009,Prozent,,65 bis unter 70 Jahre,,,
+2010,Prozent,,65 bis unter 70 Jahre,,,
+2011,Prozent,,65 bis unter 70 Jahre,,,
+2012,Prozent,,65 bis unter 70 Jahre,,,
+2013,Prozent,,65 bis unter 70 Jahre,,,21.943
+2014,Prozent,,65 bis unter 70 Jahre,,,
+2015,Prozent,,65 bis unter 70 Jahre,,,
+2016,Prozent,,65 bis unter 70 Jahre,,,
+2017,Prozent,,65 bis unter 70 Jahre,,,23.506
+2018,Prozent,,65 bis unter 70 Jahre,,,
+2019,Prozent,,65 bis unter 70 Jahre,,,
+2020,Prozent,,65 bis unter 70 Jahre,,,
 1999,Prozent,,70 bis unter 75 Jahre,,,
 2003,Prozent,,70 bis unter 75 Jahre,,,
 2005,Prozent,,70 bis unter 75 Jahre,,,
@@ -202,6 +818,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,70 bis unter 75 Jahre,,,20.257
 2017,Prozent,,70 bis unter 75 Jahre,,,21.164
 2021,Prozent,,70 bis unter 75 Jahre,,,21.2
+1999,Prozent,,70 bis unter 75 Jahre,,,
+2000,Prozent,,70 bis unter 75 Jahre,,,
+2001,Prozent,,70 bis unter 75 Jahre,,,
+2002,Prozent,,70 bis unter 75 Jahre,,,
+2003,Prozent,,70 bis unter 75 Jahre,,,
+2004,Prozent,,70 bis unter 75 Jahre,,,
+2005,Prozent,,70 bis unter 75 Jahre,,,
+2006,Prozent,,70 bis unter 75 Jahre,,,
+2007,Prozent,,70 bis unter 75 Jahre,,,
+2008,Prozent,,70 bis unter 75 Jahre,,,
+2009,Prozent,,70 bis unter 75 Jahre,,,
+2010,Prozent,,70 bis unter 75 Jahre,,,
+2011,Prozent,,70 bis unter 75 Jahre,,,
+2012,Prozent,,70 bis unter 75 Jahre,,,
+2013,Prozent,,70 bis unter 75 Jahre,,,20.257
+2014,Prozent,,70 bis unter 75 Jahre,,,
+2015,Prozent,,70 bis unter 75 Jahre,,,
+2016,Prozent,,70 bis unter 75 Jahre,,,
+2017,Prozent,,70 bis unter 75 Jahre,,,21.164
+2018,Prozent,,70 bis unter 75 Jahre,,,
+2019,Prozent,,70 bis unter 75 Jahre,,,
+2020,Prozent,,70 bis unter 75 Jahre,,,
 1999,Prozent,,75 Jahre und älter,,,
 2003,Prozent,,75 Jahre und älter,,,
 2005,Prozent,,75 Jahre und älter,,,
@@ -209,6 +847,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,,75 Jahre und älter,,,17.403
 2017,Prozent,,75 Jahre und älter,,,17.837
 2021,Prozent,,75 Jahre und älter,,,16.2
+1999,Prozent,,75 Jahre und älter,,,
+2000,Prozent,,75 Jahre und älter,,,
+2001,Prozent,,75 Jahre und älter,,,
+2002,Prozent,,75 Jahre und älter,,,
+2003,Prozent,,75 Jahre und älter,,,
+2004,Prozent,,75 Jahre und älter,,,
+2005,Prozent,,75 Jahre und älter,,,
+2006,Prozent,,75 Jahre und älter,,,
+2007,Prozent,,75 Jahre und älter,,,
+2008,Prozent,,75 Jahre und älter,,,
+2009,Prozent,,75 Jahre und älter,,,
+2010,Prozent,,75 Jahre und älter,,,
+2011,Prozent,,75 Jahre und älter,,,
+2012,Prozent,,75 Jahre und älter,,,
+2013,Prozent,,75 Jahre und älter,,,17.403
+2014,Prozent,,75 Jahre und älter,,,
+2015,Prozent,,75 Jahre und älter,,,
+2016,Prozent,,75 Jahre und älter,,,
+2017,Prozent,,75 Jahre und älter,,,17.837
+2018,Prozent,,75 Jahre und älter,,,
+2019,Prozent,,75 Jahre und älter,,,
+2020,Prozent,,75 Jahre und älter,,,
 1999,Prozent,Weiblich,,,,10.2
 2003,Prozent,Weiblich,,,,11.2
 2005,Prozent,Weiblich,,,,11.8
@@ -216,6 +876,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,,,12.8
 2017,Prozent,Weiblich,,,,13.047
 2021,Prozent,Weiblich,,,,13.397
+1999,Prozent,Weiblich,,,,10.2
+2000,Prozent,Weiblich,,,,
+2001,Prozent,Weiblich,,,,
+2002,Prozent,Weiblich,,,,
+2003,Prozent,Weiblich,,,,11.2
+2004,Prozent,Weiblich,,,,
+2005,Prozent,Weiblich,,,,11.8
+2006,Prozent,Weiblich,,,,
+2007,Prozent,Weiblich,,,,
+2008,Prozent,Weiblich,,,,
+2009,Prozent,Weiblich,,,,12.4
+2010,Prozent,Weiblich,,,,
+2011,Prozent,Weiblich,,,,
+2012,Prozent,Weiblich,,,,
+2013,Prozent,Weiblich,,,,12.8
+2014,Prozent,Weiblich,,,,
+2015,Prozent,Weiblich,,,,
+2016,Prozent,Weiblich,,,,
+2017,Prozent,Weiblich,,,,13.047
+2018,Prozent,Weiblich,,,,
+2019,Prozent,Weiblich,,,,
+2020,Prozent,Weiblich,,,,
 1999,Prozent,Weiblich,,Baden-Württemberg,code08,9.252
 2003,Prozent,Weiblich,,Baden-Württemberg,code08,10.132
 2005,Prozent,Weiblich,,Baden-Württemberg,code08,11.239
@@ -223,6 +905,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Baden-Württemberg,code08,11.239
 2017,Prozent,Weiblich,,Baden-Württemberg,code08,12.125
 2021,Prozent,Weiblich,,Baden-Württemberg,code08,12.086
+1999,Prozent,Weiblich,,Baden-Württemberg,code08,9.252
+2000,Prozent,Weiblich,,Baden-Württemberg,code08,
+2001,Prozent,Weiblich,,Baden-Württemberg,code08,
+2002,Prozent,Weiblich,,Baden-Württemberg,code08,
+2003,Prozent,Weiblich,,Baden-Württemberg,code08,10.132
+2004,Prozent,Weiblich,,Baden-Württemberg,code08,
+2005,Prozent,Weiblich,,Baden-Württemberg,code08,11.239
+2006,Prozent,Weiblich,,Baden-Württemberg,code08,
+2007,Prozent,Weiblich,,Baden-Württemberg,code08,
+2008,Prozent,Weiblich,,Baden-Württemberg,code08,
+2009,Prozent,Weiblich,,Baden-Württemberg,code08,11.295
+2010,Prozent,Weiblich,,Baden-Württemberg,code08,
+2011,Prozent,Weiblich,,Baden-Württemberg,code08,
+2012,Prozent,Weiblich,,Baden-Württemberg,code08,
+2013,Prozent,Weiblich,,Baden-Württemberg,code08,11.239
+2014,Prozent,Weiblich,,Baden-Württemberg,code08,
+2015,Prozent,Weiblich,,Baden-Württemberg,code08,
+2016,Prozent,Weiblich,,Baden-Württemberg,code08,
+2017,Prozent,Weiblich,,Baden-Württemberg,code08,12.125
+2018,Prozent,Weiblich,,Baden-Württemberg,code08,
+2019,Prozent,Weiblich,,Baden-Württemberg,code08,
+2020,Prozent,Weiblich,,Baden-Württemberg,code08,
 1999,Prozent,Weiblich,,Bayern,code09,10.003
 2003,Prozent,Weiblich,,Bayern,code09,11.115
 2005,Prozent,Weiblich,,Bayern,code09,11.377
@@ -230,6 +934,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Bayern,code09,11.377
 2017,Prozent,Weiblich,,Bayern,code09,11.588
 2021,Prozent,Weiblich,,Bayern,code09,11.999
+1999,Prozent,Weiblich,,Bayern,code09,10.003
+2000,Prozent,Weiblich,,Bayern,code09,
+2001,Prozent,Weiblich,,Bayern,code09,
+2002,Prozent,Weiblich,,Bayern,code09,
+2003,Prozent,Weiblich,,Bayern,code09,11.115
+2004,Prozent,Weiblich,,Bayern,code09,
+2005,Prozent,Weiblich,,Bayern,code09,11.377
+2006,Prozent,Weiblich,,Bayern,code09,
+2007,Prozent,Weiblich,,Bayern,code09,
+2008,Prozent,Weiblich,,Bayern,code09,
+2009,Prozent,Weiblich,,Bayern,code09,11.571
+2010,Prozent,Weiblich,,Bayern,code09,
+2011,Prozent,Weiblich,,Bayern,code09,
+2012,Prozent,Weiblich,,Bayern,code09,
+2013,Prozent,Weiblich,,Bayern,code09,11.377
+2014,Prozent,Weiblich,,Bayern,code09,
+2015,Prozent,Weiblich,,Bayern,code09,
+2016,Prozent,Weiblich,,Bayern,code09,
+2017,Prozent,Weiblich,,Bayern,code09,11.588
+2018,Prozent,Weiblich,,Bayern,code09,
+2019,Prozent,Weiblich,,Bayern,code09,
+2020,Prozent,Weiblich,,Bayern,code09,
 1999,Prozent,Weiblich,,Berlin,code11,9.524
 2003,Prozent,Weiblich,,Berlin,code11,10.677
 2005,Prozent,Weiblich,,Berlin,code11,11.15
@@ -237,6 +963,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Berlin,code11,11.15
 2017,Prozent,Weiblich,,Berlin,code11,11.141
 2021,Prozent,Weiblich,,Berlin,code11,11.992
+1999,Prozent,Weiblich,,Berlin,code11,9.524
+2000,Prozent,Weiblich,,Berlin,code11,
+2001,Prozent,Weiblich,,Berlin,code11,
+2002,Prozent,Weiblich,,Berlin,code11,
+2003,Prozent,Weiblich,,Berlin,code11,10.677
+2004,Prozent,Weiblich,,Berlin,code11,
+2005,Prozent,Weiblich,,Berlin,code11,11.15
+2006,Prozent,Weiblich,,Berlin,code11,
+2007,Prozent,Weiblich,,Berlin,code11,
+2008,Prozent,Weiblich,,Berlin,code11,
+2009,Prozent,Weiblich,,Berlin,code11,10.861
+2010,Prozent,Weiblich,,Berlin,code11,
+2011,Prozent,Weiblich,,Berlin,code11,
+2012,Prozent,Weiblich,,Berlin,code11,
+2013,Prozent,Weiblich,,Berlin,code11,11.15
+2014,Prozent,Weiblich,,Berlin,code11,
+2015,Prozent,Weiblich,,Berlin,code11,
+2016,Prozent,Weiblich,,Berlin,code11,
+2017,Prozent,Weiblich,,Berlin,code11,11.141
+2018,Prozent,Weiblich,,Berlin,code11,
+2019,Prozent,Weiblich,,Berlin,code11,
+2020,Prozent,Weiblich,,Berlin,code11,
 1999,Prozent,Weiblich,,Brandenburg,code12,13.231
 2003,Prozent,Weiblich,,Brandenburg,code12,13.704
 2005,Prozent,Weiblich,,Brandenburg,code12,14.338
@@ -244,6 +992,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Brandenburg,code12,14.338
 2017,Prozent,Weiblich,,Brandenburg,code12,14.41
 2021,Prozent,Weiblich,,Brandenburg,code12,13.944
+1999,Prozent,Weiblich,,Brandenburg,code12,13.231
+2000,Prozent,Weiblich,,Brandenburg,code12,
+2001,Prozent,Weiblich,,Brandenburg,code12,
+2002,Prozent,Weiblich,,Brandenburg,code12,
+2003,Prozent,Weiblich,,Brandenburg,code12,13.704
+2004,Prozent,Weiblich,,Brandenburg,code12,
+2005,Prozent,Weiblich,,Brandenburg,code12,14.338
+2006,Prozent,Weiblich,,Brandenburg,code12,
+2007,Prozent,Weiblich,,Brandenburg,code12,
+2008,Prozent,Weiblich,,Brandenburg,code12,
+2009,Prozent,Weiblich,,Brandenburg,code12,14.31
+2010,Prozent,Weiblich,,Brandenburg,code12,
+2011,Prozent,Weiblich,,Brandenburg,code12,
+2012,Prozent,Weiblich,,Brandenburg,code12,
+2013,Prozent,Weiblich,,Brandenburg,code12,14.338
+2014,Prozent,Weiblich,,Brandenburg,code12,
+2015,Prozent,Weiblich,,Brandenburg,code12,
+2016,Prozent,Weiblich,,Brandenburg,code12,
+2017,Prozent,Weiblich,,Brandenburg,code12,14.41
+2018,Prozent,Weiblich,,Brandenburg,code12,
+2019,Prozent,Weiblich,,Brandenburg,code12,
+2020,Prozent,Weiblich,,Brandenburg,code12,
 1999,Prozent,Weiblich,,Bremen,code04,8.639
 2003,Prozent,Weiblich,,Bremen,code04,10.002
 2005,Prozent,Weiblich,,Bremen,code04,13.515
@@ -251,6 +1021,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Bremen,code04,13.515
 2017,Prozent,Weiblich,,Bremen,code04,15.55
 2021,Prozent,Weiblich,,Bremen,code04,14.697
+1999,Prozent,Weiblich,,Bremen,code04,8.639
+2000,Prozent,Weiblich,,Bremen,code04,
+2001,Prozent,Weiblich,,Bremen,code04,
+2002,Prozent,Weiblich,,Bremen,code04,
+2003,Prozent,Weiblich,,Bremen,code04,10.002
+2004,Prozent,Weiblich,,Bremen,code04,
+2005,Prozent,Weiblich,,Bremen,code04,13.515
+2006,Prozent,Weiblich,,Bremen,code04,
+2007,Prozent,Weiblich,,Bremen,code04,
+2008,Prozent,Weiblich,,Bremen,code04,
+2009,Prozent,Weiblich,,Bremen,code04,12.355
+2010,Prozent,Weiblich,,Bremen,code04,
+2011,Prozent,Weiblich,,Bremen,code04,
+2012,Prozent,Weiblich,,Bremen,code04,
+2013,Prozent,Weiblich,,Bremen,code04,13.515
+2014,Prozent,Weiblich,,Bremen,code04,
+2015,Prozent,Weiblich,,Bremen,code04,
+2016,Prozent,Weiblich,,Bremen,code04,
+2017,Prozent,Weiblich,,Bremen,code04,15.55
+2018,Prozent,Weiblich,,Bremen,code04,
+2019,Prozent,Weiblich,,Bremen,code04,
+2020,Prozent,Weiblich,,Bremen,code04,
 1999,Prozent,Weiblich,,Hamburg,code02,8.402
 2003,Prozent,Weiblich,,Hamburg,code02,8.45
 2005,Prozent,Weiblich,,Hamburg,code02,9.458
@@ -258,6 +1050,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Hamburg,code02,9.458
 2017,Prozent,Weiblich,,Hamburg,code02,10.146
 2021,Prozent,Weiblich,,Hamburg,code02,11.2
+1999,Prozent,Weiblich,,Hamburg,code02,8.402
+2000,Prozent,Weiblich,,Hamburg,code02,
+2001,Prozent,Weiblich,,Hamburg,code02,
+2002,Prozent,Weiblich,,Hamburg,code02,
+2003,Prozent,Weiblich,,Hamburg,code02,8.45
+2004,Prozent,Weiblich,,Hamburg,code02,
+2005,Prozent,Weiblich,,Hamburg,code02,9.458
+2006,Prozent,Weiblich,,Hamburg,code02,
+2007,Prozent,Weiblich,,Hamburg,code02,
+2008,Prozent,Weiblich,,Hamburg,code02,
+2009,Prozent,Weiblich,,Hamburg,code02,9.378
+2010,Prozent,Weiblich,,Hamburg,code02,
+2011,Prozent,Weiblich,,Hamburg,code02,
+2012,Prozent,Weiblich,,Hamburg,code02,
+2013,Prozent,Weiblich,,Hamburg,code02,9.458
+2014,Prozent,Weiblich,,Hamburg,code02,
+2015,Prozent,Weiblich,,Hamburg,code02,
+2016,Prozent,Weiblich,,Hamburg,code02,
+2017,Prozent,Weiblich,,Hamburg,code02,10.146
+2018,Prozent,Weiblich,,Hamburg,code02,
+2019,Prozent,Weiblich,,Hamburg,code02,
+2020,Prozent,Weiblich,,Hamburg,code02,
 1999,Prozent,Weiblich,,Hessen,code06,10.319
 2003,Prozent,Weiblich,,Hessen,code06,10.832
 2005,Prozent,Weiblich,,Hessen,code06,12.744
@@ -265,6 +1079,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Hessen,code06,12.744
 2017,Prozent,Weiblich,,Hessen,code06,12.853
 2021,Prozent,Weiblich,,Hessen,code06,12.957
+1999,Prozent,Weiblich,,Hessen,code06,10.319
+2000,Prozent,Weiblich,,Hessen,code06,
+2001,Prozent,Weiblich,,Hessen,code06,
+2002,Prozent,Weiblich,,Hessen,code06,
+2003,Prozent,Weiblich,,Hessen,code06,10.832
+2004,Prozent,Weiblich,,Hessen,code06,
+2005,Prozent,Weiblich,,Hessen,code06,12.744
+2006,Prozent,Weiblich,,Hessen,code06,
+2007,Prozent,Weiblich,,Hessen,code06,
+2008,Prozent,Weiblich,,Hessen,code06,
+2009,Prozent,Weiblich,,Hessen,code06,12.118
+2010,Prozent,Weiblich,,Hessen,code06,
+2011,Prozent,Weiblich,,Hessen,code06,
+2012,Prozent,Weiblich,,Hessen,code06,
+2013,Prozent,Weiblich,,Hessen,code06,12.744
+2014,Prozent,Weiblich,,Hessen,code06,
+2015,Prozent,Weiblich,,Hessen,code06,
+2016,Prozent,Weiblich,,Hessen,code06,
+2017,Prozent,Weiblich,,Hessen,code06,12.853
+2018,Prozent,Weiblich,,Hessen,code06,
+2019,Prozent,Weiblich,,Hessen,code06,
+2020,Prozent,Weiblich,,Hessen,code06,
 1999,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,13.913
 2003,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.037
 2005,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.546
@@ -272,6 +1108,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.546
 2017,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.691
 2021,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,18.895
+1999,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,13.913
+2000,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2001,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2002,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2003,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.037
+2004,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2005,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.546
+2006,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2007,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2008,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2009,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,17.299
+2010,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2011,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2012,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2013,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.546
+2014,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2015,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2016,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2017,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,16.691
+2018,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2019,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
+2020,Prozent,Weiblich,,Mecklenburg-Vorpommern,code13,
 1999,Prozent,Weiblich,,Niedersachsen,code03,8.66
 2003,Prozent,Weiblich,,Niedersachsen,code03,9.614
 2005,Prozent,Weiblich,,Niedersachsen,code03,13.141
@@ -279,6 +1137,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Niedersachsen,code03,13.141
 2017,Prozent,Weiblich,,Niedersachsen,code03,13.135
 2021,Prozent,Weiblich,,Niedersachsen,code03,15.343
+1999,Prozent,Weiblich,,Niedersachsen,code03,8.66
+2000,Prozent,Weiblich,,Niedersachsen,code03,
+2001,Prozent,Weiblich,,Niedersachsen,code03,
+2002,Prozent,Weiblich,,Niedersachsen,code03,
+2003,Prozent,Weiblich,,Niedersachsen,code03,9.614
+2004,Prozent,Weiblich,,Niedersachsen,code03,
+2005,Prozent,Weiblich,,Niedersachsen,code03,13.141
+2006,Prozent,Weiblich,,Niedersachsen,code03,
+2007,Prozent,Weiblich,,Niedersachsen,code03,
+2008,Prozent,Weiblich,,Niedersachsen,code03,
+2009,Prozent,Weiblich,,Niedersachsen,code03,11.724
+2010,Prozent,Weiblich,,Niedersachsen,code03,
+2011,Prozent,Weiblich,,Niedersachsen,code03,
+2012,Prozent,Weiblich,,Niedersachsen,code03,
+2013,Prozent,Weiblich,,Niedersachsen,code03,13.141
+2014,Prozent,Weiblich,,Niedersachsen,code03,
+2015,Prozent,Weiblich,,Niedersachsen,code03,
+2016,Prozent,Weiblich,,Niedersachsen,code03,
+2017,Prozent,Weiblich,,Niedersachsen,code03,13.135
+2018,Prozent,Weiblich,,Niedersachsen,code03,
+2019,Prozent,Weiblich,,Niedersachsen,code03,
+2020,Prozent,Weiblich,,Niedersachsen,code03,
 1999,Prozent,Weiblich,,Nordrhein-Westfalen,code05,9.788
 2003,Prozent,Weiblich,,Nordrhein-Westfalen,code05,10.578
 2005,Prozent,Weiblich,,Nordrhein-Westfalen,code05,13.28
@@ -286,6 +1166,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Nordrhein-Westfalen,code05,13.28
 2017,Prozent,Weiblich,,Nordrhein-Westfalen,code05,13.278
 2021,Prozent,Weiblich,,Nordrhein-Westfalen,code05,14.238
+1999,Prozent,Weiblich,,Nordrhein-Westfalen,code05,9.788
+2000,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2001,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2002,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2003,Prozent,Weiblich,,Nordrhein-Westfalen,code05,10.578
+2004,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2005,Prozent,Weiblich,,Nordrhein-Westfalen,code05,13.28
+2006,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2007,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2008,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2009,Prozent,Weiblich,,Nordrhein-Westfalen,code05,12.406
+2010,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2011,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2012,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2013,Prozent,Weiblich,,Nordrhein-Westfalen,code05,13.28
+2014,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2015,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2016,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2017,Prozent,Weiblich,,Nordrhein-Westfalen,code05,13.278
+2018,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2019,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
+2020,Prozent,Weiblich,,Nordrhein-Westfalen,code05,
 1999,Prozent,Weiblich,,Rheinland-Pfalz,code07,10.477
 2003,Prozent,Weiblich,,Rheinland-Pfalz,code07,11.139
 2005,Prozent,Weiblich,,Rheinland-Pfalz,code07,13.093
@@ -293,6 +1195,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Rheinland-Pfalz,code07,13.093
 2017,Prozent,Weiblich,,Rheinland-Pfalz,code07,13.992
 2021,Prozent,Weiblich,,Rheinland-Pfalz,code07,13.665
+1999,Prozent,Weiblich,,Rheinland-Pfalz,code07,10.477
+2000,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2001,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2002,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2003,Prozent,Weiblich,,Rheinland-Pfalz,code07,11.139
+2004,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2005,Prozent,Weiblich,,Rheinland-Pfalz,code07,13.093
+2006,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2007,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2008,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2009,Prozent,Weiblich,,Rheinland-Pfalz,code07,12.623
+2010,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2011,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2012,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2013,Prozent,Weiblich,,Rheinland-Pfalz,code07,13.093
+2014,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2015,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2016,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2017,Prozent,Weiblich,,Rheinland-Pfalz,code07,13.992
+2018,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2019,Prozent,Weiblich,,Rheinland-Pfalz,code07,
+2020,Prozent,Weiblich,,Rheinland-Pfalz,code07,
 1999,Prozent,Weiblich,,Saarland,code10,9.636
 2003,Prozent,Weiblich,,Saarland,code10,10.149
 2005,Prozent,Weiblich,,Saarland,code10,11.774
@@ -300,6 +1224,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Saarland,code10,11.774
 2017,Prozent,Weiblich,,Saarland,code10,10.881
 2021,Prozent,Weiblich,,Saarland,code10,13.296
+1999,Prozent,Weiblich,,Saarland,code10,9.636
+2000,Prozent,Weiblich,,Saarland,code10,
+2001,Prozent,Weiblich,,Saarland,code10,
+2002,Prozent,Weiblich,,Saarland,code10,
+2003,Prozent,Weiblich,,Saarland,code10,10.149
+2004,Prozent,Weiblich,,Saarland,code10,
+2005,Prozent,Weiblich,,Saarland,code10,11.774
+2006,Prozent,Weiblich,,Saarland,code10,
+2007,Prozent,Weiblich,,Saarland,code10,
+2008,Prozent,Weiblich,,Saarland,code10,
+2009,Prozent,Weiblich,,Saarland,code10,12.614
+2010,Prozent,Weiblich,,Saarland,code10,
+2011,Prozent,Weiblich,,Saarland,code10,
+2012,Prozent,Weiblich,,Saarland,code10,
+2013,Prozent,Weiblich,,Saarland,code10,11.774
+2014,Prozent,Weiblich,,Saarland,code10,
+2015,Prozent,Weiblich,,Saarland,code10,
+2016,Prozent,Weiblich,,Saarland,code10,
+2017,Prozent,Weiblich,,Saarland,code10,10.881
+2018,Prozent,Weiblich,,Saarland,code10,
+2019,Prozent,Weiblich,,Saarland,code10,
+2020,Prozent,Weiblich,,Saarland,code10,
 1999,Prozent,Weiblich,,Sachsen,code14,12.192
 2003,Prozent,Weiblich,,Sachsen,code14,13.58
 2005,Prozent,Weiblich,,Sachsen,code14,14.305
@@ -307,6 +1253,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Sachsen,code14,14.305
 2017,Prozent,Weiblich,,Sachsen,code14,15.083
 2021,Prozent,Weiblich,,Sachsen,code14,13.935
+1999,Prozent,Weiblich,,Sachsen,code14,12.192
+2000,Prozent,Weiblich,,Sachsen,code14,
+2001,Prozent,Weiblich,,Sachsen,code14,
+2002,Prozent,Weiblich,,Sachsen,code14,
+2003,Prozent,Weiblich,,Sachsen,code14,13.58
+2004,Prozent,Weiblich,,Sachsen,code14,
+2005,Prozent,Weiblich,,Sachsen,code14,14.305
+2006,Prozent,Weiblich,,Sachsen,code14,
+2007,Prozent,Weiblich,,Sachsen,code14,
+2008,Prozent,Weiblich,,Sachsen,code14,
+2009,Prozent,Weiblich,,Sachsen,code14,14.506
+2010,Prozent,Weiblich,,Sachsen,code14,
+2011,Prozent,Weiblich,,Sachsen,code14,
+2012,Prozent,Weiblich,,Sachsen,code14,
+2013,Prozent,Weiblich,,Sachsen,code14,14.305
+2014,Prozent,Weiblich,,Sachsen,code14,
+2015,Prozent,Weiblich,,Sachsen,code14,
+2016,Prozent,Weiblich,,Sachsen,code14,
+2017,Prozent,Weiblich,,Sachsen,code14,15.083
+2018,Prozent,Weiblich,,Sachsen,code14,
+2019,Prozent,Weiblich,,Sachsen,code14,
+2020,Prozent,Weiblich,,Sachsen,code14,
 1999,Prozent,Weiblich,,Sachsen-Anhalt,code15,12.709
 2003,Prozent,Weiblich,,Sachsen-Anhalt,code15,15.252
 2005,Prozent,Weiblich,,Sachsen-Anhalt,code15,16.793
@@ -314,6 +1282,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Sachsen-Anhalt,code15,16.793
 2017,Prozent,Weiblich,,Sachsen-Anhalt,code15,16.32
 2021,Prozent,Weiblich,,Sachsen-Anhalt,code15,15.953
+1999,Prozent,Weiblich,,Sachsen-Anhalt,code15,12.709
+2000,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2001,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2002,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2003,Prozent,Weiblich,,Sachsen-Anhalt,code15,15.252
+2004,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2005,Prozent,Weiblich,,Sachsen-Anhalt,code15,16.793
+2006,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2007,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2008,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2009,Prozent,Weiblich,,Sachsen-Anhalt,code15,16.757
+2010,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2011,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2012,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2013,Prozent,Weiblich,,Sachsen-Anhalt,code15,16.793
+2014,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2015,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2016,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2017,Prozent,Weiblich,,Sachsen-Anhalt,code15,16.32
+2018,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2019,Prozent,Weiblich,,Sachsen-Anhalt,code15,
+2020,Prozent,Weiblich,,Sachsen-Anhalt,code15,
 1999,Prozent,Weiblich,,Schleswig-Holstein,code01,8.37
 2003,Prozent,Weiblich,,Schleswig-Holstein,code01,9.496
 2005,Prozent,Weiblich,,Schleswig-Holstein,code01,11.615
@@ -321,6 +1311,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Schleswig-Holstein,code01,11.615
 2017,Prozent,Weiblich,,Schleswig-Holstein,code01,11.666
 2021,Prozent,Weiblich,,Schleswig-Holstein,code01,14.127
+1999,Prozent,Weiblich,,Schleswig-Holstein,code01,8.37
+2000,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2001,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2002,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2003,Prozent,Weiblich,,Schleswig-Holstein,code01,9.496
+2004,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2005,Prozent,Weiblich,,Schleswig-Holstein,code01,11.615
+2006,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2007,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2008,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2009,Prozent,Weiblich,,Schleswig-Holstein,code01,10.253
+2010,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2011,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2012,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2013,Prozent,Weiblich,,Schleswig-Holstein,code01,11.615
+2014,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2015,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2016,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2017,Prozent,Weiblich,,Schleswig-Holstein,code01,11.666
+2018,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2019,Prozent,Weiblich,,Schleswig-Holstein,code01,
+2020,Prozent,Weiblich,,Schleswig-Holstein,code01,
 1999,Prozent,Weiblich,,Thüringen,code16,13.194
 2003,Prozent,Weiblich,,Thüringen,code16,13.095
 2005,Prozent,Weiblich,,Thüringen,code16,14.886
@@ -328,6 +1340,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,,Thüringen,code16,14.886
 2017,Prozent,Weiblich,,Thüringen,code16,16.743
 2021,Prozent,Weiblich,,Thüringen,code16,14.215
+1999,Prozent,Weiblich,,Thüringen,code16,13.194
+2000,Prozent,Weiblich,,Thüringen,code16,
+2001,Prozent,Weiblich,,Thüringen,code16,
+2002,Prozent,Weiblich,,Thüringen,code16,
+2003,Prozent,Weiblich,,Thüringen,code16,13.095
+2004,Prozent,Weiblich,,Thüringen,code16,
+2005,Prozent,Weiblich,,Thüringen,code16,14.886
+2006,Prozent,Weiblich,,Thüringen,code16,
+2007,Prozent,Weiblich,,Thüringen,code16,
+2008,Prozent,Weiblich,,Thüringen,code16,
+2009,Prozent,Weiblich,,Thüringen,code16,14.248
+2010,Prozent,Weiblich,,Thüringen,code16,
+2011,Prozent,Weiblich,,Thüringen,code16,
+2012,Prozent,Weiblich,,Thüringen,code16,
+2013,Prozent,Weiblich,,Thüringen,code16,14.886
+2014,Prozent,Weiblich,,Thüringen,code16,
+2015,Prozent,Weiblich,,Thüringen,code16,
+2016,Prozent,Weiblich,,Thüringen,code16,
+2017,Prozent,Weiblich,,Thüringen,code16,16.743
+2018,Prozent,Weiblich,,Thüringen,code16,
+2019,Prozent,Weiblich,,Thüringen,code16,
+2020,Prozent,Weiblich,,Thüringen,code16,
 1999,Prozent,Weiblich,18 bis unter 20 Jahre,,,
 2003,Prozent,Weiblich,18 bis unter 20 Jahre,,,
 2005,Prozent,Weiblich,18 bis unter 20 Jahre,,,
@@ -335,6 +1369,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,18 bis unter 20 Jahre,,,2.814
 2017,Prozent,Weiblich,18 bis unter 20 Jahre,,,3.402
 2021,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+1999,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2000,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2001,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2002,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2003,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2004,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2005,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2006,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2007,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2008,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2009,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2010,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2011,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2012,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2013,Prozent,Weiblich,18 bis unter 20 Jahre,,,2.814
+2014,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2015,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2016,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2017,Prozent,Weiblich,18 bis unter 20 Jahre,,,3.402
+2018,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2019,Prozent,Weiblich,18 bis unter 20 Jahre,,,
+2020,Prozent,Weiblich,18 bis unter 20 Jahre,,,
 1999,Prozent,Weiblich,20 bis unter 25 Jahre,,,
 2003,Prozent,Weiblich,20 bis unter 25 Jahre,,,
 2005,Prozent,Weiblich,20 bis unter 25 Jahre,,,
@@ -342,6 +1398,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,20 bis unter 25 Jahre,,,4.952
 2017,Prozent,Weiblich,20 bis unter 25 Jahre,,,4.886
 2021,Prozent,Weiblich,20 bis unter 25 Jahre,,,5.3
+1999,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2000,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2001,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2002,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2003,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2004,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2005,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2006,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2007,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2008,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2009,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2010,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2011,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2012,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2013,Prozent,Weiblich,20 bis unter 25 Jahre,,,4.952
+2014,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2015,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2016,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2017,Prozent,Weiblich,20 bis unter 25 Jahre,,,4.886
+2018,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2019,Prozent,Weiblich,20 bis unter 25 Jahre,,,
+2020,Prozent,Weiblich,20 bis unter 25 Jahre,,,
 1999,Prozent,Weiblich,25 bis unter 30 Jahre,,,
 2003,Prozent,Weiblich,25 bis unter 30 Jahre,,,
 2005,Prozent,Weiblich,25 bis unter 30 Jahre,,,
@@ -349,6 +1427,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,25 bis unter 30 Jahre,,,7.15
 2017,Prozent,Weiblich,25 bis unter 30 Jahre,,,8.037
 2021,Prozent,Weiblich,25 bis unter 30 Jahre,,,9.0
+1999,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2000,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2001,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2002,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2003,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2004,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2005,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2006,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2007,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2008,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2009,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2010,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2011,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2012,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2013,Prozent,Weiblich,25 bis unter 30 Jahre,,,7.15
+2014,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2015,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2016,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2017,Prozent,Weiblich,25 bis unter 30 Jahre,,,8.037
+2018,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2019,Prozent,Weiblich,25 bis unter 30 Jahre,,,
+2020,Prozent,Weiblich,25 bis unter 30 Jahre,,,
 1999,Prozent,Weiblich,30 bis unter 35 Jahre,,,
 2003,Prozent,Weiblich,30 bis unter 35 Jahre,,,
 2005,Prozent,Weiblich,30 bis unter 35 Jahre,,,
@@ -356,6 +1456,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,30 bis unter 35 Jahre,,,9.543
 2017,Prozent,Weiblich,30 bis unter 35 Jahre,,,10.136
 2021,Prozent,Weiblich,30 bis unter 35 Jahre,,,12.5
+1999,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2000,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2001,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2002,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2003,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2004,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2005,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2006,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2007,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2008,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2009,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2010,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2011,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2012,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2013,Prozent,Weiblich,30 bis unter 35 Jahre,,,9.543
+2014,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2015,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2016,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2017,Prozent,Weiblich,30 bis unter 35 Jahre,,,10.136
+2018,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2019,Prozent,Weiblich,30 bis unter 35 Jahre,,,
+2020,Prozent,Weiblich,30 bis unter 35 Jahre,,,
 1999,Prozent,Weiblich,35 bis unter 40 Jahre,,,
 2003,Prozent,Weiblich,35 bis unter 40 Jahre,,,
 2005,Prozent,Weiblich,35 bis unter 40 Jahre,,,
@@ -363,6 +1485,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,35 bis unter 40 Jahre,,,10.402
 2017,Prozent,Weiblich,35 bis unter 40 Jahre,,,10.833
 2021,Prozent,Weiblich,35 bis unter 40 Jahre,,,11.3
+1999,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2000,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2001,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2002,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2003,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2004,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2005,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2006,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2007,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2008,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2009,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2010,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2011,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2012,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2013,Prozent,Weiblich,35 bis unter 40 Jahre,,,10.402
+2014,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2015,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2016,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2017,Prozent,Weiblich,35 bis unter 40 Jahre,,,10.833
+2018,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2019,Prozent,Weiblich,35 bis unter 40 Jahre,,,
+2020,Prozent,Weiblich,35 bis unter 40 Jahre,,,
 1999,Prozent,Weiblich,40 bis unter 45 Jahre,,,
 2003,Prozent,Weiblich,40 bis unter 45 Jahre,,,
 2005,Prozent,Weiblich,40 bis unter 45 Jahre,,,
@@ -370,6 +1514,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,40 bis unter 45 Jahre,,,11.419
 2017,Prozent,Weiblich,40 bis unter 45 Jahre,,,12.254
 2021,Prozent,Weiblich,40 bis unter 45 Jahre,,,13.3
+1999,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2000,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2001,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2002,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2003,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2004,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2005,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2006,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2007,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2008,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2009,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2010,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2011,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2012,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2013,Prozent,Weiblich,40 bis unter 45 Jahre,,,11.419
+2014,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2015,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2016,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2017,Prozent,Weiblich,40 bis unter 45 Jahre,,,12.254
+2018,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2019,Prozent,Weiblich,40 bis unter 45 Jahre,,,
+2020,Prozent,Weiblich,40 bis unter 45 Jahre,,,
 1999,Prozent,Weiblich,45 bis unter 50 Jahre,,,
 2003,Prozent,Weiblich,45 bis unter 50 Jahre,,,
 2005,Prozent,Weiblich,45 bis unter 50 Jahre,,,
@@ -377,6 +1543,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,45 bis unter 50 Jahre,,,12.21
 2017,Prozent,Weiblich,45 bis unter 50 Jahre,,,12.737
 2021,Prozent,Weiblich,45 bis unter 50 Jahre,,,15.3
+1999,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2000,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2001,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2002,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2003,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2004,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2005,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2006,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2007,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2008,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2009,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2010,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2011,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2012,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2013,Prozent,Weiblich,45 bis unter 50 Jahre,,,12.21
+2014,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2015,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2016,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2017,Prozent,Weiblich,45 bis unter 50 Jahre,,,12.737
+2018,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2019,Prozent,Weiblich,45 bis unter 50 Jahre,,,
+2020,Prozent,Weiblich,45 bis unter 50 Jahre,,,
 1999,Prozent,Weiblich,50 bis unter 55 Jahre,,,
 2003,Prozent,Weiblich,50 bis unter 55 Jahre,,,
 2005,Prozent,Weiblich,50 bis unter 55 Jahre,,,
@@ -384,6 +1572,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,50 bis unter 55 Jahre,,,15.033
 2017,Prozent,Weiblich,50 bis unter 55 Jahre,,,14.766
 2021,Prozent,Weiblich,50 bis unter 55 Jahre,,,15.4
+1999,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2000,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2001,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2002,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2003,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2004,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2005,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2006,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2007,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2008,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2009,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2010,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2011,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2012,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2013,Prozent,Weiblich,50 bis unter 55 Jahre,,,15.033
+2014,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2015,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2016,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2017,Prozent,Weiblich,50 bis unter 55 Jahre,,,14.766
+2018,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2019,Prozent,Weiblich,50 bis unter 55 Jahre,,,
+2020,Prozent,Weiblich,50 bis unter 55 Jahre,,,
 1999,Prozent,Weiblich,55 bis unter 60 Jahre,,,
 2003,Prozent,Weiblich,55 bis unter 60 Jahre,,,
 2005,Prozent,Weiblich,55 bis unter 60 Jahre,,,
@@ -391,6 +1601,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,55 bis unter 60 Jahre,,,17.315
 2017,Prozent,Weiblich,55 bis unter 60 Jahre,,,16.552
 2021,Prozent,Weiblich,55 bis unter 60 Jahre,,,16.6
+1999,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2000,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2001,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2002,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2003,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2004,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2005,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2006,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2007,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2008,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2009,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2010,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2011,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2012,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2013,Prozent,Weiblich,55 bis unter 60 Jahre,,,17.315
+2014,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2015,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2016,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2017,Prozent,Weiblich,55 bis unter 60 Jahre,,,16.552
+2018,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2019,Prozent,Weiblich,55 bis unter 60 Jahre,,,
+2020,Prozent,Weiblich,55 bis unter 60 Jahre,,,
 1999,Prozent,Weiblich,60 bis unter 56 Jahre,,,
 2003,Prozent,Weiblich,60 bis unter 56 Jahre,,,
 2005,Prozent,Weiblich,60 bis unter 56 Jahre,,,
@@ -398,6 +1630,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,60 bis unter 56 Jahre,,,20.751
 2017,Prozent,Weiblich,60 bis unter 56 Jahre,,,19.48
 2021,Prozent,Weiblich,60 bis unter 56 Jahre,,,18.4
+1999,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2000,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2001,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2002,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2003,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2004,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2005,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2006,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2007,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2008,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2009,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2010,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2011,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2012,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2013,Prozent,Weiblich,60 bis unter 56 Jahre,,,20.751
+2014,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2015,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2016,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2017,Prozent,Weiblich,60 bis unter 56 Jahre,,,19.48
+2018,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2019,Prozent,Weiblich,60 bis unter 56 Jahre,,,
+2020,Prozent,Weiblich,60 bis unter 56 Jahre,,,
 1999,Prozent,Weiblich,65 bis unter 70 Jahre,,,
 2003,Prozent,Weiblich,65 bis unter 70 Jahre,,,
 2005,Prozent,Weiblich,65 bis unter 70 Jahre,,,
@@ -405,6 +1659,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,65 bis unter 70 Jahre,,,20.324
 2017,Prozent,Weiblich,65 bis unter 70 Jahre,,,21.724
 2021,Prozent,Weiblich,65 bis unter 70 Jahre,,,19.5
+1999,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2000,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2001,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2002,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2003,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2004,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2005,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2006,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2007,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2008,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2009,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2010,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2011,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2012,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2013,Prozent,Weiblich,65 bis unter 70 Jahre,,,20.324
+2014,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2015,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2016,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2017,Prozent,Weiblich,65 bis unter 70 Jahre,,,21.724
+2018,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2019,Prozent,Weiblich,65 bis unter 70 Jahre,,,
+2020,Prozent,Weiblich,65 bis unter 70 Jahre,,,
 1999,Prozent,Weiblich,70 bis unter 75 Jahre,,,
 2003,Prozent,Weiblich,70 bis unter 75 Jahre,,,
 2005,Prozent,Weiblich,70 bis unter 75 Jahre,,,
@@ -412,6 +1688,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,70 bis unter 75 Jahre,,,19.42
 2017,Prozent,Weiblich,70 bis unter 75 Jahre,,,19.855
 2021,Prozent,Weiblich,70 bis unter 75 Jahre,,,19.9
+1999,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2000,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2001,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2002,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2003,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2004,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2005,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2006,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2007,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2008,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2009,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2010,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2011,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2012,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2013,Prozent,Weiblich,70 bis unter 75 Jahre,,,19.42
+2014,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2015,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2016,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2017,Prozent,Weiblich,70 bis unter 75 Jahre,,,19.855
+2018,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2019,Prozent,Weiblich,70 bis unter 75 Jahre,,,
+2020,Prozent,Weiblich,70 bis unter 75 Jahre,,,
 1999,Prozent,Weiblich,75 Jahre und älter,,,
 2003,Prozent,Weiblich,75 Jahre und älter,,,
 2005,Prozent,Weiblich,75 Jahre und älter,,,
@@ -419,6 +1717,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Weiblich,75 Jahre und älter,,,17.941
 2017,Prozent,Weiblich,75 Jahre und älter,,,18.029
 2021,Prozent,Weiblich,75 Jahre und älter,,,16.2
+1999,Prozent,Weiblich,75 Jahre und älter,,,
+2000,Prozent,Weiblich,75 Jahre und älter,,,
+2001,Prozent,Weiblich,75 Jahre und älter,,,
+2002,Prozent,Weiblich,75 Jahre und älter,,,
+2003,Prozent,Weiblich,75 Jahre und älter,,,
+2004,Prozent,Weiblich,75 Jahre und älter,,,
+2005,Prozent,Weiblich,75 Jahre und älter,,,
+2006,Prozent,Weiblich,75 Jahre und älter,,,
+2007,Prozent,Weiblich,75 Jahre und älter,,,
+2008,Prozent,Weiblich,75 Jahre und älter,,,
+2009,Prozent,Weiblich,75 Jahre und älter,,,
+2010,Prozent,Weiblich,75 Jahre und älter,,,
+2011,Prozent,Weiblich,75 Jahre und älter,,,
+2012,Prozent,Weiblich,75 Jahre und älter,,,
+2013,Prozent,Weiblich,75 Jahre und älter,,,17.941
+2014,Prozent,Weiblich,75 Jahre und älter,,,
+2015,Prozent,Weiblich,75 Jahre und älter,,,
+2016,Prozent,Weiblich,75 Jahre und älter,,,
+2017,Prozent,Weiblich,75 Jahre und älter,,,18.029
+2018,Prozent,Weiblich,75 Jahre und älter,,,
+2019,Prozent,Weiblich,75 Jahre und älter,,,
+2020,Prozent,Weiblich,75 Jahre und älter,,,
 1999,Prozent,Männlich,,,,11.1
 2003,Prozent,Männlich,,,,12.3
 2005,Prozent,Männlich,,,,13.0
@@ -426,6 +1746,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,,,15.4
 2017,Prozent,Männlich,,,,16.416
 2021,Prozent,Männlich,,,,17.291
+1999,Prozent,Männlich,,,,11.1
+2000,Prozent,Männlich,,,,
+2001,Prozent,Männlich,,,,
+2002,Prozent,Männlich,,,,
+2003,Prozent,Männlich,,,,12.3
+2004,Prozent,Männlich,,,,
+2005,Prozent,Männlich,,,,13.0
+2006,Prozent,Männlich,,,,
+2007,Prozent,Männlich,,,,
+2008,Prozent,Männlich,,,,
+2009,Prozent,Männlich,,,,14.2
+2010,Prozent,Männlich,,,,
+2011,Prozent,Männlich,,,,
+2012,Prozent,Männlich,,,,
+2013,Prozent,Männlich,,,,15.4
+2014,Prozent,Männlich,,,,
+2015,Prozent,Männlich,,,,
+2016,Prozent,Männlich,,,,
+2017,Prozent,Männlich,,,,16.416
+2018,Prozent,Männlich,,,,
+2019,Prozent,Männlich,,,,
+2020,Prozent,Männlich,,,,
 1999,Prozent,Männlich,,Baden-Württemberg,code08,10.272
 2003,Prozent,Männlich,,Baden-Württemberg,code08,11.694
 2005,Prozent,Männlich,,Baden-Württemberg,code08,12.052
@@ -433,6 +1775,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Baden-Württemberg,code08,14.524
 2017,Prozent,Männlich,,Baden-Württemberg,code08,15.306
 2021,Prozent,Männlich,,Baden-Württemberg,code08,15.831
+1999,Prozent,Männlich,,Baden-Württemberg,code08,10.272
+2000,Prozent,Männlich,,Baden-Württemberg,code08,
+2001,Prozent,Männlich,,Baden-Württemberg,code08,
+2002,Prozent,Männlich,,Baden-Württemberg,code08,
+2003,Prozent,Männlich,,Baden-Württemberg,code08,11.694
+2004,Prozent,Männlich,,Baden-Württemberg,code08,
+2005,Prozent,Männlich,,Baden-Württemberg,code08,12.052
+2006,Prozent,Männlich,,Baden-Württemberg,code08,
+2007,Prozent,Männlich,,Baden-Württemberg,code08,
+2008,Prozent,Männlich,,Baden-Württemberg,code08,
+2009,Prozent,Männlich,,Baden-Württemberg,code08,13.267
+2010,Prozent,Männlich,,Baden-Württemberg,code08,
+2011,Prozent,Männlich,,Baden-Württemberg,code08,
+2012,Prozent,Männlich,,Baden-Württemberg,code08,
+2013,Prozent,Männlich,,Baden-Württemberg,code08,14.524
+2014,Prozent,Männlich,,Baden-Württemberg,code08,
+2015,Prozent,Männlich,,Baden-Württemberg,code08,
+2016,Prozent,Männlich,,Baden-Württemberg,code08,
+2017,Prozent,Männlich,,Baden-Württemberg,code08,15.306
+2018,Prozent,Männlich,,Baden-Württemberg,code08,
+2019,Prozent,Männlich,,Baden-Württemberg,code08,
+2020,Prozent,Männlich,,Baden-Württemberg,code08,
 1999,Prozent,Männlich,,Bayern,code09,11.477
 2003,Prozent,Männlich,,Bayern,code09,12.192
 2005,Prozent,Männlich,,Bayern,code09,12.619
@@ -440,6 +1804,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Bayern,code09,15.023
 2017,Prozent,Männlich,,Bayern,code09,15.659
 2021,Prozent,Männlich,,Bayern,code09,15.666
+1999,Prozent,Männlich,,Bayern,code09,11.477
+2000,Prozent,Männlich,,Bayern,code09,
+2001,Prozent,Männlich,,Bayern,code09,
+2002,Prozent,Männlich,,Bayern,code09,
+2003,Prozent,Männlich,,Bayern,code09,12.192
+2004,Prozent,Männlich,,Bayern,code09,
+2005,Prozent,Männlich,,Bayern,code09,12.619
+2006,Prozent,Männlich,,Bayern,code09,
+2007,Prozent,Männlich,,Bayern,code09,
+2008,Prozent,Männlich,,Bayern,code09,
+2009,Prozent,Männlich,,Bayern,code09,13.964
+2010,Prozent,Männlich,,Bayern,code09,
+2011,Prozent,Männlich,,Bayern,code09,
+2012,Prozent,Männlich,,Bayern,code09,
+2013,Prozent,Männlich,,Bayern,code09,15.023
+2014,Prozent,Männlich,,Bayern,code09,
+2015,Prozent,Männlich,,Bayern,code09,
+2016,Prozent,Männlich,,Bayern,code09,
+2017,Prozent,Männlich,,Bayern,code09,15.659
+2018,Prozent,Männlich,,Bayern,code09,
+2019,Prozent,Männlich,,Bayern,code09,
+2020,Prozent,Männlich,,Bayern,code09,
 1999,Prozent,Männlich,,Berlin,code11,8.869
 2003,Prozent,Männlich,,Berlin,code11,9.642
 2005,Prozent,Männlich,,Berlin,code11,11.389
@@ -447,6 +1833,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Berlin,code11,12.313
 2017,Prozent,Männlich,,Berlin,code11,12.715
 2021,Prozent,Männlich,,Berlin,code11,14.23
+1999,Prozent,Männlich,,Berlin,code11,8.869
+2000,Prozent,Männlich,,Berlin,code11,
+2001,Prozent,Männlich,,Berlin,code11,
+2002,Prozent,Männlich,,Berlin,code11,
+2003,Prozent,Männlich,,Berlin,code11,9.642
+2004,Prozent,Männlich,,Berlin,code11,
+2005,Prozent,Männlich,,Berlin,code11,11.389
+2006,Prozent,Männlich,,Berlin,code11,
+2007,Prozent,Männlich,,Berlin,code11,
+2008,Prozent,Männlich,,Berlin,code11,
+2009,Prozent,Männlich,,Berlin,code11,11.521
+2010,Prozent,Männlich,,Berlin,code11,
+2011,Prozent,Männlich,,Berlin,code11,
+2012,Prozent,Männlich,,Berlin,code11,
+2013,Prozent,Männlich,,Berlin,code11,12.313
+2014,Prozent,Männlich,,Berlin,code11,
+2015,Prozent,Männlich,,Berlin,code11,
+2016,Prozent,Männlich,,Berlin,code11,
+2017,Prozent,Männlich,,Berlin,code11,12.715
+2018,Prozent,Männlich,,Berlin,code11,
+2019,Prozent,Männlich,,Berlin,code11,
+2020,Prozent,Männlich,,Berlin,code11,
 1999,Prozent,Männlich,,Brandenburg,code12,12.891
 2003,Prozent,Männlich,,Brandenburg,code12,12.559
 2005,Prozent,Männlich,,Brandenburg,code12,13.83
@@ -454,6 +1862,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Brandenburg,code12,15.498
 2017,Prozent,Männlich,,Brandenburg,code12,16.444
 2021,Prozent,Männlich,,Brandenburg,code12,18.682
+1999,Prozent,Männlich,,Brandenburg,code12,12.891
+2000,Prozent,Männlich,,Brandenburg,code12,
+2001,Prozent,Männlich,,Brandenburg,code12,
+2002,Prozent,Männlich,,Brandenburg,code12,
+2003,Prozent,Männlich,,Brandenburg,code12,12.559
+2004,Prozent,Männlich,,Brandenburg,code12,
+2005,Prozent,Männlich,,Brandenburg,code12,13.83
+2006,Prozent,Männlich,,Brandenburg,code12,
+2007,Prozent,Männlich,,Brandenburg,code12,
+2008,Prozent,Männlich,,Brandenburg,code12,
+2009,Prozent,Männlich,,Brandenburg,code12,15.353
+2010,Prozent,Männlich,,Brandenburg,code12,
+2011,Prozent,Männlich,,Brandenburg,code12,
+2012,Prozent,Männlich,,Brandenburg,code12,
+2013,Prozent,Männlich,,Brandenburg,code12,15.498
+2014,Prozent,Männlich,,Brandenburg,code12,
+2015,Prozent,Männlich,,Brandenburg,code12,
+2016,Prozent,Männlich,,Brandenburg,code12,
+2017,Prozent,Männlich,,Brandenburg,code12,16.444
+2018,Prozent,Männlich,,Brandenburg,code12,
+2019,Prozent,Männlich,,Brandenburg,code12,
+2020,Prozent,Männlich,,Brandenburg,code12,
 1999,Prozent,Männlich,,Bremen,code04,9.347
 2003,Prozent,Männlich,,Bremen,code04,11.639
 2005,Prozent,Männlich,,Bremen,code04,11.052
@@ -461,6 +1891,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Bremen,code04,13.582
 2017,Prozent,Männlich,,Bremen,code04,18.33
 2021,Prozent,Männlich,,Bremen,code04,18.793
+1999,Prozent,Männlich,,Bremen,code04,9.347
+2000,Prozent,Männlich,,Bremen,code04,
+2001,Prozent,Männlich,,Bremen,code04,
+2002,Prozent,Männlich,,Bremen,code04,
+2003,Prozent,Männlich,,Bremen,code04,11.639
+2004,Prozent,Männlich,,Bremen,code04,
+2005,Prozent,Männlich,,Bremen,code04,11.052
+2006,Prozent,Männlich,,Bremen,code04,
+2007,Prozent,Männlich,,Bremen,code04,
+2008,Prozent,Männlich,,Bremen,code04,
+2009,Prozent,Männlich,,Bremen,code04,11.17
+2010,Prozent,Männlich,,Bremen,code04,
+2011,Prozent,Männlich,,Bremen,code04,
+2012,Prozent,Männlich,,Bremen,code04,
+2013,Prozent,Männlich,,Bremen,code04,13.582
+2014,Prozent,Männlich,,Bremen,code04,
+2015,Prozent,Männlich,,Bremen,code04,
+2016,Prozent,Männlich,,Bremen,code04,
+2017,Prozent,Männlich,,Bremen,code04,18.33
+2018,Prozent,Männlich,,Bremen,code04,
+2019,Prozent,Männlich,,Bremen,code04,
+2020,Prozent,Männlich,,Bremen,code04,
 1999,Prozent,Männlich,,Hamburg,code02,8.204
 2003,Prozent,Männlich,,Hamburg,code02,9.839
 2005,Prozent,Männlich,,Hamburg,code02,11.122
@@ -468,6 +1920,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Hamburg,code02,11.511
 2017,Prozent,Männlich,,Hamburg,code02,12.849
 2021,Prozent,Männlich,,Hamburg,code02,12.609
+1999,Prozent,Männlich,,Hamburg,code02,8.204
+2000,Prozent,Männlich,,Hamburg,code02,
+2001,Prozent,Männlich,,Hamburg,code02,
+2002,Prozent,Männlich,,Hamburg,code02,
+2003,Prozent,Männlich,,Hamburg,code02,9.839
+2004,Prozent,Männlich,,Hamburg,code02,
+2005,Prozent,Männlich,,Hamburg,code02,11.122
+2006,Prozent,Männlich,,Hamburg,code02,
+2007,Prozent,Männlich,,Hamburg,code02,
+2008,Prozent,Männlich,,Hamburg,code02,
+2009,Prozent,Männlich,,Hamburg,code02,10.448
+2010,Prozent,Männlich,,Hamburg,code02,
+2011,Prozent,Männlich,,Hamburg,code02,
+2012,Prozent,Männlich,,Hamburg,code02,
+2013,Prozent,Männlich,,Hamburg,code02,11.511
+2014,Prozent,Männlich,,Hamburg,code02,
+2015,Prozent,Männlich,,Hamburg,code02,
+2016,Prozent,Männlich,,Hamburg,code02,
+2017,Prozent,Männlich,,Hamburg,code02,12.849
+2018,Prozent,Männlich,,Hamburg,code02,
+2019,Prozent,Männlich,,Hamburg,code02,
+2020,Prozent,Männlich,,Hamburg,code02,
 1999,Prozent,Männlich,,Hessen,code06,11.322
 2003,Prozent,Männlich,,Hessen,code06,12.379
 2005,Prozent,Männlich,,Hessen,code06,13.029
@@ -475,6 +1949,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Hessen,code06,15.721
 2017,Prozent,Männlich,,Hessen,code06,16.837
 2021,Prozent,Männlich,,Hessen,code06,18.153
+1999,Prozent,Männlich,,Hessen,code06,11.322
+2000,Prozent,Männlich,,Hessen,code06,
+2001,Prozent,Männlich,,Hessen,code06,
+2002,Prozent,Männlich,,Hessen,code06,
+2003,Prozent,Männlich,,Hessen,code06,12.379
+2004,Prozent,Männlich,,Hessen,code06,
+2005,Prozent,Männlich,,Hessen,code06,13.029
+2006,Prozent,Männlich,,Hessen,code06,
+2007,Prozent,Männlich,,Hessen,code06,
+2008,Prozent,Männlich,,Hessen,code06,
+2009,Prozent,Männlich,,Hessen,code06,14.522
+2010,Prozent,Männlich,,Hessen,code06,
+2011,Prozent,Männlich,,Hessen,code06,
+2012,Prozent,Männlich,,Hessen,code06,
+2013,Prozent,Männlich,,Hessen,code06,15.721
+2014,Prozent,Männlich,,Hessen,code06,
+2015,Prozent,Männlich,,Hessen,code06,
+2016,Prozent,Männlich,,Hessen,code06,
+2017,Prozent,Männlich,,Hessen,code06,16.837
+2018,Prozent,Männlich,,Hessen,code06,
+2019,Prozent,Männlich,,Hessen,code06,
+2020,Prozent,Männlich,,Hessen,code06,
 1999,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,13.705
 2003,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,16.471
 2005,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,17.022
@@ -482,6 +1978,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,18.039
 2017,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,20.759
 2021,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,19.337
+1999,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,13.705
+2000,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2001,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2002,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2003,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,16.471
+2004,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2005,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,17.022
+2006,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2007,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2008,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2009,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,17.148
+2010,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2011,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2012,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2013,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,18.039
+2014,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2015,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2016,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2017,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,20.759
+2018,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2019,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
+2020,Prozent,Männlich,,Mecklenburg-Vorpommern,code13,
 1999,Prozent,Männlich,,Niedersachsen,code03,10.326
 2003,Prozent,Männlich,,Niedersachsen,code03,11.33
 2005,Prozent,Männlich,,Niedersachsen,code03,12.227
@@ -489,6 +2007,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Niedersachsen,code03,15.226
 2017,Prozent,Männlich,,Niedersachsen,code03,17.169
 2021,Prozent,Männlich,,Niedersachsen,code03,19.559
+1999,Prozent,Männlich,,Niedersachsen,code03,10.326
+2000,Prozent,Männlich,,Niedersachsen,code03,
+2001,Prozent,Männlich,,Niedersachsen,code03,
+2002,Prozent,Männlich,,Niedersachsen,code03,
+2003,Prozent,Männlich,,Niedersachsen,code03,11.33
+2004,Prozent,Männlich,,Niedersachsen,code03,
+2005,Prozent,Männlich,,Niedersachsen,code03,12.227
+2006,Prozent,Männlich,,Niedersachsen,code03,
+2007,Prozent,Männlich,,Niedersachsen,code03,
+2008,Prozent,Männlich,,Niedersachsen,code03,
+2009,Prozent,Männlich,,Niedersachsen,code03,13.758
+2010,Prozent,Männlich,,Niedersachsen,code03,
+2011,Prozent,Männlich,,Niedersachsen,code03,
+2012,Prozent,Männlich,,Niedersachsen,code03,
+2013,Prozent,Männlich,,Niedersachsen,code03,15.226
+2014,Prozent,Männlich,,Niedersachsen,code03,
+2015,Prozent,Männlich,,Niedersachsen,code03,
+2016,Prozent,Männlich,,Niedersachsen,code03,
+2017,Prozent,Männlich,,Niedersachsen,code03,17.169
+2018,Prozent,Männlich,,Niedersachsen,code03,
+2019,Prozent,Männlich,,Niedersachsen,code03,
+2020,Prozent,Männlich,,Niedersachsen,code03,
 1999,Prozent,Männlich,,Nordrhein-Westfalen,code05,11.001
 2003,Prozent,Männlich,,Nordrhein-Westfalen,code05,12.668
 2005,Prozent,Männlich,,Nordrhein-Westfalen,code05,13.359
@@ -496,6 +2036,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Nordrhein-Westfalen,code05,16.444
 2017,Prozent,Männlich,,Nordrhein-Westfalen,code05,16.886
 2021,Prozent,Männlich,,Nordrhein-Westfalen,code05,18.556
+1999,Prozent,Männlich,,Nordrhein-Westfalen,code05,11.001
+2000,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2001,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2002,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2003,Prozent,Männlich,,Nordrhein-Westfalen,code05,12.668
+2004,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2005,Prozent,Männlich,,Nordrhein-Westfalen,code05,13.359
+2006,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2007,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2008,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2009,Prozent,Männlich,,Nordrhein-Westfalen,code05,14.77
+2010,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2011,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2012,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2013,Prozent,Männlich,,Nordrhein-Westfalen,code05,16.444
+2014,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2015,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2016,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2017,Prozent,Männlich,,Nordrhein-Westfalen,code05,16.886
+2018,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2019,Prozent,Männlich,,Nordrhein-Westfalen,code05,
+2020,Prozent,Männlich,,Nordrhein-Westfalen,code05,
 1999,Prozent,Männlich,,Rheinland-Pfalz,code07,11.727
 2003,Prozent,Männlich,,Rheinland-Pfalz,code07,13.281
 2005,Prozent,Männlich,,Rheinland-Pfalz,code07,14.264
@@ -503,6 +2065,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Rheinland-Pfalz,code07,17.158
 2017,Prozent,Männlich,,Rheinland-Pfalz,code07,18.091
 2021,Prozent,Männlich,,Rheinland-Pfalz,code07,19.923
+1999,Prozent,Männlich,,Rheinland-Pfalz,code07,11.727
+2000,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2001,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2002,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2003,Prozent,Männlich,,Rheinland-Pfalz,code07,13.281
+2004,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2005,Prozent,Männlich,,Rheinland-Pfalz,code07,14.264
+2006,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2007,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2008,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2009,Prozent,Männlich,,Rheinland-Pfalz,code07,15.394
+2010,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2011,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2012,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2013,Prozent,Männlich,,Rheinland-Pfalz,code07,17.158
+2014,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2015,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2016,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2017,Prozent,Männlich,,Rheinland-Pfalz,code07,18.091
+2018,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2019,Prozent,Männlich,,Rheinland-Pfalz,code07,
+2020,Prozent,Männlich,,Rheinland-Pfalz,code07,
 1999,Prozent,Männlich,,Saarland,code10,9.545
 2003,Prozent,Männlich,,Saarland,code10,10.37
 2005,Prozent,Männlich,,Saarland,code10,13.872
@@ -510,6 +2094,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Saarland,code10,16.365
 2017,Prozent,Männlich,,Saarland,code10,18.154
 2021,Prozent,Männlich,,Saarland,code10,20.088
+1999,Prozent,Männlich,,Saarland,code10,9.545
+2000,Prozent,Männlich,,Saarland,code10,
+2001,Prozent,Männlich,,Saarland,code10,
+2002,Prozent,Männlich,,Saarland,code10,
+2003,Prozent,Männlich,,Saarland,code10,10.37
+2004,Prozent,Männlich,,Saarland,code10,
+2005,Prozent,Männlich,,Saarland,code10,13.872
+2006,Prozent,Männlich,,Saarland,code10,
+2007,Prozent,Männlich,,Saarland,code10,
+2008,Prozent,Männlich,,Saarland,code10,
+2009,Prozent,Männlich,,Saarland,code10,15.562
+2010,Prozent,Männlich,,Saarland,code10,
+2011,Prozent,Männlich,,Saarland,code10,
+2012,Prozent,Männlich,,Saarland,code10,
+2013,Prozent,Männlich,,Saarland,code10,16.365
+2014,Prozent,Männlich,,Saarland,code10,
+2015,Prozent,Männlich,,Saarland,code10,
+2016,Prozent,Männlich,,Saarland,code10,
+2017,Prozent,Männlich,,Saarland,code10,18.154
+2018,Prozent,Männlich,,Saarland,code10,
+2019,Prozent,Männlich,,Saarland,code10,
+2020,Prozent,Männlich,,Saarland,code10,
 1999,Prozent,Männlich,,Sachsen,code14,11.486
 2003,Prozent,Männlich,,Sachsen,code14,13.14
 2005,Prozent,Männlich,,Sachsen,code14,12.946
@@ -517,6 +2123,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Sachsen,code14,14.278
 2017,Prozent,Männlich,,Sachsen,code14,15.772
 2021,Prozent,Männlich,,Sachsen,code14,15.576
+1999,Prozent,Männlich,,Sachsen,code14,11.486
+2000,Prozent,Männlich,,Sachsen,code14,
+2001,Prozent,Männlich,,Sachsen,code14,
+2002,Prozent,Männlich,,Sachsen,code14,
+2003,Prozent,Männlich,,Sachsen,code14,13.14
+2004,Prozent,Männlich,,Sachsen,code14,
+2005,Prozent,Männlich,,Sachsen,code14,12.946
+2006,Prozent,Männlich,,Sachsen,code14,
+2007,Prozent,Männlich,,Sachsen,code14,
+2008,Prozent,Männlich,,Sachsen,code14,
+2009,Prozent,Männlich,,Sachsen,code14,13.384
+2010,Prozent,Männlich,,Sachsen,code14,
+2011,Prozent,Männlich,,Sachsen,code14,
+2012,Prozent,Männlich,,Sachsen,code14,
+2013,Prozent,Männlich,,Sachsen,code14,14.278
+2014,Prozent,Männlich,,Sachsen,code14,
+2015,Prozent,Männlich,,Sachsen,code14,
+2016,Prozent,Männlich,,Sachsen,code14,
+2017,Prozent,Männlich,,Sachsen,code14,15.772
+2018,Prozent,Männlich,,Sachsen,code14,
+2019,Prozent,Männlich,,Sachsen,code14,
+2020,Prozent,Männlich,,Sachsen,code14,
 1999,Prozent,Männlich,,Sachsen-Anhalt,code15,13.609
 2003,Prozent,Männlich,,Sachsen-Anhalt,code15,14.71
 2005,Prozent,Männlich,,Sachsen-Anhalt,code15,15.755
@@ -524,6 +2152,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Sachsen-Anhalt,code15,17.477
 2017,Prozent,Männlich,,Sachsen-Anhalt,code15,18.706
 2021,Prozent,Männlich,,Sachsen-Anhalt,code15,17.078
+1999,Prozent,Männlich,,Sachsen-Anhalt,code15,13.609
+2000,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2001,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2002,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2003,Prozent,Männlich,,Sachsen-Anhalt,code15,14.71
+2004,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2005,Prozent,Männlich,,Sachsen-Anhalt,code15,15.755
+2006,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2007,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2008,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2009,Prozent,Männlich,,Sachsen-Anhalt,code15,15.801
+2010,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2011,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2012,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2013,Prozent,Männlich,,Sachsen-Anhalt,code15,17.477
+2014,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2015,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2016,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2017,Prozent,Männlich,,Sachsen-Anhalt,code15,18.706
+2018,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2019,Prozent,Männlich,,Sachsen-Anhalt,code15,
+2020,Prozent,Männlich,,Sachsen-Anhalt,code15,
 1999,Prozent,Männlich,,Schleswig-Holstein,code01,10.106
 2003,Prozent,Männlich,,Schleswig-Holstein,code01,11.019
 2005,Prozent,Männlich,,Schleswig-Holstein,code01,12.484
@@ -531,6 +2181,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Schleswig-Holstein,code01,14.95
 2017,Prozent,Männlich,,Schleswig-Holstein,code01,16.843
 2021,Prozent,Männlich,,Schleswig-Holstein,code01,19.078
+1999,Prozent,Männlich,,Schleswig-Holstein,code01,10.106
+2000,Prozent,Männlich,,Schleswig-Holstein,code01,
+2001,Prozent,Männlich,,Schleswig-Holstein,code01,
+2002,Prozent,Männlich,,Schleswig-Holstein,code01,
+2003,Prozent,Männlich,,Schleswig-Holstein,code01,11.019
+2004,Prozent,Männlich,,Schleswig-Holstein,code01,
+2005,Prozent,Männlich,,Schleswig-Holstein,code01,12.484
+2006,Prozent,Männlich,,Schleswig-Holstein,code01,
+2007,Prozent,Männlich,,Schleswig-Holstein,code01,
+2008,Prozent,Männlich,,Schleswig-Holstein,code01,
+2009,Prozent,Männlich,,Schleswig-Holstein,code01,13.974
+2010,Prozent,Männlich,,Schleswig-Holstein,code01,
+2011,Prozent,Männlich,,Schleswig-Holstein,code01,
+2012,Prozent,Männlich,,Schleswig-Holstein,code01,
+2013,Prozent,Männlich,,Schleswig-Holstein,code01,14.95
+2014,Prozent,Männlich,,Schleswig-Holstein,code01,
+2015,Prozent,Männlich,,Schleswig-Holstein,code01,
+2016,Prozent,Männlich,,Schleswig-Holstein,code01,
+2017,Prozent,Männlich,,Schleswig-Holstein,code01,16.843
+2018,Prozent,Männlich,,Schleswig-Holstein,code01,
+2019,Prozent,Männlich,,Schleswig-Holstein,code01,
+2020,Prozent,Männlich,,Schleswig-Holstein,code01,
 1999,Prozent,Männlich,,Thüringen,code16,14.3
 2003,Prozent,Männlich,,Thüringen,code16,13.129
 2005,Prozent,Männlich,,Thüringen,code16,14.549
@@ -538,6 +2210,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,,Thüringen,code16,15.858
 2017,Prozent,Männlich,,Thüringen,code16,18.608
 2021,Prozent,Männlich,,Thüringen,code16,19.585
+1999,Prozent,Männlich,,Thüringen,code16,14.3
+2000,Prozent,Männlich,,Thüringen,code16,
+2001,Prozent,Männlich,,Thüringen,code16,
+2002,Prozent,Männlich,,Thüringen,code16,
+2003,Prozent,Männlich,,Thüringen,code16,13.129
+2004,Prozent,Männlich,,Thüringen,code16,
+2005,Prozent,Männlich,,Thüringen,code16,14.549
+2006,Prozent,Männlich,,Thüringen,code16,
+2007,Prozent,Männlich,,Thüringen,code16,
+2008,Prozent,Männlich,,Thüringen,code16,
+2009,Prozent,Männlich,,Thüringen,code16,15.579
+2010,Prozent,Männlich,,Thüringen,code16,
+2011,Prozent,Männlich,,Thüringen,code16,
+2012,Prozent,Männlich,,Thüringen,code16,
+2013,Prozent,Männlich,,Thüringen,code16,15.858
+2014,Prozent,Männlich,,Thüringen,code16,
+2015,Prozent,Männlich,,Thüringen,code16,
+2016,Prozent,Männlich,,Thüringen,code16,
+2017,Prozent,Männlich,,Thüringen,code16,18.608
+2018,Prozent,Männlich,,Thüringen,code16,
+2019,Prozent,Männlich,,Thüringen,code16,
+2020,Prozent,Männlich,,Thüringen,code16,
 1999,Prozent,Männlich,18 bis unter 20 Jahre,,,
 2003,Prozent,Männlich,18 bis unter 20 Jahre,,,
 2005,Prozent,Männlich,18 bis unter 20 Jahre,,,
@@ -545,6 +2239,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,18 bis unter 20 Jahre,,,4.058
 2017,Prozent,Männlich,18 bis unter 20 Jahre,,,4.955
 2021,Prozent,Männlich,18 bis unter 20 Jahre,,,
+1999,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2000,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2001,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2002,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2003,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2004,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2005,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2006,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2007,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2008,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2009,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2010,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2011,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2012,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2013,Prozent,Männlich,18 bis unter 20 Jahre,,,4.058
+2014,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2015,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2016,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2017,Prozent,Männlich,18 bis unter 20 Jahre,,,4.955
+2018,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2019,Prozent,Männlich,18 bis unter 20 Jahre,,,
+2020,Prozent,Männlich,18 bis unter 20 Jahre,,,
 1999,Prozent,Männlich,20 bis unter 25 Jahre,,,
 2003,Prozent,Männlich,20 bis unter 25 Jahre,,,
 2005,Prozent,Männlich,20 bis unter 25 Jahre,,,
@@ -552,6 +2268,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,20 bis unter 25 Jahre,,,6.166
 2017,Prozent,Männlich,20 bis unter 25 Jahre,,,6.973
 2021,Prozent,Männlich,20 bis unter 25 Jahre,,,7.1
+1999,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2000,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2001,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2002,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2003,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2004,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2005,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2006,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2007,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2008,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2009,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2010,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2011,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2012,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2013,Prozent,Männlich,20 bis unter 25 Jahre,,,6.166
+2014,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2015,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2016,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2017,Prozent,Männlich,20 bis unter 25 Jahre,,,6.973
+2018,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2019,Prozent,Männlich,20 bis unter 25 Jahre,,,
+2020,Prozent,Männlich,20 bis unter 25 Jahre,,,
 1999,Prozent,Männlich,25 bis unter 30 Jahre,,,
 2003,Prozent,Männlich,25 bis unter 30 Jahre,,,
 2005,Prozent,Männlich,25 bis unter 30 Jahre,,,
@@ -559,6 +2297,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,25 bis unter 30 Jahre,,,8.808
 2017,Prozent,Männlich,25 bis unter 30 Jahre,,,10.569
 2021,Prozent,Männlich,25 bis unter 30 Jahre,,,12.4
+1999,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2000,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2001,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2002,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2003,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2004,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2005,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2006,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2007,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2008,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2009,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2010,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2011,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2012,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2013,Prozent,Männlich,25 bis unter 30 Jahre,,,8.808
+2014,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2015,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2016,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2017,Prozent,Männlich,25 bis unter 30 Jahre,,,10.569
+2018,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2019,Prozent,Männlich,25 bis unter 30 Jahre,,,
+2020,Prozent,Männlich,25 bis unter 30 Jahre,,,
 1999,Prozent,Männlich,30 bis unter 35 Jahre,,,
 2003,Prozent,Männlich,30 bis unter 35 Jahre,,,
 2005,Prozent,Männlich,30 bis unter 35 Jahre,,,
@@ -566,6 +2326,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,30 bis unter 35 Jahre,,,12.162
 2017,Prozent,Männlich,30 bis unter 35 Jahre,,,13.395
 2021,Prozent,Männlich,30 bis unter 35 Jahre,,,15.4
+1999,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2000,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2001,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2002,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2003,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2004,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2005,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2006,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2007,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2008,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2009,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2010,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2011,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2012,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2013,Prozent,Männlich,30 bis unter 35 Jahre,,,12.162
+2014,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2015,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2016,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2017,Prozent,Männlich,30 bis unter 35 Jahre,,,13.395
+2018,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2019,Prozent,Männlich,30 bis unter 35 Jahre,,,
+2020,Prozent,Männlich,30 bis unter 35 Jahre,,,
 1999,Prozent,Männlich,35 bis unter 40 Jahre,,,
 2003,Prozent,Männlich,35 bis unter 40 Jahre,,,
 2005,Prozent,Männlich,35 bis unter 40 Jahre,,,
@@ -573,6 +2355,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,35 bis unter 40 Jahre,,,14.883
 2017,Prozent,Männlich,35 bis unter 40 Jahre,,,15.493
 2021,Prozent,Männlich,35 bis unter 40 Jahre,,,17.2
+1999,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2000,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2001,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2002,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2003,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2004,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2005,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2006,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2007,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2008,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2009,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2010,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2011,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2012,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2013,Prozent,Männlich,35 bis unter 40 Jahre,,,14.883
+2014,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2015,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2016,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2017,Prozent,Männlich,35 bis unter 40 Jahre,,,15.493
+2018,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2019,Prozent,Männlich,35 bis unter 40 Jahre,,,
+2020,Prozent,Männlich,35 bis unter 40 Jahre,,,
 1999,Prozent,Männlich,40 bis unter 45 Jahre,,,
 2003,Prozent,Männlich,40 bis unter 45 Jahre,,,
 2005,Prozent,Männlich,40 bis unter 45 Jahre,,,
@@ -580,6 +2384,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,40 bis unter 45 Jahre,,,16.774
 2017,Prozent,Männlich,40 bis unter 45 Jahre,,,18.725
 2021,Prozent,Männlich,40 bis unter 45 Jahre,,,19.5
+1999,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2000,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2001,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2002,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2003,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2004,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2005,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2006,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2007,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2008,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2009,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2010,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2011,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2012,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2013,Prozent,Männlich,40 bis unter 45 Jahre,,,16.774
+2014,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2015,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2016,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2017,Prozent,Männlich,40 bis unter 45 Jahre,,,18.725
+2018,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2019,Prozent,Männlich,40 bis unter 45 Jahre,,,
+2020,Prozent,Männlich,40 bis unter 45 Jahre,,,
 1999,Prozent,Männlich,45 bis unter 50 Jahre,,,
 2003,Prozent,Männlich,45 bis unter 50 Jahre,,,
 2005,Prozent,Männlich,45 bis unter 50 Jahre,,,
@@ -587,6 +2413,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,45 bis unter 50 Jahre,,,17.912
 2017,Prozent,Männlich,45 bis unter 50 Jahre,,,19.369
 2021,Prozent,Männlich,45 bis unter 50 Jahre,,,23.5
+1999,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2000,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2001,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2002,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2003,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2004,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2005,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2006,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2007,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2008,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2009,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2010,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2011,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2012,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2013,Prozent,Männlich,45 bis unter 50 Jahre,,,17.912
+2014,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2015,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2016,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2017,Prozent,Männlich,45 bis unter 50 Jahre,,,19.369
+2018,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2019,Prozent,Männlich,45 bis unter 50 Jahre,,,
+2020,Prozent,Männlich,45 bis unter 50 Jahre,,,
 1999,Prozent,Männlich,50 bis unter 55 Jahre,,,
 2003,Prozent,Männlich,50 bis unter 55 Jahre,,,
 2005,Prozent,Männlich,50 bis unter 55 Jahre,,,
@@ -594,6 +2442,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,50 bis unter 55 Jahre,,,20.19
 2017,Prozent,Männlich,50 bis unter 55 Jahre,,,20.941
 2021,Prozent,Männlich,50 bis unter 55 Jahre,,,21.9
+1999,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2000,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2001,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2002,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2003,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2004,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2005,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2006,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2007,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2008,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2009,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2010,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2011,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2012,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2013,Prozent,Männlich,50 bis unter 55 Jahre,,,20.19
+2014,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2015,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2016,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2017,Prozent,Männlich,50 bis unter 55 Jahre,,,20.941
+2018,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2019,Prozent,Männlich,50 bis unter 55 Jahre,,,
+2020,Prozent,Männlich,50 bis unter 55 Jahre,,,
 1999,Prozent,Männlich,55 bis unter 60 Jahre,,,
 2003,Prozent,Männlich,55 bis unter 60 Jahre,,,
 2005,Prozent,Männlich,55 bis unter 60 Jahre,,,
@@ -601,6 +2471,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,55 bis unter 60 Jahre,,,22.595
 2017,Prozent,Männlich,55 bis unter 60 Jahre,,,22.571
 2021,Prozent,Männlich,55 bis unter 60 Jahre,,,22.4
+1999,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2000,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2001,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2002,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2003,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2004,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2005,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2006,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2007,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2008,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2009,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2010,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2011,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2012,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2013,Prozent,Männlich,55 bis unter 60 Jahre,,,22.595
+2014,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2015,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2016,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2017,Prozent,Männlich,55 bis unter 60 Jahre,,,22.571
+2018,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2019,Prozent,Männlich,55 bis unter 60 Jahre,,,
+2020,Prozent,Männlich,55 bis unter 60 Jahre,,,
 1999,Prozent,Männlich,60 bis unter 56 Jahre,,,
 2003,Prozent,Männlich,60 bis unter 56 Jahre,,,
 2005,Prozent,Männlich,60 bis unter 56 Jahre,,,
@@ -608,6 +2500,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,60 bis unter 56 Jahre,,,24.674
 2017,Prozent,Männlich,60 bis unter 56 Jahre,,,24.454
 2021,Prozent,Männlich,60 bis unter 56 Jahre,,,23.6
+1999,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2000,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2001,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2002,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2003,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2004,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2005,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2006,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2007,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2008,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2009,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2010,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2011,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2012,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2013,Prozent,Männlich,60 bis unter 56 Jahre,,,24.674
+2014,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2015,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2016,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2017,Prozent,Männlich,60 bis unter 56 Jahre,,,24.454
+2018,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2019,Prozent,Männlich,60 bis unter 56 Jahre,,,
+2020,Prozent,Männlich,60 bis unter 56 Jahre,,,
 1999,Prozent,Männlich,65 bis unter 70 Jahre,,,
 2003,Prozent,Männlich,65 bis unter 70 Jahre,,,
 2005,Prozent,Männlich,65 bis unter 70 Jahre,,,
@@ -615,6 +2529,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,65 bis unter 70 Jahre,,,23.634
 2017,Prozent,Männlich,65 bis unter 70 Jahre,,,25.324
 2021,Prozent,Männlich,65 bis unter 70 Jahre,,,23.1
+1999,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2000,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2001,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2002,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2003,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2004,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2005,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2006,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2007,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2008,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2009,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2010,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2011,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2012,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2013,Prozent,Männlich,65 bis unter 70 Jahre,,,23.634
+2014,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2015,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2016,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2017,Prozent,Männlich,65 bis unter 70 Jahre,,,25.324
+2018,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2019,Prozent,Männlich,65 bis unter 70 Jahre,,,
+2020,Prozent,Männlich,65 bis unter 70 Jahre,,,
 1999,Prozent,Männlich,70 bis unter 75 Jahre,,,
 2003,Prozent,Männlich,70 bis unter 75 Jahre,,,
 2005,Prozent,Männlich,70 bis unter 75 Jahre,,,
@@ -622,6 +2558,28 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,70 bis unter 75 Jahre,,,21.188
 2017,Prozent,Männlich,70 bis unter 75 Jahre,,,22.585
 2021,Prozent,Männlich,70 bis unter 75 Jahre,,,22.6
+1999,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2000,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2001,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2002,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2003,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2004,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2005,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2006,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2007,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2008,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2009,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2010,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2011,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2012,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2013,Prozent,Männlich,70 bis unter 75 Jahre,,,21.188
+2014,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2015,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2016,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2017,Prozent,Männlich,70 bis unter 75 Jahre,,,22.585
+2018,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2019,Prozent,Männlich,70 bis unter 75 Jahre,,,
+2020,Prozent,Männlich,70 bis unter 75 Jahre,,,
 1999,Prozent,Männlich,75 Jahre und älter,,,
 2003,Prozent,Männlich,75 Jahre und älter,,,
 2005,Prozent,Männlich,75 Jahre und älter,,,
@@ -629,3 +2587,25 @@ Year,Units,Geschlecht,Altersklasse,Bundesland,GeoCode,Value
 2013,Prozent,Männlich,75 Jahre und älter,,,16.689
 2017,Prozent,Männlich,75 Jahre und älter,,,17.586
 2021,Prozent,Männlich,75 Jahre und älter,,,16.2
+1999,Prozent,Männlich,75 Jahre und älter,,,
+2000,Prozent,Männlich,75 Jahre und älter,,,
+2001,Prozent,Männlich,75 Jahre und älter,,,
+2002,Prozent,Männlich,75 Jahre und älter,,,
+2003,Prozent,Männlich,75 Jahre und älter,,,
+2004,Prozent,Männlich,75 Jahre und älter,,,
+2005,Prozent,Männlich,75 Jahre und älter,,,
+2006,Prozent,Männlich,75 Jahre und älter,,,
+2007,Prozent,Männlich,75 Jahre und älter,,,
+2008,Prozent,Männlich,75 Jahre und älter,,,
+2009,Prozent,Männlich,75 Jahre und älter,,,
+2010,Prozent,Männlich,75 Jahre und älter,,,
+2011,Prozent,Männlich,75 Jahre und älter,,,
+2012,Prozent,Männlich,75 Jahre und älter,,,
+2013,Prozent,Männlich,75 Jahre und älter,,,16.689
+2014,Prozent,Männlich,75 Jahre und älter,,,
+2015,Prozent,Männlich,75 Jahre und älter,,,
+2016,Prozent,Männlich,75 Jahre und älter,,,
+2017,Prozent,Männlich,75 Jahre und älter,,,17.586
+2018,Prozent,Männlich,75 Jahre und älter,,,
+2019,Prozent,Männlich,75 Jahre und älter,,,
+2020,Prozent,Männlich,75 Jahre und älter,,,
