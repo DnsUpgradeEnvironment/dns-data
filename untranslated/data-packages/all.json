@@ -3654,7 +3654,7 @@
           }
         ]
       },
-      "title": "Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie LDCs pro Jahr"
+      "title": "Anzahl der Studierenden und Forschenden aus Entwicklungsländern sowie <abbr title=\"am wenigsten entwickelte Länder (Least developed countries)\">LDCs</abbr> pro Jahr"
     },
     {
       "path": "16-2/data.csv",
