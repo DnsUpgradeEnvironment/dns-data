@@ -1,18 +1,4 @@
 Year,Units,Time series,Value
-1991,Percentage,Government deficit,-3.189
-1992,Percentage,Government deficit,-2.605
-1993,Percentage,Government deficit,-3.095
-1994,Percentage,Government deficit,-2.524
-1995,Percentage,Government deficit,-9.432
-1996,Percentage,Government deficit,-3.57
-1997,Percentage,Government deficit,-2.942
-1998,Percentage,Government deficit,-2.567
-1999,Percentage,Government deficit,-1.719
-2000,Percentage,Government deficit,-1.585
-2001,Percentage,Government deficit,-3.025
-2002,Percentage,Government deficit,-3.875
-2003,Percentage,Government deficit,-3.704
-2004,Percentage,Government deficit,-3.334
 2005,Percentage,Government deficit,-3.319
 2006,Percentage,Government deficit,-1.653
 2007,Percentage,Government deficit,0.261
@@ -30,20 +16,6 @@ Year,Units,Time series,Value
 2019,Percentage,Government deficit,1.531
 2020,Percentage,Government deficit,-4.333
 2021,Percentage,Government deficit,-3.727
-1991,Percentage,Government deficit,-3.189
-1992,Percentage,Government deficit,-2.605
-1993,Percentage,Government deficit,-3.095
-1994,Percentage,Government deficit,-2.524
-1995,Percentage,Government deficit,-9.432
-1996,Percentage,Government deficit,-3.57
-1997,Percentage,Government deficit,-2.942
-1998,Percentage,Government deficit,-2.567
-1999,Percentage,Government deficit,-1.719
-2000,Percentage,Government deficit,-1.585
-2001,Percentage,Government deficit,-3.025
-2002,Percentage,Government deficit,-3.875
-2003,Percentage,Government deficit,-3.704
-2004,Percentage,Government deficit,-3.334
 2005,Percentage,Government deficit,-3.319
 2006,Percentage,Government deficit,-1.653
 2007,Percentage,Government deficit,0.261
@@ -60,20 +32,6 @@ Year,Units,Time series,Value
 2018,Percentage,Government deficit,1.95
 2019,Percentage,Government deficit,1.531
 2020,Percentage,Government deficit,-4.333
-1991,Percentage,Structural deficit,
-1992,Percentage,Structural deficit,
-1993,Percentage,Structural deficit,
-1994,Percentage,Structural deficit,
-1995,Percentage,Structural deficit,
-1996,Percentage,Structural deficit,
-1997,Percentage,Structural deficit,
-1998,Percentage,Structural deficit,
-1999,Percentage,Structural deficit,
-2000,Percentage,Structural deficit,
-2001,Percentage,Structural deficit,
-2002,Percentage,Structural deficit,
-2003,Percentage,Structural deficit,
-2004,Percentage,Structural deficit,
 2005,Percentage,Structural deficit,-2.2
 2006,Percentage,Structural deficit,-1.8
 2007,Percentage,Structural deficit,-0.7
@@ -91,20 +49,6 @@ Year,Units,Time series,Value
 2019,Percentage,Structural deficit,0.8
 2020,Percentage,Structural deficit,-2.2
 2021,Percentage,Structural deficit,-2.5
-1991,Percentage,Structural deficit,
-1992,Percentage,Structural deficit,
-1993,Percentage,Structural deficit,
-1994,Percentage,Structural deficit,
-1995,Percentage,Structural deficit,
-1996,Percentage,Structural deficit,
-1997,Percentage,Structural deficit,
-1998,Percentage,Structural deficit,
-1999,Percentage,Structural deficit,
-2000,Percentage,Structural deficit,
-2001,Percentage,Structural deficit,
-2002,Percentage,Structural deficit,
-2003,Percentage,Structural deficit,
-2004,Percentage,Structural deficit,
 2005,Percentage,Structural deficit,-2.2
 2006,Percentage,Structural deficit,-1.8
 2007,Percentage,Structural deficit,-0.7
@@ -121,20 +65,6 @@ Year,Units,Time series,Value
 2018,Percentage,Structural deficit,1.3
 2019,Percentage,Structural deficit,0.8
 2020,Percentage,Structural deficit,-2.2
-1991,Percentage,Change of gross domestic product (price-adjusted),
-1992,Percentage,Change of gross domestic product (price-adjusted),1.9
-1993,Percentage,Change of gross domestic product (price-adjusted),-1.0
-1994,Percentage,Change of gross domestic product (price-adjusted),2.4
-1995,Percentage,Change of gross domestic product (price-adjusted),1.5
-1996,Percentage,Change of gross domestic product (price-adjusted),0.8
-1997,Percentage,Change of gross domestic product (price-adjusted),1.8
-1998,Percentage,Change of gross domestic product (price-adjusted),2.0
-1999,Percentage,Change of gross domestic product (price-adjusted),1.9
-2000,Percentage,Change of gross domestic product (price-adjusted),2.9
-2001,Percentage,Change of gross domestic product (price-adjusted),1.7
-2002,Percentage,Change of gross domestic product (price-adjusted),-0.2
-2003,Percentage,Change of gross domestic product (price-adjusted),-0.7
-2004,Percentage,Change of gross domestic product (price-adjusted),1.2
 2005,Percentage,Change of gross domestic product (price-adjusted),0.7
 2006,Percentage,Change of gross domestic product (price-adjusted),3.8
 2007,Percentage,Change of gross domestic product (price-adjusted),3.0
@@ -152,20 +82,6 @@ Year,Units,Time series,Value
 2019,Percentage,Change of gross domestic product (price-adjusted),1.1
 2020,Percentage,Change of gross domestic product (price-adjusted),-3.7
 2021,Percentage,Change of gross domestic product (price-adjusted),2.6
-1991,Percentage,Change of gross domestic product (price-adjusted),
-1992,Percentage,Change of gross domestic product (price-adjusted),1.9
-1993,Percentage,Change of gross domestic product (price-adjusted),-1.0
-1994,Percentage,Change of gross domestic product (price-adjusted),2.4
-1995,Percentage,Change of gross domestic product (price-adjusted),1.5
-1996,Percentage,Change of gross domestic product (price-adjusted),0.8
-1997,Percentage,Change of gross domestic product (price-adjusted),1.8
-1998,Percentage,Change of gross domestic product (price-adjusted),2.0
-1999,Percentage,Change of gross domestic product (price-adjusted),1.9
-2000,Percentage,Change of gross domestic product (price-adjusted),2.9
-2001,Percentage,Change of gross domestic product (price-adjusted),1.7
-2002,Percentage,Change of gross domestic product (price-adjusted),-0.2
-2003,Percentage,Change of gross domestic product (price-adjusted),-0.7
-2004,Percentage,Change of gross domestic product (price-adjusted),1.2
 2005,Percentage,Change of gross domestic product (price-adjusted),0.7
 2006,Percentage,Change of gross domestic product (price-adjusted),3.8
 2007,Percentage,Change of gross domestic product (price-adjusted),3.0
