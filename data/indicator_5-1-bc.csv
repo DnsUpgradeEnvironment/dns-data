@@ -46,6 +46,8 @@ Year,Units,time series,Value
 2019,percentage,on supervisory boards of listed and fully co-determined companies,33.9
 2020,percentage,on supervisory boards of listed and fully co-determined companies,35.2
 2021,percentage,on supervisory boards of listed and fully co-determined companies,35.9
+2030.0,percentage,on supervisory boards of listed and fully co-determined companies,
+2025.0,percentage,on supervisory boards of listed and fully co-determined companies,
 1999,percentage,in management positions in the federal civil service,19.3
 2000,percentage,in management positions in the federal civil service,19.5
 2001,percentage,in management positions in the federal civil service,18.5
@@ -93,3 +95,5 @@ Year,Units,time series,Value
 2019,percentage,in management positions in the federal civil service,37.6
 2020,percentage,in management positions in the federal civil service,
 2021,percentage,in management positions in the federal civil service,39.6
+2030.0,percentage,in management positions in the federal civil service,
+2025.0,percentage,in management positions in the federal civil service,

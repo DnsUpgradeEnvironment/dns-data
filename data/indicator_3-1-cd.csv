@@ -34,6 +34,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adolescents,,,6.6
 2019,percentage,smoking rate among adolescents,,,5.6
 2020,percentage,smoking rate among adolescents,,,
+2030.0,percentage,smoking rate among adolescents,,,
 2003,percentage,smoking rate among adults,,,27.4
 2004,percentage,smoking rate among adults,,,
 2005,percentage,smoking rate among adults,,,27.2
@@ -69,6 +70,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,,,
 2019,percentage,smoking rate among adults,,,
 2020,percentage,smoking rate among adults,,,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,baden-wuerttemberg,code08,25.53
 2004,percentage,smoking rate among adults,baden-wuerttemberg,code08,
 2005,percentage,smoking rate among adults,baden-wuerttemberg,code08,24.5
@@ -104,6 +106,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,baden-wuerttemberg,code08,
 2019,percentage,smoking rate among adults,baden-wuerttemberg,code08,
 2020,percentage,smoking rate among adults,baden-wuerttemberg,code08,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,bavaria,code09,25.12
 2004,percentage,smoking rate among adults,bavaria,code09,
 2005,percentage,smoking rate among adults,bavaria,code09,24.2
@@ -139,6 +142,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,bavaria,code09,
 2019,percentage,smoking rate among adults,bavaria,code09,
 2020,percentage,smoking rate among adults,bavaria,code09,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,berlin,code11,34.12
 2004,percentage,smoking rate among adults,berlin,code11,
 2005,percentage,smoking rate among adults,berlin,code11,32.7
@@ -174,6 +178,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,berlin,code11,
 2019,percentage,smoking rate among adults,berlin,code11,
 2020,percentage,smoking rate among adults,berlin,code11,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,brandenburg,code12,30.35
 2004,percentage,smoking rate among adults,brandenburg,code12,
 2005,percentage,smoking rate among adults,brandenburg,code12,29.0
@@ -209,6 +214,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,brandenburg,code12,
 2019,percentage,smoking rate among adults,brandenburg,code12,
 2020,percentage,smoking rate among adults,brandenburg,code12,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,bremen,code04,33.85
 2004,percentage,smoking rate among adults,bremen,code04,
 2005,percentage,smoking rate among adults,bremen,code04,30.8
@@ -244,6 +250,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,bremen,code04,
 2019,percentage,smoking rate among adults,bremen,code04,
 2020,percentage,smoking rate among adults,bremen,code04,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,hamburg,code02,30.95
 2004,percentage,smoking rate among adults,hamburg,code02,
 2005,percentage,smoking rate among adults,hamburg,code02,29.8
@@ -279,6 +286,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,hamburg,code02,
 2019,percentage,smoking rate among adults,hamburg,code02,
 2020,percentage,smoking rate among adults,hamburg,code02,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,hesse,code06,27.15
 2004,percentage,smoking rate among adults,hesse,code06,
 2005,percentage,smoking rate among adults,hesse,code06,25.9
@@ -314,6 +322,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,hesse,code06,
 2019,percentage,smoking rate among adults,hesse,code06,
 2020,percentage,smoking rate among adults,hesse,code06,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,mecklenburg western pomerania,code13,30.61
 2004,percentage,smoking rate among adults,mecklenburg western pomerania,code13,
 2005,percentage,smoking rate among adults,mecklenburg western pomerania,code13,33.3
@@ -349,6 +358,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,mecklenburg western pomerania,code13,
 2019,percentage,smoking rate among adults,mecklenburg western pomerania,code13,
 2020,percentage,smoking rate among adults,mecklenburg western pomerania,code13,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,lower saxony,code03,28.44
 2004,percentage,smoking rate among adults,lower saxony,code03,
 2005,percentage,smoking rate among adults,lower saxony,code03,28.1
@@ -384,6 +394,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,lower saxony,code03,
 2019,percentage,smoking rate among adults,lower saxony,code03,
 2020,percentage,smoking rate among adults,lower saxony,code03,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,north rhine-westphalia,code05,27.63
 2004,percentage,smoking rate among adults,north rhine-westphalia,code05,
 2005,percentage,smoking rate among adults,north rhine-westphalia,code05,29.0
@@ -419,6 +430,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,north rhine-westphalia,code05,
 2019,percentage,smoking rate among adults,north rhine-westphalia,code05,
 2020,percentage,smoking rate among adults,north rhine-westphalia,code05,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,rhineland palatinate,code07,27.59
 2004,percentage,smoking rate among adults,rhineland palatinate,code07,
 2005,percentage,smoking rate among adults,rhineland palatinate,code07,26.0
@@ -454,6 +466,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,rhineland palatinate,code07,
 2019,percentage,smoking rate among adults,rhineland palatinate,code07,
 2020,percentage,smoking rate among adults,rhineland palatinate,code07,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,saarland,code10,25.19
 2004,percentage,smoking rate among adults,saarland,code10,
 2005,percentage,smoking rate among adults,saarland,code10,26.2
@@ -489,6 +502,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,saarland,code10,
 2019,percentage,smoking rate among adults,saarland,code10,
 2020,percentage,smoking rate among adults,saarland,code10,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,saxony,code14,24.92
 2004,percentage,smoking rate among adults,saxony,code14,
 2005,percentage,smoking rate among adults,saxony,code14,24.4
@@ -524,6 +538,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,saxony,code14,
 2019,percentage,smoking rate among adults,saxony,code14,
 2020,percentage,smoking rate among adults,saxony,code14,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,saxony-anhalt,code15,27.23
 2004,percentage,smoking rate among adults,saxony-anhalt,code15,
 2005,percentage,smoking rate among adults,saxony-anhalt,code15,27.9
@@ -559,6 +574,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,saxony-anhalt,code15,
 2019,percentage,smoking rate among adults,saxony-anhalt,code15,
 2020,percentage,smoking rate among adults,saxony-anhalt,code15,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,schleswig-holstein,code01,30.31
 2004,percentage,smoking rate among adults,schleswig-holstein,code01,
 2005,percentage,smoking rate among adults,schleswig-holstein,code01,29.5
@@ -594,6 +610,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,schleswig-holstein,code01,
 2019,percentage,smoking rate among adults,schleswig-holstein,code01,
 2020,percentage,smoking rate among adults,schleswig-holstein,code01,
+2030.0,percentage,smoking rate among adults,,,
 2003,percentage,smoking rate among adults,thuringia,code16,26.9
 2004,percentage,smoking rate among adults,thuringia,code16,
 2005,percentage,smoking rate among adults,thuringia,code16,27.2
@@ -629,3 +646,4 @@ Year,Units,time series,federal state,GeoCode,Value
 2018,percentage,smoking rate among adults,thuringia,code16,
 2019,percentage,smoking rate among adults,thuringia,code16,
 2020,percentage,smoking rate among adults,thuringia,code16,
+2030.0,percentage,smoking rate among adults,,,
