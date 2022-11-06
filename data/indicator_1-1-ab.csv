@@ -11,17 +11,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,material deprivation,,european union,12.4
 2020,percentage,material deprivation,,european union,12.7
 2021,percentage,material deprivation,,european union,11.9
-2010,percentage,material deprivation,,european union,17.8
-2011,percentage,material deprivation,,european union,18.5
-2012,percentage,material deprivation,,european union,19.8
-2013,percentage,material deprivation,,european union,19.5
-2014,percentage,material deprivation,,european union,19.7
-2015,percentage,material deprivation,,european union,17.5
-2016,percentage,material deprivation,,european union,16.0
-2017,percentage,material deprivation,,european union,14.0
-2018,percentage,material deprivation,,european union,13.1
-2019,percentage,material deprivation,,european union,12.4
-2020,percentage,material deprivation,,european union,12.7
 2010,percentage,material deprivation,female,european union,18.4
 2011,percentage,material deprivation,female,european union,19.1
 2012,percentage,material deprivation,female,european union,20.3
@@ -34,17 +23,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,material deprivation,female,european union,13.2
 2020,percentage,material deprivation,female,european union,13.3
 2021,percentage,material deprivation,female,european union,12.3
-2010,percentage,material deprivation,female,european union,18.4
-2011,percentage,material deprivation,female,european union,19.1
-2012,percentage,material deprivation,female,european union,20.3
-2013,percentage,material deprivation,female,european union,20.1
-2014,percentage,material deprivation,female,european union,20.5
-2015,percentage,material deprivation,female,european union,18.3
-2016,percentage,material deprivation,female,european union,16.9
-2017,percentage,material deprivation,female,european union,14.9
-2018,percentage,material deprivation,female,european union,13.9
-2019,percentage,material deprivation,female,european union,13.2
-2020,percentage,material deprivation,female,european union,13.3
 2010,percentage,material deprivation,male,european union,17.2
 2011,percentage,material deprivation,male,european union,17.8
 2012,percentage,material deprivation,male,european union,19.1
@@ -57,17 +35,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,material deprivation,male,european union,11.5
 2020,percentage,material deprivation,male,european union,12.0
 2021,percentage,material deprivation,male,european union,11.4
-2010,percentage,material deprivation,male,european union,17.2
-2011,percentage,material deprivation,male,european union,17.8
-2012,percentage,material deprivation,male,european union,19.1
-2013,percentage,material deprivation,male,european union,18.9
-2014,percentage,material deprivation,male,european union,18.8
-2015,percentage,material deprivation,male,european union,16.5
-2016,percentage,material deprivation,male,european union,15.1
-2017,percentage,material deprivation,male,european union,13.2
-2018,percentage,material deprivation,male,european union,12.1
-2019,percentage,material deprivation,male,european union,11.5
-2020,percentage,material deprivation,male,european union,12.0
 2010,percentage,material deprivation,,germany,11.1
 2011,percentage,material deprivation,,germany,12.4
 2012,percentage,material deprivation,,germany,11.3
@@ -80,17 +47,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,material deprivation,,germany,6.8
 2020,percentage,material deprivation,,germany,9.1
 2021,percentage,material deprivation,,germany,8.8
-2010,percentage,material deprivation,,germany,11.1
-2011,percentage,material deprivation,,germany,12.4
-2012,percentage,material deprivation,,germany,11.3
-2013,percentage,material deprivation,,germany,11.6
-2014,percentage,material deprivation,,germany,12.3
-2015,percentage,material deprivation,,germany,11.2
-2016,percentage,material deprivation,,germany,9.6
-2017,percentage,material deprivation,,germany,8.3
-2018,percentage,material deprivation,,germany,7.6
-2019,percentage,material deprivation,,germany,6.8
-2020,percentage,material deprivation,,germany,9.1
 2010,percentage,material deprivation,female,germany,11.5
 2011,percentage,material deprivation,female,germany,13.3
 2012,percentage,material deprivation,female,germany,12.2
@@ -103,17 +59,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,material deprivation,female,germany,7.2
 2020,percentage,material deprivation,female,germany,9.3
 2021,percentage,material deprivation,female,germany,8.8
-2010,percentage,material deprivation,female,germany,11.5
-2011,percentage,material deprivation,female,germany,13.3
-2012,percentage,material deprivation,female,germany,12.2
-2013,percentage,material deprivation,female,germany,12.5
-2014,percentage,material deprivation,female,germany,13.3
-2015,percentage,material deprivation,female,germany,12.2
-2016,percentage,material deprivation,female,germany,10.5
-2017,percentage,material deprivation,female,germany,9.0
-2018,percentage,material deprivation,female,germany,8.2
-2019,percentage,material deprivation,female,germany,7.2
-2020,percentage,material deprivation,female,germany,9.3
 2010,percentage,material deprivation,male,germany,10.6
 2011,percentage,material deprivation,male,germany,11.5
 2012,percentage,material deprivation,male,germany,10.5
@@ -126,17 +71,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,material deprivation,male,germany,6.4
 2020,percentage,material deprivation,male,germany,8.9
 2021,percentage,material deprivation,male,germany,8.8
-2010,percentage,material deprivation,male,germany,10.6
-2011,percentage,material deprivation,male,germany,11.5
-2012,percentage,material deprivation,male,germany,10.5
-2013,percentage,material deprivation,male,germany,10.7
-2014,percentage,material deprivation,male,germany,11.3
-2015,percentage,material deprivation,male,germany,10.2
-2016,percentage,material deprivation,male,germany,8.6
-2017,percentage,material deprivation,male,germany,7.6
-2018,percentage,material deprivation,male,germany,7.0
-2019,percentage,material deprivation,male,germany,6.4
-2020,percentage,material deprivation,male,germany,8.9
 2010,percentage,severe material deprivation,,european union,8.4
 2011,percentage,severe material deprivation,,european union,8.8
 2012,percentage,severe material deprivation,,european union,9.9
@@ -149,17 +83,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,severe material deprivation,,european union,5.3
 2020,percentage,severe material deprivation,,european union,5.9
 2021,percentage,severe material deprivation,,european union,
-2010,percentage,severe material deprivation,,european union,8.4
-2011,percentage,severe material deprivation,,european union,8.8
-2012,percentage,severe material deprivation,,european union,9.9
-2013,percentage,severe material deprivation,,european union,9.6
-2014,percentage,severe material deprivation,,european union,8.9
-2015,percentage,severe material deprivation,,european union,8.1
-2016,percentage,severe material deprivation,,european union,7.5
-2017,percentage,severe material deprivation,,european union,6.6
-2018,percentage,severe material deprivation,,european union,5.9
-2019,percentage,severe material deprivation,,european union,5.3
-2020,percentage,severe material deprivation,,european union,5.9
 2010,percentage,severe material deprivation,female,european union,
 2011,percentage,severe material deprivation,female,european union,9.1
 2012,percentage,severe material deprivation,female,european union,10.2
@@ -172,17 +95,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,severe material deprivation,female,european union,5.6
 2020,percentage,severe material deprivation,female,european union,6.0
 2021,percentage,severe material deprivation,female,european union,
-2010,percentage,severe material deprivation,female,european union,
-2011,percentage,severe material deprivation,female,european union,9.1
-2012,percentage,severe material deprivation,female,european union,10.2
-2013,percentage,severe material deprivation,female,european union,9.8
-2014,percentage,severe material deprivation,female,european union,9.0
-2015,percentage,severe material deprivation,female,european union,8.2
-2016,percentage,severe material deprivation,female,european union,7.7
-2017,percentage,severe material deprivation,female,european union,6.8
-2018,percentage,severe material deprivation,female,european union,6.1
-2019,percentage,severe material deprivation,female,european union,5.6
-2020,percentage,severe material deprivation,female,european union,6.0
 2010,percentage,severe material deprivation,male,european union,
 2011,percentage,severe material deprivation,male,european union,8.6
 2012,percentage,severe material deprivation,male,european union,9.7
@@ -195,17 +107,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,severe material deprivation,male,european union,5.1
 2020,percentage,severe material deprivation,male,european union,5.8
 2021,percentage,severe material deprivation,male,european union,
-2010,percentage,severe material deprivation,male,european union,
-2011,percentage,severe material deprivation,male,european union,8.6
-2012,percentage,severe material deprivation,male,european union,9.7
-2013,percentage,severe material deprivation,male,european union,9.4
-2014,percentage,severe material deprivation,male,european union,8.8
-2015,percentage,severe material deprivation,male,european union,8.0
-2016,percentage,severe material deprivation,male,european union,7.3
-2017,percentage,severe material deprivation,male,european union,6.4
-2018,percentage,severe material deprivation,male,european union,5.7
-2019,percentage,severe material deprivation,male,european union,5.1
-2020,percentage,severe material deprivation,male,european union,5.8
 2010,percentage,severe material deprivation,,germany,4.5
 2011,percentage,severe material deprivation,,germany,5.3
 2012,percentage,severe material deprivation,,germany,4.9
@@ -218,17 +119,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,severe material deprivation,,germany,2.6
 2020,percentage,severe material deprivation,,germany,5.6
 2021,percentage,severe material deprivation,,germany,
-2010,percentage,severe material deprivation,,germany,4.5
-2011,percentage,severe material deprivation,,germany,5.3
-2012,percentage,severe material deprivation,,germany,4.9
-2013,percentage,severe material deprivation,,germany,5.4
-2014,percentage,severe material deprivation,,germany,5.0
-2015,percentage,severe material deprivation,,germany,4.4
-2016,percentage,severe material deprivation,,germany,3.7
-2017,percentage,severe material deprivation,,germany,3.4
-2018,percentage,severe material deprivation,,germany,3.1
-2019,percentage,severe material deprivation,,germany,2.6
-2020,percentage,severe material deprivation,,germany,5.6
 2010,percentage,severe material deprivation,female,germany,
 2011,percentage,severe material deprivation,female,germany,5.7
 2012,percentage,severe material deprivation,female,germany,5.2
@@ -241,17 +131,6 @@ Year,Units,time series,sex,area,Value
 2019,percentage,severe material deprivation,female,germany,2.8
 2020,percentage,severe material deprivation,female,germany,5.4
 2021,percentage,severe material deprivation,female,germany,
-2010,percentage,severe material deprivation,female,germany,
-2011,percentage,severe material deprivation,female,germany,5.7
-2012,percentage,severe material deprivation,female,germany,5.2
-2013,percentage,severe material deprivation,female,germany,5.6
-2014,percentage,severe material deprivation,female,germany,5.1
-2015,percentage,severe material deprivation,female,germany,4.6
-2016,percentage,severe material deprivation,female,germany,4.0
-2017,percentage,severe material deprivation,female,germany,3.9
-2018,percentage,severe material deprivation,female,germany,3.2
-2019,percentage,severe material deprivation,female,germany,2.8
-2020,percentage,severe material deprivation,female,germany,5.4
 2010,percentage,severe material deprivation,male,germany,
 2011,percentage,severe material deprivation,male,germany,5.0
 2012,percentage,severe material deprivation,male,germany,4.5
@@ -264,14 +143,3 @@ Year,Units,time series,sex,area,Value
 2019,percentage,severe material deprivation,male,germany,2.4
 2020,percentage,severe material deprivation,male,germany,5.8
 2021,percentage,severe material deprivation,male,germany,
-2010,percentage,severe material deprivation,male,germany,
-2011,percentage,severe material deprivation,male,germany,5.0
-2012,percentage,severe material deprivation,male,germany,4.5
-2013,percentage,severe material deprivation,male,germany,5.2
-2014,percentage,severe material deprivation,male,germany,4.8
-2015,percentage,severe material deprivation,male,germany,4.2
-2016,percentage,severe material deprivation,male,germany,3.4
-2017,percentage,severe material deprivation,male,germany,2.9
-2018,percentage,severe material deprivation,male,germany,3.0
-2019,percentage,severe material deprivation,male,germany,2.4
-2020,percentage,severe material deprivation,male,germany,5.8
