@@ -30,7 +30,7 @@ Year,Units,Series,Value
 2018,kilogram per hectare,moving five-year average shown for each middle year,87.0
 2019,kilogram per hectare,moving five-year average shown for each middle year,
 2020,kilogram per hectare,moving five-year average shown for each middle year,
-2030.0,kilogram per hectare,moving five-year average shown for each middle year,
+2030,kilogram per hectare,moving five-year average shown for each middle year,
 1990,kilogram per hectare,calculated annual values,141.5
 1991,kilogram per hectare,calculated annual values,117.1
 1992,kilogram per hectare,calculated annual values,111.9
@@ -62,4 +62,4 @@ Year,Units,Series,Value
 2018,kilogram per hectare,calculated annual values,87.9
 2019,kilogram per hectare,calculated annual values,78.7
 2020,kilogram per hectare,calculated annual values,79.7
-2030.0,kilogram per hectare,calculated annual values,
+2030,kilogram per hectare,calculated annual values,

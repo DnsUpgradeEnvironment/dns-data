@@ -22,8 +22,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,,,37.63
 2008,percentage,,,,,38.77
 2009,percentage,,,,,40.71
-2020.0,percentage,,,,,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,,,31.39
 2010,percentage,,female,,,42.68
 2011,percentage,,female,,,44.42
@@ -47,8 +46,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,,,38.03
 2008,percentage,,female,,,39.68
 2009,percentage,,female,,,42.21
-2020.0,percentage,,female,,,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,,,35.22
 2010,percentage,,male,,,39.97
 2011,percentage,,male,,,40.07
@@ -72,8 +70,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,,,37.25
 2008,percentage,,male,,,37.86
 2009,percentage,,male,,,39.23
-2020.0,percentage,,male,,,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,baden-wuerttemberg,code08,
 2010,percentage,,,baden-wuerttemberg,code08,42.28
 2011,percentage,,,baden-wuerttemberg,code08,43.36
@@ -97,8 +94,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,baden-wuerttemberg,code08,37.6
 2008,percentage,,,baden-wuerttemberg,code08,37.8
 2009,percentage,,,baden-wuerttemberg,code08,41.9
-2020.0,percentage,,,baden-wuerttemberg,code08,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,baden-wuerttemberg,code08,
 2010,percentage,,female,baden-wuerttemberg,code08,40.7
 2011,percentage,,female,baden-wuerttemberg,code08,41.9
@@ -122,8 +118,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,baden-wuerttemberg,code08,35.7
 2008,percentage,,female,baden-wuerttemberg,code08,36.0
 2009,percentage,,female,baden-wuerttemberg,code08,41.0
-2020.0,percentage,,female,baden-wuerttemberg,code08,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,baden-wuerttemberg,code08,
 2010,percentage,,male,baden-wuerttemberg,code08,43.9
 2011,percentage,,male,baden-wuerttemberg,code08,44.9
@@ -147,8 +142,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,baden-wuerttemberg,code08,39.5
 2008,percentage,,male,baden-wuerttemberg,code08,39.7
 2009,percentage,,male,baden-wuerttemberg,code08,42.8
-2020.0,percentage,,male,baden-wuerttemberg,code08,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,bavaria,code09,
 2010,percentage,,,bavaria,code09,40.39
 2011,percentage,,,bavaria,code09,41.1
@@ -172,8 +166,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,bavaria,code09,35.8
 2008,percentage,,,bavaria,code09,37.5
 2009,percentage,,,bavaria,code09,39.4
-2020.0,percentage,,,bavaria,code09,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,bavaria,code09,
 2010,percentage,,female,bavaria,code09,40.2
 2011,percentage,,female,bavaria,code09,41.6
@@ -197,8 +190,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,bavaria,code09,34.8
 2008,percentage,,female,bavaria,code09,36.8
 2009,percentage,,female,bavaria,code09,38.5
-2020.0,percentage,,female,bavaria,code09,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,bavaria,code09,
 2010,percentage,,male,bavaria,code09,40.6
 2011,percentage,,male,bavaria,code09,40.7
@@ -222,8 +214,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,bavaria,code09,36.9
 2008,percentage,,male,bavaria,code09,38.3
 2009,percentage,,male,bavaria,code09,40.3
-2020.0,percentage,,male,bavaria,code09,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,berlin,code11,
 2010,percentage,,,berlin,code11,50.74
 2011,percentage,,,berlin,code11,51.84
@@ -247,8 +238,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,berlin,code11,49.2
 2008,percentage,,,berlin,code11,47.1
 2009,percentage,,,berlin,code11,50.4
-2020.0,percentage,,,berlin,code11,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,berlin,code11,
 2010,percentage,,female,berlin,code11,56.0
 2011,percentage,,female,berlin,code11,59.3
@@ -272,8 +262,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,berlin,code11,53.0
 2008,percentage,,female,berlin,code11,49.9
 2009,percentage,,female,berlin,code11,56.2
-2020.0,percentage,,female,berlin,code11,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,berlin,code11,
 2010,percentage,,male,berlin,code11,45.8
 2011,percentage,,male,berlin,code11,44.7
@@ -297,8 +286,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,berlin,code11,45.5
 2008,percentage,,male,berlin,code11,44.5
 2009,percentage,,male,berlin,code11,44.4
-2020.0,percentage,,male,berlin,code11,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,brandenburg,code12,
 2010,percentage,,,brandenburg,code12,41.4
 2011,percentage,,,brandenburg,code12,44.47
@@ -322,8 +310,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,brandenburg,code12,34.7
 2008,percentage,,,brandenburg,code12,38.6
 2009,percentage,,,brandenburg,code12,41.1
-2020.0,percentage,,,brandenburg,code12,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,brandenburg,code12,
 2010,percentage,,female,brandenburg,code12,50.2
 2011,percentage,,female,brandenburg,code12,53.6
@@ -347,8 +334,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,brandenburg,code12,42.2
 2008,percentage,,female,brandenburg,code12,47.1
 2009,percentage,,female,brandenburg,code12,47.8
-2020.0,percentage,,female,brandenburg,code12,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,brandenburg,code12,
 2010,percentage,,male,brandenburg,code12,33.4
 2011,percentage,,male,brandenburg,code12,35.8
@@ -372,8 +358,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,brandenburg,code12,27.3
 2008,percentage,,male,brandenburg,code12,30.4
 2009,percentage,,male,brandenburg,code12,35.2
-2020.0,percentage,,male,brandenburg,code12,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,bremen,code04,
 2010,percentage,,,bremen,code04,41.46
 2011,percentage,,,bremen,code04,43.16
@@ -397,8 +382,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,bremen,code04,38.2
 2008,percentage,,,bremen,code04,39.4
 2009,percentage,,,bremen,code04,32.7
-2020.0,percentage,,,bremen,code04,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,bremen,code04,
 2010,percentage,,female,bremen,code04,36.9
 2011,percentage,,female,bremen,code04,47.8
@@ -422,8 +406,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,bremen,code04,40.3
 2008,percentage,,female,bremen,code04,40.8
 2009,percentage,,female,bremen,code04,36.1
-2020.0,percentage,,female,bremen,code04,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,bremen,code04,
 2010,percentage,,male,bremen,code04,46.5
 2011,percentage,,male,bremen,code04,37.8
@@ -447,8 +430,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,bremen,code04,36.3
 2008,percentage,,male,bremen,code04,38.0
 2009,percentage,,male,bremen,code04,28.8
-2020.0,percentage,,male,bremen,code04,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,hamburg,code02,
 2010,percentage,,,hamburg,code02,52.5
 2011,percentage,,,hamburg,code02,55.37
@@ -472,8 +454,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,hamburg,code02,49.4
 2008,percentage,,,hamburg,code02,50.1
 2009,percentage,,,hamburg,code02,53.1
-2020.0,percentage,,,hamburg,code02,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,hamburg,code02,
 2010,percentage,,female,hamburg,code02,53.8
 2011,percentage,,female,hamburg,code02,57.1
@@ -497,8 +478,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,hamburg,code02,53.8
 2008,percentage,,female,hamburg,code02,53.0
 2009,percentage,,female,hamburg,code02,54.0
-2020.0,percentage,,female,hamburg,code02,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,hamburg,code02,
 2010,percentage,,male,hamburg,code02,51.3
 2011,percentage,,male,hamburg,code02,53.6
@@ -522,8 +502,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,hamburg,code02,45.2
 2008,percentage,,male,hamburg,code02,47.1
 2009,percentage,,male,hamburg,code02,52.2
-2020.0,percentage,,male,hamburg,code02,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,hesse,code06,
 2010,percentage,,,hesse,code06,45.45
 2011,percentage,,,hesse,code06,46.11
@@ -547,8 +526,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,hesse,code06,40.9
 2008,percentage,,,hesse,code06,40.3
 2009,percentage,,,hesse,code06,43.1
-2020.0,percentage,,,hesse,code06,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,hesse,code06,
 2010,percentage,,female,hesse,code06,46.3
 2011,percentage,,female,hesse,code06,46.7
@@ -572,8 +550,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,hesse,code06,39.8
 2008,percentage,,female,hesse,code06,40.6
 2009,percentage,,female,hesse,code06,44.1
-2020.0,percentage,,female,hesse,code06,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,hesse,code06,
 2010,percentage,,male,hesse,code06,44.6
 2011,percentage,,male,hesse,code06,45.5
@@ -597,8 +574,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,hesse,code06,41.9
 2008,percentage,,male,hesse,code06,39.9
 2009,percentage,,male,hesse,code06,42.0
-2020.0,percentage,,male,hesse,code06,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,mecklenburg western pomerania,code13,
 2010,percentage,,,mecklenburg western pomerania,code13,33.17
 2011,percentage,,,mecklenburg western pomerania,code13,32.11
@@ -622,8 +598,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,mecklenburg western pomerania,code13,30.5
 2008,percentage,,,mecklenburg western pomerania,code13,32.3
 2009,percentage,,,mecklenburg western pomerania,code13,32.3
-2020.0,percentage,,,mecklenburg western pomerania,code13,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,mecklenburg western pomerania,code13,
 2010,percentage,,female,mecklenburg western pomerania,code13,36.5
 2011,percentage,,female,mecklenburg western pomerania,code13,35.3
@@ -647,8 +622,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,mecklenburg western pomerania,code13,37.2
 2008,percentage,,female,mecklenburg western pomerania,code13,39.4
 2009,percentage,,female,mecklenburg western pomerania,code13,37.4
-2020.0,percentage,,female,mecklenburg western pomerania,code13,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,mecklenburg western pomerania,code13,
 2010,percentage,,male,mecklenburg western pomerania,code13,30.4
 2011,percentage,,male,mecklenburg western pomerania,code13,29.3
@@ -672,8 +646,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,mecklenburg western pomerania,code13,25.0
 2008,percentage,,male,mecklenburg western pomerania,code13,26.7
 2009,percentage,,male,mecklenburg western pomerania,code13,27.7
-2020.0,percentage,,male,mecklenburg western pomerania,code13,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,lower saxony,code03,
 2010,percentage,,,lower saxony,code03,36.19
 2011,percentage,,,lower saxony,code03,37.46
@@ -697,8 +670,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,lower saxony,code03,33.0
 2008,percentage,,,lower saxony,code03,34.0
 2009,percentage,,,lower saxony,code03,35.6
-2020.0,percentage,,,lower saxony,code03,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,lower saxony,code03,
 2010,percentage,,female,lower saxony,code03,37.5
 2011,percentage,,female,lower saxony,code03,39.6
@@ -722,8 +694,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,lower saxony,code03,30.9
 2008,percentage,,female,lower saxony,code03,33.1
 2009,percentage,,female,lower saxony,code03,36.2
-2020.0,percentage,,female,lower saxony,code03,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,lower saxony,code03,
 2010,percentage,,male,lower saxony,code03,34.9
 2011,percentage,,male,lower saxony,code03,35.4
@@ -747,8 +718,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,lower saxony,code03,35.1
 2008,percentage,,male,lower saxony,code03,34.9
 2009,percentage,,male,lower saxony,code03,34.9
-2020.0,percentage,,male,lower saxony,code03,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,north rhine-westphalia,code05,
 2010,percentage,,,north rhine-westphalia,code05,41.29
 2011,percentage,,,north rhine-westphalia,code05,42.01
@@ -772,8 +742,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,north rhine-westphalia,code05,38.7
 2008,percentage,,,north rhine-westphalia,code05,40.9
 2009,percentage,,,north rhine-westphalia,code05,41.7
-2020.0,percentage,,,north rhine-westphalia,code05,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,north rhine-westphalia,code05,
 2010,percentage,,female,north rhine-westphalia,code05,42.1
 2011,percentage,,female,north rhine-westphalia,code05,43.8
@@ -797,8 +766,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,north rhine-westphalia,code05,38.4
 2008,percentage,,female,north rhine-westphalia,code05,41.5
 2009,percentage,,female,north rhine-westphalia,code05,42.6
-2020.0,percentage,,female,north rhine-westphalia,code05,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,north rhine-westphalia,code05,
 2010,percentage,,male,north rhine-westphalia,code05,40.5
 2011,percentage,,male,north rhine-westphalia,code05,40.3
@@ -822,8 +790,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,north rhine-westphalia,code05,39.0
 2008,percentage,,male,north rhine-westphalia,code05,40.3
 2009,percentage,,male,north rhine-westphalia,code05,40.8
-2020.0,percentage,,male,north rhine-westphalia,code05,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,rhineland palatinate,code07,
 2010,percentage,,,rhineland palatinate,code07,38.49
 2011,percentage,,,rhineland palatinate,code07,39.96
@@ -847,8 +814,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,rhineland palatinate,code07,32.9
 2008,percentage,,,rhineland palatinate,code07,35.3
 2009,percentage,,,rhineland palatinate,code07,36.7
-2020.0,percentage,,,rhineland palatinate,code07,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,rhineland palatinate,code07,
 2010,percentage,,female,rhineland palatinate,code07,37.0
 2011,percentage,,female,rhineland palatinate,code07,40.9
@@ -872,8 +838,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,rhineland palatinate,code07,31.8
 2008,percentage,,female,rhineland palatinate,code07,35.1
 2009,percentage,,female,rhineland palatinate,code07,37.0
-2020.0,percentage,,female,rhineland palatinate,code07,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,rhineland palatinate,code07,
 2010,percentage,,male,rhineland palatinate,code07,40.1
 2011,percentage,,male,rhineland palatinate,code07,39.0
@@ -897,8 +862,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,rhineland palatinate,code07,34.0
 2008,percentage,,male,rhineland palatinate,code07,35.5
 2009,percentage,,male,rhineland palatinate,code07,36.3
-2020.0,percentage,,male,rhineland palatinate,code07,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,saarland,code10,
 2010,percentage,,,saarland,code10,32.86
 2011,percentage,,,saarland,code10,34.78
@@ -922,8 +886,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,saarland,code10,32.4
 2008,percentage,,,saarland,code10,36.2
 2009,percentage,,,saarland,code10,37.2
-2020.0,percentage,,,saarland,code10,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,saarland,code10,
 2010,percentage,,female,saarland,code10,36.8
 2011,percentage,,female,saarland,code10,38.7
@@ -947,8 +910,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,saarland,code10,33.0
 2008,percentage,,female,saarland,code10,37.2
 2009,percentage,,female,saarland,code10,40.2
-2020.0,percentage,,female,saarland,code10,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,saarland,code10,
 2010,percentage,,male,saarland,code10,28.8
 2011,percentage,,male,saarland,code10,30.8
@@ -972,8 +934,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,saarland,code10,31.7
 2008,percentage,,male,saarland,code10,35.1
 2009,percentage,,male,saarland,code10,34.2
-2020.0,percentage,,male,saarland,code10,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,saxony,code14,
 2010,percentage,,,saxony,code14,46.36
 2011,percentage,,,saxony,code14,44.03
@@ -997,8 +958,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,saxony,code14,44.3
 2008,percentage,,,saxony,code14,44.4
 2009,percentage,,,saxony,code14,46.0
-2020.0,percentage,,,saxony,code14,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,saxony,code14,
 2010,percentage,,female,saxony,code14,55.0
 2011,percentage,,female,saxony,code14,53.1
@@ -1022,8 +982,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,saxony,code14,52.4
 2008,percentage,,female,saxony,code14,52.4
 2009,percentage,,female,saxony,code14,55.4
-2020.0,percentage,,female,saxony,code14,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,saxony,code14,
 2010,percentage,,male,saxony,code14,38.6
 2011,percentage,,male,saxony,code14,36.2
@@ -1047,8 +1006,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,saxony,code14,37.3
 2008,percentage,,male,saxony,code14,37.8
 2009,percentage,,male,saxony,code14,37.8
-2020.0,percentage,,male,saxony,code14,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,saxony-anhalt,code15,
 2010,percentage,,,saxony-anhalt,code15,32.16
 2011,percentage,,,saxony-anhalt,code15,31.44
@@ -1072,8 +1030,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,saxony-anhalt,code15,27.0
 2008,percentage,,,saxony-anhalt,code15,30.3
 2009,percentage,,,saxony-anhalt,code15,32.3
-2020.0,percentage,,,saxony-anhalt,code15,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,saxony-anhalt,code15,
 2010,percentage,,female,saxony-anhalt,code15,37.1
 2011,percentage,,female,saxony-anhalt,code15,37.2
@@ -1097,8 +1054,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,saxony-anhalt,code15,34.2
 2008,percentage,,female,saxony-anhalt,code15,36.6
 2009,percentage,,female,saxony-anhalt,code15,36.9
-2020.0,percentage,,female,saxony-anhalt,code15,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,saxony-anhalt,code15,
 2010,percentage,,male,saxony-anhalt,code15,27.5
 2011,percentage,,male,saxony-anhalt,code15,26.2
@@ -1122,8 +1078,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,saxony-anhalt,code15,20.8
 2008,percentage,,male,saxony-anhalt,code15,24.7
 2009,percentage,,male,saxony-anhalt,code15,27.9
-2020.0,percentage,,male,saxony-anhalt,code15,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,schleswig-holstein,code01,
 2010,percentage,,,schleswig-holstein,code01,35.78
 2011,percentage,,,schleswig-holstein,code01,40.39
@@ -1147,8 +1102,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,schleswig-holstein,code01,31.8
 2008,percentage,,,schleswig-holstein,code01,32.1
 2009,percentage,,,schleswig-holstein,code01,34.6
-2020.0,percentage,,,schleswig-holstein,code01,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,schleswig-holstein,code01,
 2010,percentage,,female,schleswig-holstein,code01,36.7
 2011,percentage,,female,schleswig-holstein,code01,41.7
@@ -1172,8 +1126,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,schleswig-holstein,code01,31.2
 2008,percentage,,female,schleswig-holstein,code01,32.7
 2009,percentage,,female,schleswig-holstein,code01,35.8
-2020.0,percentage,,female,schleswig-holstein,code01,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,schleswig-holstein,code01,
 2010,percentage,,male,schleswig-holstein,code01,34.9
 2011,percentage,,male,schleswig-holstein,code01,39.0
@@ -1197,8 +1150,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,schleswig-holstein,code01,32.5
 2008,percentage,,male,schleswig-holstein,code01,31.3
 2009,percentage,,male,schleswig-holstein,code01,33.4
-2020.0,percentage,,male,schleswig-holstein,code01,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,,thuringia,code16,
 2010,percentage,,,thuringia,code16,36.4
 2011,percentage,,,thuringia,code16,37.2
@@ -1222,8 +1174,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,,thuringia,code16,36.5
 2008,percentage,,,thuringia,code16,35.7
 2009,percentage,,,thuringia,code16,35.4
-2020.0,percentage,,,thuringia,code16,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,female,thuringia,code16,
 2010,percentage,,female,thuringia,code16,43.0
 2011,percentage,,female,thuringia,code16,45.2
@@ -1247,8 +1198,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,female,thuringia,code16,40.8
 2008,percentage,,female,thuringia,code16,41.9
 2009,percentage,,female,thuringia,code16,42.5
-2020.0,percentage,,female,thuringia,code16,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,,male,thuringia,code16,
 2010,percentage,,male,thuringia,code16,30.5
 2011,percentage,,male,thuringia,code16,29.9
@@ -1272,8 +1222,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,,male,thuringia,code16,32.6
 2008,percentage,,male,thuringia,code16,30.4
 2009,percentage,,male,thuringia,code16,29.1
-2020.0,percentage,,male,thuringia,code16,
-2030.0,percentage,,,,,
+2030,percentage,,,,,
 1999,percentage,with tertiary qualification,,,,24.8
 2010,percentage,with tertiary qualification,,,,29.77
 2011,percentage,with tertiary qualification,,,,30.68
@@ -1297,8 +1246,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,with tertiary qualification,,,,26.5
 2008,percentage,with tertiary qualification,,,,27.6
 2009,percentage,with tertiary qualification,,,,29.37
-2020.0,percentage,with tertiary qualification,,,,
-2030.0,percentage,with tertiary qualification,,,,
+2030,percentage,with tertiary qualification,,,,
 1999,percentage,with tertiary qualification,female,,,21.358
 2010,percentage,with tertiary qualification,female,,,29.658
 2011,percentage,with tertiary qualification,female,,,31.528
@@ -1322,8 +1270,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,with tertiary qualification,female,,,25.663
 2008,percentage,with tertiary qualification,female,,,26.974
 2009,percentage,with tertiary qualification,female,,,29.178
-2020.0,percentage,with tertiary qualification,female,,,
-2030.0,percentage,with tertiary qualification,,,,
+2030,percentage,with tertiary qualification,,,,
 1999,percentage,with tertiary qualification,male,,,28.072
 2010,percentage,with tertiary qualification,male,,,29.879
 2011,percentage,with tertiary qualification,male,,,29.843
@@ -1347,8 +1294,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,with tertiary qualification,male,,,27.31
 2008,percentage,with tertiary qualification,male,,,28.226
 2009,percentage,with tertiary qualification,male,,,29.56
-2020.0,percentage,with tertiary qualification,male,,,
-2030.0,percentage,with tertiary qualification,,,,
+2030,percentage,with tertiary qualification,,,,
 1999,percentage,with post-secondary non-tertiary qualification,,,,8.55
 2010,percentage,with post-secondary non-tertiary qualification,,,,11.545
 2011,percentage,with post-secondary non-tertiary qualification,,,,11.548
@@ -1372,8 +1318,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,with post-secondary non-tertiary qualification,,,,11.135
 2008,percentage,with post-secondary non-tertiary qualification,,,,11.163
 2009,percentage,with post-secondary non-tertiary qualification,,,,11.343
-2020.0,percentage,with post-secondary non-tertiary qualification,,,,
-2030.0,percentage,with post-secondary non-tertiary qualification,,,,
+2030,percentage,with post-secondary non-tertiary qualification,,,,
 1999,percentage,with post-secondary non-tertiary qualification,female,,,10.031
 2010,percentage,with post-secondary non-tertiary qualification,female,,,13.019
 2011,percentage,with post-secondary non-tertiary qualification,female,,,12.891
@@ -1397,8 +1342,7 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,with post-secondary non-tertiary qualification,female,,,12.363
 2008,percentage,with post-secondary non-tertiary qualification,female,,,12.711
 2009,percentage,with post-secondary non-tertiary qualification,female,,,13.032
-2020.0,percentage,with post-secondary non-tertiary qualification,female,,,
-2030.0,percentage,with post-secondary non-tertiary qualification,,,,
+2030,percentage,with post-secondary non-tertiary qualification,,,,
 1999,percentage,with post-secondary non-tertiary qualification,male,,,7.144
 2010,percentage,with post-secondary non-tertiary qualification,male,,,10.095
 2011,percentage,with post-secondary non-tertiary qualification,male,,,10.23
@@ -1422,5 +1366,4 @@ Year,Units,time series,sex,federal state,GeoCode,Value
 2007,percentage,with post-secondary non-tertiary qualification,male,,,9.941
 2008,percentage,with post-secondary non-tertiary qualification,male,,,9.633
 2009,percentage,with post-secondary non-tertiary qualification,male,,,9.673
-2020.0,percentage,with post-secondary non-tertiary qualification,male,,,
-2030.0,percentage,with post-secondary non-tertiary qualification,,,,
+2030,percentage,with post-secondary non-tertiary qualification,,,,
