@@ -11,6 +11,7 @@ Year,Units,Zeitreihe,Value
 2020/1,Prozent,Alle leitungsgebundenen Technologien,55.9
 2020/2,Prozent,Alle leitungsgebundenen Technologien,59.2
 2021/1,Prozent,Alle leitungsgebundenen Technologien,62.1
+2025/1,Prozent,Alle leitungsgebundenen Technologien,
 2015/2,Prozent,Reine Glasfasernetze (FTTB/H),6.7
 2016/1,Prozent,Reine Glasfasernetze (FTTB/H),7.1
 2016/2,Prozent,Reine Glasfasernetze (FTTB/H),7.1
@@ -23,6 +24,7 @@ Year,Units,Zeitreihe,Value
 2020/1,Prozent,Reine Glasfasernetze (FTTB/H),13.8
 2020/2,Prozent,Reine Glasfasernetze (FTTB/H),14.5
 2021/1,Prozent,Reine Glasfasernetze (FTTB/H),15.4
+2025/1,Prozent,Reine Glasfasernetze (FTTB/H),
 2015/2,Prozent,Kabelfernsehen (CATV),
 2016/1,Prozent,Kabelfernsehen (CATV),
 2016/2,Prozent,Kabelfernsehen (CATV),
@@ -35,3 +37,4 @@ Year,Units,Zeitreihe,Value
 2020/1,Prozent,Kabelfernsehen (CATV),50.2
 2020/2,Prozent,Kabelfernsehen (CATV),53.5
 2021/1,Prozent,Kabelfernsehen (CATV),56.5
+2025/1,Prozent,Kabelfernsehen (CATV),
