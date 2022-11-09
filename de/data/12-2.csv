@@ -16,6 +16,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,,,2176.0
 2020,Anzahl,EMAS-Organisationsstandorte,,,2184.0
 2021,Anzahl,EMAS-Organisationsstandorte,,,2290.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Baden-Württemberg,code08,
 2006,Anzahl,EMAS-Organisationsstandorte,Baden-Württemberg,code08,
 2007,Anzahl,EMAS-Organisationsstandorte,Baden-Württemberg,code08,
@@ -33,6 +34,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Baden-Württemberg,code08,594.0
 2020,Anzahl,EMAS-Organisationsstandorte,Baden-Württemberg,code08,597.0
 2021,Anzahl,EMAS-Organisationsstandorte,Baden-Württemberg,code08,667.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Bayern,code09,
 2006,Anzahl,EMAS-Organisationsstandorte,Bayern,code09,
 2007,Anzahl,EMAS-Organisationsstandorte,Bayern,code09,
@@ -50,6 +52,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Bayern,code09,478.0
 2020,Anzahl,EMAS-Organisationsstandorte,Bayern,code09,502.0
 2021,Anzahl,EMAS-Organisationsstandorte,Bayern,code09,638.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Berlin,code11,
 2006,Anzahl,EMAS-Organisationsstandorte,Berlin,code11,
 2007,Anzahl,EMAS-Organisationsstandorte,Berlin,code11,
@@ -67,6 +70,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Berlin,code11,65.0
 2020,Anzahl,EMAS-Organisationsstandorte,Berlin,code11,68.0
 2021,Anzahl,EMAS-Organisationsstandorte,Berlin,code11,66.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Brandenburg,code12,
 2006,Anzahl,EMAS-Organisationsstandorte,Brandenburg,code12,
 2007,Anzahl,EMAS-Organisationsstandorte,Brandenburg,code12,
@@ -84,6 +88,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Brandenburg,code12,64.0
 2020,Anzahl,EMAS-Organisationsstandorte,Brandenburg,code12,64.0
 2021,Anzahl,EMAS-Organisationsstandorte,Brandenburg,code12,57.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Bremen,code04,
 2006,Anzahl,EMAS-Organisationsstandorte,Bremen,code04,
 2007,Anzahl,EMAS-Organisationsstandorte,Bremen,code04,
@@ -101,6 +106,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Bremen,code04,31.0
 2020,Anzahl,EMAS-Organisationsstandorte,Bremen,code04,30.0
 2021,Anzahl,EMAS-Organisationsstandorte,Bremen,code04,25.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Hamburg,code02,
 2006,Anzahl,EMAS-Organisationsstandorte,Hamburg,code02,
 2007,Anzahl,EMAS-Organisationsstandorte,Hamburg,code02,
@@ -118,6 +124,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Hamburg,code02,58.0
 2020,Anzahl,EMAS-Organisationsstandorte,Hamburg,code02,59.0
 2021,Anzahl,EMAS-Organisationsstandorte,Hamburg,code02,69.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Hessen,code06,
 2006,Anzahl,EMAS-Organisationsstandorte,Hessen,code06,
 2007,Anzahl,EMAS-Organisationsstandorte,Hessen,code06,
@@ -135,6 +142,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Hessen,code06,126.0
 2020,Anzahl,EMAS-Organisationsstandorte,Hessen,code06,132.0
 2021,Anzahl,EMAS-Organisationsstandorte,Hessen,code06,157.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Mecklenburg-Vorpommern,code13,
 2006,Anzahl,EMAS-Organisationsstandorte,Mecklenburg-Vorpommern,code13,
 2007,Anzahl,EMAS-Organisationsstandorte,Mecklenburg-Vorpommern,code13,
@@ -152,6 +160,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Mecklenburg-Vorpommern,code13,3.0
 2020,Anzahl,EMAS-Organisationsstandorte,Mecklenburg-Vorpommern,code13,3.0
 2021,Anzahl,EMAS-Organisationsstandorte,Mecklenburg-Vorpommern,code13,1.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Niedersachsen,code03,
 2006,Anzahl,EMAS-Organisationsstandorte,Niedersachsen,code03,
 2007,Anzahl,EMAS-Organisationsstandorte,Niedersachsen,code03,
@@ -169,6 +178,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Niedersachsen,code03,87.0
 2020,Anzahl,EMAS-Organisationsstandorte,Niedersachsen,code03,85.0
 2021,Anzahl,EMAS-Organisationsstandorte,Niedersachsen,code03,84.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Nordrhein-Westfalen,code05,
 2006,Anzahl,EMAS-Organisationsstandorte,Nordrhein-Westfalen,code05,
 2007,Anzahl,EMAS-Organisationsstandorte,Nordrhein-Westfalen,code05,
@@ -186,6 +196,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Nordrhein-Westfalen,code05,236.0
 2020,Anzahl,EMAS-Organisationsstandorte,Nordrhein-Westfalen,code05,232.0
 2021,Anzahl,EMAS-Organisationsstandorte,Nordrhein-Westfalen,code05,220.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Rheinland-Pfalz,code07,
 2006,Anzahl,EMAS-Organisationsstandorte,Rheinland-Pfalz,code07,
 2007,Anzahl,EMAS-Organisationsstandorte,Rheinland-Pfalz,code07,
@@ -203,6 +214,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Rheinland-Pfalz,code07,66.0
 2020,Anzahl,EMAS-Organisationsstandorte,Rheinland-Pfalz,code07,50.0
 2021,Anzahl,EMAS-Organisationsstandorte,Rheinland-Pfalz,code07,53.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Saarland,code10,
 2006,Anzahl,EMAS-Organisationsstandorte,Saarland,code10,
 2007,Anzahl,EMAS-Organisationsstandorte,Saarland,code10,
@@ -220,6 +232,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Saarland,code10,59.0
 2020,Anzahl,EMAS-Organisationsstandorte,Saarland,code10,60.0
 2021,Anzahl,EMAS-Organisationsstandorte,Saarland,code10,55.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Sachsen,code14,
 2006,Anzahl,EMAS-Organisationsstandorte,Sachsen,code14,
 2007,Anzahl,EMAS-Organisationsstandorte,Sachsen,code14,
@@ -237,6 +250,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Sachsen,code14,113.0
 2020,Anzahl,EMAS-Organisationsstandorte,Sachsen,code14,106.0
 2021,Anzahl,EMAS-Organisationsstandorte,Sachsen,code14,86.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Sachsen-Anhalt,code15,
 2006,Anzahl,EMAS-Organisationsstandorte,Sachsen-Anhalt,code15,
 2007,Anzahl,EMAS-Organisationsstandorte,Sachsen-Anhalt,code15,
@@ -254,6 +268,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Sachsen-Anhalt,code15,66.0
 2020,Anzahl,EMAS-Organisationsstandorte,Sachsen-Anhalt,code15,65.0
 2021,Anzahl,EMAS-Organisationsstandorte,Sachsen-Anhalt,code15,65.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Schleswig-Holstein,code01,
 2006,Anzahl,EMAS-Organisationsstandorte,Schleswig-Holstein,code01,
 2007,Anzahl,EMAS-Organisationsstandorte,Schleswig-Holstein,code01,
@@ -271,6 +286,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Schleswig-Holstein,code01,37.0
 2020,Anzahl,EMAS-Organisationsstandorte,Schleswig-Holstein,code01,40.0
 2021,Anzahl,EMAS-Organisationsstandorte,Schleswig-Holstein,code01,29.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,Anzahl,EMAS-Organisationsstandorte,Thüringen,code16,
 2006,Anzahl,EMAS-Organisationsstandorte,Thüringen,code16,
 2007,Anzahl,EMAS-Organisationsstandorte,Thüringen,code16,
@@ -288,6 +304,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationsstandorte,Thüringen,code16,87.0
 2020,Anzahl,EMAS-Organisationsstandorte,Thüringen,code16,85.0
 2021,Anzahl,EMAS-Organisationsstandorte,Thüringen,code16,72.0
+2030,Anzahl,EMAS-Organisationsstandorte,,,
 2005,1 000,Beschäftigte in EMAS Organisationen,,,961.0
 2006,1 000,Beschäftigte in EMAS Organisationen,,,926.0
 2007,1 000,Beschäftigte in EMAS Organisationen,,,860.0
@@ -305,6 +322,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,1 000,Beschäftigte in EMAS Organisationen,,,988.0
 2020,1 000,Beschäftigte in EMAS Organisationen,,,860.0
 2021,1 000,Beschäftigte in EMAS Organisationen,,,911.0
+2030,1 000,Beschäftigte in EMAS Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,,,1491.0
 2006,Anzahl,EMAS-Organisationen,,,1490.0
 2007,Anzahl,EMAS-Organisationen,,,1466.0
@@ -322,6 +340,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,,,1150.0
 2020,Anzahl,EMAS-Organisationen,,,1113.0
 2021,Anzahl,EMAS-Organisationen,,,1115.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Baden-Württemberg,code08,313.0
 2006,Anzahl,EMAS-Organisationen,Baden-Württemberg,code08,358.0
 2007,Anzahl,EMAS-Organisationen,Baden-Württemberg,code08,353.0
@@ -339,6 +358,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Baden-Württemberg,code08,347.0
 2020,Anzahl,EMAS-Organisationen,Baden-Württemberg,code08,339.0
 2021,Anzahl,EMAS-Organisationen,Baden-Württemberg,code08,330.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Bayern,code09,320.0
 2006,Anzahl,EMAS-Organisationen,Bayern,code09,302.0
 2007,Anzahl,EMAS-Organisationen,Bayern,code09,298.0
@@ -356,6 +376,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Bayern,code09,288.0
 2020,Anzahl,EMAS-Organisationen,Bayern,code09,287.0
 2021,Anzahl,EMAS-Organisationen,Bayern,code09,296.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Berlin,code11,56.0
 2006,Anzahl,EMAS-Organisationen,Berlin,code11,55.0
 2007,Anzahl,EMAS-Organisationen,Berlin,code11,57.0
@@ -373,6 +394,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Berlin,code11,30.0
 2020,Anzahl,EMAS-Organisationen,Berlin,code11,28.0
 2021,Anzahl,EMAS-Organisationen,Berlin,code11,32.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Brandenburg,code12,42.0
 2006,Anzahl,EMAS-Organisationen,Brandenburg,code12,38.0
 2007,Anzahl,EMAS-Organisationen,Brandenburg,code12,34.0
@@ -390,6 +412,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Brandenburg,code12,35.0
 2020,Anzahl,EMAS-Organisationen,Brandenburg,code12,34.0
 2021,Anzahl,EMAS-Organisationen,Brandenburg,code12,36.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Bremen,code04,20.0
 2006,Anzahl,EMAS-Organisationen,Bremen,code04,20.0
 2007,Anzahl,EMAS-Organisationen,Bremen,code04,19.0
@@ -407,6 +430,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Bremen,code04,11.0
 2020,Anzahl,EMAS-Organisationen,Bremen,code04,10.0
 2021,Anzahl,EMAS-Organisationen,Bremen,code04,9.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Hamburg,code02,20.0
 2006,Anzahl,EMAS-Organisationen,Hamburg,code02,20.0
 2007,Anzahl,EMAS-Organisationen,Hamburg,code02,21.0
@@ -424,6 +448,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Hamburg,code02,14.0
 2020,Anzahl,EMAS-Organisationen,Hamburg,code02,14.0
 2021,Anzahl,EMAS-Organisationen,Hamburg,code02,15.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Hessen,code06,103.0
 2006,Anzahl,EMAS-Organisationen,Hessen,code06,102.0
 2007,Anzahl,EMAS-Organisationen,Hessen,code06,98.0
@@ -441,6 +466,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Hessen,code06,63.0
 2020,Anzahl,EMAS-Organisationen,Hessen,code06,63.0
 2021,Anzahl,EMAS-Organisationen,Hessen,code06,68.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Mecklenburg-Vorpommern,code13,24.0
 2006,Anzahl,EMAS-Organisationen,Mecklenburg-Vorpommern,code13,25.0
 2007,Anzahl,EMAS-Organisationen,Mecklenburg-Vorpommern,code13,24.0
@@ -458,6 +484,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Mecklenburg-Vorpommern,code13,2.0
 2020,Anzahl,EMAS-Organisationen,Mecklenburg-Vorpommern,code13,2.0
 2021,Anzahl,EMAS-Organisationen,Mecklenburg-Vorpommern,code13,1.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Niedersachsen,code03,56.0
 2006,Anzahl,EMAS-Organisationen,Niedersachsen,code03,58.0
 2007,Anzahl,EMAS-Organisationen,Niedersachsen,code03,61.0
@@ -475,6 +502,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Niedersachsen,code03,54.0
 2020,Anzahl,EMAS-Organisationen,Niedersachsen,code03,51.0
 2021,Anzahl,EMAS-Organisationen,Niedersachsen,code03,51.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Nordrhein-Westfalen,code05,164.0
 2006,Anzahl,EMAS-Organisationen,Nordrhein-Westfalen,code05,156.0
 2007,Anzahl,EMAS-Organisationen,Nordrhein-Westfalen,code05,168.0
@@ -492,6 +520,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Nordrhein-Westfalen,code05,105.0
 2020,Anzahl,EMAS-Organisationen,Nordrhein-Westfalen,code05,100.0
 2021,Anzahl,EMAS-Organisationen,Nordrhein-Westfalen,code05,99.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Rheinland-Pfalz,code07,53.0
 2006,Anzahl,EMAS-Organisationen,Rheinland-Pfalz,code07,49.0
 2007,Anzahl,EMAS-Organisationen,Rheinland-Pfalz,code07,49.0
@@ -509,6 +538,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Rheinland-Pfalz,code07,34.0
 2020,Anzahl,EMAS-Organisationen,Rheinland-Pfalz,code07,24.0
 2021,Anzahl,EMAS-Organisationen,Rheinland-Pfalz,code07,23.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Saarland,code10,49.0
 2006,Anzahl,EMAS-Organisationen,Saarland,code10,47.0
 2007,Anzahl,EMAS-Organisationen,Saarland,code10,50.0
@@ -526,6 +556,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Saarland,code10,49.0
 2020,Anzahl,EMAS-Organisationen,Saarland,code10,49.0
 2021,Anzahl,EMAS-Organisationen,Saarland,code10,46.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Sachsen,code14,53.0
 2006,Anzahl,EMAS-Organisationen,Sachsen,code14,47.0
 2007,Anzahl,EMAS-Organisationen,Sachsen,code14,46.0
@@ -543,6 +574,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Sachsen,code14,29.0
 2020,Anzahl,EMAS-Organisationen,Sachsen,code14,25.0
 2021,Anzahl,EMAS-Organisationen,Sachsen,code14,23.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Sachsen-Anhalt,code15,34.0
 2006,Anzahl,EMAS-Organisationen,Sachsen-Anhalt,code15,34.0
 2007,Anzahl,EMAS-Organisationen,Sachsen-Anhalt,code15,37.0
@@ -560,6 +592,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Sachsen-Anhalt,code15,23.0
 2020,Anzahl,EMAS-Organisationen,Sachsen-Anhalt,code15,21.0
 2021,Anzahl,EMAS-Organisationen,Sachsen-Anhalt,code15,20.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Schleswig-Holstein,code01,72.0
 2006,Anzahl,EMAS-Organisationen,Schleswig-Holstein,code01,72.0
 2007,Anzahl,EMAS-Organisationen,Schleswig-Holstein,code01,66.0
@@ -577,6 +610,7 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Schleswig-Holstein,code01,15.0
 2020,Anzahl,EMAS-Organisationen,Schleswig-Holstein,code01,16.0
 2021,Anzahl,EMAS-Organisationen,Schleswig-Holstein,code01,16.0
+2030,Anzahl,EMAS-Organisationen,,,
 2005,Anzahl,EMAS-Organisationen,Thüringen,code16,112.0
 2006,Anzahl,EMAS-Organisationen,Thüringen,code16,107.0
 2007,Anzahl,EMAS-Organisationen,Thüringen,code16,85.0
@@ -594,3 +628,4 @@ Year,Units,Series,Bundesland,GeoCode,Value
 2019,Anzahl,EMAS-Organisationen,Thüringen,code16,51.0
 2020,Anzahl,EMAS-Organisationen,Thüringen,code16,50.0
 2021,Anzahl,EMAS-Organisationen,Thüringen,code16,50.0
+2030,Anzahl,EMAS-Organisationen,,,

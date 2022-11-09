@@ -19,6 +19,7 @@ Year,Units,time series,Value
 2019,percentage,imports from ldcs,0.94
 2020,percentage,imports from ldcs,0.98
 2021,percentage,imports from ldcs,1.03
+2030,percentage,imports from ldcs,
 2002,percentage,imports of processed products from ldcs,0.36
 2003,percentage,imports of processed products from ldcs,0.49
 2004,percentage,imports of processed products from ldcs,0.49
@@ -39,3 +40,4 @@ Year,Units,time series,Value
 2019,percentage,imports of processed products from ldcs,0.89
 2020,percentage,imports of processed products from ldcs,0.92
 2021,percentage,imports of processed products from ldcs,0.91
+2030,percentage,imports of processed products from ldcs,

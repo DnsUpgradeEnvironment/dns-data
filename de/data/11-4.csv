@@ -17,6 +17,7 @@ Year,Units,Zeitreihe,Value
 2021/1,Millionen,,37.6
 2021/2,Millionen,,40.2
 2022/1,Millionen,,42.3
+2030/1,Millionen,,
 2012/2,Millionen,Objekte mit Digitalisat,
 2013/2,Millionen,Objekte mit Digitalisat,
 2014/2,Millionen,Objekte mit Digitalisat,
@@ -35,6 +36,7 @@ Year,Units,Zeitreihe,Value
 2021/1,Millionen,Objekte mit Digitalisat,13.3
 2021/2,Millionen,Objekte mit Digitalisat,14.366
 2022/1,Millionen,Objekte mit Digitalisat,14.9
+2030/1,Millionen,Objekte mit Digitalisat,
 2012/2,Millionen,Objekte ohne Digitalisat,
 2013/2,Millionen,Objekte ohne Digitalisat,
 2014/2,Millionen,Objekte ohne Digitalisat,
@@ -53,3 +55,4 @@ Year,Units,Zeitreihe,Value
 2021/1,Millionen,Objekte ohne Digitalisat,24.3
 2021/2,Millionen,Objekte ohne Digitalisat,25.834
 2022/1,Millionen,Objekte ohne Digitalisat,27.4
+2030/1,Millionen,Objekte ohne Digitalisat,
