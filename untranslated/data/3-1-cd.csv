@@ -10,11 +10,11 @@ Year,Units,time series,federal state,GeoCode,Value
 2012,percentage,smoking rate among adolescents,,,12.0
 2013,percentage,smoking rate among adolescents,,,
 2014,percentage,smoking rate among adolescents,,,9.7
-2015,percentage,smoking rate among adolescents,,,7.8
-2016,percentage,smoking rate among adolescents,,,7.4
+2015,percentage,smoking rate among adolescents,,,9.6
+2016,percentage,smoking rate among adolescents,,,8.3
 2017,percentage,smoking rate among adolescents,,,
-2018,percentage,smoking rate among adolescents,,,6.6
-2019,percentage,smoking rate among adolescents,,,5.6
+2018,percentage,smoking rate among adolescents,,,8.7
+2019,percentage,smoking rate among adolescents,,,7.2
 2021,percentage,smoking rate among adolescents,,,6.1
 2006,percentage,smoking rate among adolescents,,,
 2020,percentage,smoking rate among adolescents,,,
@@ -32,7 +32,7 @@ Year,Units,time series,federal state,GeoCode,Value
 2014,percentage,smoking rate among adults,,,
 2015,percentage,smoking rate among adults,,,
 2016,percentage,smoking rate among adults,,,
-2017,percentage,smoking rate among adults,,,22.0
+2017,percentage,smoking rate among adults,,,22.4
 2018,percentage,smoking rate among adults,,,
 2019,percentage,smoking rate among adults,,,
 2021,percentage,smoking rate among adults,,,18.9
