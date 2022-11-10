@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Berechnete jährliche Werte",
                 "Gleitender Vierjahresdurchschnitt",
+                "Berechnete jährliche Werte",
                 ""
               ]
             },

@@ -726,8 +726,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "calculated annual values",
                 "moving four-year average",
+                "calculated annual values",
                 ""
               ]
             }

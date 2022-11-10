@@ -1090,7 +1090,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,,Schleswig-Holstein,code01,42.43
 2018,Prozent,,,Schleswig-Holstein,code01,43.39
 2019,Prozent,,,Schleswig-Holstein,code01,43.43
-2020,Prozent,,,Schleswig-Holstein,code01,43.4
+2020,Prozent,,,Schleswig-Holstein,code01,43.426
 2021,Prozent,,,Schleswig-Holstein,code01,46.573
 2000,Prozent,,,Schleswig-Holstein,code01,
 2001,Prozent,,,Schleswig-Holstein,code01,
@@ -1114,7 +1114,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,Weiblich,Schleswig-Holstein,code01,47.0
 2018,Prozent,,Weiblich,Schleswig-Holstein,code01,49.13
 2019,Prozent,,Weiblich,Schleswig-Holstein,code01,45.8
-2020,Prozent,,Weiblich,Schleswig-Holstein,code01,43.4
+2020,Prozent,,Weiblich,Schleswig-Holstein,code01,45.802
 2021,Prozent,,Weiblich,Schleswig-Holstein,code01,51.306
 2000,Prozent,,Weiblich,Schleswig-Holstein,code01,
 2001,Prozent,,Weiblich,Schleswig-Holstein,code01,
@@ -1138,7 +1138,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,Männlich,Schleswig-Holstein,code01,37.9
 2018,Prozent,,Männlich,Schleswig-Holstein,code01,37.78
 2019,Prozent,,Männlich,Schleswig-Holstein,code01,41.15
-2020,Prozent,,Männlich,Schleswig-Holstein,code01,43.4
+2020,Prozent,,Männlich,Schleswig-Holstein,code01,41.153
 2021,Prozent,,Männlich,Schleswig-Holstein,code01,42.166
 2000,Prozent,,Männlich,Schleswig-Holstein,code01,
 2001,Prozent,,Männlich,Schleswig-Holstein,code01,
@@ -1162,7 +1162,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,,Thüringen,code16,40.68
 2018,Prozent,,,Thüringen,code16,44.57
 2019,Prozent,,,Thüringen,code16,44.77
-2020,Prozent,,,Thüringen,code16,43.4
+2020,Prozent,,,Thüringen,code16,44.773
 2021,Prozent,,,Thüringen,code16,46.885
 2000,Prozent,,,Thüringen,code16,
 2001,Prozent,,,Thüringen,code16,
@@ -1186,7 +1186,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,Weiblich,Thüringen,code16,49.5
 2018,Prozent,,Weiblich,Thüringen,code16,51.74
 2019,Prozent,,Weiblich,Thüringen,code16,51.22
-2020,Prozent,,Weiblich,Thüringen,code16,43.4
+2020,Prozent,,Weiblich,Thüringen,code16,51.22
 2021,Prozent,,Weiblich,Thüringen,code16,53.721
 2000,Prozent,,Weiblich,Thüringen,code16,
 2001,Prozent,,Weiblich,Thüringen,code16,
@@ -1210,7 +1210,7 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2017,Prozent,,Männlich,Thüringen,code16,32.9
 2018,Prozent,,Männlich,Thüringen,code16,38.1
 2019,Prozent,,Männlich,Thüringen,code16,38.9
-2020,Prozent,,Männlich,Thüringen,code16,43.4
+2020,Prozent,,Männlich,Thüringen,code16,38.895
 2021,Prozent,,Männlich,Thüringen,code16,40.853
 2000,Prozent,,Männlich,Thüringen,code16,
 2001,Prozent,,Männlich,Thüringen,code16,
