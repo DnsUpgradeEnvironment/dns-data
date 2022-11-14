@@ -33,8 +33,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,,,61.3
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Baden-Württemberg,code08,100.0
 1991,1990 = 100,Baden-Württemberg,code08,
 1992,1990 = 100,Baden-Württemberg,code08,
@@ -69,8 +69,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Baden-Württemberg,code08,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Bayern,code09,100.0
 1991,1990 = 100,Bayern,code09,
 1992,1990 = 100,Bayern,code09,
@@ -105,8 +105,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Bayern,code09,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Berlin,code11,100.0
 1991,1990 = 100,Berlin,code11,
 1992,1990 = 100,Berlin,code11,
@@ -141,8 +141,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Berlin,code11,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Brandenburg,code12,100.0
 1991,1990 = 100,Brandenburg,code12,
 1992,1990 = 100,Brandenburg,code12,
@@ -177,8 +177,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Brandenburg,code12,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Bremen,code04,100.0
 1991,1990 = 100,Bremen,code04,
 1992,1990 = 100,Bremen,code04,
@@ -213,8 +213,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Bremen,code04,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Hamburg,code02,100.0
 1991,1990 = 100,Hamburg,code02,
 1992,1990 = 100,Hamburg,code02,
@@ -249,8 +249,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Hamburg,code02,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Hessen,code06,100.0
 1991,1990 = 100,Hessen,code06,
 1992,1990 = 100,Hessen,code06,
@@ -285,8 +285,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Hessen,code06,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Mecklenburg-Vorpommern,code13,100.0
 1991,1990 = 100,Mecklenburg-Vorpommern,code13,
 1992,1990 = 100,Mecklenburg-Vorpommern,code13,
@@ -321,8 +321,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Mecklenburg-Vorpommern,code13,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Niedersachsen,code03,100.0
 1991,1990 = 100,Niedersachsen,code03,
 1992,1990 = 100,Niedersachsen,code03,
@@ -357,8 +357,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Niedersachsen,code03,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Nordrhein-Westfalen,code05,100.0
 1991,1990 = 100,Nordrhein-Westfalen,code05,
 1992,1990 = 100,Nordrhein-Westfalen,code05,
@@ -393,8 +393,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Nordrhein-Westfalen,code05,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Rheinland-Pfalz,code07,100.0
 1991,1990 = 100,Rheinland-Pfalz,code07,
 1992,1990 = 100,Rheinland-Pfalz,code07,
@@ -429,8 +429,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Rheinland-Pfalz,code07,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Saarland,code10,
 1991,1990 = 100,Saarland,code10,
 1992,1990 = 100,Saarland,code10,
@@ -465,8 +465,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Saarland,code10,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Sachsen,code14,100.0
 1991,1990 = 100,Sachsen,code14,
 1992,1990 = 100,Sachsen,code14,
@@ -501,8 +501,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Sachsen,code14,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Sachsen-Anhalt,code15,100.0
 1991,1990 = 100,Sachsen-Anhalt,code15,
 1992,1990 = 100,Sachsen-Anhalt,code15,
@@ -537,8 +537,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Sachsen-Anhalt,code15,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Schleswig-Holstein,code01,100.0
 1991,1990 = 100,Schleswig-Holstein,code01,
 1992,1990 = 100,Schleswig-Holstein,code01,
@@ -573,8 +573,8 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Schleswig-Holstein,code01,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
 1990,1990 = 100,Thüringen,code16,100.0
 1991,1990 = 100,Thüringen,code16,
 1992,1990 = 100,Thüringen,code16,
@@ -609,5 +609,5 @@ Year,Units,Bundesland,GeoCode,Value
 2021,1990 = 100,Thüringen,code16,
 2030,1990 = 100,,,
 2040,1990 = 100,,,
-2050,1990 = 100,,,
 2045,1990 = 100,,,
+2050,1990 = 100,,,
