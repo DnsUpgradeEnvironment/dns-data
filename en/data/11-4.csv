@@ -17,7 +17,7 @@ Year,Units,Time series,Value
 2021/1,Millions,,37.6
 2021/2,Millions,,40.2
 2022/1,Millions,,42.3
-2030/1,Millions,,
+2030,Millions,,
 2012/2,Millions,Objects with digitised media,
 2013/2,Millions,Objects with digitised media,
 2014/2,Millions,Objects with digitised media,
@@ -36,7 +36,7 @@ Year,Units,Time series,Value
 2021/1,Millions,Objects with digitised media,13.3
 2021/2,Millions,Objects with digitised media,14.366
 2022/1,Millions,Objects with digitised media,14.9
-2030/1,Millions,Objects with digitised media,
+2030,Millions,Objects with digitised media,
 2012/2,Millions,Objects without digitised media,
 2013/2,Millions,Objects without digitised media,
 2014/2,Millions,Objects without digitised media,
@@ -55,4 +55,4 @@ Year,Units,Time series,Value
 2021/1,Millions,Objects without digitised media,24.3
 2021/2,Millions,Objects without digitised media,25.834
 2022/1,Millions,Objects without digitised media,27.4
-2030/1,Millions,Objects without digitised media,
+2030,Millions,Objects without digitised media,
