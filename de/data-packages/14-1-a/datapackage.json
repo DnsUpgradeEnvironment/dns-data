@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Miligramm pro Liter",
+                "Milligramm pro Liter",
                 ""
               ]
             },

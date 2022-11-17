@@ -39,18 +39,6 @@
             "title": "Time series"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "area",
             "type": "string",
             "constraints": {
@@ -61,6 +49,18 @@
               ]
             },
             "title": "Area"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

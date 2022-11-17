@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of commercial exploited fish stocks assessed for MSY that is fished sustainably",
-                "Share of MSY examined stocks in all managed stocks",
+                "Commercial exploited fish stocks assessed for MSY that is fished sustainably",
+                "Share of MSY examined stocks in all managed fish stocks",
                 ""
               ]
             },
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Greater North Sea",
-                "Baltic sea",
+                "North Sea",
+                "Baltic Sea",
                 ""
               ]
             },

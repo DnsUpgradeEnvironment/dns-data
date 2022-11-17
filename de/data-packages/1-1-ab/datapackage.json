@@ -39,18 +39,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "area",
             "type": "string",
             "constraints": {
@@ -61,6 +49,18 @@
               ]
             },
             "title": "Gebiet"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",

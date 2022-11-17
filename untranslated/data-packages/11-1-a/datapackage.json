@@ -40,7 +40,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "verkehrsfläche",
+                "transport area",
                 "settlement area (built on)",
                 "recreation area, cemetery",
                 ""

@@ -801,7 +801,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verkehrsfläche",
+                "Transport area",
                 "Settlement area (built on)",
                 "Recreation area, cemetery",
                 ""
@@ -2466,18 +2466,6 @@
             "title": "Time series"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "area",
             "type": "string",
             "constraints": {
@@ -2488,6 +2476,18 @@
               ]
             },
             "title": "Area"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -3336,8 +3336,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of commercial exploited fish stocks assessed for MSY that is fished sustainably",
-                "Share of MSY examined stocks in all managed stocks",
+                "Commercial exploited fish stocks assessed for MSY that is fished sustainably",
+                "Share of MSY examined stocks in all managed fish stocks",
                 ""
               ]
             },
@@ -3348,8 +3348,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Greater North Sea",
-                "Baltic sea",
+                "North Sea",
+                "Baltic Sea",
                 ""
               ]
             },

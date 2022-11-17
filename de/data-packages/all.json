@@ -1087,7 +1087,7 @@
                 ""
               ]
             },
-            "title": "Subindikatoren"
+            "title": "Teilindizes"
           },
           {
             "name": "Value",
@@ -2466,18 +2466,6 @@
             "title": "Zeitreihe"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "area",
             "type": "string",
             "constraints": {
@@ -2488,6 +2476,18 @@
               ]
             },
             "title": "Gebiet"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Weiblich",
+                "Männlich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -2858,7 +2858,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Miligramm pro Liter",
+                "Milligramm pro Liter",
                 ""
               ]
             },
@@ -3336,8 +3336,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte Bestände an allen bewirtschafteten Beständen",
+                "Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen",
+                "MSY-untersuchte Bestände an allen bewirtschafteten Fischbeständen",
                 ""
               ]
             },

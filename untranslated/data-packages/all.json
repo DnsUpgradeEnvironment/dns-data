@@ -737,7 +737,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "verkehrsfläche",
+                "transport area",
                 "settlement area (built on)",
                 "recreation area, cemetery",
                 ""
@@ -2302,23 +2302,23 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "area",
             "type": "string",
             "constraints": {
               "enum": [
                 "european union",
                 "germany",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -3103,8 +3103,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "share of commercial exploited fish stocks assessed for msy that is fished sustainably",
-                "share of msy examined stocks in all managed stocks",
+                "commercial exploited fish stocks assessed for msy that is fished sustainably",
+                "share of msy examined stocks in all managed fish stocks",
                 ""
               ]
             }
@@ -3114,7 +3114,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "greater north sea",
+                "north sea",
                 "baltic sea",
                 ""
               ]

@@ -36,23 +36,23 @@
             }
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "area",
             "type": "string",
             "constraints": {
               "enum": [
                 "european union",
                 "germany",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
