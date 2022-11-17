@@ -1,7 +1,7 @@
 Year,Units,Series,Art der Fläche,Bundesland,GeoCode,Value
-1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,
-1997,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,
-1998,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,
+1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,119.6
+1997,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,120.7
+1998,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,123.5
 1999,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,126.276
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,129.157
 2001,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,,,,128.368
@@ -28,18 +28,18 @@ Year,Units,Series,Art der Fläche,Bundesland,GeoCode,Value
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,
 1997,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,
 1998,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,
-1999,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,22.717
+1999,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,22.716
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,22.724
 2001,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,23.313
 2002,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,23.104
 2003,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,22.346
-2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,22.583
+2004,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,22.582
 2005,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,23.134
 2006,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,23.545
 2007,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,24.572
 2008,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,23.798
 2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,22.017
-2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,21.127
+2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,21.126
 2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,19.268
 2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,16.61
 2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Verkehrsfläche,,,16.719
@@ -54,7 +54,7 @@ Year,Units,Series,Art der Fläche,Bundesland,GeoCode,Value
 1996,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,
 1997,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,
 1998,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,
-1999,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,86.037
+1999,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,86.036
 2000,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,85.968
 2001,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,82.582
 2002,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,77.331
@@ -67,8 +67,8 @@ Year,Units,Series,Art der Fläche,Bundesland,GeoCode,Value
 2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,33.058
 2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,33.949
 2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,31.42
-2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,32.678
-2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,32.943
+2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,32.677
+2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,32.942
 2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,30.132
 2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,32.637
 2016,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,Siedlungsfläche (bebaut),,,
@@ -93,7 +93,7 @@ Year,Units,Series,Art der Fläche,Bundesland,GeoCode,Value
 2009,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,38.764
 2010,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,31.641
 2011,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,30.256
-2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,25.224
+2012,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,25.223
 2013,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,22.976
 2014,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,21.636
 2015,Hektar pro Tag,Gleitender Vierjahresdurchschnitt,"Erholungsfläche, Friedhof",,,17.773

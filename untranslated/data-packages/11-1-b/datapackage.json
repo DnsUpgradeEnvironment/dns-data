@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m² per inhabitant and year",
+                "m² per year",
                 ""
               ]
             }

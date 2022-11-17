@@ -1,7 +1,7 @@
 Year,Units,Series,type of area,federal state,GeoCode,Value
-1996,hectre per day,moving four-year average,,,,
-1997,hectre per day,moving four-year average,,,,
-1998,hectre per day,moving four-year average,,,,
+1996,hectre per day,moving four-year average,,,,119.6
+1997,hectre per day,moving four-year average,,,,120.7
+1998,hectre per day,moving four-year average,,,,123.5
 1999,hectre per day,moving four-year average,,,,126.276
 2000,hectre per day,moving four-year average,,,,129.157
 2001,hectre per day,moving four-year average,,,,128.368
@@ -28,18 +28,18 @@ Year,Units,Series,type of area,federal state,GeoCode,Value
 1996,hectre per day,moving four-year average,verkehrsfläche,,,
 1997,hectre per day,moving four-year average,verkehrsfläche,,,
 1998,hectre per day,moving four-year average,verkehrsfläche,,,
-1999,hectre per day,moving four-year average,verkehrsfläche,,,22.717
+1999,hectre per day,moving four-year average,verkehrsfläche,,,22.716
 2000,hectre per day,moving four-year average,verkehrsfläche,,,22.724
 2001,hectre per day,moving four-year average,verkehrsfläche,,,23.313
 2002,hectre per day,moving four-year average,verkehrsfläche,,,23.104
 2003,hectre per day,moving four-year average,verkehrsfläche,,,22.346
-2004,hectre per day,moving four-year average,verkehrsfläche,,,22.583
+2004,hectre per day,moving four-year average,verkehrsfläche,,,22.582
 2005,hectre per day,moving four-year average,verkehrsfläche,,,23.134
 2006,hectre per day,moving four-year average,verkehrsfläche,,,23.545
 2007,hectre per day,moving four-year average,verkehrsfläche,,,24.572
 2008,hectre per day,moving four-year average,verkehrsfläche,,,23.798
 2009,hectre per day,moving four-year average,verkehrsfläche,,,22.017
-2010,hectre per day,moving four-year average,verkehrsfläche,,,21.127
+2010,hectre per day,moving four-year average,verkehrsfläche,,,21.126
 2011,hectre per day,moving four-year average,verkehrsfläche,,,19.268
 2012,hectre per day,moving four-year average,verkehrsfläche,,,16.61
 2013,hectre per day,moving four-year average,verkehrsfläche,,,16.719
@@ -54,7 +54,7 @@ Year,Units,Series,type of area,federal state,GeoCode,Value
 1996,hectre per day,moving four-year average,settlement area (built on),,,
 1997,hectre per day,moving four-year average,settlement area (built on),,,
 1998,hectre per day,moving four-year average,settlement area (built on),,,
-1999,hectre per day,moving four-year average,settlement area (built on),,,86.037
+1999,hectre per day,moving four-year average,settlement area (built on),,,86.036
 2000,hectre per day,moving four-year average,settlement area (built on),,,85.968
 2001,hectre per day,moving four-year average,settlement area (built on),,,82.582
 2002,hectre per day,moving four-year average,settlement area (built on),,,77.331
@@ -67,8 +67,8 @@ Year,Units,Series,type of area,federal state,GeoCode,Value
 2009,hectre per day,moving four-year average,settlement area (built on),,,33.058
 2010,hectre per day,moving four-year average,settlement area (built on),,,33.949
 2011,hectre per day,moving four-year average,settlement area (built on),,,31.42
-2012,hectre per day,moving four-year average,settlement area (built on),,,32.678
-2013,hectre per day,moving four-year average,settlement area (built on),,,32.943
+2012,hectre per day,moving four-year average,settlement area (built on),,,32.677
+2013,hectre per day,moving four-year average,settlement area (built on),,,32.942
 2014,hectre per day,moving four-year average,settlement area (built on),,,30.132
 2015,hectre per day,moving four-year average,settlement area (built on),,,32.637
 2016,hectre per day,moving four-year average,settlement area (built on),,,
@@ -93,7 +93,7 @@ Year,Units,Series,type of area,federal state,GeoCode,Value
 2009,hectre per day,moving four-year average,"recreation area, cemetery",,,38.764
 2010,hectre per day,moving four-year average,"recreation area, cemetery",,,31.641
 2011,hectre per day,moving four-year average,"recreation area, cemetery",,,30.256
-2012,hectre per day,moving four-year average,"recreation area, cemetery",,,25.224
+2012,hectre per day,moving four-year average,"recreation area, cemetery",,,25.223
 2013,hectre per day,moving four-year average,"recreation area, cemetery",,,22.976
 2014,hectre per day,moving four-year average,"recreation area, cemetery",,,21.636
 2015,hectre per day,moving four-year average,"recreation area, cemetery",,,17.773

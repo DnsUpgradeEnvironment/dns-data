@@ -1039,9 +1039,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "use of raw materials",
-                "energy consumption",
-                "co2 emissions",
+                "direct and indirect use of raw materials",
+                "direct and indirect energy consumption",
+                "direct and indirect co2 emissions",
                 ""
               ]
             }
@@ -1879,7 +1879,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m² per inhabitant and year",
+                "m² per year",
                 ""
               ]
             }

@@ -1129,9 +1129,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rohstoffeinsatz",
-                "Energieverbrauch",
-                "CO₂-Emissionen",
+                "Direkter und indirrekter Rohstoffeinsatz",
+                "Direkter und indirrekter Energieverbrauch",
+                "Direkte und indirrekte CO₂-Emissionen",
                 ""
               ]
             },
@@ -2007,7 +2007,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "m² pro Einwohner/-in und Jahr",
+                "m² pro Jahr",
                 ""
               ]
             },
@@ -2870,7 +2870,7 @@
             "constraints": {
               "enum": [
                 "Stickstoffeinträge in Küsten- und Meeresgewässer der Ostsee",
-                "Stickstoffeinträge in Küstengewässer und Meeresgewässer der Nordsee",
+                "Stickstoffeinträge in Küsten- und Meeresgewässer der Nordsee",
                 ""
               ]
             },
