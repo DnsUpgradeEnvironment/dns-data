@@ -3337,7 +3337,7 @@
             "constraints": {
               "enum": [
                 "Nachhaltig bewirtschaftete Fischbestände an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte Bestände an allen bewirtschafteten Fischbeständen",
+                "MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen",
                 ""
               ]
             },
