@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Imports from LDCs",
-                "Imports of processed products from LDCs",
+                "Imports",
+                "Imports of processed products",
                 ""
               ]
             },

@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Einfuhren aus LDCs",
-                "Einfuhren von weiterverarbeiteten Produkten aus LDCs",
+                "Einfuhren",
+                "Einfuhren von weiterverarbeiteten Produkten",
                 ""
               ]
             },
