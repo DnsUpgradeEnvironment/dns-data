@@ -534,7 +534,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -544,7 +544,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
