@@ -26,7 +26,7 @@ Year,Units,Calculation method,Value
 2019,Percentage,Calculated as net expenditure,
 2020,Percentage,Calculated as net expenditure,
 2021,Percentage,Calculated as net expenditure,
-2030,Percentage,Calculated as net expenditure,
+2030,Percentage,,
 1995,Percentage,Calculated in grant equivalents,
 1996,Percentage,Calculated in grant equivalents,
 1997,Percentage,Calculated in grant equivalents,
@@ -54,4 +54,4 @@ Year,Units,Calculation method,Value
 2019,Percentage,Calculated in grant equivalents,0.61
 2020,Percentage,Calculated in grant equivalents,0.73
 2021,Percentage,Calculated in grant equivalents,0.74
-2030,Percentage,Calculated in grant equivalents,
+2030,Percentage,,

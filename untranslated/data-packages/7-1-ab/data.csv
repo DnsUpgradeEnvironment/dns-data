@@ -28,7 +28,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,baden-wuerttemberg,code08,121.65
 2019,2008 = 100,final energy productivity,baden-wuerttemberg,code08,117.75
 2020,2008 = 100,final energy productivity,baden-wuerttemberg,code08,123.69
-2021,2008 = 100,final energy productivity,baden-wuerttemberg,code08,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,bavaria,code09,100.0
@@ -43,8 +42,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,final energy productivity,bavaria,code09,114.29
 2018,2008 = 100,final energy productivity,bavaria,code09,113.39
 2019,2008 = 100,final energy productivity,bavaria,code09,112.21
-2020,2008 = 100,final energy productivity,bavaria,code09,
-2021,2008 = 100,final energy productivity,bavaria,code09,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,berlin,code11,100.0
@@ -60,7 +57,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,berlin,code11,135.5
 2019,2008 = 100,final energy productivity,berlin,code11,141.02
 2020,2008 = 100,final energy productivity,berlin,code11,154.73
-2021,2008 = 100,final energy productivity,berlin,code11,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,brandenburg,code12,100.0
@@ -75,8 +71,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,final energy productivity,brandenburg,code12,104.0
 2018,2008 = 100,final energy productivity,brandenburg,code12,103.29
 2019,2008 = 100,final energy productivity,brandenburg,code12,109.04
-2020,2008 = 100,final energy productivity,brandenburg,code12,
-2021,2008 = 100,final energy productivity,brandenburg,code12,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,bremen,code04,100.0
@@ -92,7 +86,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,bremen,code04,105.52
 2019,2008 = 100,final energy productivity,bremen,code04,108.12
 2020,2008 = 100,final energy productivity,bremen,code04,116.49
-2021,2008 = 100,final energy productivity,bremen,code04,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,hamburg,code02,100.0
@@ -108,7 +101,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,hamburg,code02,110.62
 2019,2008 = 100,final energy productivity,hamburg,code02,114.41
 2020,2008 = 100,final energy productivity,hamburg,code02,118.79
-2021,2008 = 100,final energy productivity,hamburg,code02,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,hesse,code06,100.0
@@ -124,7 +116,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,hesse,code06,109.92
 2019,2008 = 100,final energy productivity,hesse,code06,109.25
 2020,2008 = 100,final energy productivity,hesse,code06,127.37
-2021,2008 = 100,final energy productivity,hesse,code06,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,mecklenburg western pomerania,code13,100.0
@@ -138,9 +129,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2016,2008 = 100,final energy productivity,mecklenburg western pomerania,code13,111.42
 2017,2008 = 100,final energy productivity,mecklenburg western pomerania,code13,107.49
 2018,2008 = 100,final energy productivity,mecklenburg western pomerania,code13,109.2
-2019,2008 = 100,final energy productivity,mecklenburg western pomerania,code13,
-2020,2008 = 100,final energy productivity,mecklenburg western pomerania,code13,
-2021,2008 = 100,final energy productivity,mecklenburg western pomerania,code13,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,lower saxony,code03,100.0
@@ -156,7 +144,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,lower saxony,code03,119.9
 2019,2008 = 100,final energy productivity,lower saxony,code03,122.55
 2020,2008 = 100,final energy productivity,lower saxony,code03,124.12
-2021,2008 = 100,final energy productivity,lower saxony,code03,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,north rhine-westphalia,code05,100.0
@@ -171,8 +158,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,final energy productivity,north rhine-westphalia,code05,121.19
 2018,2008 = 100,final energy productivity,north rhine-westphalia,code05,107.47
 2019,2008 = 100,final energy productivity,north rhine-westphalia,code05,119.28
-2020,2008 = 100,final energy productivity,north rhine-westphalia,code05,
-2021,2008 = 100,final energy productivity,north rhine-westphalia,code05,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,rhineland palatinate,code07,100.0
@@ -188,23 +173,8 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,rhineland palatinate,code07,113.54
 2019,2008 = 100,final energy productivity,rhineland palatinate,code07,112.81
 2020,2008 = 100,final energy productivity,rhineland palatinate,code07,111.8
-2021,2008 = 100,final energy productivity,rhineland palatinate,code07,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
-2008,2008 = 100,final energy productivity,saarland,code10,
-2009,2008 = 100,final energy productivity,saarland,code10,
-2010,2008 = 100,final energy productivity,saarland,code10,
-2011,2008 = 100,final energy productivity,saarland,code10,
-2012,2008 = 100,final energy productivity,saarland,code10,
-2013,2008 = 100,final energy productivity,saarland,code10,
-2014,2008 = 100,final energy productivity,saarland,code10,
-2015,2008 = 100,final energy productivity,saarland,code10,
-2016,2008 = 100,final energy productivity,saarland,code10,
-2017,2008 = 100,final energy productivity,saarland,code10,
-2018,2008 = 100,final energy productivity,saarland,code10,
-2019,2008 = 100,final energy productivity,saarland,code10,
-2020,2008 = 100,final energy productivity,saarland,code10,
-2021,2008 = 100,final energy productivity,saarland,code10,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,saxony,code14,100.0
@@ -219,8 +189,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,final energy productivity,saxony,code14,105.78
 2018,2008 = 100,final energy productivity,saxony,code14,109.5
 2019,2008 = 100,final energy productivity,saxony,code14,112.39
-2020,2008 = 100,final energy productivity,saxony,code14,
-2021,2008 = 100,final energy productivity,saxony,code14,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,saxony-anhalt,code15,100.0
@@ -235,8 +203,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,final energy productivity,saxony-anhalt,code15,98.56
 2018,2008 = 100,final energy productivity,saxony-anhalt,code15,95.94
 2019,2008 = 100,final energy productivity,saxony-anhalt,code15,102.82
-2020,2008 = 100,final energy productivity,saxony-anhalt,code15,
-2021,2008 = 100,final energy productivity,saxony-anhalt,code15,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,schleswig-holstein,code01,100.0
@@ -252,7 +218,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,final energy productivity,schleswig-holstein,code01,107.84
 2019,2008 = 100,final energy productivity,schleswig-holstein,code01,114.83
 2020,2008 = 100,final energy productivity,schleswig-holstein,code01,112.08
-2021,2008 = 100,final energy productivity,schleswig-holstein,code01,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,thuringia,code16,100.0
@@ -267,8 +232,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,final energy productivity,thuringia,code16,118.93
 2018,2008 = 100,final energy productivity,thuringia,code16,118.84
 2019,2008 = 100,final energy productivity,thuringia,code16,119.23
-2020,2008 = 100,final energy productivity,thuringia,code16,
-2021,2008 = 100,final energy productivity,thuringia,code16,
 2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,primary energy consumption,,,100.0
@@ -300,7 +263,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,baden-wuerttemberg,code08,87.85
 2019,2008 = 100,primary energy consumption,baden-wuerttemberg,code08,88.24
 2020,2008 = 100,primary energy consumption,baden-wuerttemberg,code08,82.75
-2021,2008 = 100,primary energy consumption,baden-wuerttemberg,code08,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,bavaria,code09,100.0
@@ -315,8 +277,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,primary energy consumption,bavaria,code09,95.4
 2018,2008 = 100,primary energy consumption,bavaria,code09,89.76
 2019,2008 = 100,primary energy consumption,bavaria,code09,91.53
-2020,2008 = 100,primary energy consumption,bavaria,code09,
-2021,2008 = 100,primary energy consumption,bavaria,code09,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,berlin,code11,100.0
@@ -332,7 +292,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,berlin,code11,92.75
 2019,2008 = 100,primary energy consumption,berlin,code11,91.99
 2020,2008 = 100,primary energy consumption,berlin,code11,83.88
-2021,2008 = 100,primary energy consumption,berlin,code11,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,brandenburg,code12,100.0
@@ -347,8 +306,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,primary energy consumption,brandenburg,code12,103.67
 2018,2008 = 100,primary energy consumption,brandenburg,code12,106.36
 2019,2008 = 100,primary energy consumption,brandenburg,code12,96.19
-2020,2008 = 100,primary energy consumption,brandenburg,code12,
-2021,2008 = 100,primary energy consumption,brandenburg,code12,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,bremen,code04,100.0
@@ -364,7 +321,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,bremen,code04,95.59
 2019,2008 = 100,primary energy consumption,bremen,code04,89.68
 2020,2008 = 100,primary energy consumption,bremen,code04,81.09
-2021,2008 = 100,primary energy consumption,bremen,code04,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,hamburg,code02,100.0
@@ -380,7 +336,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,hamburg,code02,114.51
 2019,2008 = 100,primary energy consumption,hamburg,code02,110.11
 2020,2008 = 100,primary energy consumption,hamburg,code02,98.06
-2021,2008 = 100,primary energy consumption,hamburg,code02,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,hesse,code06,100.0
@@ -396,7 +351,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,hesse,code06,81.35
 2019,2008 = 100,primary energy consumption,hesse,code06,82.38
 2020,2008 = 100,primary energy consumption,hesse,code06,83.2
-2021,2008 = 100,primary energy consumption,hesse,code06,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,mecklenburg western pomerania,code13,100.0
@@ -410,9 +364,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2016,2008 = 100,primary energy consumption,mecklenburg western pomerania,code13,106.07
 2017,2008 = 100,primary energy consumption,mecklenburg western pomerania,code13,93.21
 2018,2008 = 100,primary energy consumption,mecklenburg western pomerania,code13,91.07
-2019,2008 = 100,primary energy consumption,mecklenburg western pomerania,code13,
-2020,2008 = 100,primary energy consumption,mecklenburg western pomerania,code13,
-2021,2008 = 100,primary energy consumption,mecklenburg western pomerania,code13,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,lower saxony,code03,100.0
@@ -428,7 +379,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,lower saxony,code03,91.14
 2019,2008 = 100,primary energy consumption,lower saxony,code03,89.44
 2020,2008 = 100,primary energy consumption,lower saxony,code03,88.14
-2021,2008 = 100,primary energy consumption,lower saxony,code03,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,north rhine-westphalia,code05,100.0
@@ -443,8 +393,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,primary energy consumption,north rhine-westphalia,code05,94.96
 2018,2008 = 100,primary energy consumption,north rhine-westphalia,code05,89.34
 2019,2008 = 100,primary energy consumption,north rhine-westphalia,code05,86.49
-2020,2008 = 100,primary energy consumption,north rhine-westphalia,code05,
-2021,2008 = 100,primary energy consumption,north rhine-westphalia,code05,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,rhineland palatinate,code07,100.0
@@ -460,7 +408,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,rhineland palatinate,code07,95.26
 2019,2008 = 100,primary energy consumption,rhineland palatinate,code07,95.6
 2020,2008 = 100,primary energy consumption,rhineland palatinate,code07,101.39
-2021,2008 = 100,primary energy consumption,rhineland palatinate,code07,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,saarland,code10,100.0
@@ -471,12 +418,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2013,2008 = 100,primary energy consumption,saarland,code10,99.3
 2014,2008 = 100,primary energy consumption,saarland,code10,90.75
 2015,2008 = 100,primary energy consumption,saarland,code10,87.67
-2016,2008 = 100,primary energy consumption,saarland,code10,
-2017,2008 = 100,primary energy consumption,saarland,code10,
-2018,2008 = 100,primary energy consumption,saarland,code10,
-2019,2008 = 100,primary energy consumption,saarland,code10,
-2020,2008 = 100,primary energy consumption,saarland,code10,
-2021,2008 = 100,primary energy consumption,saarland,code10,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,saxony,code14,100.0
@@ -491,8 +432,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,primary energy consumption,saxony,code14,104.77
 2018,2008 = 100,primary energy consumption,saxony,code14,103.22
 2019,2008 = 100,primary energy consumption,saxony,code14,95.92
-2020,2008 = 100,primary energy consumption,saxony,code14,
-2021,2008 = 100,primary energy consumption,saxony,code14,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,saxony-anhalt,code15,100.0
@@ -507,8 +446,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,primary energy consumption,saxony-anhalt,code15,99.37
 2018,2008 = 100,primary energy consumption,saxony-anhalt,code15,108.23
 2019,2008 = 100,primary energy consumption,saxony-anhalt,code15,101.43
-2020,2008 = 100,primary energy consumption,saxony-anhalt,code15,
-2021,2008 = 100,primary energy consumption,saxony-anhalt,code15,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,schleswig-holstein,code01,100.0
@@ -524,7 +461,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2018,2008 = 100,primary energy consumption,schleswig-holstein,code01,98.13
 2019,2008 = 100,primary energy consumption,schleswig-holstein,code01,93.77
 2020,2008 = 100,primary energy consumption,schleswig-holstein,code01,97.94
-2021,2008 = 100,primary energy consumption,schleswig-holstein,code01,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,thuringia,code16,100.0
@@ -539,7 +475,5 @@ Year,Units,Series,federal state,GeoCode,Value
 2017,2008 = 100,primary energy consumption,thuringia,code16,96.49
 2018,2008 = 100,primary energy consumption,thuringia,code16,95.14
 2019,2008 = 100,primary energy consumption,thuringia,code16,93.27
-2020,2008 = 100,primary energy consumption,thuringia,code16,
-2021,2008 = 100,primary energy consumption,thuringia,code16,
 2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,

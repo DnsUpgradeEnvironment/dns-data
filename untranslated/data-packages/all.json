@@ -821,7 +821,6 @@
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
-                "saarland",
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
@@ -2770,11 +2769,11 @@
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",
-                "saarland",
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
                 "thuringia",
+                "saarland",
                 ""
               ]
             }
@@ -3308,10 +3307,7 @@
               "enum": [
                 "baden-wuerttemberg",
                 "bavaria",
-                "berlin",
                 "brandenburg",
-                "bremen",
-                "hamburg",
                 "hesse",
                 "mecklenburg western pomerania",
                 "lower saxony",
@@ -3406,7 +3402,6 @@
                 "bremen",
                 "hamburg",
                 "hesse",
-                "mecklenburg western pomerania",
                 "lower saxony",
                 "north rhine-westphalia",
                 "rhineland palatinate",

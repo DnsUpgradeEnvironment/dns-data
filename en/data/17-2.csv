@@ -16,7 +16,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,,,285450.0
 2020,Number,,,,298149.0
 2021,Number,,,,316001.0
-2005,Number,,Baden-Wuerttemberg,code08,
 2006,Number,,Baden-Wuerttemberg,code08,20133.0
 2007,Number,,Baden-Wuerttemberg,code08,19383.0
 2008,Number,,Baden-Wuerttemberg,code08,19840.0
@@ -33,7 +32,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Baden-Wuerttemberg,code08,31590.0
 2020,Number,,Baden-Wuerttemberg,code08,30143.0
 2021,Number,,Baden-Wuerttemberg,code08,30127.0
-2005,Number,,Bavaria,code09,
 2006,Number,,Bavaria,code09,13978.0
 2007,Number,,Bavaria,code09,13633.0
 2008,Number,,Bavaria,code09,14130.0
@@ -50,7 +48,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Bavaria,code09,37939.0
 2020,Number,,Bavaria,code09,42253.0
 2021,Number,,Bavaria,code09,47700.0
-2005,Number,,Berlin,code11,
 2006,Number,,Berlin,code11,9715.0
 2007,Number,,Berlin,code11,10005.0
 2008,Number,,Berlin,code11,10531.0
@@ -67,7 +64,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Berlin,code11,24341.0
 2020,Number,,Berlin,code11,25828.0
 2021,Number,,Berlin,code11,28264.0
-2005,Number,,Brandenburg,code12,
 2006,Number,,Brandenburg,code12,2568.0
 2007,Number,,Brandenburg,code12,2630.0
 2008,Number,,Brandenburg,code12,2675.0
@@ -84,7 +80,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Brandenburg,code12,5905.0
 2020,Number,,Brandenburg,code12,6244.0
 2021,Number,,Brandenburg,code12,6988.0
-2005,Number,,Bremen,code04,
 2006,Number,,Bremen,code04,3789.0
 2007,Number,,Bremen,code04,3644.0
 2008,Number,,Bremen,code04,3552.0
@@ -101,7 +96,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Bremen,code04,5144.0
 2020,Number,,Bremen,code04,5349.0
 2021,Number,,Bremen,code04,5526.0
-2005,Number,,Hamburg,code02,
 2006,Number,,Hamburg,code02,5311.0
 2007,Number,,Hamburg,code02,4970.0
 2008,Number,,Hamburg,code02,5028.0
@@ -118,7 +112,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Hamburg,code02,9058.0
 2020,Number,,Hamburg,code02,9345.0
 2021,Number,,Hamburg,code02,10293.0
-2005,Number,,Hesse,code06,
 2006,Number,,Hesse,code06,14955.0
 2007,Number,,Hesse,code06,13532.0
 2008,Number,,Hesse,code06,15441.0
@@ -135,7 +128,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Hesse,code06,28777.0
 2020,Number,,Hesse,code06,29788.0
 2021,Number,,Hesse,code06,30299.0
-2005,Number,,Mecklenburg Western Pomerania,code13,
 2006,Number,,Mecklenburg Western Pomerania,code13,1194.0
 2007,Number,,Mecklenburg Western Pomerania,code13,1207.0
 2008,Number,,Mecklenburg Western Pomerania,code13,1195.0
@@ -152,7 +144,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Mecklenburg Western Pomerania,code13,3247.0
 2020,Number,,Mecklenburg Western Pomerania,code13,3352.0
 2021,Number,,Mecklenburg Western Pomerania,code13,3477.0
-2005,Number,,Lower Saxony,code03,
 2006,Number,,Lower Saxony,code03,10759.0
 2007,Number,,Lower Saxony,code03,10237.0
 2008,Number,,Lower Saxony,code03,10357.0
@@ -169,7 +160,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Lower Saxony,code03,20687.0
 2020,Number,,Lower Saxony,code03,21354.0
 2021,Number,,Lower Saxony,code03,21592.0
-2005,Number,,North Rhine-Westphalia,code05,
 2006,Number,,North Rhine-Westphalia,code05,38324.0
 2007,Number,,North Rhine-Westphalia,code05,35303.0
 2008,Number,,North Rhine-Westphalia,code05,36388.0
@@ -186,7 +176,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,North Rhine-Westphalia,code05,72166.0
 2020,Number,,North Rhine-Westphalia,code05,75112.0
 2021,Number,,North Rhine-Westphalia,code05,77363.0
-2005,Number,,Rhineland Palatinate,code07,
 2006,Number,,Rhineland Palatinate,code07,6488.0
 2007,Number,,Rhineland Palatinate,code07,6993.0
 2008,Number,,Rhineland Palatinate,code07,7166.0
@@ -203,7 +192,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Rhineland Palatinate,code07,11069.0
 2020,Number,,Rhineland Palatinate,code07,11896.0
 2021,Number,,Rhineland Palatinate,code07,12426.0
-2005,Number,,Saarland,code10,
 2006,Number,,Saarland,code10,1572.0
 2007,Number,,Saarland,code10,1573.0
 2008,Number,,Saarland,code10,1597.0
@@ -220,7 +208,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Saarland,code10,2961.0
 2020,Number,,Saarland,code10,3114.0
 2021,Number,,Saarland,code10,3436.0
-2005,Number,,Saxony,code14,
 2006,Number,,Saxony,code14,4963.0
 2007,Number,,Saxony,code14,5139.0
 2008,Number,,Saxony,code14,5053.0
@@ -237,7 +224,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Saxony,code14,13267.0
 2020,Number,,Saxony,code14,13507.0
 2021,Number,,Saxony,code14,13915.0
-2005,Number,,Saxony-Anhalt,code15,
 2006,Number,,Saxony-Anhalt,code15,3198.0
 2007,Number,,Saxony-Anhalt,code15,3247.0
 2008,Number,,Saxony-Anhalt,code15,3251.0
@@ -254,7 +240,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Saxony-Anhalt,code15,7321.0
 2020,Number,,Saxony-Anhalt,code15,7679.0
 2021,Number,,Saxony-Anhalt,code15,8442.0
-2005,Number,,Schleswig-Holstein,code01,
 2006,Number,,Schleswig-Holstein,code01,2406.0
 2007,Number,,Schleswig-Holstein,code01,2416.0
 2008,Number,,Schleswig-Holstein,code01,2436.0
@@ -271,7 +256,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,,Schleswig-Holstein,code01,4276.0
 2020,Number,,Schleswig-Holstein,code01,4402.0
 2021,Number,,Schleswig-Holstein,code01,4740.0
-2005,Number,,Thuringia,code16,
 2006,Number,,Thuringia,code16,1937.0
 2007,Number,,Thuringia,code16,2176.0
 2008,Number,,Thuringia,code16,2192.0
@@ -883,7 +867,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,,,681.0
 2020,Number,Researchers from LDCs,,,838.0
 2021,Number,Researchers from LDCs,,,924.0
-2005,Number,Researchers from LDCs,Baden-Wuerttemberg,code08,
 2006,Number,Researchers from LDCs,Baden-Wuerttemberg,code08,40.0
 2007,Number,Researchers from LDCs,Baden-Wuerttemberg,code08,45.0
 2008,Number,Researchers from LDCs,Baden-Wuerttemberg,code08,52.0
@@ -900,7 +883,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Baden-Wuerttemberg,code08,141.0
 2020,Number,Researchers from LDCs,Baden-Wuerttemberg,code08,146.0
 2021,Number,Researchers from LDCs,Baden-Wuerttemberg,code08,149.0
-2005,Number,Researchers from LDCs,Bavaria,code09,
 2006,Number,Researchers from LDCs,Bavaria,code09,26.0
 2007,Number,Researchers from LDCs,Bavaria,code09,23.0
 2008,Number,Researchers from LDCs,Bavaria,code09,24.0
@@ -917,7 +899,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Bavaria,code09,76.0
 2020,Number,Researchers from LDCs,Bavaria,code09,105.0
 2021,Number,Researchers from LDCs,Bavaria,code09,113.0
-2005,Number,Researchers from LDCs,Berlin,code11,
 2006,Number,Researchers from LDCs,Berlin,code11,6.0
 2007,Number,Researchers from LDCs,Berlin,code11,5.0
 2008,Number,Researchers from LDCs,Berlin,code11,7.0
@@ -934,7 +915,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Berlin,code11,35.0
 2020,Number,Researchers from LDCs,Berlin,code11,36.0
 2021,Number,Researchers from LDCs,Berlin,code11,49.0
-2005,Number,Researchers from LDCs,Brandenburg,code12,
 2006,Number,Researchers from LDCs,Brandenburg,code12,3.0
 2007,Number,Researchers from LDCs,Brandenburg,code12,2.0
 2008,Number,Researchers from LDCs,Brandenburg,code12,6.0
@@ -951,7 +931,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Brandenburg,code12,18.0
 2020,Number,Researchers from LDCs,Brandenburg,code12,27.0
 2021,Number,Researchers from LDCs,Brandenburg,code12,28.0
-2005,Number,Researchers from LDCs,Bremen,code04,
 2006,Number,Researchers from LDCs,Bremen,code04,5.0
 2007,Number,Researchers from LDCs,Bremen,code04,3.0
 2008,Number,Researchers from LDCs,Bremen,code04,6.0
@@ -968,7 +947,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Bremen,code04,11.0
 2020,Number,Researchers from LDCs,Bremen,code04,12.0
 2021,Number,Researchers from LDCs,Bremen,code04,12.0
-2005,Number,Researchers from LDCs,Hamburg,code02,
 2006,Number,Researchers from LDCs,Hamburg,code02,8.0
 2007,Number,Researchers from LDCs,Hamburg,code02,11.0
 2008,Number,Researchers from LDCs,Hamburg,code02,5.0
@@ -985,7 +963,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Hamburg,code02,19.0
 2020,Number,Researchers from LDCs,Hamburg,code02,29.0
 2021,Number,Researchers from LDCs,Hamburg,code02,34.0
-2005,Number,Researchers from LDCs,Hesse,code06,
 2006,Number,Researchers from LDCs,Hesse,code06,18.0
 2007,Number,Researchers from LDCs,Hesse,code06,19.0
 2008,Number,Researchers from LDCs,Hesse,code06,20.0
@@ -1002,7 +979,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Hesse,code06,43.0
 2020,Number,Researchers from LDCs,Hesse,code06,42.0
 2021,Number,Researchers from LDCs,Hesse,code06,50.0
-2005,Number,Researchers from LDCs,Mecklenburg Western Pomerania,code13,
 2006,Number,Researchers from LDCs,Mecklenburg Western Pomerania,code13,5.0
 2007,Number,Researchers from LDCs,Mecklenburg Western Pomerania,code13,3.0
 2008,Number,Researchers from LDCs,Mecklenburg Western Pomerania,code13,4.0
@@ -1019,7 +995,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Mecklenburg Western Pomerania,code13,9.0
 2020,Number,Researchers from LDCs,Mecklenburg Western Pomerania,code13,14.0
 2021,Number,Researchers from LDCs,Mecklenburg Western Pomerania,code13,17.0
-2005,Number,Researchers from LDCs,Lower Saxony,code03,
 2006,Number,Researchers from LDCs,Lower Saxony,code03,32.0
 2007,Number,Researchers from LDCs,Lower Saxony,code03,27.0
 2008,Number,Researchers from LDCs,Lower Saxony,code03,26.0
@@ -1036,7 +1011,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Lower Saxony,code03,49.0
 2020,Number,Researchers from LDCs,Lower Saxony,code03,57.0
 2021,Number,Researchers from LDCs,Lower Saxony,code03,68.0
-2005,Number,Researchers from LDCs,North Rhine-Westphalia,code05,
 2006,Number,Researchers from LDCs,North Rhine-Westphalia,code05,24.0
 2007,Number,Researchers from LDCs,North Rhine-Westphalia,code05,24.0
 2008,Number,Researchers from LDCs,North Rhine-Westphalia,code05,48.0
@@ -1053,7 +1027,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,North Rhine-Westphalia,code05,123.0
 2020,Number,Researchers from LDCs,North Rhine-Westphalia,code05,150.0
 2021,Number,Researchers from LDCs,North Rhine-Westphalia,code05,183.0
-2005,Number,Researchers from LDCs,Rhineland Palatinate,code07,
 2006,Number,Researchers from LDCs,Rhineland Palatinate,code07,10.0
 2007,Number,Researchers from LDCs,Rhineland Palatinate,code07,13.0
 2008,Number,Researchers from LDCs,Rhineland Palatinate,code07,15.0
@@ -1070,7 +1043,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Rhineland Palatinate,code07,31.0
 2020,Number,Researchers from LDCs,Rhineland Palatinate,code07,48.0
 2021,Number,Researchers from LDCs,Rhineland Palatinate,code07,43.0
-2005,Number,Researchers from LDCs,Saarland,code10,
 2006,Number,Researchers from LDCs,Saarland,code10,3.0
 2007,Number,Researchers from LDCs,Saarland,code10,3.0
 2008,Number,Researchers from LDCs,Saarland,code10,4.0
@@ -1087,7 +1059,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Saarland,code10,9.0
 2020,Number,Researchers from LDCs,Saarland,code10,15.0
 2021,Number,Researchers from LDCs,Saarland,code10,14.0
-2005,Number,Researchers from LDCs,Saxony,code14,
 2006,Number,Researchers from LDCs,Saxony,code14,19.0
 2007,Number,Researchers from LDCs,Saxony,code14,17.0
 2008,Number,Researchers from LDCs,Saxony,code14,19.0
@@ -1104,7 +1075,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Saxony,code14,53.0
 2020,Number,Researchers from LDCs,Saxony,code14,69.0
 2021,Number,Researchers from LDCs,Saxony,code14,70.0
-2005,Number,Researchers from LDCs,Saxony-Anhalt,code15,
 2006,Number,Researchers from LDCs,Saxony-Anhalt,code15,5.0
 2007,Number,Researchers from LDCs,Saxony-Anhalt,code15,1.0
 2008,Number,Researchers from LDCs,Saxony-Anhalt,code15,3.0
@@ -1121,7 +1091,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Saxony-Anhalt,code15,14.0
 2020,Number,Researchers from LDCs,Saxony-Anhalt,code15,22.0
 2021,Number,Researchers from LDCs,Saxony-Anhalt,code15,24.0
-2005,Number,Researchers from LDCs,Schleswig-Holstein,code01,
 2006,Number,Researchers from LDCs,Schleswig-Holstein,code01,5.0
 2007,Number,Researchers from LDCs,Schleswig-Holstein,code01,6.0
 2008,Number,Researchers from LDCs,Schleswig-Holstein,code01,8.0
@@ -1138,7 +1107,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from LDCs,Schleswig-Holstein,code01,27.0
 2020,Number,Researchers from LDCs,Schleswig-Holstein,code01,28.0
 2021,Number,Researchers from LDCs,Schleswig-Holstein,code01,38.0
-2005,Number,Researchers from LDCs,Thuringia,code16,
 2006,Number,Researchers from LDCs,Thuringia,code16,3.0
 2007,Number,Researchers from LDCs,Thuringia,code16,5.0
 2008,Number,Researchers from LDCs,Thuringia,code16,7.0
@@ -1172,7 +1140,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,,,20214.0
 2020,Number,Researchers from other developing and emerging countries,,,22257.0
 2021,Number,Researchers from other developing and emerging countries,,,24624.0
-2005,Number,Researchers from other developing and emerging countries,Baden-Wuerttemberg,code08,
 2006,Number,Researchers from other developing and emerging countries,Baden-Wuerttemberg,code08,1190.0
 2007,Number,Researchers from other developing and emerging countries,Baden-Wuerttemberg,code08,1333.0
 2008,Number,Researchers from other developing and emerging countries,Baden-Wuerttemberg,code08,1579.0
@@ -1189,7 +1156,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Baden-Wuerttemberg,code08,3458.0
 2020,Number,Researchers from other developing and emerging countries,Baden-Wuerttemberg,code08,3897.0
 2021,Number,Researchers from other developing and emerging countries,Baden-Wuerttemberg,code08,4130.0
-2005,Number,Researchers from other developing and emerging countries,Bavaria,code09,
 2006,Number,Researchers from other developing and emerging countries,Bavaria,code09,872.0
 2007,Number,Researchers from other developing and emerging countries,Bavaria,code09,934.0
 2008,Number,Researchers from other developing and emerging countries,Bavaria,code09,1171.0
@@ -1206,7 +1172,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Bavaria,code09,2910.0
 2020,Number,Researchers from other developing and emerging countries,Bavaria,code09,3265.0
 2021,Number,Researchers from other developing and emerging countries,Bavaria,code09,3651.0
-2005,Number,Researchers from other developing and emerging countries,Berlin,code11,
 2006,Number,Researchers from other developing and emerging countries,Berlin,code11,468.0
 2007,Number,Researchers from other developing and emerging countries,Berlin,code11,461.0
 2008,Number,Researchers from other developing and emerging countries,Berlin,code11,550.0
@@ -1223,7 +1188,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Berlin,code11,1138.0
 2020,Number,Researchers from other developing and emerging countries,Berlin,code11,1322.0
 2021,Number,Researchers from other developing and emerging countries,Berlin,code11,1571.0
-2005,Number,Researchers from other developing and emerging countries,Brandenburg,code12,
 2006,Number,Researchers from other developing and emerging countries,Brandenburg,code12,97.0
 2007,Number,Researchers from other developing and emerging countries,Brandenburg,code12,109.0
 2008,Number,Researchers from other developing and emerging countries,Brandenburg,code12,124.0
@@ -1240,7 +1204,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Brandenburg,code12,414.0
 2020,Number,Researchers from other developing and emerging countries,Brandenburg,code12,492.0
 2021,Number,Researchers from other developing and emerging countries,Brandenburg,code12,543.0
-2005,Number,Researchers from other developing and emerging countries,Bremen,code04,
 2006,Number,Researchers from other developing and emerging countries,Bremen,code04,108.0
 2007,Number,Researchers from other developing and emerging countries,Bremen,code04,96.0
 2008,Number,Researchers from other developing and emerging countries,Bremen,code04,116.0
@@ -1257,7 +1220,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Bremen,code04,238.0
 2020,Number,Researchers from other developing and emerging countries,Bremen,code04,238.0
 2021,Number,Researchers from other developing and emerging countries,Bremen,code04,244.0
-2005,Number,Researchers from other developing and emerging countries,Hamburg,code02,
 2006,Number,Researchers from other developing and emerging countries,Hamburg,code02,162.0
 2007,Number,Researchers from other developing and emerging countries,Hamburg,code02,215.0
 2008,Number,Researchers from other developing and emerging countries,Hamburg,code02,242.0
@@ -1274,7 +1236,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Hamburg,code02,578.0
 2020,Number,Researchers from other developing and emerging countries,Hamburg,code02,649.0
 2021,Number,Researchers from other developing and emerging countries,Hamburg,code02,783.0
-2005,Number,Researchers from other developing and emerging countries,Hesse,code06,
 2006,Number,Researchers from other developing and emerging countries,Hesse,code06,469.0
 2007,Number,Researchers from other developing and emerging countries,Hesse,code06,520.0
 2008,Number,Researchers from other developing and emerging countries,Hesse,code06,628.0
@@ -1291,7 +1252,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Hesse,code06,1344.0
 2020,Number,Researchers from other developing and emerging countries,Hesse,code06,1424.0
 2021,Number,Researchers from other developing and emerging countries,Hesse,code06,1597.0
-2005,Number,Researchers from other developing and emerging countries,Mecklenburg Western Pomerania,code13,
 2006,Number,Researchers from other developing and emerging countries,Mecklenburg Western Pomerania,code13,67.0
 2007,Number,Researchers from other developing and emerging countries,Mecklenburg Western Pomerania,code13,73.0
 2008,Number,Researchers from other developing and emerging countries,Mecklenburg Western Pomerania,code13,94.0
@@ -1308,7 +1268,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Mecklenburg Western Pomerania,code13,276.0
 2020,Number,Researchers from other developing and emerging countries,Mecklenburg Western Pomerania,code13,308.0
 2021,Number,Researchers from other developing and emerging countries,Mecklenburg Western Pomerania,code13,350.0
-2005,Number,Researchers from other developing and emerging countries,Lower Saxony,code03,
 2006,Number,Researchers from other developing and emerging countries,Lower Saxony,code03,519.0
 2007,Number,Researchers from other developing and emerging countries,Lower Saxony,code03,646.0
 2008,Number,Researchers from other developing and emerging countries,Lower Saxony,code03,710.0
@@ -1325,7 +1284,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Lower Saxony,code03,1549.0
 2020,Number,Researchers from other developing and emerging countries,Lower Saxony,code03,1638.0
 2021,Number,Researchers from other developing and emerging countries,Lower Saxony,code03,1822.0
-2005,Number,Researchers from other developing and emerging countries,North Rhine-Westphalia,code05,
 2006,Number,Researchers from other developing and emerging countries,North Rhine-Westphalia,code05,1399.0
 2007,Number,Researchers from other developing and emerging countries,North Rhine-Westphalia,code05,1240.0
 2008,Number,Researchers from other developing and emerging countries,North Rhine-Westphalia,code05,1675.0
@@ -1342,7 +1300,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,North Rhine-Westphalia,code05,4306.0
 2020,Number,Researchers from other developing and emerging countries,North Rhine-Westphalia,code05,4628.0
 2021,Number,Researchers from other developing and emerging countries,North Rhine-Westphalia,code05,5096.0
-2005,Number,Researchers from other developing and emerging countries,Rhineland Palatinate,code07,
 2006,Number,Researchers from other developing and emerging countries,Rhineland Palatinate,code07,238.0
 2007,Number,Researchers from other developing and emerging countries,Rhineland Palatinate,code07,254.0
 2008,Number,Researchers from other developing and emerging countries,Rhineland Palatinate,code07,291.0
@@ -1359,7 +1316,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Rhineland Palatinate,code07,756.0
 2020,Number,Researchers from other developing and emerging countries,Rhineland Palatinate,code07,823.0
 2021,Number,Researchers from other developing and emerging countries,Rhineland Palatinate,code07,851.0
-2005,Number,Researchers from other developing and emerging countries,Saarland,code10,
 2006,Number,Researchers from other developing and emerging countries,Saarland,code10,111.0
 2007,Number,Researchers from other developing and emerging countries,Saarland,code10,102.0
 2008,Number,Researchers from other developing and emerging countries,Saarland,code10,108.0
@@ -1376,7 +1332,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Saarland,code10,371.0
 2020,Number,Researchers from other developing and emerging countries,Saarland,code10,404.0
 2021,Number,Researchers from other developing and emerging countries,Saarland,code10,412.0
-2005,Number,Researchers from other developing and emerging countries,Saxony,code14,
 2006,Number,Researchers from other developing and emerging countries,Saxony,code14,304.0
 2007,Number,Researchers from other developing and emerging countries,Saxony,code14,326.0
 2008,Number,Researchers from other developing and emerging countries,Saxony,code14,376.0
@@ -1393,7 +1348,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Saxony,code14,1338.0
 2020,Number,Researchers from other developing and emerging countries,Saxony,code14,1379.0
 2021,Number,Researchers from other developing and emerging countries,Saxony,code14,1542.0
-2005,Number,Researchers from other developing and emerging countries,Saxony-Anhalt,code15,
 2006,Number,Researchers from other developing and emerging countries,Saxony-Anhalt,code15,136.0
 2007,Number,Researchers from other developing and emerging countries,Saxony-Anhalt,code15,161.0
 2008,Number,Researchers from other developing and emerging countries,Saxony-Anhalt,code15,175.0
@@ -1410,7 +1364,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Saxony-Anhalt,code15,512.0
 2020,Number,Researchers from other developing and emerging countries,Saxony-Anhalt,code15,544.0
 2021,Number,Researchers from other developing and emerging countries,Saxony-Anhalt,code15,616.0
-2005,Number,Researchers from other developing and emerging countries,Schleswig-Holstein,code01,
 2006,Number,Researchers from other developing and emerging countries,Schleswig-Holstein,code01,148.0
 2007,Number,Researchers from other developing and emerging countries,Schleswig-Holstein,code01,129.0
 2008,Number,Researchers from other developing and emerging countries,Schleswig-Holstein,code01,147.0
@@ -1427,7 +1380,6 @@ Year,Units,Time series,Federal state,GeoCode,Value
 2019,Number,Researchers from other developing and emerging countries,Schleswig-Holstein,code01,361.0
 2020,Number,Researchers from other developing and emerging countries,Schleswig-Holstein,code01,391.0
 2021,Number,Researchers from other developing and emerging countries,Schleswig-Holstein,code01,457.0
-2005,Number,Researchers from other developing and emerging countries,Thuringia,code16,
 2006,Number,Researchers from other developing and emerging countries,Thuringia,code16,146.0
 2007,Number,Researchers from other developing and emerging countries,Thuringia,code16,167.0
 2008,Number,Researchers from other developing and emerging countries,Thuringia,code16,194.0

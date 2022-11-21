@@ -17,11 +17,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,,,2184.0
 2021,number,locations of organisation registered with emas,,,2290.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,baden-wuerttemberg,code08,
-2006,number,locations of organisation registered with emas,baden-wuerttemberg,code08,
-2007,number,locations of organisation registered with emas,baden-wuerttemberg,code08,
-2008,number,locations of organisation registered with emas,baden-wuerttemberg,code08,
-2009,number,locations of organisation registered with emas,baden-wuerttemberg,code08,
 2010,number,locations of organisation registered with emas,baden-wuerttemberg,code08,493.0
 2011,number,locations of organisation registered with emas,baden-wuerttemberg,code08,498.0
 2012,number,locations of organisation registered with emas,baden-wuerttemberg,code08,508.0
@@ -35,11 +30,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,baden-wuerttemberg,code08,597.0
 2021,number,locations of organisation registered with emas,baden-wuerttemberg,code08,652.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,bavaria,code09,
-2006,number,locations of organisation registered with emas,bavaria,code09,
-2007,number,locations of organisation registered with emas,bavaria,code09,
-2008,number,locations of organisation registered with emas,bavaria,code09,
-2009,number,locations of organisation registered with emas,bavaria,code09,
 2010,number,locations of organisation registered with emas,bavaria,code09,385.0
 2011,number,locations of organisation registered with emas,bavaria,code09,391.0
 2012,number,locations of organisation registered with emas,bavaria,code09,388.0
@@ -53,11 +43,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,bavaria,code09,502.0
 2021,number,locations of organisation registered with emas,bavaria,code09,535.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,berlin,code11,
-2006,number,locations of organisation registered with emas,berlin,code11,
-2007,number,locations of organisation registered with emas,berlin,code11,
-2008,number,locations of organisation registered with emas,berlin,code11,
-2009,number,locations of organisation registered with emas,berlin,code11,
 2010,number,locations of organisation registered with emas,berlin,code11,53.0
 2011,number,locations of organisation registered with emas,berlin,code11,53.0
 2012,number,locations of organisation registered with emas,berlin,code11,48.0
@@ -71,11 +56,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,berlin,code11,68.0
 2021,number,locations of organisation registered with emas,berlin,code11,71.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,brandenburg,code12,
-2006,number,locations of organisation registered with emas,brandenburg,code12,
-2007,number,locations of organisation registered with emas,brandenburg,code12,
-2008,number,locations of organisation registered with emas,brandenburg,code12,
-2009,number,locations of organisation registered with emas,brandenburg,code12,
 2010,number,locations of organisation registered with emas,brandenburg,code12,52.0
 2011,number,locations of organisation registered with emas,brandenburg,code12,47.0
 2012,number,locations of organisation registered with emas,brandenburg,code12,36.0
@@ -89,11 +69,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,brandenburg,code12,64.0
 2021,number,locations of organisation registered with emas,brandenburg,code12,66.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,bremen,code04,
-2006,number,locations of organisation registered with emas,bremen,code04,
-2007,number,locations of organisation registered with emas,bremen,code04,
-2008,number,locations of organisation registered with emas,bremen,code04,
-2009,number,locations of organisation registered with emas,bremen,code04,
 2010,number,locations of organisation registered with emas,bremen,code04,26.0
 2011,number,locations of organisation registered with emas,bremen,code04,26.0
 2012,number,locations of organisation registered with emas,bremen,code04,28.0
@@ -107,11 +82,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,bremen,code04,30.0
 2021,number,locations of organisation registered with emas,bremen,code04,27.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,hamburg,code02,
-2006,number,locations of organisation registered with emas,hamburg,code02,
-2007,number,locations of organisation registered with emas,hamburg,code02,
-2008,number,locations of organisation registered with emas,hamburg,code02,
-2009,number,locations of organisation registered with emas,hamburg,code02,
 2010,number,locations of organisation registered with emas,hamburg,code02,37.0
 2011,number,locations of organisation registered with emas,hamburg,code02,36.0
 2012,number,locations of organisation registered with emas,hamburg,code02,33.0
@@ -125,11 +95,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,hamburg,code02,59.0
 2021,number,locations of organisation registered with emas,hamburg,code02,62.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,hesse,code06,
-2006,number,locations of organisation registered with emas,hesse,code06,
-2007,number,locations of organisation registered with emas,hesse,code06,
-2008,number,locations of organisation registered with emas,hesse,code06,
-2009,number,locations of organisation registered with emas,hesse,code06,
 2010,number,locations of organisation registered with emas,hesse,code06,138.0
 2011,number,locations of organisation registered with emas,hesse,code06,139.0
 2012,number,locations of organisation registered with emas,hesse,code06,140.0
@@ -143,11 +108,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,hesse,code06,132.0
 2021,number,locations of organisation registered with emas,hesse,code06,148.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,
-2006,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,
-2007,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,
-2008,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,
-2009,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,
 2010,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,10.0
 2011,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,10.0
 2012,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,10.0
@@ -161,11 +121,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,3.0
 2021,number,locations of organisation registered with emas,mecklenburg western pomerania,code13,2.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,lower saxony,code03,
-2006,number,locations of organisation registered with emas,lower saxony,code03,
-2007,number,locations of organisation registered with emas,lower saxony,code03,
-2008,number,locations of organisation registered with emas,lower saxony,code03,
-2009,number,locations of organisation registered with emas,lower saxony,code03,
 2010,number,locations of organisation registered with emas,lower saxony,code03,91.0
 2011,number,locations of organisation registered with emas,lower saxony,code03,95.0
 2012,number,locations of organisation registered with emas,lower saxony,code03,82.0
@@ -179,11 +134,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,lower saxony,code03,85.0
 2021,number,locations of organisation registered with emas,lower saxony,code03,89.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,north rhine-westphalia,code05,
-2006,number,locations of organisation registered with emas,north rhine-westphalia,code05,
-2007,number,locations of organisation registered with emas,north rhine-westphalia,code05,
-2008,number,locations of organisation registered with emas,north rhine-westphalia,code05,
-2009,number,locations of organisation registered with emas,north rhine-westphalia,code05,
 2010,number,locations of organisation registered with emas,north rhine-westphalia,code05,262.0
 2011,number,locations of organisation registered with emas,north rhine-westphalia,code05,263.0
 2012,number,locations of organisation registered with emas,north rhine-westphalia,code05,232.0
@@ -197,11 +147,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,north rhine-westphalia,code05,232.0
 2021,number,locations of organisation registered with emas,north rhine-westphalia,code05,233.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,rhineland palatinate,code07,
-2006,number,locations of organisation registered with emas,rhineland palatinate,code07,
-2007,number,locations of organisation registered with emas,rhineland palatinate,code07,
-2008,number,locations of organisation registered with emas,rhineland palatinate,code07,
-2009,number,locations of organisation registered with emas,rhineland palatinate,code07,
 2010,number,locations of organisation registered with emas,rhineland palatinate,code07,53.0
 2011,number,locations of organisation registered with emas,rhineland palatinate,code07,48.0
 2012,number,locations of organisation registered with emas,rhineland palatinate,code07,49.0
@@ -215,11 +160,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,rhineland palatinate,code07,50.0
 2021,number,locations of organisation registered with emas,rhineland palatinate,code07,49.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,saarland,code10,
-2006,number,locations of organisation registered with emas,saarland,code10,
-2007,number,locations of organisation registered with emas,saarland,code10,
-2008,number,locations of organisation registered with emas,saarland,code10,
-2009,number,locations of organisation registered with emas,saarland,code10,
 2010,number,locations of organisation registered with emas,saarland,code10,60.0
 2011,number,locations of organisation registered with emas,saarland,code10,55.0
 2012,number,locations of organisation registered with emas,saarland,code10,55.0
@@ -233,11 +173,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,saarland,code10,60.0
 2021,number,locations of organisation registered with emas,saarland,code10,56.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,saxony,code14,
-2006,number,locations of organisation registered with emas,saxony,code14,
-2007,number,locations of organisation registered with emas,saxony,code14,
-2008,number,locations of organisation registered with emas,saxony,code14,
-2009,number,locations of organisation registered with emas,saxony,code14,
 2010,number,locations of organisation registered with emas,saxony,code14,63.0
 2011,number,locations of organisation registered with emas,saxony,code14,62.0
 2012,number,locations of organisation registered with emas,saxony,code14,66.0
@@ -251,11 +186,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,saxony,code14,106.0
 2021,number,locations of organisation registered with emas,saxony,code14,107.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,saxony-anhalt,code15,
-2006,number,locations of organisation registered with emas,saxony-anhalt,code15,
-2007,number,locations of organisation registered with emas,saxony-anhalt,code15,
-2008,number,locations of organisation registered with emas,saxony-anhalt,code15,
-2009,number,locations of organisation registered with emas,saxony-anhalt,code15,
 2010,number,locations of organisation registered with emas,saxony-anhalt,code15,53.0
 2011,number,locations of organisation registered with emas,saxony-anhalt,code15,50.0
 2012,number,locations of organisation registered with emas,saxony-anhalt,code15,40.0
@@ -269,11 +199,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,saxony-anhalt,code15,65.0
 2021,number,locations of organisation registered with emas,saxony-anhalt,code15,64.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,schleswig-holstein,code01,
-2006,number,locations of organisation registered with emas,schleswig-holstein,code01,
-2007,number,locations of organisation registered with emas,schleswig-holstein,code01,
-2008,number,locations of organisation registered with emas,schleswig-holstein,code01,
-2009,number,locations of organisation registered with emas,schleswig-holstein,code01,
 2010,number,locations of organisation registered with emas,schleswig-holstein,code01,59.0
 2011,number,locations of organisation registered with emas,schleswig-holstein,code01,59.0
 2012,number,locations of organisation registered with emas,schleswig-holstein,code01,45.0
@@ -287,11 +212,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2020,number,locations of organisation registered with emas,schleswig-holstein,code01,40.0
 2021,number,locations of organisation registered with emas,schleswig-holstein,code01,39.0
 2030,number,locations of organisation registered with emas,,,
-2005,number,locations of organisation registered with emas,thuringia,code16,
-2006,number,locations of organisation registered with emas,thuringia,code16,
-2007,number,locations of organisation registered with emas,thuringia,code16,
-2008,number,locations of organisation registered with emas,thuringia,code16,
-2009,number,locations of organisation registered with emas,thuringia,code16,
 2010,number,locations of organisation registered with emas,thuringia,code16,78.0
 2011,number,locations of organisation registered with emas,thuringia,code16,71.0
 2012,number,locations of organisation registered with emas,thuringia,code16,62.0
