@@ -2082,7 +2082,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "calculation method",
             "type": "string",
             "constraints": {
               "enum": [

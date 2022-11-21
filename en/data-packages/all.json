@@ -2228,7 +2228,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "calculation method",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2237,7 +2237,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Calculation method"
           },
           {
             "name": "Value",
