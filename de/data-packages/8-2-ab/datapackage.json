@@ -33,7 +33,7 @@
               "enum": [
                 "Staatsdefizit",
                 "Strukturelles Defizit",
-                "Änderung des Bruttoinlandsprodukts (preisbereinigt)",
+                "Bruttoinlandsprodukt (preisbereinigt)",
                 ""
               ]
             },

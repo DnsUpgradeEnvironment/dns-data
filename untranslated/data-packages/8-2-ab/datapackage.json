@@ -31,7 +31,7 @@
               "enum": [
                 "government deficit",
                 "structural deficit",
-                "change of gross domestic product (price-adjusted)",
+                "gross domestic product (price-adjusted)",
                 ""
               ]
             }

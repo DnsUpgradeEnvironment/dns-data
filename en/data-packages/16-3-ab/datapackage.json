@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Corruption Perceptions Index in Germany",
+                "Corruption Perception Index in Germany",
                 "Number of partner countries involved in German development cooperation with improved CPI scores compared with 2012",
                 ""
               ]

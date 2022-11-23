@@ -1,7 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
 all wired technologies,1,1
 cable television (catv),1,1
-change of gross domestic product (price-adjusted),1,1
 direct and indirect co2 emissions,1,1
 direct and indirect energy consumption,1,1
 direct and indirect use of raw materials,1,1
@@ -18,6 +17,7 @@ gini coefficient of market income,1,1
 gini coefficient of wealth,2,1
 goods transport performance,1,1
 government deficit,1,1
+gross domestic product (price-adjusted),1,1
 imports of processed products,1,1
 imports,1,1
 in management positions in the federal civil service,1,1
