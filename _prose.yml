@@ -1,4 +1,4 @@
-# Prose configuration
+Fsour# Prose configuration
 prose:
   #ignore: ['/scripts']
   metadata:
@@ -4207,3 +4207,64 @@ prose:
             help: Additional link to data source text
             value: "Link to source"
             scope: source_6
+## Source 7
+      - name: source_active_7
+        field:
+            element: checkbox
+            label: Source 7 active
+            help: Whether or not to display this source
+            value: true
+      - name: source_organisation_logo_7
+        field:
+            element: text
+            label: ""
+            scope: source_7
+      - name: source_organisation_7
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_7
+
+      - name: source_organisation_7_short
+        field:
+            element: text
+            label: "Organisation"
+            scope: source_7
+
+      - name: "source_url_7"
+        field:
+            element: text
+            label: "Link to data source"
+            scope: source_7
+      - name: "source_url_text_7"
+        field:
+            element: text
+            label: "Link to data source text"
+            value: "Link to source"
+            scope: source_7
+      - name: "source_url_7b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_7
+      - name: "source_url_text_7b"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            value: "Link to source"
+            scope: source_7
+      - name: "source_url_7c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source
+            scope: source_7
+      - name: "source_url_text_7c"
+        field:
+            element: text
+            label: ""
+            help: Additional link to data source text
+            value: "Link to source"
+            scope: source_7
