@@ -31,12 +31,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Smoking rate among adolescents",
-                "Smoking rate among adults",
+                "Adolescents",
+                "Adults",
                 ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "federal state",

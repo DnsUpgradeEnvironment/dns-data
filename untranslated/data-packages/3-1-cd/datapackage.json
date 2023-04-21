@@ -29,8 +29,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "smoking rate among adolescents",
-                "smoking rate among adults",
+                "adolescents",
+                "adults",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
