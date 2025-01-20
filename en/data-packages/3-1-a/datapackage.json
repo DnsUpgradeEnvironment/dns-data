@@ -43,9 +43,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mortality avoidable through prevention and treatment",
-                "mortality avoidable through prevention",
-                "mortality avoidable through treatment",
+                "Mortality avoidable through prevention and treatment",
+                "Mortality avoidable through prevention",
+                "Mortality avoidable through treatment",
                 ""
               ]
             },
