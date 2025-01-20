@@ -562,6 +562,49 @@
       "title": "Einfuhren aus am wenigsten entwickelten Ländern"
     },
     {
+      "path": "4-3-a/data.csv",
+      "name": "4-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Weiterbildungsbeteiligung"
+    },
+    {
       "path": "11-1-c/data.csv",
       "name": "11-1-c",
       "profile": "tabular-data-resource",
