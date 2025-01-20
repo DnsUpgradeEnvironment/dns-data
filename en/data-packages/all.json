@@ -238,7 +238,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mortality avoidable through prevention and treatment",
+                "X",
                 "Mortality avoidable through prevention",
                 "Mortality avoidable through treatment",
                 ""
@@ -726,37 +726,6 @@
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "federal state",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Baden-Wuerttemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
-                ""
-              ]
-            },
-            "title": "Federal state"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -2172,7 +2141,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millions",
+                "Percentage",
                 ""
               ]
             },
@@ -2185,7 +2154,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung mit erhöhter PM₀.₅-Feinstaubexposition"
+      "title": "Anteil der Bevölkerung mit erhöhter PM₂,₅-Feinstaubexposition"
     },
     {
       "path": "11-1-b/data.csv",
