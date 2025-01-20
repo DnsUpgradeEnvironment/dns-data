@@ -1,68 +1,71 @@
 Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
-2004,m² per year,,,,-5.1
-2005,m² per year,,,,-5.0
-2006,m² per year,,,,-4.8
-2007,m² per year,,,,-4.7
-2008,m² per year,,,,-4.6
-2009,m² per year,,,,-4.3
-2010,m² per year,,,,-4.0
-2011,m² per year,,,,-4.2
-2012,m² per year,,,,-3.8
-2013,m² per year,,,,-3.6
-2014,m² per year,,,,-3.7
-2015,m² per year,,,,-2.9
-2016,m² per year,,,,-2.7
-2017,m² per year,,,,-2.8
-2018,m² per year,,,,-2.8
-2019,m² per year,,,,-2.8
-2020,m² per year,,,,-2.8
-2021,m² per year,,,,-2.7
-2004,m² per year,Non-rural areas,,,-1.8
-2005,m² per year,Non-rural areas,,,-1.8
-2006,m² per year,Non-rural areas,,,-1.7
-2007,m² per year,Non-rural areas,,,-1.7
-2008,m² per year,Non-rural areas,,,-1.7
-2009,m² per year,Non-rural areas,,,-1.5
-2010,m² per year,Non-rural areas,,,-1.5
-2011,m² per year,Non-rural areas,,,-1.4
-2012,m² per year,Non-rural areas,,,-1.2
-2013,m² per year,Non-rural areas,,,-1.2
-2014,m² per year,Non-rural areas,,,-1.1
-2015,m² per year,Non-rural areas,,,-1.0
-2016,m² per year,Non-rural areas,,,-0.6
-2017,m² per year,Non-rural areas,,,-0.6
-2018,m² per year,Non-rural areas,,,-0.6
-2019,m² per year,Non-rural areas,,,-0.5
-2020,m² per year,Non-rural areas,,,-0.7
-2021,m² per year,Non-rural areas,,,-0.5
-2004,m² per year,Rural areas,,,-7.4
-2005,m² per year,Rural areas,,,-7.3
-2006,m² per year,Rural areas,,,-7.1
-2007,m² per year,Rural areas,,,-6.9
-2008,m² per year,Rural areas,,,-6.7
-2009,m² per year,Rural areas,,,-6.4
-2010,m² per year,Rural areas,,,-5.9
-2011,m² per year,Rural areas,,,-6.3
-2012,m² per year,Rural areas,,,-5.7
-2013,m² per year,Rural areas,,,-5.5
-2014,m² per year,Rural areas,,,-5.7
-2015,m² per year,Rural areas,,,-4.3
-2016,m² per year,Rural areas,,,-4.3
-2017,m² per year,Rural areas,,,-4.4
-2018,m² per year,Rural areas,,,-4.5
-2019,m² per year,Rural areas,,,-4.5
-2020,m² per year,Rural areas,,,-4.5
-2021,m² per year,Rural areas,,,-4.4
-2004,m² per year,,Baden-Wuerttemberg,code08,-3.6
-2005,m² per year,,Baden-Wuerttemberg,code08,-3.3
-2006,m² per year,,Baden-Wuerttemberg,code08,-3.2
-2007,m² per year,,Baden-Wuerttemberg,code08,-3.2
-2008,m² per year,,Baden-Wuerttemberg,code08,-3.1
-2009,m² per year,,Baden-Wuerttemberg,code08,-3.0
-2010,m² per year,,Baden-Wuerttemberg,code08,-2.744
-2011,m² per year,,Baden-Wuerttemberg,code08,-2.408
-2012,m² per year,,Baden-Wuerttemberg,code08,-2.278
-2013,m² per year,,Baden-Wuerttemberg,code08,-2.143
+2004,m² per year,,,,-5.156
+2005,m² per year,,,,-5.03
+2006,m² per year,,,,-4.908
+2007,m² per year,,,,-4.789
+2008,m² per year,,,,-4.67
+2009,m² per year,,,,-4.389
+2010,m² per year,,,,-4.095
+2011,m² per year,,,,-4.268
+2012,m² per year,,,,-3.83
+2013,m² per year,,,,-3.657
+2014,m² per year,,,,-3.704
+2015,m² per year,,,,-2.891
+2016,m² per year,,,,-2.731
+2017,m² per year,,,,-2.78
+2018,m² per year,,,,-2.809
+2019,m² per year,,,,-2.775
+2020,m² per year,,,,-2.842
+2021,m² per year,,,,-2.715
+2022,m² per year,,,,-2.239
+2004,m² per year,Non-rural areas,,,-1.828
+2005,m² per year,Non-rural areas,,,-1.794
+2006,m² per year,Non-rural areas,,,-1.762
+2007,m² per year,Non-rural areas,,,-1.729
+2008,m² per year,Non-rural areas,,,-1.696
+2009,m² per year,Non-rural areas,,,-1.573
+2010,m² per year,Non-rural areas,,,-1.499
+2011,m² per year,Non-rural areas,,,-1.411
+2012,m² per year,Non-rural areas,,,-1.243
+2013,m² per year,Non-rural areas,,,-1.191
+2014,m² per year,Non-rural areas,,,-1.056
+2015,m² per year,Non-rural areas,,,-0.96
+2016,m² per year,Non-rural areas,,,-0.651
+2017,m² per year,Non-rural areas,,,-0.647
+2018,m² per year,Non-rural areas,,,-0.577
+2019,m² per year,Non-rural areas,,,-0.482
+2020,m² per year,Non-rural areas,,,-0.654
+2021,m² per year,Non-rural areas,,,-0.54
+2022,m² per year,Non-rural areas,,,-0.508
+2004,m² per year,Rural areas,,,-7.528
+2005,m² per year,Rural areas,,,-7.34
+2006,m² per year,Rural areas,,,-7.159
+2007,m² per year,Rural areas,,,-6.986
+2008,m² per year,Rural areas,,,-6.816
+2009,m² per year,Rural areas,,,-6.431
+2010,m² per year,Rural areas,,,-5.986
+2011,m² per year,Rural areas,,,-6.364
+2012,m² per year,Rural areas,,,-5.734
+2013,m² per year,Rural areas,,,-5.48
+2014,m² per year,Rural areas,,,-5.669
+2015,m² per year,Rural areas,,,-4.331
+2016,m² per year,Rural areas,,,-4.292
+2017,m² per year,Rural areas,,,-4.388
+2018,m² per year,Rural areas,,,-4.502
+2019,m² per year,Rural areas,,,-4.517
+2020,m² per year,Rural areas,,,-4.509
+2021,m² per year,Rural areas,,,-4.374
+2022,m² per year,Rural areas,,,-3.562
+2004,m² per year,,Baden-Wuerttemberg,code08,-3.637
+2005,m² per year,,Baden-Wuerttemberg,code08,-3.362
+2006,m² per year,,Baden-Wuerttemberg,code08,-3.236
+2007,m² per year,,Baden-Wuerttemberg,code08,-3.233
+2008,m² per year,,Baden-Wuerttemberg,code08,-3.185
+2009,m² per year,,Baden-Wuerttemberg,code08,-3.044
+2010,m² per year,,Baden-Wuerttemberg,code08,-2.808
+2011,m² per year,,Baden-Wuerttemberg,code08,-2.452
+2012,m² per year,,Baden-Wuerttemberg,code08,-2.306
+2013,m² per year,,Baden-Wuerttemberg,code08,-2.157
 2014,m² per year,,Baden-Wuerttemberg,code08,-2.028
 2015,m² per year,,Baden-Wuerttemberg,code08,-1.918
 2016,m² per year,,Baden-Wuerttemberg,code08,-1.7
@@ -71,7 +74,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Baden-Wuerttemberg,code08,-1.765
 2020,m² per year,,Baden-Wuerttemberg,code08,-1.862
 2021,m² per year,,Baden-Wuerttemberg,code08,-1.723
-2009,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-1.1
+2022,m² per year,,Baden-Wuerttemberg,code08,-1.721
+2009,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-1.106
 2010,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-1.214
 2011,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-1.199
 2012,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-1.093
@@ -84,7 +88,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-0.686
 2020,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-0.707
 2021,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-0.626
-2009,m² per year,Rural areas,Baden-Wuerttemberg,code08,-3.2
+2022,m² per year,Non-rural areas,Baden-Wuerttemberg,code08,-0.673
+2009,m² per year,Rural areas,Baden-Wuerttemberg,code08,-3.244
 2010,m² per year,Rural areas,Baden-Wuerttemberg,code08,-3.063
 2011,m² per year,Rural areas,Baden-Wuerttemberg,code08,-3.003
 2012,m² per year,Rural areas,Baden-Wuerttemberg,code08,-3.091
@@ -97,16 +102,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Baden-Wuerttemberg,code08,-2.532
 2020,m² per year,Rural areas,Baden-Wuerttemberg,code08,-2.645
 2021,m² per year,Rural areas,Baden-Wuerttemberg,code08,-2.461
-2004,m² per year,,Bavaria,code09,-5.3
-2005,m² per year,,Bavaria,code09,-4.9
-2006,m² per year,,Bavaria,code09,-5.0
-2007,m² per year,,Bavaria,code09,-5.0
-2008,m² per year,,Bavaria,code09,-5.0
-2009,m² per year,,Bavaria,code09,-5.1
-2010,m² per year,,Bavaria,code09,-5.091
-2011,m² per year,,Bavaria,code09,-8.473
-2012,m² per year,,Bavaria,code09,-8.154
-2013,m² per year,,Bavaria,code09,-7.867
+2022,m² per year,Rural areas,Baden-Wuerttemberg,code08,-2.424
+2004,m² per year,,Bavaria,code09,-5.372
+2005,m² per year,,Bavaria,code09,-4.922
+2006,m² per year,,Bavaria,code09,-5.092
+2007,m² per year,,Bavaria,code09,-5.024
+2008,m² per year,,Bavaria,code09,-5.098
+2009,m² per year,,Bavaria,code09,-5.134
+2010,m² per year,,Bavaria,code09,-5.152
+2011,m² per year,,Bavaria,code09,-8.52
+2012,m² per year,,Bavaria,code09,-8.188
+2013,m² per year,,Bavaria,code09,-7.889
 2014,m² per year,,Bavaria,code09,-7.12
 2015,m² per year,,Bavaria,code09,-3.494
 2016,m² per year,,Bavaria,code09,-3.278
@@ -115,7 +121,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Bavaria,code09,-2.933
 2020,m² per year,,Bavaria,code09,-3.076
 2021,m² per year,,Bavaria,code09,-2.968
-2009,m² per year,Non-rural areas,Bavaria,code09,-1.5
+2022,m² per year,,Bavaria,code09,-2.755
+2009,m² per year,Non-rural areas,Bavaria,code09,-1.52
 2010,m² per year,Non-rural areas,Bavaria,code09,-1.654
 2011,m² per year,Non-rural areas,Bavaria,code09,-1.956
 2012,m² per year,Non-rural areas,Bavaria,code09,-1.68
@@ -128,7 +135,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Bavaria,code09,-0.951
 2020,m² per year,Non-rural areas,Bavaria,code09,-0.783
 2021,m² per year,Non-rural areas,Bavaria,code09,-0.498
-2009,m² per year,Rural areas,Bavaria,code09,-6.0
+2022,m² per year,Non-rural areas,Bavaria,code09,-0.449
+2009,m² per year,Rural areas,Bavaria,code09,-5.989
 2010,m² per year,Rural areas,Bavaria,code09,-6.806
 2011,m² per year,Rural areas,Bavaria,code09,-12.587
 2012,m² per year,Rural areas,Bavaria,code09,-10.573
@@ -141,16 +149,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Bavaria,code09,-3.693
 2020,m² per year,Rural areas,Bavaria,code09,-3.962
 2021,m² per year,Rural areas,Bavaria,code09,-3.922
-2004,m² per year,,Berlin,code11,-0.3
-2005,m² per year,,Berlin,code11,-0.3
-2006,m² per year,,Berlin,code11,-0.2
-2007,m² per year,,Berlin,code11,-0.3
-2008,m² per year,,Berlin,code11,-0.3
-2009,m² per year,,Berlin,code11,-0.4
-2010,m² per year,,Berlin,code11,-0.436
-2011,m² per year,,Berlin,code11,-0.29
-2012,m² per year,,Berlin,code11,-0.142
-2013,m² per year,,Berlin,code11,0.003
+2022,m² per year,Rural areas,Bavaria,code09,-3.648
+2004,m² per year,,Berlin,code11,-0.304
+2005,m² per year,,Berlin,code11,-0.305
+2006,m² per year,,Berlin,code11,-0.229
+2007,m² per year,,Berlin,code11,-0.307
+2008,m² per year,,Berlin,code11,-0.307
+2009,m² per year,,Berlin,code11,-0.383
+2010,m² per year,,Berlin,code11,-0.459
+2011,m² per year,,Berlin,code11,-0.306
+2012,m² per year,,Berlin,code11,-0.158
+2013,m² per year,,Berlin,code11,-0.001
 2014,m² per year,,Berlin,code11,0.075
 2015,m² per year,,Berlin,code11,0.075
 2016,m² per year,,Berlin,code11,-0.158
@@ -159,16 +168,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Berlin,code11,-0.193
 2020,m² per year,,Berlin,code11,-0.119
 2021,m² per year,,Berlin,code11,-0.057
-2004,m² per year,,Brandenburg,code12,-11.6
-2005,m² per year,,Brandenburg,code12,-12.3
-2006,m² per year,,Brandenburg,code12,-12.4
-2007,m² per year,,Brandenburg,code12,-11.9
-2008,m² per year,,Brandenburg,code12,-13.6
-2009,m² per year,,Brandenburg,code12,-12.2
-2010,m² per year,,Brandenburg,code12,-10.814
-2011,m² per year,,Brandenburg,code12,-9.572
-2012,m² per year,,Brandenburg,code12,-6.736
-2013,m² per year,,Brandenburg,code12,-8.433
+2022,m² per year,,Berlin,code11,-0.036
+2004,m² per year,,Brandenburg,code12,-11.701
+2005,m² per year,,Brandenburg,code12,-12.348
+2006,m² per year,,Brandenburg,code12,-12.495
+2007,m² per year,,Brandenburg,code12,-12.048
+2008,m² per year,,Brandenburg,code12,-13.696
+2009,m² per year,,Brandenburg,code12,-12.27
+2010,m² per year,,Brandenburg,code12,-10.923
+2011,m² per year,,Brandenburg,code12,-9.659
+2012,m² per year,,Brandenburg,code12,-6.785
+2013,m² per year,,Brandenburg,code12,-8.454
 2014,m² per year,,Brandenburg,code12,-7.854
 2015,m² per year,,Brandenburg,code12,-7.335
 2016,m² per year,,Brandenburg,code12,-7.064
@@ -177,7 +187,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Brandenburg,code12,-2.033
 2020,m² per year,,Brandenburg,code12,-3.778
 2021,m² per year,,Brandenburg,code12,-5.882
-2009,m² per year,Non-rural areas,Brandenburg,code12,1.4
+2022,m² per year,,Brandenburg,code12,-7.418
+2009,m² per year,Non-rural areas,Brandenburg,code12,1.358
 2010,m² per year,Non-rural areas,Brandenburg,code12,0.201
 2011,m² per year,Non-rural areas,Brandenburg,code12,0.05
 2012,m² per year,Non-rural areas,Brandenburg,code12,-0.794
@@ -190,7 +201,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Brandenburg,code12,-1.144
 2020,m² per year,Non-rural areas,Brandenburg,code12,-1.11
 2021,m² per year,Non-rural areas,Brandenburg,code12,-1.377
-2009,m² per year,Rural areas,Brandenburg,code12,-10.5
+2022,m² per year,Non-rural areas,Brandenburg,code12,-2.848
+2009,m² per year,Rural areas,Brandenburg,code12,-10.518
 2010,m² per year,Rural areas,Brandenburg,code12,-8.965
 2011,m² per year,Rural areas,Brandenburg,code12,-7.687
 2012,m² per year,Rural areas,Brandenburg,code12,-7.15
@@ -203,16 +215,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Brandenburg,code12,-2.124
 2020,m² per year,Rural areas,Brandenburg,code12,-3.987
 2021,m² per year,Rural areas,Brandenburg,code12,-6.228
-2004,m² per year,,Bremen,code04,-0.8
-2005,m² per year,,Bremen,code04,-0.8
-2006,m² per year,,Bremen,code04,-0.8
-2007,m² per year,,Bremen,code04,-1.1
-2008,m² per year,,Bremen,code04,-1.1
-2009,m² per year,,Bremen,code04,-0.8
-2010,m² per year,,Bremen,code04,-1.132
-2011,m² per year,,Bremen,code04,-0.762
-2012,m² per year,,Bremen,code04,-1.525
-2013,m² per year,,Bremen,code04,-1.525
+2022,m² per year,Rural areas,Brandenburg,code12,-7.77
+2004,m² per year,,Bremen,code04,-0.762
+2005,m² per year,,Bremen,code04,-0.761
+2006,m² per year,,Bremen,code04,-0.761
+2007,m² per year,,Bremen,code04,-1.142
+2008,m² per year,,Bremen,code04,-1.142
+2009,m² per year,,Bremen,code04,-0.761
+2010,m² per year,,Bremen,code04,-1.144
+2011,m² per year,,Bremen,code04,-0.766
+2012,m² per year,,Bremen,code04,-1.53
+2013,m² per year,,Bremen,code04,-1.53
 2014,m² per year,,Bremen,code04,-1.525
 2015,m² per year,,Bremen,code04,-1.141
 2016,m² per year,,Bremen,code04,-0.728
@@ -221,16 +234,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Bremen,code04,-0.383
 2020,m² per year,,Bremen,code04,-0.173
 2021,m² per year,,Bremen,code04,-0.141
-2004,m² per year,,Hamburg,code02,-1.6
-2005,m² per year,,Hamburg,code02,-2.2
-2006,m² per year,,Hamburg,code02,-1.9
-2007,m² per year,,Hamburg,code02,-1.6
-2008,m² per year,,Hamburg,code02,-1.0
-2009,m² per year,,Hamburg,code02,-0.6
-2010,m² per year,,Hamburg,code02,-0.422
-2011,m² per year,,Hamburg,code02,-0.281
-2012,m² per year,,Hamburg,code02,-0.425
-2013,m² per year,,Hamburg,code02,-0.57
+2022,m² per year,,Bremen,code04,-0.608
+2004,m² per year,,Hamburg,code02,-1.635
+2005,m² per year,,Hamburg,code02,-2.23
+2006,m² per year,,Hamburg,code02,-1.933
+2007,m² per year,,Hamburg,code02,-1.635
+2008,m² per year,,Hamburg,code02,-1.041
+2009,m² per year,,Hamburg,code02,-0.592
+2010,m² per year,,Hamburg,code02,-0.442
+2011,m² per year,,Hamburg,code02,-0.294
+2012,m² per year,,Hamburg,code02,-0.438
+2013,m² per year,,Hamburg,code02,-0.578
 2014,m² per year,,Hamburg,code02,-0.005
 2015,m² per year,,Hamburg,code02,0.415
 2016,m² per year,,Hamburg,code02,0.994
@@ -239,16 +253,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Hamburg,code02,0.449
 2020,m² per year,,Hamburg,code02,0.029
 2021,m² per year,,Hamburg,code02,0.164
-2004,m² per year,,Hesse,code06,-2.4
-2005,m² per year,,Hesse,code06,-2.5
-2006,m² per year,,Hesse,code06,-2.3
-2007,m² per year,,Hesse,code06,-2.3
-2008,m² per year,,Hesse,code06,-2.1
-2009,m² per year,,Hesse,code06,-2.1
-2010,m² per year,,Hesse,code06,-2.225
-2011,m² per year,,Hesse,code06,-1.733
-2012,m² per year,,Hesse,code06,-1.862
-2013,m² per year,,Hesse,code06,-1.656
+2022,m² per year,,Hamburg,code02,0.457
+2004,m² per year,,Hesse,code06,-2.406
+2005,m² per year,,Hesse,code06,-2.53
+2006,m² per year,,Hesse,code06,-2.323
+2007,m² per year,,Hesse,code06,-2.368
+2008,m² per year,,Hesse,code06,-2.164
+2009,m² per year,,Hesse,code06,-2.168
+2010,m² per year,,Hesse,code06,-2.256
+2011,m² per year,,Hesse,code06,-1.756
+2012,m² per year,,Hesse,code06,-1.879
+2013,m² per year,,Hesse,code06,-1.666
 2014,m² per year,,Hesse,code06,-1.613
 2015,m² per year,,Hesse,code06,-1.81
 2016,m² per year,,Hesse,code06,-1.964
@@ -257,7 +272,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Hesse,code06,-2.051
 2020,m² per year,,Hesse,code06,-1.533
 2021,m² per year,,Hesse,code06,-1.185
-2009,m² per year,Non-rural areas,Hesse,code06,-0.6
+2022,m² per year,,Hesse,code06,-0.37
+2009,m² per year,Non-rural areas,Hesse,code06,-0.624
 2010,m² per year,Non-rural areas,Hesse,code06,-0.856
 2011,m² per year,Non-rural areas,Hesse,code06,-0.863
 2012,m² per year,Non-rural areas,Hesse,code06,-1.072
@@ -270,7 +286,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Hesse,code06,-0.842
 2020,m² per year,Non-rural areas,Hesse,code06,-0.461
 2021,m² per year,Non-rural areas,Hesse,code06,-0.221
-2009,m² per year,Rural areas,Hesse,code06,-3.2
+2022,m² per year,Non-rural areas,Hesse,code06,-0.174
+2009,m² per year,Rural areas,Hesse,code06,-3.178
 2010,m² per year,Rural areas,Hesse,code06,-3.062
 2011,m² per year,Rural areas,Hesse,code06,-2.307
 2012,m² per year,Rural areas,Hesse,code06,-2.385
@@ -283,16 +300,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Hesse,code06,-2.912
 2020,m² per year,Rural areas,Hesse,code06,-2.307
 2021,m² per year,Rural areas,Hesse,code06,-1.88
-2004,m² per year,,Mecklenburg Western Pomerania,code13,-18.4
-2005,m² per year,,Mecklenburg Western Pomerania,code13,-18.1
-2006,m² per year,,Mecklenburg Western Pomerania,code13,-16.5
-2007,m² per year,,Mecklenburg Western Pomerania,code13,-15.3
-2008,m² per year,,Mecklenburg Western Pomerania,code13,-16.9
-2009,m² per year,,Mecklenburg Western Pomerania,code13,-17.7
-2010,m² per year,,Mecklenburg Western Pomerania,code13,-17.627
-2011,m² per year,,Mecklenburg Western Pomerania,code13,-15.611
-2012,m² per year,,Mecklenburg Western Pomerania,code13,-11.471
-2013,m² per year,,Mecklenburg Western Pomerania,code13,-8.485
+2022,m² per year,Rural areas,Hesse,code06,-0.513
+2004,m² per year,,Mecklenburg Western Pomerania,code13,-18.418
+2005,m² per year,,Mecklenburg Western Pomerania,code13,-18.117
+2006,m² per year,,Mecklenburg Western Pomerania,code13,-16.532
+2007,m² per year,,Mecklenburg Western Pomerania,code13,-15.348
+2008,m² per year,,Mecklenburg Western Pomerania,code13,-17.005
+2009,m² per year,,Mecklenburg Western Pomerania,code13,-17.746
+2010,m² per year,,Mecklenburg Western Pomerania,code13,-17.744
+2011,m² per year,,Mecklenburg Western Pomerania,code13,-15.711
+2012,m² per year,,Mecklenburg Western Pomerania,code13,-11.543
+2013,m² per year,,Mecklenburg Western Pomerania,code13,-8.527
 2014,m² per year,,Mecklenburg Western Pomerania,code13,-8.123
 2015,m² per year,,Mecklenburg Western Pomerania,code13,-7.032
 2016,m² per year,,Mecklenburg Western Pomerania,code13,-15.399
@@ -301,7 +319,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Mecklenburg Western Pomerania,code13,-5.606
 2020,m² per year,,Mecklenburg Western Pomerania,code13,3.921
 2021,m² per year,,Mecklenburg Western Pomerania,code13,-1.362
-2009,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,-0.1
+2022,m² per year,,Mecklenburg Western Pomerania,code13,-1.557
+2009,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,-0.099
 2010,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,-1.653
 2011,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,-1.317
 2012,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,-1.271
@@ -314,7 +333,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,-0.397
 2020,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,0.669
 2021,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,0.633
-2009,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-19.3
+2022,m² per year,Non-rural areas,Mecklenburg Western Pomerania,code13,0.526
+2009,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-19.258
 2010,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-18.42
 2011,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-14.581
 2012,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-12.898
@@ -327,16 +347,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-6.362
 2020,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,4.4
 2021,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-1.661
-2004,m² per year,,Lower Saxony,code03,-6.6
-2005,m² per year,,Lower Saxony,code03,-6.5
-2006,m² per year,,Lower Saxony,code03,-6.4
-2007,m² per year,,Lower Saxony,code03,-6.1
-2008,m² per year,,Lower Saxony,code03,-5.3
-2009,m² per year,,Lower Saxony,code03,-4.7
-2010,m² per year,,Lower Saxony,code03,-4.375
-2011,m² per year,,Lower Saxony,code03,-4.919
-2012,m² per year,,Lower Saxony,code03,-4.787
-2013,m² per year,,Lower Saxony,code03,-4.9
+2022,m² per year,Rural areas,Mecklenburg Western Pomerania,code13,-1.869
+2004,m² per year,,Lower Saxony,code03,-6.695
+2005,m² per year,,Lower Saxony,code03,-6.558
+2006,m² per year,,Lower Saxony,code03,-6.462
+2007,m² per year,,Lower Saxony,code03,-6.212
+2008,m² per year,,Lower Saxony,code03,-5.397
+2009,m² per year,,Lower Saxony,code03,-4.773
+2010,m² per year,,Lower Saxony,code03,-4.435
+2011,m² per year,,Lower Saxony,code03,-4.964
+2012,m² per year,,Lower Saxony,code03,-4.815
+2013,m² per year,,Lower Saxony,code03,-4.915
 2014,m² per year,,Lower Saxony,code03,-5.198
 2015,m² per year,,Lower Saxony,code03,-4.534
 2016,m² per year,,Lower Saxony,code03,-3.472
@@ -345,7 +366,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Lower Saxony,code03,-2.318
 2020,m² per year,,Lower Saxony,code03,-3.006
 2021,m² per year,,Lower Saxony,code03,-2.893
-2009,m² per year,Non-rural areas,Lower Saxony,code03,-1.2
+2022,m² per year,,Lower Saxony,code03,-2.694
+2009,m² per year,Non-rural areas,Lower Saxony,code03,-1.152
 2010,m² per year,Non-rural areas,Lower Saxony,code03,-1.635
 2011,m² per year,Non-rural areas,Lower Saxony,code03,-2.366
 2012,m² per year,Non-rural areas,Lower Saxony,code03,-2.121
@@ -358,7 +380,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Lower Saxony,code03,-0.464
 2020,m² per year,Non-rural areas,Lower Saxony,code03,-0.931
 2021,m² per year,Non-rural areas,Lower Saxony,code03,-1.267
-2009,m² per year,Rural areas,Lower Saxony,code03,-4.8
+2022,m² per year,Non-rural areas,Lower Saxony,code03,-1.016
+2009,m² per year,Rural areas,Lower Saxony,code03,-4.783
 2010,m² per year,Rural areas,Lower Saxony,code03,-4.465
 2011,m² per year,Rural areas,Lower Saxony,code03,-5.607
 2012,m² per year,Rural areas,Lower Saxony,code03,-5.604
@@ -371,16 +394,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Lower Saxony,code03,-2.88
 2020,m² per year,Rural areas,Lower Saxony,code03,-3.636
 2021,m² per year,Rural areas,Lower Saxony,code03,-3.387
-2004,m² per year,,North Rhine-Westphalia,code05,-3.1
-2005,m² per year,,North Rhine-Westphalia,code05,-2.9
-2006,m² per year,,North Rhine-Westphalia,code05,-2.9
-2007,m² per year,,North Rhine-Westphalia,code05,-3.1
-2008,m² per year,,North Rhine-Westphalia,code05,-2.9
-2009,m² per year,,North Rhine-Westphalia,code05,-2.7
-2010,m² per year,,North Rhine-Westphalia,code05,-2.539
-2011,m² per year,,North Rhine-Westphalia,code05,-2.344
-2012,m² per year,,North Rhine-Westphalia,code05,-2.118
-2013,m² per year,,North Rhine-Westphalia,code05,-2.126
+2022,m² per year,Rural areas,Lower Saxony,code03,-3.204
+2004,m² per year,,North Rhine-Westphalia,code05,-3.119
+2005,m² per year,,North Rhine-Westphalia,code05,-2.951
+2006,m² per year,,North Rhine-Westphalia,code05,-2.883
+2007,m² per year,,North Rhine-Westphalia,code05,-3.139
+2008,m² per year,,North Rhine-Westphalia,code05,-2.907
+2009,m² per year,,North Rhine-Westphalia,code05,-2.716
+2010,m² per year,,North Rhine-Westphalia,code05,-2.57
+2011,m² per year,,North Rhine-Westphalia,code05,-2.366
+2012,m² per year,,North Rhine-Westphalia,code05,-2.132
+2013,m² per year,,North Rhine-Westphalia,code05,-2.135
 2014,m² per year,,North Rhine-Westphalia,code05,-2.006
 2015,m² per year,,North Rhine-Westphalia,code05,-1.968
 2016,m² per year,,North Rhine-Westphalia,code05,-1.019
@@ -389,7 +413,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,North Rhine-Westphalia,code05,-0.585
 2020,m² per year,,North Rhine-Westphalia,code05,-1.284
 2021,m² per year,,North Rhine-Westphalia,code05,-1.241
-2009,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-1.3
+2022,m² per year,,North Rhine-Westphalia,code05,-1.261
+2009,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-1.321
 2010,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-1.299
 2011,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-1.204
 2012,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-1.172
@@ -402,7 +427,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,North Rhine-Westphalia,code05,0.143
 2020,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-0.312
 2021,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-0.378
-2009,m² per year,Rural areas,North Rhine-Westphalia,code05,-3.2
+2022,m² per year,Non-rural areas,North Rhine-Westphalia,code05,-0.445
+2009,m² per year,Rural areas,North Rhine-Westphalia,code05,-3.214
 2010,m² per year,Rural areas,North Rhine-Westphalia,code05,-4.061
 2011,m² per year,Rural areas,North Rhine-Westphalia,code05,-4.238
 2012,m² per year,Rural areas,North Rhine-Westphalia,code05,-4.359
@@ -415,14 +441,15 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,North Rhine-Westphalia,code05,-2.31
 2020,m² per year,Rural areas,North Rhine-Westphalia,code05,-3.597
 2021,m² per year,Rural areas,North Rhine-Westphalia,code05,-3.29
-2004,m² per year,,Rhineland Palatinate,code07,-5.2
-2005,m² per year,,Rhineland Palatinate,code07,-5.8
-2006,m² per year,,Rhineland Palatinate,code07,-5.9
-2007,m² per year,,Rhineland Palatinate,code07,-6.0
-2008,m² per year,,Rhineland Palatinate,code07,-4.8
-2009,m² per year,,Rhineland Palatinate,code07,-3.2
-2010,m² per year,,Rhineland Palatinate,code07,-2.045
-2011,m² per year,,Rhineland Palatinate,code07,-1.245
+2022,m² per year,Rural areas,North Rhine-Westphalia,code05,-3.197
+2004,m² per year,,Rhineland Palatinate,code07,-5.253
+2005,m² per year,,Rhineland Palatinate,code07,-5.801
+2006,m² per year,,Rhineland Palatinate,code07,-5.922
+2007,m² per year,,Rhineland Palatinate,code07,-5.986
+2008,m² per year,,Rhineland Palatinate,code07,-4.816
+2009,m² per year,,Rhineland Palatinate,code07,-3.152
+2010,m² per year,,Rhineland Palatinate,code07,-2.043
+2011,m² per year,,Rhineland Palatinate,code07,-1.243
 2012,m² per year,,Rhineland Palatinate,code07,-0.813
 2013,m² per year,,Rhineland Palatinate,code07,-1.002
 2014,m² per year,,Rhineland Palatinate,code07,-1.064
@@ -433,7 +460,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Rhineland Palatinate,code07,-1.258
 2020,m² per year,,Rhineland Palatinate,code07,-1.824
 2021,m² per year,,Rhineland Palatinate,code07,-3.827
-2009,m² per year,Non-rural areas,Rhineland Palatinate,code07,-0.3
+2022,m² per year,,Rhineland Palatinate,code07,-5.057
+2009,m² per year,Non-rural areas,Rhineland Palatinate,code07,-0.257
 2010,m² per year,Non-rural areas,Rhineland Palatinate,code07,-0.687
 2011,m² per year,Non-rural areas,Rhineland Palatinate,code07,-1.012
 2012,m² per year,Non-rural areas,Rhineland Palatinate,code07,-1.006
@@ -446,7 +474,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Rhineland Palatinate,code07,-0.243
 2020,m² per year,Non-rural areas,Rhineland Palatinate,code07,-0.09
 2021,m² per year,Non-rural areas,Rhineland Palatinate,code07,-0.401
-2009,m² per year,Rural areas,Rhineland Palatinate,code07,-0.7
+2022,m² per year,Non-rural areas,Rhineland Palatinate,code07,-0.61
+2009,m² per year,Rural areas,Rhineland Palatinate,code07,-0.66
 2010,m² per year,Rural areas,Rhineland Palatinate,code07,-0.485
 2011,m² per year,Rural areas,Rhineland Palatinate,code07,-0.569
 2012,m² per year,Rural areas,Rhineland Palatinate,code07,-0.794
@@ -459,16 +488,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Rhineland Palatinate,code07,-1.535
 2020,m² per year,Rural areas,Rhineland Palatinate,code07,-2.291
 2021,m² per year,Rural areas,Rhineland Palatinate,code07,-4.751
-2004,m² per year,,Saarland,code10,-2.6
-2005,m² per year,,Saarland,code10,-2.4
-2006,m² per year,,Saarland,code10,-2.4
-2007,m² per year,,Saarland,code10,-2.6
-2008,m² per year,,Saarland,code10,-1.9
-2009,m² per year,,Saarland,code10,-2.2
-2010,m² per year,,Saarland,code10,-2.684
-2011,m² per year,,Saarland,code10,-2.452
-2012,m² per year,,Saarland,code10,-2.47
-2013,m² per year,,Saarland,code10,-1.988
+2022,m² per year,Rural areas,Rhineland Palatinate,code07,-6.254
+2004,m² per year,,Saarland,code10,-2.606
+2005,m² per year,,Saarland,code10,-2.378
+2006,m² per year,,Saarland,code10,-2.386
+2007,m² per year,,Saarland,code10,-2.635
+2008,m² per year,,Saarland,code10,-1.934
+2009,m² per year,,Saarland,code10,-2.193
+2010,m² per year,,Saarland,code10,-2.704
+2011,m² per year,,Saarland,code10,-2.47
+2012,m² per year,,Saarland,code10,-2.484
+2013,m² per year,,Saarland,code10,-1.998
 2014,m² per year,,Saarland,code10,-1.259
 2015,m² per year,,Saarland,code10,-1.259
 2016,m² per year,,Saarland,code10,-3.355
@@ -477,7 +507,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Saarland,code10,-3.068
 2020,m² per year,,Saarland,code10,-0.619
 2021,m² per year,,Saarland,code10,-1.27
-2009,m² per year,Non-rural areas,Saarland,code10,-0.6
+2022,m² per year,,Saarland,code10,-1.819
+2009,m² per year,Non-rural areas,Saarland,code10,-0.63
 2010,m² per year,Non-rural areas,Saarland,code10,-0.636
 2011,m² per year,Non-rural areas,Saarland,code10,-0.548
 2012,m² per year,Non-rural areas,Saarland,code10,-0.471
@@ -490,7 +521,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Saarland,code10,-0.425
 2020,m² per year,Non-rural areas,Saarland,code10,-0.144
 2021,m² per year,Non-rural areas,Saarland,code10,-0.305
-2009,m² per year,Rural areas,Saarland,code10,-3.9
+2022,m² per year,Non-rural areas,Saarland,code10,-0.154
+2009,m² per year,Rural areas,Saarland,code10,-3.875
 2010,m² per year,Rural areas,Saarland,code10,-4.455
 2011,m² per year,Rural areas,Saarland,code10,-3.763
 2012,m² per year,Rural areas,Saarland,code10,-3.254
@@ -503,16 +535,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Saarland,code10,-4.552
 2020,m² per year,Rural areas,Saarland,code10,-0.845
 2021,m² per year,Rural areas,Saarland,code10,-1.748
-2004,m² per year,,Saxony,code14,-4.3
-2005,m² per year,,Saxony,code14,-3.3
-2006,m² per year,,Saxony,code14,-3.1
-2007,m² per year,,Saxony,code14,-4.7
-2008,m² per year,,Saxony,code14,-5.6
-2009,m² per year,,Saxony,code14,-7.1
-2010,m² per year,,Saxony,code14,-7.645
-2011,m² per year,,Saxony,code14,-6.572
-2012,m² per year,,Saxony,code14,-6.316
-2013,m² per year,,Saxony,code14,-4.777
+2022,m² per year,Rural areas,Saarland,code10,-2.655
+2004,m² per year,,Saxony,code14,-4.323
+2005,m² per year,,Saxony,code14,-3.318
+2006,m² per year,,Saxony,code14,-3.117
+2007,m² per year,,Saxony,code14,-4.695
+2008,m² per year,,Saxony,code14,-5.616
+2009,m² per year,,Saxony,code14,-7.213
+2010,m² per year,,Saxony,code14,-7.732
+2011,m² per year,,Saxony,code14,-6.638
+2012,m² per year,,Saxony,code14,-6.366
+2013,m² per year,,Saxony,code14,-4.799
 2014,m² per year,,Saxony,code14,-8.696
 2015,m² per year,,Saxony,code14,-6.544
 2016,m² per year,,Saxony,code14,-6.026
@@ -521,7 +554,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Saxony,code14,-3.969
 2020,m² per year,,Saxony,code14,-4.632
 2021,m² per year,,Saxony,code14,-4.862
-2009,m² per year,Non-rural areas,Saxony,code14,-5.5
+2022,m² per year,,Saxony,code14,-4.86
+2009,m² per year,Non-rural areas,Saxony,code14,-5.543
 2010,m² per year,Non-rural areas,Saxony,code14,-5.715
 2011,m² per year,Non-rural areas,Saxony,code14,-5.254
 2012,m² per year,Non-rural areas,Saxony,code14,-4.601
@@ -534,7 +568,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Saxony,code14,-1.7
 2020,m² per year,Non-rural areas,Saxony,code14,-1.773
 2021,m² per year,Non-rural areas,Saxony,code14,-1.726
-2009,m² per year,Rural areas,Saxony,code14,-10.3
+2022,m² per year,Non-rural areas,Saxony,code14,-1.8
+2009,m² per year,Rural areas,Saxony,code14,-10.323
 2010,m² per year,Rural areas,Saxony,code14,-8.208
 2011,m² per year,Rural areas,Saxony,code14,-7.439
 2012,m² per year,Rural areas,Saxony,code14,-7.156
@@ -547,16 +582,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Saxony,code14,-5.113
 2020,m² per year,Rural areas,Saxony,code14,-6.117
 2021,m² per year,Rural areas,Saxony,code14,-6.508
-2004,m² per year,,Saxony-Anhalt,code15,-18.5
-2005,m² per year,,Saxony-Anhalt,code15,-23.8
+2022,m² per year,Rural areas,Saxony,code14,-6.477
+2004,m² per year,,Saxony-Anhalt,code15,-18.486
+2005,m² per year,,Saxony-Anhalt,code15,-23.759
 2006,m² per year,,Saxony-Anhalt,code15,-26.6
-2007,m² per year,,Saxony-Anhalt,code15,-23.7
-2008,m² per year,,Saxony-Anhalt,code15,-14.9
-2009,m² per year,,Saxony-Anhalt,code15,-5.9
-2010,m² per year,,Saxony-Anhalt,code15,-0.825
-2011,m² per year,,Saxony-Anhalt,code15,-0.295
-2012,m² per year,,Saxony-Anhalt,code15,0.871
-2013,m² per year,,Saxony-Anhalt,code15,0.972
+2007,m² per year,,Saxony-Anhalt,code15,-23.744
+2008,m² per year,,Saxony-Anhalt,code15,-14.881
+2009,m² per year,,Saxony-Anhalt,code15,-5.874
+2010,m² per year,,Saxony-Anhalt,code15,-0.823
+2011,m² per year,,Saxony-Anhalt,code15,-0.292
+2012,m² per year,,Saxony-Anhalt,code15,0.874
+2013,m² per year,,Saxony-Anhalt,code15,0.976
 2014,m² per year,,Saxony-Anhalt,code15,-0.341
 2015,m² per year,,Saxony-Anhalt,code15,-0.784
 2016,m² per year,,Saxony-Anhalt,code15,-1.704
@@ -565,7 +601,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Saxony-Anhalt,code15,-1.597
 2020,m² per year,,Saxony-Anhalt,code15,-1.163
 2021,m² per year,,Saxony-Anhalt,code15,-1.128
-2009,m² per year,Non-rural areas,Saxony-Anhalt,code15,1.9
+2022,m² per year,,Saxony-Anhalt,code15,-1.777
+2009,m² per year,Non-rural areas,Saxony-Anhalt,code15,1.88
 2010,m² per year,Non-rural areas,Saxony-Anhalt,code15,1.155
 2011,m² per year,Non-rural areas,Saxony-Anhalt,code15,0.903
 2012,m² per year,Non-rural areas,Saxony-Anhalt,code15,0.856
@@ -578,7 +615,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Saxony-Anhalt,code15,-1.354
 2020,m² per year,Non-rural areas,Saxony-Anhalt,code15,-1.518
 2021,m² per year,Non-rural areas,Saxony-Anhalt,code15,-1.533
-2009,m² per year,Rural areas,Saxony-Anhalt,code15,-1.2
+2022,m² per year,Non-rural areas,Saxony-Anhalt,code15,-1.485
+2009,m² per year,Rural areas,Saxony-Anhalt,code15,-1.215
 2010,m² per year,Rural areas,Saxony-Anhalt,code15,0.906
 2011,m² per year,Rural areas,Saxony-Anhalt,code15,0.961
 2012,m² per year,Rural areas,Saxony-Anhalt,code15,0.886
@@ -591,16 +629,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Saxony-Anhalt,code15,-1.646
 2020,m² per year,Rural areas,Saxony-Anhalt,code15,-1.066
 2021,m² per year,Rural areas,Saxony-Anhalt,code15,-1.02
-2004,m² per year,,Schleswig-Holstein,code01,-11.0
-2005,m² per year,,Schleswig-Holstein,code01,-9.6
-2006,m² per year,,Schleswig-Holstein,code01,-9.0
-2007,m² per year,,Schleswig-Holstein,code01,-8.6
-2008,m² per year,,Schleswig-Holstein,code01,-6.9
-2009,m² per year,,Schleswig-Holstein,code01,-6.6
-2010,m² per year,,Schleswig-Holstein,code01,-5.467
-2011,m² per year,,Schleswig-Holstein,code01,-4.605
-2012,m² per year,,Schleswig-Holstein,code01,-4.347
-2013,m² per year,,Schleswig-Holstein,code01,-4.087
+2022,m² per year,Rural areas,Saxony-Anhalt,code15,-1.858
+2004,m² per year,,Schleswig-Holstein,code01,-11.125
+2005,m² per year,,Schleswig-Holstein,code01,-9.754
+2006,m² per year,,Schleswig-Holstein,code01,-9.108
+2007,m² per year,,Schleswig-Holstein,code01,-8.739
+2008,m² per year,,Schleswig-Holstein,code01,-6.95
+2009,m² per year,,Schleswig-Holstein,code01,-6.683
+2010,m² per year,,Schleswig-Holstein,code01,-5.527
+2011,m² per year,,Schleswig-Holstein,code01,-4.638
+2012,m² per year,,Schleswig-Holstein,code01,-4.371
+2013,m² per year,,Schleswig-Holstein,code01,-4.099
 2014,m² per year,,Schleswig-Holstein,code01,-4.088
 2015,m² per year,,Schleswig-Holstein,code01,-3.446
 2016,m² per year,,Schleswig-Holstein,code01,-3.038
@@ -609,7 +648,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Schleswig-Holstein,code01,-2.911
 2020,m² per year,,Schleswig-Holstein,code01,-4.414
 2021,m² per year,,Schleswig-Holstein,code01,-4.66
-2009,m² per year,Non-rural areas,Schleswig-Holstein,code01,-1.1
+2022,m² per year,,Schleswig-Holstein,code01,-4.462
+2009,m² per year,Non-rural areas,Schleswig-Holstein,code01,-1.093
 2010,m² per year,Non-rural areas,Schleswig-Holstein,code01,-0.958
 2011,m² per year,Non-rural areas,Schleswig-Holstein,code01,-1.041
 2012,m² per year,Non-rural areas,Schleswig-Holstein,code01,-1.021
@@ -622,7 +662,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Schleswig-Holstein,code01,-1.166
 2020,m² per year,Non-rural areas,Schleswig-Holstein,code01,-2.821
 2021,m² per year,Non-rural areas,Schleswig-Holstein,code01,-2.639
-2009,m² per year,Rural areas,Schleswig-Holstein,code01,-5.5
+2022,m² per year,Non-rural areas,Schleswig-Holstein,code01,-2.501
+2009,m² per year,Rural areas,Schleswig-Holstein,code01,-5.472
 2010,m² per year,Rural areas,Schleswig-Holstein,code01,-5.235
 2011,m² per year,Rural areas,Schleswig-Holstein,code01,-6.171
 2012,m² per year,Rural areas,Schleswig-Holstein,code01,-5.569
@@ -635,16 +676,17 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Schleswig-Holstein,code01,-3.543
 2020,m² per year,Rural areas,Schleswig-Holstein,code01,-5.0
 2021,m² per year,Rural areas,Schleswig-Holstein,code01,-5.398
-2004,m² per year,,Thuringia,code16,-3.3
-2005,m² per year,,Thuringia,code16,-3.1
-2006,m² per year,,Thuringia,code16,-2.1
-2007,m² per year,,Thuringia,code16,-2.5
-2008,m² per year,,Thuringia,code16,-3.0
-2009,m² per year,,Thuringia,code16,-3.5
-2010,m² per year,,Thuringia,code16,-4.431
-2011,m² per year,,Thuringia,code16,-5.735
-2012,m² per year,,Thuringia,code16,-6.931
-2013,m² per year,,Thuringia,code16,-6.977
+2022,m² per year,Rural areas,Schleswig-Holstein,code01,-5.179
+2004,m² per year,,Thuringia,code16,-3.352
+2005,m² per year,,Thuringia,code16,-3.063
+2006,m² per year,,Thuringia,code16,-2.141
+2007,m² per year,,Thuringia,code16,-2.49
+2008,m² per year,,Thuringia,code16,-3.062
+2009,m² per year,,Thuringia,code16,-3.537
+2010,m² per year,,Thuringia,code16,-4.464
+2011,m² per year,,Thuringia,code16,-5.764
+2012,m² per year,,Thuringia,code16,-6.955
+2013,m² per year,,Thuringia,code16,-6.992
 2014,m² per year,,Thuringia,code16,-9.0
 2015,m² per year,,Thuringia,code16,-7.859
 2016,m² per year,,Thuringia,code16,-9.366
@@ -653,7 +695,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,,Thuringia,code16,-36.833
 2020,m² per year,,Thuringia,code16,-33.496
 2021,m² per year,,Thuringia,code16,-20.815
-2009,m² per year,Non-rural areas,Thuringia,code16,-2.1
+2022,m² per year,,Thuringia,code16,-1.716
+2009,m² per year,Non-rural areas,Thuringia,code16,-2.108
 2010,m² per year,Non-rural areas,Thuringia,code16,-1.812
 2011,m² per year,Non-rural areas,Thuringia,code16,-2.743
 2012,m² per year,Non-rural areas,Thuringia,code16,-3.893
@@ -666,7 +709,8 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Non-rural areas,Thuringia,code16,-14.961
 2020,m² per year,Non-rural areas,Thuringia,code16,-13.848
 2021,m² per year,Non-rural areas,Thuringia,code16,-4.089
-2009,m² per year,Rural areas,Thuringia,code16,-4.7
+2022,m² per year,Non-rural areas,Thuringia,code16,0.808
+2009,m² per year,Rural areas,Thuringia,code16,-4.692
 2010,m² per year,Rural areas,Thuringia,code16,-5.699
 2011,m² per year,Rural areas,Thuringia,code16,-6.862
 2012,m² per year,Rural areas,Thuringia,code16,-7.481
@@ -679,3 +723,4 @@ Year,Units,Degree of urbanisation,Federal state,GeoCode,Value
 2019,m² per year,Rural areas,Thuringia,code16,-40.708
 2020,m² per year,Rural areas,Thuringia,code16,-37.006
 2021,m² per year,Rural areas,Thuringia,code16,-23.813
+2022,m² per year,Rural areas,Thuringia,code16,-2.168

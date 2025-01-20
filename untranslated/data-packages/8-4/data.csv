@@ -1,36 +1,37 @@
 Year,Units,federal state,GeoCode,county,Value
-1991,1.000 eur,,,,27.744
-1992,1.000 eur,,,,28.092
-1993,1.000 eur,,,,27.665
-1994,1.000 eur,,,,28.256
-1995,1.000 eur,,,,28.636
-1996,1.000 eur,,,,28.81
-1997,1.000 eur,,,,29.311
-1998,1.000 eur,,,,29.925
-1999,1.000 eur,,,,30.498
-2000,1.000 eur,,,,31.373
-2001,1.000 eur,,,,31.877
-2002,1.000 eur,,,,31.79
-2003,1.000 eur,,,,31.579
-2004,1.000 eur,,,,31.987
-2005,1.000 eur,,,,32.268
-2006,1.000 eur,,,,33.567
-2007,1.000 eur,,,,34.643
-2008,1.000 eur,,,,35.075
-2009,1.000 eur,,,,33.193
-2010,1.000 eur,,,,34.666
-2011,1.000 eur,,,,36.031
-2012,1.000 eur,,,,36.114
-2013,1.000 eur,,,,36.173
-2014,1.000 eur,,,,36.818
-2015,1.000 eur,,,,37.046
-2016,1.000 eur,,,,37.567
-2017,1.000 eur,,,,38.43
-2018,1.000 eur,,,,38.691
-2019,1.000 eur,,,,39.012
-2020,1.000 eur,,,,37.539
-2021,1.000 eur,,,,38.509
-2022,1.000 eur,,,,38.917
+1991,1.000 eur,,,,30.409
+1992,1.000 eur,,,,30.819
+1993,1.000 eur,,,,30.351
+1994,1.000 eur,,,,31.062
+1995,1.000 eur,,,,31.467
+1996,1.000 eur,,,,31.732
+1997,1.000 eur,,,,32.303
+1998,1.000 eur,,,,33.007
+1999,1.000 eur,,,,33.719
+2000,1.000 eur,,,,34.675
+2001,1.000 eur,,,,35.216
+2002,1.000 eur,,,,35.11
+2003,1.000 eur,,,,34.9369
+2004,1.000 eur,,,,35.382
+2005,1.000 eur,,,,35.748
+2006,1.000 eur,,,,37.201
+2007,1.000 eur,,,,38.362
+2008,1.000 eur,,,,38.821
+2009,1.000 eur,,,,36.796
+2010,1.000 eur,,,,38.417
+2011,1.000 eur,,,,39.865
+2012,1.000 eur,,,,39.979
+2013,1.000 eur,,,,40.024
+2014,1.000 eur,,,,40.722
+2015,1.000 eur,,,,41.039
+2016,1.000 eur,,,,41.643
+2017,1.000 eur,,,,42.614
+2018,1.000 eur,,,,42.961
+2019,1.000 eur,,,,43.287
+2020,1.000 eur,,,,41.481
+2021,1.000 eur,,,,42.985
+2022,1.000 eur,,,,43.261
+2023,1.000 eur,,,,42.78
 1991,1.000 eur,baden-wuerttemberg,code08,,33.828
 1992,1.000 eur,baden-wuerttemberg,code08,,33.554
 1993,1.000 eur,baden-wuerttemberg,code08,,31.872
@@ -58,10 +59,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,baden-wuerttemberg,code08,,42.91
 2016,1.000 eur,baden-wuerttemberg,code08,,42.896
 2017,1.000 eur,baden-wuerttemberg,code08,,44.159
-2018,1.000 eur,baden-wuerttemberg,code08,,44.898
-2019,1.000 eur,baden-wuerttemberg,code08,,44.65
-2020,1.000 eur,baden-wuerttemberg,code08,,42.175
-2021,1.000 eur,baden-wuerttemberg,code08,,43.57
+2018,1.000 eur,baden-wuerttemberg,code08,,44.874
+2019,1.000 eur,baden-wuerttemberg,code08,,44.542
+2020,1.000 eur,baden-wuerttemberg,code08,,42.32
+2021,1.000 eur,baden-wuerttemberg,code08,,43.966
+2022,1.000 eur,baden-wuerttemberg,code08,,44.566
+2023,1.000 eur,baden-wuerttemberg,code08,,43.848
 1991,1.000 eur,bavaria,code09,,31.338
 1992,1.000 eur,bavaria,code09,,31.795
 1993,1.000 eur,bavaria,code09,,30.919
@@ -89,10 +92,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,bavaria,code09,,43.445
 2016,1.000 eur,bavaria,code09,,44.126
 2017,1.000 eur,bavaria,code09,,45.475
-2018,1.000 eur,bavaria,code09,,45.417
-2019,1.000 eur,bavaria,code09,,45.985
-2020,1.000 eur,bavaria,code09,,43.892
-2021,1.000 eur,bavaria,code09,,45.126
+2018,1.000 eur,bavaria,code09,,45.412
+2019,1.000 eur,bavaria,code09,,45.991
+2020,1.000 eur,bavaria,code09,,44.078
+2021,1.000 eur,bavaria,code09,,45.683
+2022,1.000 eur,bavaria,code09,,46.251
+2023,1.000 eur,bavaria,code09,,45.942
 1991,1.000 eur,berlin,code11,,28.004
 1992,1.000 eur,berlin,code11,,28.982
 1993,1.000 eur,berlin,code11,,29.759
@@ -120,10 +125,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,berlin,code11,,35.741
 2016,1.000 eur,berlin,code11,,37.023
 2017,1.000 eur,berlin,code11,,38.097
-2018,1.000 eur,berlin,code11,,39.209
-2019,1.000 eur,berlin,code11,,40.051
-2020,1.000 eur,berlin,code11,,38.446
-2021,1.000 eur,berlin,code11,,39.743
+2018,1.000 eur,berlin,code11,,39.053
+2019,1.000 eur,berlin,code11,,39.885
+2020,1.000 eur,berlin,code11,,38.798
+2021,1.000 eur,berlin,code11,,40.032
+2022,1.000 eur,berlin,code11,,41.307
+2023,1.000 eur,berlin,code11,,41.326
 1991,1.000 eur,brandenburg,code12,,12.819
 1992,1.000 eur,brandenburg,code12,,14.076
 1993,1.000 eur,brandenburg,code12,,15.751
@@ -151,10 +158,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,brandenburg,code12,,26.442
 2016,1.000 eur,brandenburg,code12,,26.793
 2017,1.000 eur,brandenburg,code12,,27.375
-2018,1.000 eur,brandenburg,code12,,27.473
-2019,1.000 eur,brandenburg,code12,,27.886
-2020,1.000 eur,brandenburg,code12,,26.898
-2021,1.000 eur,brandenburg,code12,,27.068
+2018,1.000 eur,brandenburg,code12,,27.41
+2019,1.000 eur,brandenburg,code12,,27.783
+2020,1.000 eur,brandenburg,code12,,27.1
+2021,1.000 eur,brandenburg,code12,,27.477
+2022,1.000 eur,brandenburg,code12,,27.957
+2023,1.000 eur,brandenburg,code12,,28.289
 1991,1.000 eur,bremen,code04,,38.67
 1992,1.000 eur,bremen,code04,,38.047
 1993,1.000 eur,bremen,code04,,36.524
@@ -182,10 +191,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,bremen,code04,,45.739
 2016,1.000 eur,bremen,code04,,46.006
 2017,1.000 eur,bremen,code04,,46.316
-2018,1.000 eur,bremen,code04,,46.089
-2019,1.000 eur,bremen,code04,,45.388
-2020,1.000 eur,bremen,code04,,43.608
-2021,1.000 eur,bremen,code04,,45.152
+2018,1.000 eur,bremen,code04,,46.061
+2019,1.000 eur,bremen,code04,,45.384
+2020,1.000 eur,bremen,code04,,43.16
+2021,1.000 eur,bremen,code04,,45.331
+2022,1.000 eur,bremen,code04,,46.072
+2023,1.000 eur,bremen,code04,,45.262
 1991,1.000 eur,hamburg,code02,,49.864
 1992,1.000 eur,hamburg,code02,,49.115
 1993,1.000 eur,hamburg,code02,,48.739
@@ -213,10 +224,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,hamburg,code02,,60.935
 2016,1.000 eur,hamburg,code02,,61.417
 2017,1.000 eur,hamburg,code02,,61.783
-2018,1.000 eur,hamburg,code02,,61.305
-2019,1.000 eur,hamburg,code02,,62.854
-2020,1.000 eur,hamburg,code02,,58.479
-2021,1.000 eur,hamburg,code02,,59.652
+2018,1.000 eur,hamburg,code02,,61.18
+2019,1.000 eur,hamburg,code02,,63.113
+2020,1.000 eur,hamburg,code02,,59.817
+2021,1.000 eur,hamburg,code02,,60.74
+2022,1.000 eur,hamburg,code02,,63.2
+2023,1.000 eur,hamburg,code02,,61.588
 1991,1.000 eur,hesse,code06,,36.137
 1992,1.000 eur,hesse,code06,,36.103
 1993,1.000 eur,hesse,code06,,35.143
@@ -244,10 +257,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,hesse,code06,,42.422
 2016,1.000 eur,hesse,code06,,43.154
 2017,1.000 eur,hesse,code06,,43.863
-2018,1.000 eur,hesse,code06,,43.955
-2019,1.000 eur,hesse,code06,,44.359
-2020,1.000 eur,hesse,code06,,42.173
-2021,1.000 eur,hesse,code06,,43.552
+2018,1.000 eur,hesse,code06,,43.907
+2019,1.000 eur,hesse,code06,,44.375
+2020,1.000 eur,hesse,code06,,42.023
+2021,1.000 eur,hesse,code06,,43.659
+2022,1.000 eur,hesse,code06,,43.99
+2023,1.000 eur,hesse,code06,,44.087
 1991,1.000 eur,mecklenburg western pomerania,code13,,12.444
 1992,1.000 eur,mecklenburg western pomerania,code13,,13.635
 1993,1.000 eur,mecklenburg western pomerania,code13,,15.171
@@ -275,10 +290,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,mecklenburg western pomerania,code13,,24.954
 2016,1.000 eur,mecklenburg western pomerania,code13,,25.213
 2017,1.000 eur,mecklenburg western pomerania,code13,,26.309
-2018,1.000 eur,mecklenburg western pomerania,code13,,25.85
-2019,1.000 eur,mecklenburg western pomerania,code13,,27.063
-2020,1.000 eur,mecklenburg western pomerania,code13,,26.047
-2021,1.000 eur,mecklenburg western pomerania,code13,,26.457
+2018,1.000 eur,mecklenburg western pomerania,code13,,25.822
+2019,1.000 eur,mecklenburg western pomerania,code13,,26.983
+2020,1.000 eur,mecklenburg western pomerania,code13,,26.107
+2021,1.000 eur,mecklenburg western pomerania,code13,,26.482
+2022,1.000 eur,mecklenburg western pomerania,code13,,27.14
+2023,1.000 eur,mecklenburg western pomerania,code13,,27.863
 1991,1.000 eur,lower saxony,code03,,27.474
 1992,1.000 eur,lower saxony,code03,,27.513
 1993,1.000 eur,lower saxony,code03,,26.766
@@ -306,10 +323,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,lower saxony,code03,,33.186
 2016,1.000 eur,lower saxony,code03,,34.924
 2017,1.000 eur,lower saxony,code03,,35.145
-2018,1.000 eur,lower saxony,code03,,35.526
-2019,1.000 eur,lower saxony,code03,,36.219
-2020,1.000 eur,lower saxony,code03,,34.498
-2021,1.000 eur,lower saxony,code03,,35.014
+2018,1.000 eur,lower saxony,code03,,35.5
+2019,1.000 eur,lower saxony,code03,,36.189
+2020,1.000 eur,lower saxony,code03,,34.705
+2021,1.000 eur,lower saxony,code03,,35.137
+2022,1.000 eur,lower saxony,code03,,35.179
+2023,1.000 eur,lower saxony,code03,,34.94
 1991,1.000 eur,north rhine-westphalia,code05,,29.832
 1992,1.000 eur,north rhine-westphalia,code05,,29.89
 1993,1.000 eur,north rhine-westphalia,code05,,29.027
@@ -337,10 +356,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,north rhine-westphalia,code05,,35.899
 2016,1.000 eur,north rhine-westphalia,code05,,36.083
 2017,1.000 eur,north rhine-westphalia,code05,,36.925
-2018,1.000 eur,north rhine-westphalia,code05,,37.386
-2019,1.000 eur,north rhine-westphalia,code05,,37.32
-2020,1.000 eur,north rhine-westphalia,code05,,35.638
-2021,1.000 eur,north rhine-westphalia,code05,,36.499
+2018,1.000 eur,north rhine-westphalia,code05,,37.355
+2019,1.000 eur,north rhine-westphalia,code05,,37.322
+2020,1.000 eur,north rhine-westphalia,code05,,36.117
+2021,1.000 eur,north rhine-westphalia,code05,,36.962
+2022,1.000 eur,north rhine-westphalia,code05,,36.984
+2023,1.000 eur,north rhine-westphalia,code05,,36.35
 1991,1.000 eur,rhineland palatinate,code07,,27.874
 1992,1.000 eur,rhineland palatinate,code07,,27.637
 1993,1.000 eur,rhineland palatinate,code07,,26.413
@@ -368,10 +389,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,rhineland palatinate,code07,,32.966
 2016,1.000 eur,rhineland palatinate,code07,,33.107
 2017,1.000 eur,rhineland palatinate,code07,,33.473
-2018,1.000 eur,rhineland palatinate,code07,,33.506
-2019,1.000 eur,rhineland palatinate,code07,,33.55
-2020,1.000 eur,rhineland palatinate,code07,,32.169
-2021,1.000 eur,rhineland palatinate,code07,,35.223
+2018,1.000 eur,rhineland palatinate,code07,,33.443
+2019,1.000 eur,rhineland palatinate,code07,,33.517
+2020,1.000 eur,rhineland palatinate,code07,,32.251
+2021,1.000 eur,rhineland palatinate,code07,,35.423
+2022,1.000 eur,rhineland palatinate,code07,,35.227
+2023,1.000 eur,rhineland palatinate,code07,,33.199
 1991,1.000 eur,saarland,code10,,26.682
 1992,1.000 eur,saarland,code10,,26.38
 1993,1.000 eur,saarland,code10,,25.099
@@ -399,10 +422,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,saarland,code10,,34.302
 2016,1.000 eur,saarland,code10,,33.984
 2017,1.000 eur,saarland,code10,,34.661
-2018,1.000 eur,saarland,code10,,34.599
-2019,1.000 eur,saarland,code10,,34.034
-2020,1.000 eur,saarland,code10,,31.964
-2021,1.000 eur,saarland,code10,,32.493
+2018,1.000 eur,saarland,code10,,34.57
+2019,1.000 eur,saarland,code10,,34.018
+2020,1.000 eur,saarland,code10,,32.412
+2021,1.000 eur,saarland,code10,,33.436
+2022,1.000 eur,saarland,code10,,33.592
+2023,1.000 eur,saarland,code10,,33.182
 1991,1.000 eur,saxony,code14,,12.328
 1992,1.000 eur,saxony,code14,,13.685
 1993,1.000 eur,saxony,code14,,15.464
@@ -430,10 +455,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,saxony,code14,,27.908
 2016,1.000 eur,saxony,code14,,28.319
 2017,1.000 eur,saxony,code14,,28.979
-2018,1.000 eur,saxony,code14,,29.218
-2019,1.000 eur,saxony,code14,,29.719
-2020,1.000 eur,saxony,code14,,28.535
-2021,1.000 eur,saxony,code14,,29.396
+2018,1.000 eur,saxony,code14,,29.194
+2019,1.000 eur,saxony,code14,,29.667
+2020,1.000 eur,saxony,code14,,28.691
+2021,1.000 eur,saxony,code14,,29.477
+2022,1.000 eur,saxony,code14,,30.045
+2023,1.000 eur,saxony,code14,,29.684
 1991,1.000 eur,saxony-anhalt,code15,,11.993
 1992,1.000 eur,saxony-anhalt,code15,,13.24
 1993,1.000 eur,saxony-anhalt,code15,,15.064
@@ -461,10 +488,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,saxony-anhalt,code15,,25.617
 2016,1.000 eur,saxony-anhalt,code15,,26.008
 2017,1.000 eur,saxony-anhalt,code15,,26.412
-2018,1.000 eur,saxony-anhalt,code15,,26.521
-2019,1.000 eur,saxony-anhalt,code15,,27.132
-2020,1.000 eur,saxony-anhalt,code15,,26.278
-2021,1.000 eur,saxony-anhalt,code15,,27.02
+2018,1.000 eur,saxony-anhalt,code15,,26.441
+2019,1.000 eur,saxony-anhalt,code15,,27.04
+2020,1.000 eur,saxony-anhalt,code15,,26.602
+2021,1.000 eur,saxony-anhalt,code15,,27.111
+2022,1.000 eur,saxony-anhalt,code15,,27.609
+2023,1.000 eur,saxony-anhalt,code15,,27.163
 1991,1.000 eur,schleswig-holstein,code01,,26.163
 1992,1.000 eur,schleswig-holstein,code01,,26.224
 1993,1.000 eur,schleswig-holstein,code01,,25.564
@@ -492,10 +521,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,schleswig-holstein,code01,,29.809
 2016,1.000 eur,schleswig-holstein,code01,,30.21
 2017,1.000 eur,schleswig-holstein,code01,,30.922
-2018,1.000 eur,schleswig-holstein,code01,,31.022
-2019,1.000 eur,schleswig-holstein,code01,,31.728
-2020,1.000 eur,schleswig-holstein,code01,,30.71
-2021,1.000 eur,schleswig-holstein,code01,,31.31
+2018,1.000 eur,schleswig-holstein,code01,,30.973
+2019,1.000 eur,schleswig-holstein,code01,,31.642
+2020,1.000 eur,schleswig-holstein,code01,,31.079
+2021,1.000 eur,schleswig-holstein,code01,,30.935
+2022,1.000 eur,schleswig-holstein,code01,,31.25
+2023,1.000 eur,schleswig-holstein,code01,,30.658
 1991,1.000 eur,thuringia,code16,,10.627
 1992,1.000 eur,thuringia,code16,,12.605
 1993,1.000 eur,thuringia,code16,,14.357
@@ -523,10 +554,12 @@ Year,Units,federal state,GeoCode,county,Value
 2015,1.000 eur,thuringia,code16,,26.563
 2016,1.000 eur,thuringia,code16,,26.873
 2017,1.000 eur,thuringia,code16,,27.545
-2018,1.000 eur,thuringia,code16,,27.599
-2019,1.000 eur,thuringia,code16,,27.753
-2020,1.000 eur,thuringia,code16,,26.705
-2021,1.000 eur,thuringia,code16,,27.427
+2018,1.000 eur,thuringia,code16,,27.572
+2019,1.000 eur,thuringia,code16,,27.68
+2020,1.000 eur,thuringia,code16,,26.984
+2021,1.000 eur,thuringia,code16,,27.715
+2022,1.000 eur,thuringia,code16,,28.133
+2023,1.000 eur,thuringia,code16,,28.015
 2000,1.000 eur,baden-wuerttemberg,code08111,"stuttgart, stadt",59.965
 2001,1.000 eur,baden-wuerttemberg,code08111,"stuttgart, stadt",65.051
 2002,1.000 eur,baden-wuerttemberg,code08111,"stuttgart, stadt",67.023
