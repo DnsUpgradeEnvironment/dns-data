@@ -1,40 +1,38 @@
 Year,Units,sex,time series,Value
-2011,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,257.93
-2012,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,252.8
-2013,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,253.78
-2014,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,243.34
-2015,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,249.22
-2016,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,244.56
-2017,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,241.05
-2018,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,241.0
-2019,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,231.41
-2020,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,238.07
-2021,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,252.54
-2030,"per 100,000 inhabitants",,mortality avoidable through prevention and treatment,
-2011,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,174.27
-2012,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,171.48
-2013,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,174.01
-2014,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,166.63
-2015,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,172.15
-2016,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,169.95
-2017,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,168.64
-2018,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,169.34
-2019,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,162.47
-2020,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,165.1
-2021,"per 100,000 inhabitants",female,mortality avoidable through prevention and treatment,173.86
-,,,mortality avoidable through prevention and treatment,
-2011,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,347.65
-2012,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,339.92
-2013,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,339.09
-2014,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,325.27
-2015,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,331.35
-2016,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,324.01
-2017,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,318.21
-2018,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,317.31
-2019,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,304.8
-2020,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,315.74
-2021,"per 100,000 inhabitants",male,mortality avoidable through prevention and treatment,336.34
-,,,mortality avoidable through prevention and treatment,
+2011,"per 100,000 inhabitants",,x,257.93
+2012,"per 100,000 inhabitants",,x,252.8
+2013,"per 100,000 inhabitants",,x,253.78
+2014,"per 100,000 inhabitants",,x,243.34
+2015,"per 100,000 inhabitants",,x,249.22
+2016,"per 100,000 inhabitants",,x,244.56
+2017,"per 100,000 inhabitants",,x,241.05
+2018,"per 100,000 inhabitants",,x,241.0
+2019,"per 100,000 inhabitants",,x,231.41
+2020,"per 100,000 inhabitants",,x,238.07
+2021,"per 100,000 inhabitants",,x,252.54
+2030,"per 100,000 inhabitants",,x,
+2011,"per 100,000 inhabitants",female,x,174.27
+2012,"per 100,000 inhabitants",female,x,171.48
+2013,"per 100,000 inhabitants",female,x,174.01
+2014,"per 100,000 inhabitants",female,x,166.63
+2015,"per 100,000 inhabitants",female,x,172.15
+2016,"per 100,000 inhabitants",female,x,169.95
+2017,"per 100,000 inhabitants",female,x,168.64
+2018,"per 100,000 inhabitants",female,x,169.34
+2019,"per 100,000 inhabitants",female,x,162.47
+2020,"per 100,000 inhabitants",female,x,165.1
+2021,"per 100,000 inhabitants",female,x,173.86
+2011,"per 100,000 inhabitants",male,x,347.65
+2012,"per 100,000 inhabitants",male,x,339.92
+2013,"per 100,000 inhabitants",male,x,339.09
+2014,"per 100,000 inhabitants",male,x,325.27
+2015,"per 100,000 inhabitants",male,x,331.35
+2016,"per 100,000 inhabitants",male,x,324.01
+2017,"per 100,000 inhabitants",male,x,318.21
+2018,"per 100,000 inhabitants",male,x,317.31
+2019,"per 100,000 inhabitants",male,x,304.8
+2020,"per 100,000 inhabitants",male,x,315.74
+2021,"per 100,000 inhabitants",male,x,336.34
 2011,"per 100,000 inhabitants",,mortality avoidable through prevention,163.45
 2012,"per 100,000 inhabitants",,mortality avoidable through prevention,160.8
 2013,"per 100,000 inhabitants",,mortality avoidable through prevention,162.24
