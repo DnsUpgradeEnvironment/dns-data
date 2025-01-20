@@ -3299,6 +3299,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -3323,7 +3326,7 @@
                 "total",
                 "xxxkeine risikolage",
                 "xxxmindestens eine risikolage",
-                "xxxdifferenz zwischen keine risikolage und mind. eine risikolage",
+                "xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage'",
                 ""
               ]
             }

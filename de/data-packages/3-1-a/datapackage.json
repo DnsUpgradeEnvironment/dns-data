@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unterschied in der Lebenserwartung zwischen sozio-ökonomisch deprivierten und wohlhabenden Regionen (Männer)",
+                "X",
                 "Durch Prävention vermeidbaren Sterblichkeit",
                 "Durch Behandlung vermeidbaren Sterblichkeit",
                 ""
