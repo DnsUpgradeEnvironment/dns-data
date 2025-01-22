@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erhalt bzw. Wiederaufbau von Wäldern in Entwicklungsländern unter dem REDD+-Regelwerk",
-                "Deutsche bilaterale Bruttoentwicklungsausgaben zur Umsetzung des Übereinkommens der VN zur Bekämpfung der Wüstenbildung",
+                "preservation or restoration of forests in developing countries under the redd+ rulebook",
+                "german gross bilateral development expenditure for the implementation of the un convention to combat desertification",
                 ""
               ]
             },

@@ -34,7 +34,7 @@
             "constraints": {
               "enum": [
                 "Unbereinigter Gender Pay Gap",
-                "Zusätzliche Information: Bereinigter Gender Pay Gap",
+                "<u>Infolinie</u>: Bereinigter Gender Pay Gap",
                 ""
               ]
             },
@@ -178,7 +178,7 @@
             "constraints": {
               "enum": [
                 "Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
-                "Zusätzliche Information: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
+                "<u>Infolinie</u>: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
                 ""
               ]
             },
@@ -2838,6 +2838,41 @@
       "title": "Straftaten"
     },
     {
+      "path": "15-3/data.csv",
+      "name": "15-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Bodenversiegelungsgrad"
+    },
+    {
       "path": "17-1/data.csv",
       "name": "17-1",
       "profile": "tabular-data-resource",
@@ -3048,8 +3083,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erhalt bzw. Wiederaufbau von Wäldern in Entwicklungsländern unter dem REDD+-Regelwerk",
-                "Deutsche bilaterale Bruttoentwicklungsausgaben zur Umsetzung des Übereinkommens der VN zur Bekämpfung der Wüstenbildung",
+                "preservation or restoration of forests in developing countries under the redd+ rulebook",
+                "german gross bilateral development expenditure for the implementation of the un convention to combat desertification",
                 ""
               ]
             },
@@ -3279,6 +3314,30 @@
         ]
       },
       "title": "Anteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung"
+    },
+    {
+      "path": "15-4/data.csv",
+      "name": "15-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar"
     }
   ]
 }

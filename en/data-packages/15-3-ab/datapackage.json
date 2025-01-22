@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Preservation or restoration of forests in developing countries under the REDD+ rulebook",
-                "German gross bilateral development expenditure for the implementation of the UN Convention to Combat Desertification",
+                "preservation or restoration of forests in developing countries under the redd+ rulebook",
+                "german gross bilateral development expenditure for the implementation of the un convention to combat desertification",
                 ""
               ]
             },
