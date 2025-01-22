@@ -1,9 +1,52 @@
-Year,Units,Value
-2015,1 000,354.841
-2018,1 000,863.0
-2021,1 000,80.083
-2016,1 000,
-2017,1 000,
-2019,1 000,
-2020,1 000,
-2030,1 000,
+Year,Units,Zeitreihe,Geschlecht,Value
+2006,Stunden,Differenz,,21.18
+2007,Stunden,Differenz,,21.307
+2008,Stunden,Differenz,,22.583
+2009,Stunden,Differenz,,21.992
+2010,Stunden,Differenz,,21.806
+2011,Stunden,Differenz,,21.959
+2012,Stunden,Differenz,,21.758
+2013,Stunden,Differenz,,21.236
+2014,Stunden,Differenz,,20.808
+2015,Stunden,Differenz,,20.472
+2016,Stunden,Differenz,,20.004
+2017,Stunden,Differenz,,19.586
+2018,Stunden,Differenz,,19.22
+2019,Stunden,Differenz,,18.883
+2020,Stunden,Differenz,,18.085
+2021,Stunden,Differenz,,17.789
+2022,Stunden,Differenz,,17.917
+2006,Stunden,,Weiblich,14.747
+2007,Stunden,,Weiblich,14.947
+2008,Stunden,,Weiblich,15.51
+2009,Stunden,,Weiblich,15.848
+2010,Stunden,,Weiblich,16.244
+2011,Stunden,,Weiblich,16.689
+2012,Stunden,,Weiblich,17.008
+2013,Stunden,,Weiblich,17.23
+2014,Stunden,,Weiblich,17.393
+2015,Stunden,,Weiblich,17.576
+2016,Stunden,,Weiblich,17.894
+2017,Stunden,,Weiblich,18.037
+2018,Stunden,,Weiblich,18.361
+2019,Stunden,,Weiblich,18.704
+2020,Stunden,,Weiblich,18.443
+2021,Stunden,,Weiblich,18.726
+2022,Stunden,,Weiblich,19.107
+2006,Stunden,,Männlich,35.927
+2007,Stunden,,Männlich,36.254
+2008,Stunden,,Männlich,38.093
+2009,Stunden,,Männlich,37.84
+2010,Stunden,,Männlich,38.05
+2011,Stunden,,Männlich,38.648
+2012,Stunden,,Männlich,38.766
+2013,Stunden,,Männlich,38.466
+2014,Stunden,,Männlich,38.201
+2015,Stunden,,Männlich,38.048
+2016,Stunden,,Männlich,37.898
+2017,Stunden,,Männlich,37.623
+2018,Stunden,,Männlich,37.581
+2019,Stunden,,Männlich,37.587
+2020,Stunden,,Männlich,36.528
+2021,Stunden,,Männlich,36.515
+2022,Stunden,,Männlich,37.024

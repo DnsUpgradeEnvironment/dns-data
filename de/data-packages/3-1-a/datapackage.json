@@ -43,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "X",
+                "Vermeidbare Sterblichkeit",
                 "Durch Prävention vermeidbaren Sterblichkeit",
                 "Durch Behandlung vermeidbaren Sterblichkeit",
                 ""

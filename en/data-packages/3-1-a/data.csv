@@ -1,38 +1,38 @@
 Year,Units,Sex,Time series,Value
-2011.0,"Per 100,000 inhabitants",,X,257.93
-2012.0,"Per 100,000 inhabitants",,X,252.8
-2013.0,"Per 100,000 inhabitants",,X,253.78
-2014.0,"Per 100,000 inhabitants",,X,243.34
-2015.0,"Per 100,000 inhabitants",,X,249.22
-2016.0,"Per 100,000 inhabitants",,X,244.56
-2017.0,"Per 100,000 inhabitants",,X,241.05
-2018.0,"Per 100,000 inhabitants",,X,241.0
-2019.0,"Per 100,000 inhabitants",,X,231.41
-2020.0,"Per 100,000 inhabitants",,X,238.07
-2021.0,"Per 100,000 inhabitants",,X,252.54
-2030.0,"Per 100,000 inhabitants",,X,
-2011.0,"Per 100,000 inhabitants",Female,X,174.27
-2012.0,"Per 100,000 inhabitants",Female,X,171.48
-2013.0,"Per 100,000 inhabitants",Female,X,174.01
-2014.0,"Per 100,000 inhabitants",Female,X,166.63
-2015.0,"Per 100,000 inhabitants",Female,X,172.15
-2016.0,"Per 100,000 inhabitants",Female,X,169.95
-2017.0,"Per 100,000 inhabitants",Female,X,168.64
-2018.0,"Per 100,000 inhabitants",Female,X,169.34
-2019.0,"Per 100,000 inhabitants",Female,X,162.47
-2020.0,"Per 100,000 inhabitants",Female,X,165.1
-2021.0,"Per 100,000 inhabitants",Female,X,173.86
-2011.0,"Per 100,000 inhabitants",Male,X,347.65
-2012.0,"Per 100,000 inhabitants",Male,X,339.92
-2013.0,"Per 100,000 inhabitants",Male,X,339.09
-2014.0,"Per 100,000 inhabitants",Male,X,325.27
-2015.0,"Per 100,000 inhabitants",Male,X,331.35
-2016.0,"Per 100,000 inhabitants",Male,X,324.01
-2017.0,"Per 100,000 inhabitants",Male,X,318.21
-2018.0,"Per 100,000 inhabitants",Male,X,317.31
-2019.0,"Per 100,000 inhabitants",Male,X,304.8
-2020.0,"Per 100,000 inhabitants",Male,X,315.74
-2021.0,"Per 100,000 inhabitants",Male,X,336.34
+2011.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,257.93
+2012.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,252.8
+2013.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,253.78
+2014.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,243.34
+2015.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,249.22
+2016.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,244.56
+2017.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,241.05
+2018.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,241.0
+2019.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,231.41
+2020.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,238.07
+2021.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,252.54
+2030.0,"Per 100,000 inhabitants",,XXXVermeidbare Sterblichkeit,
+2011.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,174.27
+2012.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,171.48
+2013.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,174.01
+2014.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,166.63
+2015.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,172.15
+2016.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,169.95
+2017.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,168.64
+2018.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,169.34
+2019.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,162.47
+2020.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,165.1
+2021.0,"Per 100,000 inhabitants",Female,XXXVermeidbare Sterblichkeit,173.86
+2011.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,347.65
+2012.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,339.92
+2013.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,339.09
+2014.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,325.27
+2015.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,331.35
+2016.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,324.01
+2017.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,318.21
+2018.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,317.31
+2019.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,304.8
+2020.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,315.74
+2021.0,"Per 100,000 inhabitants",Male,XXXVermeidbare Sterblichkeit,336.34
 2011.0,"Per 100,000 inhabitants",,Mortality avoidable through prevention,163.45
 2012.0,"Per 100,000 inhabitants",,Mortality avoidable through prevention,160.8
 2013.0,"Per 100,000 inhabitants",,Mortality avoidable through prevention,162.24
