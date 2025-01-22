@@ -32,22 +32,12 @@
             "constraints": {
               "enum": [
                 "Difference",
+                "Mothers",
+                "Fathers",
                 ""
               ]
             },
             "title": "Time series"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",

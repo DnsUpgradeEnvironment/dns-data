@@ -39,6 +39,18 @@
             "title": "Series"
           },
           {
+            "name": "xxxart der betreuung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXKindertageseinrichtungen",
+                "XXXTagespflege",
+                ""
+              ]
+            },
+            "title": "XXXArt der Betreuung"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

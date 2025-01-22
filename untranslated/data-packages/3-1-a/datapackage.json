@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Units",
@@ -36,11 +36,10 @@
             }
           },
           {
-            "name": "time series",
+            "name": "xxxzuordnung",
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxvermeidbare sterblichkeit",
                 "mortality avoidable through prevention",
                 "mortality avoidable through treatment",
                 ""

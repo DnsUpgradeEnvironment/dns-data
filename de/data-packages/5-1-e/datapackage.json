@@ -32,22 +32,12 @@
             "constraints": {
               "enum": [
                 "Differenz",
+                "Mütter",
+                "Väter",
                 ""
               ]
             },
             "title": "Zeitreihe"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Weiblich",
-                "Männlich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
           },
           {
             "name": "Value",

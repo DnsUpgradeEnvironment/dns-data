@@ -30,17 +30,8 @@
             "constraints": {
               "enum": [
                 "difference",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
+                "mothers",
+                "fathers",
                 ""
               ]
             }

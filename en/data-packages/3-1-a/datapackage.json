@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -39,17 +39,16 @@
             "title": "Sex"
           },
           {
-            "name": "time series",
+            "name": "xxxzuordnung",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXVermeidbare Sterblichkeit",
                 "Mortality avoidable through prevention",
                 "Mortality avoidable through treatment",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "XXXZuordnung"
           },
           {
             "name": "Value",
