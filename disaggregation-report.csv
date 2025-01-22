@@ -2,15 +2,16 @@ Disaggregation,Number of indicators,Number of values
 age group,1,2
 air pollutant,1,5
 area,2,4
-calculation method,1,2
+calculation method,2,4
 criminal offences,1,4
 degree of urbanisation,2,2
-federal state,24,16
+federal state,1,16
 qualification,1,4
 sea,1,2
-sex,13,2
+sex,12,2
 sub index,1,5
-time series,21,53
+time series,22,55
 type of area,1,3
 xxxart der tarifverträge,1,2
 xxxrisikolage,1,4
+xxxzuordnung,1,2
