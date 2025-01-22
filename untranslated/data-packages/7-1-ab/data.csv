@@ -16,7 +16,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2022,2008 = 100,final energy productivity,,,126.62
 2023,2008 = 100,final energy productivity,,,131.763
 2024,2008 = 100,final energy productivity,,,
-2050,2008 = 100,final energy productivity,,,
 2030,2008 = 100,final energy productivity,,,
 2008,2008 = 100,final energy productivity,baden-wuerttemberg,code08,100.0
 2009,2008 = 100,final energy productivity,baden-wuerttemberg,code08,95.51
@@ -252,7 +251,6 @@ Year,Units,Series,federal state,GeoCode,Value
 2022,2008 = 100,primary energy consumption,,,81.246
 2023,2008 = 100,primary energy consumption,,,73.912
 2024,2008 = 100,primary energy consumption,,,72.917
-2050,2008 = 100,primary energy consumption,,,
 2030,2008 = 100,primary energy consumption,,,
 2008,2008 = 100,primary energy consumption,baden-wuerttemberg,code08,100.0
 2009,2008 = 100,primary energy consumption,baden-wuerttemberg,code08,95.076
