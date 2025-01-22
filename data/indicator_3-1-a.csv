@@ -1,38 +1,38 @@
-Year,Units,sex,time series,Value
-2011,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,257.93
-2012,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,252.8
-2013,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,253.78
-2014,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,243.34
-2015,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,249.22
-2016,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,244.56
-2017,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,241.05
-2018,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,241.0
-2019,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,231.41
-2020,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,238.07
-2021,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,252.54
-2030,"per 100,000 inhabitants",,xxxvermeidbare sterblichkeit,
-2011,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,174.27
-2012,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,171.48
-2013,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,174.01
-2014,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,166.63
-2015,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,172.15
-2016,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,169.95
-2017,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,168.64
-2018,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,169.34
-2019,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,162.47
-2020,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,165.1
-2021,"per 100,000 inhabitants",female,xxxvermeidbare sterblichkeit,173.86
-2011,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,347.65
-2012,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,339.92
-2013,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,339.09
-2014,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,325.27
-2015,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,331.35
-2016,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,324.01
-2017,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,318.21
-2018,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,317.31
-2019,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,304.8
-2020,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,315.74
-2021,"per 100,000 inhabitants",male,xxxvermeidbare sterblichkeit,336.34
+Year,Units,sex,xxxzuordnung,Value
+2011,"per 100,000 inhabitants",,,257.93
+2012,"per 100,000 inhabitants",,,252.8
+2013,"per 100,000 inhabitants",,,253.78
+2014,"per 100,000 inhabitants",,,243.34
+2015,"per 100,000 inhabitants",,,249.22
+2016,"per 100,000 inhabitants",,,244.56
+2017,"per 100,000 inhabitants",,,241.05
+2018,"per 100,000 inhabitants",,,241.0
+2019,"per 100,000 inhabitants",,,231.41
+2020,"per 100,000 inhabitants",,,238.07
+2021,"per 100,000 inhabitants",,,252.54
+2030,"per 100,000 inhabitants",,,
+2011,"per 100,000 inhabitants",female,,174.27
+2012,"per 100,000 inhabitants",female,,171.48
+2013,"per 100,000 inhabitants",female,,174.01
+2014,"per 100,000 inhabitants",female,,166.63
+2015,"per 100,000 inhabitants",female,,172.15
+2016,"per 100,000 inhabitants",female,,169.95
+2017,"per 100,000 inhabitants",female,,168.64
+2018,"per 100,000 inhabitants",female,,169.34
+2019,"per 100,000 inhabitants",female,,162.47
+2020,"per 100,000 inhabitants",female,,165.1
+2021,"per 100,000 inhabitants",female,,173.86
+2011,"per 100,000 inhabitants",male,,347.65
+2012,"per 100,000 inhabitants",male,,339.92
+2013,"per 100,000 inhabitants",male,,339.09
+2014,"per 100,000 inhabitants",male,,325.27
+2015,"per 100,000 inhabitants",male,,331.35
+2016,"per 100,000 inhabitants",male,,324.01
+2017,"per 100,000 inhabitants",male,,318.21
+2018,"per 100,000 inhabitants",male,,317.31
+2019,"per 100,000 inhabitants",male,,304.8
+2020,"per 100,000 inhabitants",male,,315.74
+2021,"per 100,000 inhabitants",male,,336.34
 2011,"per 100,000 inhabitants",,mortality avoidable through prevention,163.45
 2012,"per 100,000 inhabitants",,mortality avoidable through prevention,160.8
 2013,"per 100,000 inhabitants",,mortality avoidable through prevention,162.24
@@ -44,7 +44,6 @@ Year,Units,sex,time series,Value
 2019,"per 100,000 inhabitants",,mortality avoidable through prevention,149.66
 2020,"per 100,000 inhabitants",,mortality avoidable through prevention,157.23
 2021,"per 100,000 inhabitants",,mortality avoidable through prevention,171.28
-2030,"per 100,000 inhabitants",,mortality avoidable through prevention,
 2011,"per 100,000 inhabitants",female,mortality avoidable through prevention,93.29
 2012,"per 100,000 inhabitants",female,mortality avoidable through prevention,92.69
 2013,"per 100,000 inhabitants",female,mortality avoidable through prevention,95.3
@@ -56,7 +55,6 @@ Year,Units,sex,time series,Value
 2019,"per 100,000 inhabitants",female,mortality avoidable through prevention,92.05
 2020,"per 100,000 inhabitants",female,mortality avoidable through prevention,96.22
 2021,"per 100,000 inhabitants",female,mortality avoidable through prevention,105.49
-,,,mortality avoidable through prevention,
 2011,"per 100,000 inhabitants",male,mortality avoidable through prevention,238.32
 2012,"per 100,000 inhabitants",male,mortality avoidable through prevention,233.42
 2013,"per 100,000 inhabitants",male,mortality avoidable through prevention,233.47
@@ -68,7 +66,6 @@ Year,Units,sex,time series,Value
 2019,"per 100,000 inhabitants",male,mortality avoidable through prevention,210.68
 2020,"per 100,000 inhabitants",male,mortality avoidable through prevention,221.86
 2021,"per 100,000 inhabitants",male,mortality avoidable through prevention,241.06
-,,,mortality avoidable through prevention,
 2011,"per 100,000 inhabitants",,mortality avoidable through treatment,94.48
 2012,"per 100,000 inhabitants",,mortality avoidable through treatment,92.0
 2013,"per 100,000 inhabitants",,mortality avoidable through treatment,91.54
@@ -80,7 +77,6 @@ Year,Units,sex,time series,Value
 2019,"per 100,000 inhabitants",,mortality avoidable through treatment,81.75
 2020,"per 100,000 inhabitants",,mortality avoidable through treatment,80.84
 2021,"per 100,000 inhabitants",,mortality avoidable through treatment,81.27
-2030,"per 100,000 inhabitants",,mortality avoidable through treatment,
 2011,"per 100,000 inhabitants",female,mortality avoidable through treatment,80.98
 2012,"per 100,000 inhabitants",female,mortality avoidable through treatment,78.78
 2013,"per 100,000 inhabitants",female,mortality avoidable through treatment,78.71
@@ -92,7 +88,6 @@ Year,Units,sex,time series,Value
 2019,"per 100,000 inhabitants",female,mortality avoidable through treatment,70.42
 2020,"per 100,000 inhabitants",female,mortality avoidable through treatment,68.88
 2021,"per 100,000 inhabitants",female,mortality avoidable through treatment,68.38
-,,,mortality avoidable through treatment,
 2011,"per 100,000 inhabitants",male,mortality avoidable through treatment,109.32
 2012,"per 100,000 inhabitants",male,mortality avoidable through treatment,106.51
 2013,"per 100,000 inhabitants",male,mortality avoidable through treatment,105.62
@@ -104,4 +99,3 @@ Year,Units,sex,time series,Value
 2019,"per 100,000 inhabitants",male,mortality avoidable through treatment,94.12
 2020,"per 100,000 inhabitants",male,mortality avoidable through treatment,93.88
 2021,"per 100,000 inhabitants",male,mortality avoidable through treatment,95.28
-,,,mortality avoidable through treatment,
