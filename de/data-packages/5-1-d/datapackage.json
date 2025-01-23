@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "Anteil der Kinder, deren Väter Elterngeld bezogen haben",
-                "Zusätzliche Information: Anteil der männlichen Bezieher an allen genommenen Elterngeldmonaten",
+                "<u>Infolinie</u>: Anteil der männlichen Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
