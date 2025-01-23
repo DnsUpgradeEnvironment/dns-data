@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -27,16 +27,30 @@
             "title": "Units"
           },
           {
-            "name": "level of effectiveness",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Substantial or high",
-                "Low or moderate",
+                "Financial Action Task Force (FATF) rating effectiveness",
+                "<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance",
                 ""
               ]
             },
-            "title": "Grad der Effektivität"
+            "title": "Series"
+          },
+          {
+            "name": "rating",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Effectiveness = Substantial or high",
+                "Effectiveness = Low or moderate",
+                "Tecnical compliance =  Largely compliant oder compliant",
+                "Tecnical compliance = Non-compliant oder partially compliant",
+                ""
+              ]
+            },
+            "title": "Bewertung"
           },
           {
             "name": "Value",

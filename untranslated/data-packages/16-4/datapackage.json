@@ -25,12 +25,25 @@
             }
           },
           {
-            "name": "level of effectiveness",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "substantial or high",
-                "low or moderate",
+                "financial action task force (fatf) rating effectiveness",
+                "financial action task force (fatf) rating tecnical compliance",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "rating",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "effectiveness = substantial or high",
+                "effectiveness = low or moderate",
+                "tecnical compliance = largely compliant or compliant",
+                "tecnical compliance = non-compliant or partially compliant",
                 ""
               ]
             }

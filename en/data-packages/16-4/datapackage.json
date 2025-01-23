@@ -27,16 +27,30 @@
             "title": "Units"
           },
           {
-            "name": "level of effectiveness",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Substantial or high",
-                "Low or moderate",
+                "Financial Action Task Force (FATF) rating effectiveness",
+                "Financial Action Task Force (FATF) rating tecnical compliance",
                 ""
               ]
             },
-            "title": "Level of effectiveness"
+            "title": "Series"
+          },
+          {
+            "name": "rating",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Effectiveness = Substantial or high",
+                "Effectiveness = Low or moderate",
+                "Tecnical compliance = Largely compliant or compliant",
+                "Tecnical compliance = Non-compliant or partially compliant",
+                ""
+              ]
+            },
+            "title": "Rating"
           },
           {
             "name": "Value",

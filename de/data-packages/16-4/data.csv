@@ -1,8 +1,14 @@
-Year,Units,Grad der Effektivität,Value
-2022,Anzahl von Bewertungen,Substantial or high,4.0
-2021,Anzahl von Bewertungen,Substantial or high,
-2023,Anzahl von Bewertungen,Substantial or high,
-2029,Anzahl von Bewertungen,Substantial or high,
-2022,Anzahl von Bewertungen,Low or moderate,7.0
-2021,Anzahl von Bewertungen,Low or moderate,
-2023,Anzahl von Bewertungen,Low or moderate,
+Year,Units,Series,Bewertung,Value
+2022,Anzahl von Bewertungen,Financial Action Task Force (FATF) rating effectiveness,Effectiveness = Substantial or high,4.0
+2021,Anzahl von Bewertungen,Financial Action Task Force (FATF) rating effectiveness,Effectiveness = Substantial or high,
+2023,Anzahl von Bewertungen,Financial Action Task Force (FATF) rating effectiveness,Effectiveness = Substantial or high,
+2029,Anzahl von Bewertungen,Financial Action Task Force (FATF) rating effectiveness,Effectiveness = Substantial or high,
+2022,Anzahl von Bewertungen,Financial Action Task Force (FATF) rating effectiveness,Effectiveness = Low or moderate,7.0
+2021,Anzahl von Bewertungen,Financial Action Task Force (FATF) rating effectiveness,Effectiveness = Low or moderate,
+2023,Anzahl von Bewertungen,Financial Action Task Force (FATF) rating effectiveness,Effectiveness = Low or moderate,
+2022,Anzahl von Bewertungen,<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance,Tecnical compliance =  Largely compliant oder compliant,35.0
+2021,Anzahl von Bewertungen,<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance,Tecnical compliance =  Largely compliant oder compliant,
+2023,Anzahl von Bewertungen,<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance,Tecnical compliance =  Largely compliant oder compliant,
+2022,Anzahl von Bewertungen,<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance,Tecnical compliance = Non-compliant oder partially compliant,5.0
+2021,Anzahl von Bewertungen,<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance,Tecnical compliance = Non-compliant oder partially compliant,
+2023,Anzahl von Bewertungen,<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance,Tecnical compliance = Non-compliant oder partially compliant,
