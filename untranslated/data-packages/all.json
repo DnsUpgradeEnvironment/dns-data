@@ -2732,44 +2732,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxa) anteil nachhaltiger vergabeverfahren",
-                "b) co2 emissions of vehicles in the public sector",
-                "xxxnachhaltige textilbeschaffung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xxxa) anteil nachhaltiger vergabeverfahren",
-                "b) co2 emissions of vehicles in the public sector",
-                "xxxnachhaltige textilbeschaffung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series.2",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xxxa) anteil nachhaltiger vergabeverfahren",
-                "b) co2 emissions of vehicles in the public sector",
-                "xxxnachhaltige textilbeschaffung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series.3",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "xxxa) anteil nachhaltiger vergabeverfahren",
-                "b) co2 emissions of vehicles in the public sector",
+                "anteil nachhaltiger vergabeverfahren",
+                "co2 emissions of commercially available vehicles in the public sector",
                 "xxxnachhaltige textilbeschaffung",
                 ""
               ]
