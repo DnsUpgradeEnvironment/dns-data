@@ -18,6 +18,7 @@ Year,Units,Series,Value
 2021,number,locations of organisation registered with emas,2290.0
 2022,number,locations of organisation registered with emas,2361.0
 2023,number,locations of organisation registered with emas,2455.0
+2024,number,locations of organisation registered with emas,4533.0
 2030,number,locations of organisation registered with emas,
 2005,1 000,employees in emas organisations,961.0
 2006,1 000,employees in emas organisations,926.0
@@ -38,6 +39,7 @@ Year,Units,Series,Value
 2021,1 000,employees in emas organisations,911.0
 2022,1 000,employees in emas organisations,915.0
 2023,1 000,employees in emas organisations,1180.0
+2024,1 000,employees in emas organisations,1258.0
 2030,1 000,employees in emas organisations,
 2005,number,emas organisations,1491.0
 2006,number,emas organisations,1490.0
@@ -58,4 +60,5 @@ Year,Units,Series,Value
 2021,number,emas organisations,1115.0
 2022,number,emas organisations,1117.0
 2023,number,emas organisations,1115.0
+2024,number,emas organisations,1122.0
 2030,number,emas organisations,
