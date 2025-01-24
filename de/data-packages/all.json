@@ -451,9 +451,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung erhalten haben",
-                "Anzahl der Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung erhalten haben",
-                "Anzahl der Menschen, die einen neuen oder verbesserten Anschluss zur Sanitärversorgung erhalten haben",
+                "Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung erhalten haben",
+                "a) Menschen mit einer neuen oder verbesserten Trinkwasserversorgung",
+                "b) Menschen mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung",
                 ""
               ]
             },
@@ -2267,7 +2267,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
-                "Einwohner/-innen pro m² Siedlungs- und Verkehrsfläche",
+                "Einwohner/-innen pro km² Siedlungs- und Verkehrsfläche",
                 ""
               ]
             },

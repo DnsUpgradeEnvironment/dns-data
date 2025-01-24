@@ -451,9 +451,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of people gaining first-time or upgraded access to drinking water or sanitation",
-                "Number of people gaining first-time or upgraded access to drinking water",
-                "Number of people gaining first-time or improved access to sanitation",
+                "People gaining first-time or upgraded access to drinking water or sanitation",
+                "People gaining first-time or upgraded access to drinking water",
+                "XXXNumber of people gaining first-time or improved access to sanitation",
                 ""
               ]
             },
@@ -2267,7 +2267,7 @@
             "constraints": {
               "enum": [
                 "2000 = 100",
-                "Inhabitants per m² settlement and transport area",
+                "Inhabitants per km² settlement and transport area",
                 ""
               ]
             },
