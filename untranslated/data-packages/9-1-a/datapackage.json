@@ -25,6 +25,18 @@
             }
           },
           {
+            "name": "xxxsektoren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxxstaat und private institutionen ohne erwerbszweck",
+                "xxxhochschulen",
+                "xxxwirtschaft",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

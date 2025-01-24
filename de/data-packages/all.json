@@ -399,6 +399,19 @@
             "title": "Units"
           },
           {
+            "name": "xxxsektoren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Staat und private Institutionen ohne Erwerbszweck",
+                "Hochschulen",
+                "Wirtschaft",
+                ""
+              ]
+            },
+            "title": "Sektoren"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -667,6 +680,8 @@
                 "Gesamtrohstoffproduktivität",
                 "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
+                "<u>Infolinie:</u> Rohstoffeinsatz für Konsum und Investitionen (RMC)",
+                "<u>Infolinie:</u> Rohstoffeinsatz für Exporte (RMC)",
                 ""
               ]
             },
@@ -1833,7 +1848,7 @@
             "constraints": {
               "enum": [
                 "Erwerbstätigenquote insgesamt (20- bis 64-Jährige)",
-                "Erwerbstätigenquote Ältere (60- bis 64-Jährige)",
+                "Erwerbstätigenquote Ältere (55- bis 64-Jährige)",
                 ""
               ]
             },

@@ -366,6 +366,18 @@
             }
           },
           {
+            "name": "xxxsektoren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "xxxstaat und private institutionen ohne erwerbszweck",
+                "xxxhochschulen",
+                "xxxwirtschaft",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -612,6 +624,8 @@
                 "raw material input productivity",
                 "raw material input for consumption, investment and exports",
                 "value of consumption, investment and exports (price-adjusted)",
+                "xxx<u>infolinie:</u> rohstoffeinsatz für konsum und investitionen (rmc)",
+                "xxx<u>infolinie:</u> rohstoffeinsatz für exporte (rmc)",
                 ""
               ]
             }
@@ -1680,7 +1694,7 @@
             "constraints": {
               "enum": [
                 "employment rate, total (20 to 64-year-olds)",
-                "employment rate, older people (60 to 64-year-olds)",
+                "employment rate, older people (55 to 64-year-olds)",
                 ""
               ]
             }
