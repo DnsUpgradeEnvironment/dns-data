@@ -89,7 +89,7 @@
           }
         ]
       },
-      "title": "Umweltmanagement EMAS"
+      "title": "Umweltmanagementsystem EMAS"
     },
     {
       "path": "3-2-b/data.csv",
@@ -198,7 +198,7 @@
           }
         ]
       },
-      "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
+      "title": "Anteil erneuerbarer Energien am Bruttoendenergieverbrauch"
     },
     {
       "path": "9-1-b/data.csv",
@@ -242,7 +242,7 @@
           }
         ]
       },
-      "title": "Breitbandausbau"
+      "title": "Breitbandausbau - Anteil der Haushalte mit Zugang zu Gigabit-Breitbandversorgung"
     },
     {
       "path": "5-1-bc/data.csv",
@@ -784,7 +784,7 @@
           }
         ]
       },
-      "title": "Überlastung durch Wohnkosten"
+      "title": "Anteil der Personen mit hohen Wohnkosten"
     },
     {
       "path": "7-1-ab/data.csv",
@@ -1086,7 +1086,7 @@
           }
         ]
       },
-      "title": "Verhältnis der Bruttoanlageinvestitionen zum BIP"
+      "title": "Verhältnis der Bruttoanlageinvestitionen zum Bruttoinlandsprodukt (Investitionsquote)"
     },
     {
       "path": "11-2-b/data.csv",
@@ -1496,7 +1496,7 @@
           }
         ]
       },
-      "title": "Freiwillige Nachhaltigkeitsberichterstattung"
+      "title": "Freiwillige Nachhaltigkeitsberichterstattung von Unternehmen nach dem deutschen Nachhaltigkeitskodex (DNK)"
     },
     {
       "path": "15-4/data.csv",
@@ -1528,7 +1528,7 @@
           }
         ]
       },
-      "title": "Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land, gemessen in Hektar"
+      "title": "Bilaterale Beiträge der deutschen internationalen Kooperation zum Schutz, nachhaltiger Nutzung und Wiederherstellung von Land"
     },
     {
       "path": "3-1-f/data.csv",
@@ -2228,7 +2228,7 @@
           }
         ]
       },
-      "title": "Stickstoffeintrag über die Zuflüsse in die Nord- und Ostsee"
+      "title": "Nährstoffeinträge in Küsten- und Meeresgewässer - Stickstoffeintrag über die Zuflüsse in die Ost- und Nordsee"
     },
     {
       "path": "12-1-b/data.csv",
