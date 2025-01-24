@@ -68,72 +68,72 @@ Year,Units,degree of urbanisation,Value
 2020,2000 = 100,rural areas,85.38
 2021,2000 = 100,rural areas,85.116
 2022,2000 = 100,rural areas,85.895
-2000,inhabitants per m² settlement and transport area,,1854.062
-2001,inhabitants per m² settlement and transport area,,1838.803
-2002,inhabitants per m² settlement and transport area,,1821.977
-2003,inhabitants per m² settlement and transport area,,1803.284
-2004,inhabitants per m² settlement and transport area,,1784.352
-2005,inhabitants per m² settlement and transport area,,1766.733
-2006,inhabitants per m² settlement and transport area,,1748.132
-2007,inhabitants per m² settlement and transport area,,1730.352
-2008,inhabitants per m² settlement and transport area,,1710.307
-2009,inhabitants per m² settlement and transport area,,1694.28
-2010,inhabitants per m² settlement and transport area,,1681.729
-2011,inhabitants per m² settlement and transport area,,1668.888
-2012,inhabitants per m² settlement and transport area,,1664.808
-2013,inhabitants per m² settlement and transport area,,1661.983
-2014,inhabitants per m² settlement and transport area,,1660.694
-2015,inhabitants per m² settlement and transport area,,1674.81
-2016,inhabitants per m² settlement and transport area,,1675.431
-2017,inhabitants per m² settlement and transport area,,1672.418
-2018,inhabitants per m² settlement and transport area,,1666.437
-2019,inhabitants per m² settlement and transport area,,1663.907
-2020,inhabitants per m² settlement and transport area,,1656.618
-2021,inhabitants per m² settlement and transport area,,1651.338
-2022,inhabitants per m² settlement and transport area,,1668.389
-2000,inhabitants per m² settlement and transport area,non-rural areas,3398.556
-2001,inhabitants per m² settlement and transport area,non-rural areas,3384.981
-2002,inhabitants per m² settlement and transport area,non-rural areas,3367.915
-2003,inhabitants per m² settlement and transport area,non-rural areas,3348.367
-2004,inhabitants per m² settlement and transport area,non-rural areas,3327.384
-2005,inhabitants per m² settlement and transport area,non-rural areas,3311.494
-2006,inhabitants per m² settlement and transport area,non-rural areas,3296.41
-2007,inhabitants per m² settlement and transport area,non-rural areas,3281.903
-2008,inhabitants per m² settlement and transport area,non-rural areas,3262.576
-2009,inhabitants per m² settlement and transport area,non-rural areas,3247.815
-2010,inhabitants per m² settlement and transport area,non-rural areas,3240.292
-2011,inhabitants per m² settlement and transport area,non-rural areas,3226.06
-2012,inhabitants per m² settlement and transport area,non-rural areas,3238.135
-2013,inhabitants per m² settlement and transport area,non-rural areas,3249.607
-2014,inhabitants per m² settlement and transport area,non-rural areas,3267.353
-2015,inhabitants per m² settlement and transport area,non-rural areas,3304.669
-2016,inhabitants per m² settlement and transport area,non-rural areas,3329.999
-2017,inhabitants per m² settlement and transport area,non-rural areas,3335.804
-2018,inhabitants per m² settlement and transport area,non-rural areas,3343.507
-2019,inhabitants per m² settlement and transport area,non-rural areas,3346.403
-2020,inhabitants per m² settlement and transport area,non-rural areas,3336.769
-2021,inhabitants per m² settlement and transport area,non-rural areas,3330.908
-2022,inhabitants per m² settlement and transport area,non-rural areas,3373.914
-2000,inhabitants per m² settlement and transport area,rural areas,1401.418
-2001,inhabitants per m² settlement and transport area,rural areas,1387.603
-2002,inhabitants per m² settlement and transport area,rural areas,1372.746
-2003,inhabitants per m² settlement and transport area,rural areas,1356.159
-2004,inhabitants per m² settlement and transport area,rural areas,1339.638
-2005,inhabitants per m² settlement and transport area,rural areas,1323.032
-2006,inhabitants per m² settlement and transport area,rural areas,1304.908
-2007,inhabitants per m² settlement and transport area,rural areas,1287.655
-2008,inhabitants per m² settlement and transport area,rural areas,1268.845
-2009,inhabitants per m² settlement and transport area,rural areas,1253.642
-2010,inhabitants per m² settlement and transport area,rural areas,1240.431
-2011,inhabitants per m² settlement and transport area,rural areas,1230.603
-2012,inhabitants per m² settlement and transport area,rural areas,1222.874
-2013,inhabitants per m² settlement and transport area,rural areas,1216.889
-2014,inhabitants per m² settlement and transport area,rural areas,1212.151
-2015,inhabitants per m² settlement and transport area,rural areas,1220.017
-2016,inhabitants per m² settlement and transport area,rural areas,1216.413
-2017,inhabitants per m² settlement and transport area,rural areas,1212.02
-2018,inhabitants per m² settlement and transport area,rural areas,1204.835
-2019,inhabitants per m² settlement and transport area,rural areas,1201.622
-2020,inhabitants per m² settlement and transport area,rural areas,1196.536
-2021,inhabitants per m² settlement and transport area,rural areas,1192.833
-2022,inhabitants per m² settlement and transport area,rural areas,1203.752
+2000,inhabitants per km² settlement and transport area,,1854.062
+2001,inhabitants per km² settlement and transport area,,1838.803
+2002,inhabitants per km² settlement and transport area,,1821.977
+2003,inhabitants per km² settlement and transport area,,1803.284
+2004,inhabitants per km² settlement and transport area,,1784.352
+2005,inhabitants per km² settlement and transport area,,1766.733
+2006,inhabitants per km² settlement and transport area,,1748.132
+2007,inhabitants per km² settlement and transport area,,1730.352
+2008,inhabitants per km² settlement and transport area,,1710.307
+2009,inhabitants per km² settlement and transport area,,1694.28
+2010,inhabitants per km² settlement and transport area,,1681.729
+2011,inhabitants per km² settlement and transport area,,1668.888
+2012,inhabitants per km² settlement and transport area,,1664.808
+2013,inhabitants per km² settlement and transport area,,1661.983
+2014,inhabitants per km² settlement and transport area,,1660.694
+2015,inhabitants per km² settlement and transport area,,1674.81
+2016,inhabitants per km² settlement and transport area,,1675.431
+2017,inhabitants per km² settlement and transport area,,1672.418
+2018,inhabitants per km² settlement and transport area,,1666.437
+2019,inhabitants per km² settlement and transport area,,1663.907
+2020,inhabitants per km² settlement and transport area,,1656.618
+2021,inhabitants per km² settlement and transport area,,1651.338
+2022,inhabitants per km² settlement and transport area,,1668.389
+2000,inhabitants per km² settlement and transport area,non-rural areas,3398.556
+2001,inhabitants per km² settlement and transport area,non-rural areas,3384.981
+2002,inhabitants per km² settlement and transport area,non-rural areas,3367.915
+2003,inhabitants per km² settlement and transport area,non-rural areas,3348.367
+2004,inhabitants per km² settlement and transport area,non-rural areas,3327.384
+2005,inhabitants per km² settlement and transport area,non-rural areas,3311.494
+2006,inhabitants per km² settlement and transport area,non-rural areas,3296.41
+2007,inhabitants per km² settlement and transport area,non-rural areas,3281.903
+2008,inhabitants per km² settlement and transport area,non-rural areas,3262.576
+2009,inhabitants per km² settlement and transport area,non-rural areas,3247.815
+2010,inhabitants per km² settlement and transport area,non-rural areas,3240.292
+2011,inhabitants per km² settlement and transport area,non-rural areas,3226.06
+2012,inhabitants per km² settlement and transport area,non-rural areas,3238.135
+2013,inhabitants per km² settlement and transport area,non-rural areas,3249.607
+2014,inhabitants per km² settlement and transport area,non-rural areas,3267.353
+2015,inhabitants per km² settlement and transport area,non-rural areas,3304.669
+2016,inhabitants per km² settlement and transport area,non-rural areas,3329.999
+2017,inhabitants per km² settlement and transport area,non-rural areas,3335.804
+2018,inhabitants per km² settlement and transport area,non-rural areas,3343.507
+2019,inhabitants per km² settlement and transport area,non-rural areas,3346.403
+2020,inhabitants per km² settlement and transport area,non-rural areas,3336.769
+2021,inhabitants per km² settlement and transport area,non-rural areas,3330.908
+2022,inhabitants per km² settlement and transport area,non-rural areas,3373.914
+2000,inhabitants per km² settlement and transport area,rural areas,1401.418
+2001,inhabitants per km² settlement and transport area,rural areas,1387.603
+2002,inhabitants per km² settlement and transport area,rural areas,1372.746
+2003,inhabitants per km² settlement and transport area,rural areas,1356.159
+2004,inhabitants per km² settlement and transport area,rural areas,1339.638
+2005,inhabitants per km² settlement and transport area,rural areas,1323.032
+2006,inhabitants per km² settlement and transport area,rural areas,1304.908
+2007,inhabitants per km² settlement and transport area,rural areas,1287.655
+2008,inhabitants per km² settlement and transport area,rural areas,1268.845
+2009,inhabitants per km² settlement and transport area,rural areas,1253.642
+2010,inhabitants per km² settlement and transport area,rural areas,1240.431
+2011,inhabitants per km² settlement and transport area,rural areas,1230.603
+2012,inhabitants per km² settlement and transport area,rural areas,1222.874
+2013,inhabitants per km² settlement and transport area,rural areas,1216.889
+2014,inhabitants per km² settlement and transport area,rural areas,1212.151
+2015,inhabitants per km² settlement and transport area,rural areas,1220.017
+2016,inhabitants per km² settlement and transport area,rural areas,1216.413
+2017,inhabitants per km² settlement and transport area,rural areas,1212.02
+2018,inhabitants per km² settlement and transport area,rural areas,1204.835
+2019,inhabitants per km² settlement and transport area,rural areas,1201.622
+2020,inhabitants per km² settlement and transport area,rural areas,1196.536
+2021,inhabitants per km² settlement and transport area,rural areas,1192.833
+2022,inhabitants per km² settlement and transport area,rural areas,1203.752
