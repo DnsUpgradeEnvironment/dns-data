@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -39,7 +39,7 @@
             "title": "Sex"
           },
           {
-            "name": "xxxzuordnung",
+            "name": "xxxart der prävention",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "XXXZuordnung"
+            "title": "XXXArt der Prävention"
           },
           {
             "name": "Value",

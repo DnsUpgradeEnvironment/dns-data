@@ -573,17 +573,6 @@
             }
           },
           {
-            "name": "calculation method",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "calculated as net expenditure",
-                "calculated in grant equivalents",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -1044,6 +1033,17 @@
             "constraints": {
               "enum": [
                 "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
                 ""
               ]
             }
@@ -1804,7 +1804,7 @@
           }
         ]
       },
-      "title": "Anteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung"
+      "title": "Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung"
     },
     {
       "path": "3-1-a/data.csv",
@@ -1813,7 +1813,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -1842,7 +1842,7 @@
             }
           },
           {
-            "name": "xxxzuordnung",
+            "name": "xxxart der prävention",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1885,7 +1885,7 @@
             }
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1932,7 +1932,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "moving five-year average shown for each middle year",
+                "moving five-year average shown for the last year",
                 "calculated annual values",
                 ""
               ]

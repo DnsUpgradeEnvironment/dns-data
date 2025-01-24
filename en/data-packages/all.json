@@ -625,18 +625,6 @@
             "title": "Units"
           },
           {
-            "name": "calculation method",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Calculated as net expenditure",
-                "Calculated in grant equivalents",
-                ""
-              ]
-            },
-            "title": "Calculation method"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -1143,6 +1131,18 @@
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1969,7 +1969,7 @@
           }
         ]
       },
-      "title": "Anteil der 17 und 18-Jährigen mit (angestrebter) Studienberechtigung"
+      "title": "Anteil der 17- und 18-Jährigen mit (angestrebter) Studienberechtigung"
     },
     {
       "path": "3-1-a/data.csv",
@@ -1978,7 +1978,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-9",
       "schema": {
         "fields": [
           {
@@ -2010,7 +2010,7 @@
             "title": "Sex"
           },
           {
-            "name": "xxxzuordnung",
+            "name": "xxxart der prävention",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2019,7 +2019,7 @@
                 ""
               ]
             },
-            "title": "XXXZuordnung"
+            "title": "XXXArt der Prävention"
           },
           {
             "name": "Value",
@@ -2057,7 +2057,7 @@
             "title": "Units"
           },
           {
-            "name": "time series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2066,7 +2066,7 @@
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -2108,7 +2108,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Moving five-year average shown for each middle year",
+                "Moving five-year average shown for the last year",
                 "Calculated annual values",
                 ""
               ]

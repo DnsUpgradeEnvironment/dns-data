@@ -1,5 +1,11 @@
-Year,Units,Value
-2021,Anzahl,999.0
-2022,Anzahl,999.0
-2023,Anzahl,999.0
-2030,Anzahl,
+Year,Units,Geschlecht,Value
+2024,Anzahl,,182.0
+2023,Anzahl,,
+2025,Anzahl,,
+2030,Anzahl,,
+2024,Anzahl,Weiblich,33.0
+2023,Anzahl,Weiblich,
+2025,Anzahl,Weiblich,
+2024,Anzahl,Männlich,149.0
+2023,Anzahl,Männlich,
+2025,Anzahl,Männlich,

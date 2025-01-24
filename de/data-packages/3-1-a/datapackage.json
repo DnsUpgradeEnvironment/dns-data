@@ -39,7 +39,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "xxxzuordnung",
+            "name": "xxxart der prävention",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Zuordnung"
+            "title": "Art der Prävention"
           },
           {
             "name": "Value",
