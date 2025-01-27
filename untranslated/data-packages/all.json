@@ -1794,6 +1794,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "percentage points",
                 "percentage",
                 ""
               ]
@@ -1804,10 +1805,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage'",
                 "xxxkeine risikolage",
                 "xxxmindestens eine risikolage",
-                "xxxdifferenz zwischen 'keine risikolage' und 'mind. eine risikolage'",
+                "total",
                 ""
               ]
             }

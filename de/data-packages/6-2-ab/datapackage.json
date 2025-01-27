@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menschen, die einen neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung erhalten haben",
+                "Menschen mit einem neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung",
                 "a) Menschen mit einer neuen oder verbesserten Trinkwasserversorgung",
                 "b) Menschen mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung",
                 ""

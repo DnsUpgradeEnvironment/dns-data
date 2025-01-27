@@ -23,6 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Prozentpunkte",
                 "Prozent",
                 ""
               ]
@@ -34,10 +35,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
+                "Differenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'",
                 "Keine Risikolage",
                 "Mindestens eine Risikolage",
-                "Differenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'",
+                "Insgesamt",
                 ""
               ]
             },
