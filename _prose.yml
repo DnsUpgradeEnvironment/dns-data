@@ -101,11 +101,6 @@ prose:
             element: text
             label: "Indicator definition"
             scope: national
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
-            scope: national
       - name: "political_target"
         field:
             element: text
@@ -126,37 +121,37 @@ prose:
           element: text
           lable: "data state"
           scope: national
-      - name: "national_data_updated_date"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-            translation_key: metadata_fields.data_last_update
+      # - name: "national_data_updated_date"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       scope: national
+      #       translation_key: metadata_fields.data_last_update
       # - name: "national_metadata_updated_date"
       #   field:
       #       element: hidden
       #       label: "Metadata last updated"
       #       scope: national
-      - name: "national_data_update_url"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
+      # - name: "national_data_update_url"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       scope: national
+      # - name: "national_data_update_url_text"
+      #   field:
+      #       element: hidden
+      #       label: "Data last updated"
+      #       scope: national
+      # - name: "national_metadata_update_url"
+      #   field:
+      #       element: hidden
+      #       label: "Metadata last updated"
+      #       scope: national
+      # - name: "national_metadata_update_url_text"
+      #   field:
+      #       element: hidden
+      #       label: "Metadata last updated"
+      #       scope: national
 
       ######### Weather #########
       ## Weather 1
