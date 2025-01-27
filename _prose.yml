@@ -106,15 +106,15 @@ prose:
             element: text
             label: "Geographical coverage"
             scope: national
-      - name: "dns_indicator_intention"
-        field:
-            element: text
-            label: "Intention"
-            scope: national
       - name: "political_target"
         field:
             element: text
             label: "Politisches Ziel"
+            scope: national
+      - name: "type_target"
+        field:
+            element: text
+            label: "Art des Ziels"
             scope: national
       - name: "target_description"
         field:
