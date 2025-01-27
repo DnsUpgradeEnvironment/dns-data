@@ -111,6 +111,11 @@ prose:
             element: text
             label: "Intention"
             scope: national
+      - name: "weather_description"
+        field:
+            element: text
+            label: "Beschreibung des Ziels"
+            scope: national
       - name: "data_state"
         field:
           element: text
