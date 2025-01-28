@@ -45,8 +45,8 @@
               "enum": [
                 "Effectiveness = Substantial or high",
                 "Effectiveness = Low or moderate",
-                "Tecnical compliance = Largely compliant or compliant",
-                "Tecnical compliance = Non-compliant or partially compliant",
+                "tecnical compliance = largely compliant or compliant",
+                "tecnical compliance = non-compliant or partially compliant",
                 ""
               ]
             },
