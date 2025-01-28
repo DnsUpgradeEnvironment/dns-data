@@ -4290,18 +4290,8 @@ prose:
             value: "Link to source"
             scope: source_7
 ###
-      # - name: "weather_indicator_1_target_1_item_a"
-      #   field:
-      #       element: text
-      #       label: "Status year A"
-      #       scope: national
-      # - name: "weather_indicator_2_target_1_item_a"
-      #   field:
-      #       element: text
-      #       label: "Status year A"
-      #       scope: national
-      # - name: "weather_indicator_3_target_1_item_a"
-      #   field:
-      #       element: text
-      #       label: "Status year A"
-      #       scope: national
+      - name: "rating"
+        field:
+            element: text
+            label: "Bewertung"
+            scope: national
