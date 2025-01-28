@@ -297,8 +297,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "On supervisory boards of listed and fully co-determined companies",
-                "In management positions in the federal civil service",
+                "b) On supervisory boards of listed and fully co-determined companies",
+                "c) In management positions in the federal civil service",
                 ""
               ]
             },
@@ -344,8 +344,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "All-day care provision for 0 to 2-year-old children",
-                "All-day care provision for 3 to 5-year-old children",
+                "a) 0 to 2-year-olds",
+                "b) 3 to 5-year-olds",
                 ""
               ]
             },
@@ -451,8 +451,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "People gaining first-time or upgraded access to drinking water or sanitation",
-                "People gaining first-time or upgraded access to drinking water",
+                "XXXPeople gaining first-time or upgraded access to drinking water or sanitation",
+                "XXXPeople gaining first-time or upgraded access to drinking water",
                 "XXXNumber of people gaining first-time or improved access to sanitation",
                 ""
               ]
@@ -892,8 +892,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Final energy productivity",
-                "Primary energy consumption",
+                "a) Final energy productivity",
+                "b) Primary energy consumption",
                 ""
               ]
             },
@@ -1092,7 +1092,7 @@
             "constraints": {
               "enum": [
                 "Financial Action Task Force (FATF) rating effectiveness",
-                "Financial Action Task Force (FATF) rating tecnical compliance",
+                "Financial Action Task Force (FATF) rating technical compliance",
                 ""
               ]
             },
@@ -1388,8 +1388,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Corruption Perception Index in Germany",
-                "Number of partner countries for German development cooperation with improved CPI scores compared with 2012",
+                "XXXCorruption Perception Index in Germany",
+                "XXXNumber of partner countries for German development cooperation with improved CPI scores compared with 2012",
                 ""
               ]
             },
@@ -1435,8 +1435,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Material deprivation",
-                "Severe material deprivation",
+                "a) Material and social deprivation",
+                "b) Severe material and social deprivation",
                 ""
               ]
             },
@@ -1800,7 +1800,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Germany’s contribution to global pandemic prevention and responsein genaral",
+                "Germany’s contribution to global pandemic prevention and response",
                 "Separate amount devoted to curbing the COVID-19 pandemic",
                 ""
               ]
@@ -1847,8 +1847,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Employment rate, total (20 to 64-year-olds)",
-                "Employment rate, older people (55 to 64-year-olds)",
+                "a) 20 to 64-year-olds",
+                "b) 55 to 64-year-olds",
                 ""
               ]
             },
@@ -1906,8 +1906,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adolescents",
-                "Adults",
+                "c) Adolescents",
+                "d) Adults",
                 ""
               ]
             },
@@ -2077,8 +2077,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXAnteil der Kinder, deren Väter Elterngeld bezogen haben",
-                "XXXAnteil der männlichen Bezieher an allen genommenen Elterngeldmonaten",
+                "XXXKinder, deren Väter Elterngeld bezogen haben",
+                "XXXMännliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
@@ -2481,9 +2481,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct and indirect use of raw materials",
-                "Direct and indirect energy consumption",
-                "Direct and indirect CO₂ emissions",
+                "ba) Direct and indirect use of raw materials",
+                "bb) Direct and indirect energy consumption",
+                "bc) Direct and indirect CO₂ emissions",
                 ""
               ]
             },
@@ -2770,7 +2770,7 @@
             "constraints": {
               "enum": [
                 "Germany",
-                "EU",
+                "European Union",
                 "Eurozone",
                 ""
               ]
@@ -3068,8 +3068,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Government deficit",
-                "Structural deficit",
+                "a) Government deficit",
+                "b) Structural deficit",
                 "Gross domestic product (price-adjusted)",
                 ""
               ]

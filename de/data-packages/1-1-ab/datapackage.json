@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Materielle und soziale Deprivation",
-                "Erhebliche materielle und soziale Deprivation",
+                "a) Materielle und soziale Deprivation",
+                "b) Erhebliche materielle und soziale Deprivation",
                 ""
               ]
             },

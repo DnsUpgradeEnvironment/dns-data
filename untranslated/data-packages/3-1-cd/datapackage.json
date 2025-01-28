@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "adolescents",
-                "adults",
+                "c) adolescents",
+                "d) adults",
                 ""
               ]
             }

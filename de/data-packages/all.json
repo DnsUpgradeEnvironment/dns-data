@@ -82,7 +82,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EMAS-Organisationsstandorte",
+                "EMAS-Standorte",
                 "Beschäftigte in EMAS-Organisationen",
                 "EMAS-Organisationen",
                 ""
@@ -297,8 +297,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen",
-                "Im öffentlichen Dienst des Bundes",
+                "b) In Aufsichtsräten der börsennotierten und paritätisch mitbestimmten Unternehmen",
+                "c) Im öffentlichen Dienst des Bundes",
                 ""
               ]
             },
@@ -344,8 +344,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige",
-                "Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige",
+                "a) 0- bis 2-Jährige",
+                "b) 3- bis 5-Jährige",
                 ""
               ]
             },
@@ -357,7 +357,7 @@
             "constraints": {
               "enum": [
                 "Kindertageseinrichtungen",
-                "Tagespflege",
+                "Kindertagespflege",
                 ""
               ]
             },
@@ -451,9 +451,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menschen mit einem neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung",
-                "a) Menschen mit einer neuen oder verbesserten Trinkwasserversorgung",
-                "b) Menschen mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung",
+                "Mit einem neuen oder hochwertigeren Zugang zur Trinkwasserversorgung oder Anschluss zur Sanitärversorgung",
+                "a) Mit einer neuen oder verbesserten Trinkwasserversorgung",
+                "b) Mit einer neuen oder verbesserten Basissanitärversorgung oder Abwasserbehandlung",
                 ""
               ]
             },
@@ -600,7 +600,7 @@
                 ""
               ]
             },
-            "title": "Art der Tarifverträge"
+            "title": "Art des Tarifvertrags"
           },
           {
             "name": "Value",
@@ -892,8 +892,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Endenergieproduktivität",
-                "Primärenergieverbrauch",
+                "a) Endenergieproduktivität",
+                "b) Primärenergieverbrauch",
                 ""
               ]
             },
@@ -1092,7 +1092,7 @@
             "constraints": {
               "enum": [
                 "Financial Action Task Force (FATF) rating effectiveness",
-                "<u>Infolinie:</u> Financial Action Task Force (FATF) rating tecnical compliance",
+                "<u>Infolinie:</u> Financial Action Task Force (FATF) rating technical compliance",
                 ""
               ]
             },
@@ -1388,8 +1388,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Corruption Perception Index in Deutschland",
-                "Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat",
+                "a) Corruption Perception Index in Deutschland",
+                "b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit",
                 ""
               ]
             },
@@ -1435,8 +1435,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Materielle und soziale Deprivation",
-                "Erhebliche materielle und soziale Deprivation",
+                "a) Materielle und soziale Deprivation",
+                "b) Erhebliche materielle und soziale Deprivation",
                 ""
               ]
             },
@@ -1789,7 +1789,7 @@
             "constraints": {
               "enum": [
                 "Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
-                "<u>Infolinie</u>: Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
+                "Pandemieprävention und -reaktion",
                 ""
               ]
             },
@@ -1800,7 +1800,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pandemieprävention und -reaktion allgemein",
+                "Pandemieprävention und -reaktion",
                 "Eindämmung der COVID-19-Pandemie",
                 ""
               ]
@@ -1847,8 +1847,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erwerbstätigenquote insgesamt (20- bis 64-Jährige)",
-                "Erwerbstätigenquote Ältere (55- bis 64-Jährige)",
+                "a) 20- bis 64-Jährige",
+                "b) 55- bis 64-Jährige",
                 ""
               ]
             },
@@ -1906,8 +1906,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Jugendliche",
-                "Erwachsene",
+                "c) Jugendliche",
+                "d) Erwachsene",
                 ""
               ]
             },
@@ -2035,7 +2035,7 @@
                 ""
               ]
             },
-            "title": "Art der Prävention"
+            "title": "Art der Maßnahme"
           },
           {
             "name": "Value",
@@ -2077,8 +2077,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Kinder, deren Väter Elterngeld bezogen haben",
-                "<u>Infolinie</u>: Anteil der männlichen Bezieher an allen genommenen Elterngeldmonaten",
+                "Kinder, deren Väter Elterngeld bezogen haben",
+                "<u>Infolinie</u>: Männliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
@@ -2124,7 +2124,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gleitender Fünfjahresdurchschnitt mit Bezug auf das Endjahr",
+                "Gleitender Fünfjahresdurchschnitt bezogen auf das Endjahr",
                 "Berechnete jährliche Werte",
                 ""
               ]
@@ -2375,7 +2375,7 @@
               "enum": [
                 "Zweitausbildung, Ausbildung nach Abitur",
                 "Höherqualifizierende Berufsausbildung",
-                "Hochschulabschlüsse",
+                "Hochschulabschluss",
                 "Erstausbildung",
                 ""
               ]
@@ -2481,9 +2481,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direkter und indirekter Rohstoffeinsatz",
-                "Direkter und indirekter Energieverbrauch",
-                "Direkte und indirekte CO₂-Emissionen",
+                "ba) Direkter und indirekter Rohstoffeinsatz",
+                "bb) Direkter und indirekter Energieverbrauch",
+                "bc) Direkte und indirekte CO₂-Emissionen",
                 ""
               ]
             },
@@ -2770,7 +2770,7 @@
             "constraints": {
               "enum": [
                 "Deutschland",
-                "EU",
+                "Europäische Union",
                 "Eurozone",
                 ""
               ]
@@ -2950,9 +2950,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil nachhaltiger Vergabeverfahren",
+                "a) Nachhaltige Vergabeverfahren",
                 "CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge der öffentlichen Hand",
-                "Nachhaltige Textilbeschaffung",
+                "c) Nachhaltige Textilbeschaffung",
                 ""
               ]
             },
@@ -3068,8 +3068,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Staatsdefizit",
-                "Strukturelles Defizit",
+                "a) Staatsdefizit",
+                "b) Strukturelles Defizit",
                 "Bruttoinlandsprodukt (preisbereinigt)",
                 ""
               ]

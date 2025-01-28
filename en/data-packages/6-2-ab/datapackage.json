@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "People gaining first-time or upgraded access to drinking water or sanitation",
-                "People gaining first-time or upgraded access to drinking water",
+                "XXXPeople gaining first-time or upgraded access to drinking water or sanitation",
+                "XXXPeople gaining first-time or upgraded access to drinking water",
                 "XXXNumber of people gaining first-time or improved access to sanitation",
                 ""
               ]

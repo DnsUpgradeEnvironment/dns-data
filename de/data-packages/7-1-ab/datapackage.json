@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Endenergieproduktivität",
-                "Primärenergieverbrauch",
+                "a) Endenergieproduktivität",
+                "b) Primärenergieverbrauch",
                 ""
               ]
             },

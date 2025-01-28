@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil nachhaltiger Vergabeverfahren",
+                "a) Nachhaltige Vergabeverfahren",
                 "CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge der öffentlichen Hand",
-                "Nachhaltige Textilbeschaffung",
+                "c) Nachhaltige Textilbeschaffung",
                 ""
               ]
             },

@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "Financial Action Task Force (FATF) rating effectiveness",
-                "Financial Action Task Force (FATF) rating tecnical compliance",
+                "Financial Action Task Force (FATF) rating technical compliance",
                 ""
               ]
             },

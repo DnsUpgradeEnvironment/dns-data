@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EMAS-Organisationsstandorte",
+                "EMAS-Standorte",
                 "Beschäftigte in EMAS-Organisationen",
                 "EMAS-Organisationen",
                 ""

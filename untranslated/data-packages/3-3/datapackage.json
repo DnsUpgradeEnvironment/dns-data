@@ -41,7 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany’s contribution to global pandemic prevention and responsein genaral",
+                "germany’s contribution to global pandemic prevention and response",
                 "separate amount devoted to curbing the covid-19 pandemic",
                 ""
               ]

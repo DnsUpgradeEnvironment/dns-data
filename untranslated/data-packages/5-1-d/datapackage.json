@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxanteil der kinder, deren väter elterngeld bezogen haben",
-                "xxxanteil der männlichen bezieher an allen genommenen elterngeldmonaten",
+                "xxxkinder, deren väter elterngeld bezogen haben",
+                "xxxmännliche bezieher an allen genommenen elterngeldmonaten",
                 ""
               ]
             }

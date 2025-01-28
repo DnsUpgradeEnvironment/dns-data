@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Final energy productivity",
-                "Primary energy consumption",
+                "a) Final energy productivity",
+                "b) Primary energy consumption",
                 ""
               ]
             },

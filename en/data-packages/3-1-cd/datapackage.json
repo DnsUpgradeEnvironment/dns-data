@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Adolescents",
-                "Adults",
+                "c) Adolescents",
+                "d) Adults",
                 ""
               ]
             },

@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ganztagsbetreuung für Kinder <br>0- bis 2-Jährige",
-                "Ganztagsbetreuung für Kinder <br>3- bis 5-Jährige",
+                "a) 0- bis 2-Jährige",
+                "b) 3- bis 5-Jährige",
                 ""
               ]
             },
@@ -44,7 +44,7 @@
             "constraints": {
               "enum": [
                 "Kindertageseinrichtungen",
-                "Tagespflege",
+                "Kindertagespflege",
                 ""
               ]
             },
