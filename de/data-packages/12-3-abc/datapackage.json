@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "a) Nachhaltige Vergabeverfahren",
-                "CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge der öffentlichen Hand",
+                "b) CO₂-Emissionen je Fahrleistungen der Kraftfahrzeuge",
                 "c) Nachhaltige Textilbeschaffung",
                 ""
               ]

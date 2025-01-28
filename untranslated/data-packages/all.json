@@ -2704,9 +2704,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "anteil nachhaltiger vergabeverfahren",
-                "co2 emissions of commercially available vehicles in the public sector",
-                "xxxnachhaltige textilbeschaffung",
+                "xxxa) anteil nachhaltiger vergabeverfahren",
+                "b) co2 emissions of commercially available vehicles in the public sector",
+                "xxxc) nachhaltige textilbeschaffung",
                 ""
               ]
             }
