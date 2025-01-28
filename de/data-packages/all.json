@@ -2434,8 +2434,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stickstoffeintrag über die Zuflüsse in die Ostsee",
-                "Stickstoffeintrag über die Zuflüsse in die Nordsee",
+                "aa) Ostsee",
+                "ab) Nordsee",
                 ""
               ]
             },

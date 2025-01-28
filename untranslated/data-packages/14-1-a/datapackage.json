@@ -29,8 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "nitrogen input via the inflows into the baltic sea",
-                "nitrogen input via the inflows into the north sea",
+                "aa) baltic sea",
+                "ab) north sea",
                 ""
               ]
             }
