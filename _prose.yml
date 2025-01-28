@@ -121,6 +121,11 @@ prose:
             element: text
             label: "Beschreibung des Ziels"
             scope: national
+      - name: "rating"
+        field:
+            element: text
+            label: "Bewertung"
+            scope: national
       - name: "data_state"
         field:
           element: text
@@ -4290,8 +4295,3 @@ prose:
             value: "Link to source"
             scope: source_7
 ###
-      - name: "rating"
-        field:
-            element: text
-            label: "Bewertung"
-            scope: national
