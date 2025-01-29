@@ -49,8 +49,8 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        REPOSITORY_NAME: dnsupgradepruduction/dnsupgradeproductiondata.github.io
+        REPOSITORY_NAME: dnsupgradeproduction/dnsupgradeproductiondata
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
+        BRANCH: master
         FOLDER: _site
         CLEAN: true
