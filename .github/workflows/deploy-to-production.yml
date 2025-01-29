@@ -51,6 +51,6 @@ jobs:
       with:
         REPOSITORY_NAME: dnsupgradeproduction/dnsupgradeproductiondata
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: master
+        BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
