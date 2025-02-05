@@ -101,6 +101,11 @@ prose:
             element: text
             label: "Indicator definition"
             scope: national
+      - name: "dns_indicator_definition_new"
+        field:
+            element: text
+            label: "Indicator definition new"
+            scope: national
       - name: "dns_political_intention"
         field:
             element: text
