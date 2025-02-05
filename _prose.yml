@@ -106,15 +106,20 @@ prose:
             element: text
             label: "Indicator definition new"
             scope: national
+      - name: "dns_indicator_intention"
+        field:
+            element: text
+            label: "Intention"
+            scope: national
       - name: "dns_political_intention"
         field:
             element: text
-            label: "Politische Intention"
+            label: "Intention"
             scope: national
       - name: "political_target"
         field:
             element: text
-            label: "Politisches Ziel"
+            label: "Ziel"
             scope: national
       - name: "type_target"
         field:
