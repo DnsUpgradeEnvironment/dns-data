@@ -779,31 +779,18 @@
             "constraints": {
               "enum": [
                 "Effectiveness",
-                "<u>Infolinie:</u> Technical compliance",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "level of compliance",
+            "name": "xxxlevel of compliance",
             "type": "string",
             "constraints": {
               "enum": [
                 "Solide oder hoch",
                 "Gering oder moderat",
-                ""
-              ]
-            },
-            "title": "Grad der Effektivität"
-          },
-          {
-            "name": "rating",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Größtenteils umgesetzt oder umgesetzt",
-                "Nicht umgesetzt oder teilweise umgesetzt",
                 ""
               ]
             },

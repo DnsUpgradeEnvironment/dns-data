@@ -30,29 +30,17 @@
             "constraints": {
               "enum": [
                 "effectiveness",
-                "xxxtechnical compliance",
                 ""
               ]
             }
           },
           {
-            "name": "level of compliance",
+            "name": "xxxlevel of compliance",
             "type": "string",
             "constraints": {
               "enum": [
                 "effectiveness = substantial or high",
                 "effectiveness = low or moderate",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "rating",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "technical compliance = largely compliant or compliant",
-                "technical compliance = non-compliant or partially compliant",
                 ""
               ]
             }

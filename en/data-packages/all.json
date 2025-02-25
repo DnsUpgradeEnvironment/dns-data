@@ -779,14 +779,13 @@
             "constraints": {
               "enum": [
                 "Effectiveness",
-                "XXXTechnical compliance",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "level of compliance",
+            "name": "xxxlevel of compliance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -795,19 +794,7 @@
                 ""
               ]
             },
-            "title": "Level of compliance"
-          },
-          {
-            "name": "rating",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Technical compliance = Largely compliant or compliant",
-                "Technical compliance = Non-compliant or partially compliant",
-                ""
-              ]
-            },
-            "title": "Rating"
+            "title": "xxxLevel of compliance"
           },
           {
             "name": "Value",
