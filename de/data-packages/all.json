@@ -786,18 +786,28 @@
             "title": "Series"
           },
           {
+            "name": "level of compliance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Solide oder hoch",
+                "Gering oder moderat",
+                ""
+              ]
+            },
+            "title": "Grad der Effektivität"
+          },
+          {
             "name": "rating",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weitgehend oder hoch",
-                "Niedrig oder moderat",
-                "Weitgehend konform oder konform mit den Vorschriften",
-                "Nicht konform oder teilweise konform mit den Vorschriften",
+                "Größtenteils umgesetzt oder umgesetzt",
+                "Nicht umgesetzt oder teilweise umgesetzt",
                 ""
               ]
             },
-            "title": "Bewertung"
+            "title": "Grad der Umsetzung"
           },
           {
             "name": "Value",

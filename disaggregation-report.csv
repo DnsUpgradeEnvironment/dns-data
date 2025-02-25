@@ -3,8 +3,9 @@ age group,2,15
 air pollutant,1,5
 area,2,3
 degree of urbanisation,1,2
+level of compliance,1,2
 qualification,1,4
-rating,1,4
+rating,1,2
 sea,1,2
 sex,12,2
 sub index,1,5

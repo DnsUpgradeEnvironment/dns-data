@@ -39,12 +39,22 @@
             "title": "Series"
           },
           {
-            "name": "rating",
+            "name": "level of compliance",
             "type": "string",
             "constraints": {
               "enum": [
                 "Effectiveness = Substantial or high",
                 "Effectiveness = Low or moderate",
+                ""
+              ]
+            },
+            "title": "Level of compliance"
+          },
+          {
+            "name": "rating",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Technical compliance = Largely compliant or compliant",
                 "Technical compliance = Non-compliant or partially compliant",
                 ""
