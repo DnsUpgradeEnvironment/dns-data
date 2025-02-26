@@ -30,6 +30,7 @@
             "constraints": {
               "enum": [
                 "effectiveness",
+                "xxxtechnical compliance",
                 ""
               ]
             }
@@ -41,6 +42,8 @@
               "enum": [
                 "effectiveness = substantial or high",
                 "effectiveness = low or moderate",
+                "technical compliance = largely compliant or compliant",
+                "technical compliance = non-compliant or partially compliant",
                 ""
               ]
             }
