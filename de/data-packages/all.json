@@ -605,8 +605,8 @@
                 "Gesamtrohstoffproduktivität",
                 "Rohstoffeinsatz für Konsum, Investitionen und Exporte",
                 "Wert von Konsum, Investitionen und Exporten (preisbereinigt)",
-                "xxxrohstoffeinsatz für konsum und investitionen (rmc)",
-                "xxxrohstoffeinsatz für exporte (rmc)",
+                "Rohstoffeinsatz für Konsum und Investitionen (RMC)",
+                "Rohstoffeinsatz für Exporte (RMC)",
                 ""
               ]
             },
@@ -1041,7 +1041,7 @@
             "constraints": {
               "enum": [
                 "Unbereinigter Gender Pay Gap",
-                "<u>Infolinie</u>: Bereinigter Gender Pay Gap",
+                "Bereinigter Gender Pay Gap",
                 ""
               ]
             },
@@ -1717,7 +1717,7 @@
             "constraints": {
               "enum": [
                 "Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
-                "xxxbeitrag deutschlands zur globalen pandemieprävention und -reaktion",
+                "Beitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
                 ""
               ]
             },
@@ -2097,7 +2097,7 @@
             "constraints": {
               "enum": [
                 "Effectiveness",
-                "<u>Infolinie:</u> Technical Compliance",
+                "Technical Compliance",
                 ""
               ]
             },
@@ -2998,7 +2998,7 @@
             "constraints": {
               "enum": [
                 "Kinder, deren Väter Elterngeld bezogen haben",
-                "<u>Infolinie</u>: Männliche Bezieher an allen genommenen Elterngeldmonaten",
+                "Männliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
