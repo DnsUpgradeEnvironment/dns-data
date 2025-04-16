@@ -1135,7 +1135,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Hektar",
+                "Millionen Hektar",
                 ""
               ]
             },
