@@ -628,7 +628,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxnachhaltigkeitszertifizierte kultur- und medieneinrichtungen",
+                "xxx<u>zeitreihe des indikators:</u>nachhaltigkeitszertifizierte kultur- und medieneinrichtungen",
                 "xxxproduktionen audiovisueller medien, bei denen ökologische standards eingehalten wurden",
                 ""
               ]
@@ -2246,7 +2246,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxkinder, deren väter elterngeld bezogen haben",
+                "xxx<u>zeitreihe des indikators:</u> kinder, deren väter elterngeld bezogen haben",
                 "xxxmännliche bezieher an allen genommenen elterngeldmonaten",
                 ""
               ]
