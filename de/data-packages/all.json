@@ -686,7 +686,7 @@
             "constraints": {
               "enum": [
                 "Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen",
-                "Produktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden",
+                "<u>Zusätzliche Zeitreihe:</u> Produktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden",
                 ""
               ]
             },
@@ -1114,8 +1114,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness",
-                "Technical Compliance",
+                "<u>Zeitreihe des Indikators:</u> Effectiveness",
+                "<u>Zusätzliche Zeitreihe:</u> Technical Compliance",
                 ""
               ]
             },
@@ -1376,8 +1376,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Daten des Statistischen Bundesamtes",
-                "Daten des BMEL",
+                "<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes",
+                "<u>Zusätzliche Zeitreihe:</u> Daten des BMEL",
                 ""
               ]
             },
@@ -1459,9 +1459,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EMAS-Standorte",
-                "Beschäftigte in EMAS-Organisationen",
-                "EMAS-Organisationen",
+                "<u>Zeitreihe des Indikators:</u> EMAS-Standorte",
+                "<u>Zusätzliche Zeitreihe:</u> Beschäftigte in EMAS-Organisationen",
+                "<u>Zusätzliche Zeitreihe:</u> EMAS-Organisationen",
                 ""
               ]
             },
@@ -2452,7 +2452,7 @@
             "constraints": {
               "enum": [
                 "Kinder, deren Väter Elterngeld bezogen haben",
-                "Männliche Bezieher an allen genommenen Elterngeldmonaten",
+                "<u>Zusätzliche Zeitreihe:</u> Männliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
@@ -2880,8 +2880,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unbereinigter Gender Pay Gap",
-                "Bereinigter Gender Pay Gap",
+                "<u>Zeitreihe des Indikators:</u> Unbereinigter Gender Pay Gap",
+                "<u>Zusätzliche Zeitreihe:</u> Bereinigter Gender Pay Gap",
                 ""
               ]
             },

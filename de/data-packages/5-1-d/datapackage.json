@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "Kinder, deren Väter Elterngeld bezogen haben",
-                "Männliche Bezieher an allen genommenen Elterngeldmonaten",
+                "<u>Zusätzliche Zeitreihe:</u> Männliche Bezieher an allen genommenen Elterngeldmonaten",
                 ""
               ]
             },
