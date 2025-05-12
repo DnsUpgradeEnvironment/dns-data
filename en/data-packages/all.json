@@ -196,7 +196,7 @@
             "title": "Units"
           },
           {
-            "name": "xxxzuordnung",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -205,7 +205,7 @@
                 ""
               ]
             },
-            "title": "XXXZuordnung"
+            "title": "Time series"
           },
           {
             "name": "Value",
