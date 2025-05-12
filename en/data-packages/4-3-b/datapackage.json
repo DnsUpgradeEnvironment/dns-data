@@ -31,11 +31,22 @@
             "title": "Units"
           },
           {
+            "name": "time series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "XXXDifferenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'",
+                "XXXNach Anzahl der Risikolagen",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "xxxrisikolage",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXDifferenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'",
                 "XXXKeine Risikolage",
                 "XXXMindestens eine Risikolage",
                 "Total",
