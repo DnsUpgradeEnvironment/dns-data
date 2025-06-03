@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Forest sub-index",
                 "Settlements sub-index",
                 "Farmland sub-index",

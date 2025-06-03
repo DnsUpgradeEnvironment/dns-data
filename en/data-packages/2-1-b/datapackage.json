@@ -32,7 +32,7 @@
             "constraints": {
               "enum": [
                 "Data from the Federal Statistical Office",
-                "XXXData from the Federal Ministry of Food and Agriculture",
+                "Data from the Federal Ministry of Food and Agriculture",
                 ""
               ]
             },

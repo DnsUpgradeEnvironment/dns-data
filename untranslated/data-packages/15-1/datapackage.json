@@ -29,7 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
                 "forest sub-index",
                 "settlements sub-index",
                 "farmland sub-index",

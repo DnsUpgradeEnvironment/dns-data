@@ -1,4 +1,4 @@
-Year,Units,Time series,Type of area,Value
+Year,Units,Series,Type of area,Value
 1996,Hectre per day,Moving four-year average,,120.0
 1997,Hectre per day,Moving four-year average,,121.0
 1998,Hectre per day,Moving four-year average,,124.0
@@ -54,33 +54,6 @@ Year,Units,Time series,Type of area,Value
 2020,Hectre per day,Moving four-year average,Transport area,8.0
 2021,Hectre per day,Moving four-year average,Transport area,8.0
 2022,Hectre per day,Moving four-year average,Transport area,4.0
-1996,Hectre per day,Moving four-year average,"Recreation area, cemetery",9.0
-1997,Hectre per day,Moving four-year average,"Recreation area, cemetery",20.0
-1998,Hectre per day,Moving four-year average,"Recreation area, cemetery",21.0
-1999,Hectre per day,Moving four-year average,"Recreation area, cemetery",21.0
-2000,Hectre per day,Moving four-year average,"Recreation area, cemetery",20.0
-2001,Hectre per day,Moving four-year average,"Recreation area, cemetery",23.0
-2002,Hectre per day,Moving four-year average,"Recreation area, cemetery",23.0
-2003,Hectre per day,Moving four-year average,"Recreation area, cemetery",26.0
-2004,Hectre per day,Moving four-year average,"Recreation area, cemetery",32.0
-2005,Hectre per day,Moving four-year average,"Recreation area, cemetery",40.0
-2006,Hectre per day,Moving four-year average,"Recreation area, cemetery",47.0
-2007,Hectre per day,Moving four-year average,"Recreation area, cemetery",47.0
-2008,Hectre per day,Moving four-year average,"Recreation area, cemetery",45.0
-2009,Hectre per day,Moving four-year average,"Recreation area, cemetery",39.0
-2010,Hectre per day,Moving four-year average,"Recreation area, cemetery",32.0
-2011,Hectre per day,Moving four-year average,"Recreation area, cemetery",30.0
-2012,Hectre per day,Moving four-year average,"Recreation area, cemetery",25.0
-2013,Hectre per day,Moving four-year average,"Recreation area, cemetery",23.0
-2014,Hectre per day,Moving four-year average,"Recreation area, cemetery",22.0
-2015,Hectre per day,Moving four-year average,"Recreation area, cemetery",18.0
-2016,Hectre per day,Moving four-year average,"Recreation area, cemetery",
-2017,Hectre per day,Moving four-year average,"Recreation area, cemetery",
-2018,Hectre per day,Moving four-year average,"Recreation area, cemetery",
-2019,Hectre per day,Moving four-year average,"Recreation area, cemetery",
-2020,Hectre per day,Moving four-year average,"Recreation area, cemetery",12.0
-2021,Hectre per day,Moving four-year average,"Recreation area, cemetery",11.0
-2022,Hectre per day,Moving four-year average,"Recreation area, cemetery",11.0
 1996,Hectre per day,Moving four-year average,Settlement area (built on),87.0
 1997,Hectre per day,Moving four-year average,Settlement area (built on),83.0
 1998,Hectre per day,Moving four-year average,Settlement area (built on),87.0
@@ -108,6 +81,33 @@ Year,Units,Time series,Type of area,Value
 2020,Hectre per day,Moving four-year average,Settlement area (built on),34.0
 2021,Hectre per day,Moving four-year average,Settlement area (built on),36.0
 2022,Hectre per day,Moving four-year average,Settlement area (built on),37.0
+1996,Hectre per day,Moving four-year average,"Recreation area, cemetery",9.0
+1997,Hectre per day,Moving four-year average,"Recreation area, cemetery",20.0
+1998,Hectre per day,Moving four-year average,"Recreation area, cemetery",21.0
+1999,Hectre per day,Moving four-year average,"Recreation area, cemetery",21.0
+2000,Hectre per day,Moving four-year average,"Recreation area, cemetery",20.0
+2001,Hectre per day,Moving four-year average,"Recreation area, cemetery",23.0
+2002,Hectre per day,Moving four-year average,"Recreation area, cemetery",23.0
+2003,Hectre per day,Moving four-year average,"Recreation area, cemetery",26.0
+2004,Hectre per day,Moving four-year average,"Recreation area, cemetery",32.0
+2005,Hectre per day,Moving four-year average,"Recreation area, cemetery",40.0
+2006,Hectre per day,Moving four-year average,"Recreation area, cemetery",47.0
+2007,Hectre per day,Moving four-year average,"Recreation area, cemetery",47.0
+2008,Hectre per day,Moving four-year average,"Recreation area, cemetery",45.0
+2009,Hectre per day,Moving four-year average,"Recreation area, cemetery",39.0
+2010,Hectre per day,Moving four-year average,"Recreation area, cemetery",32.0
+2011,Hectre per day,Moving four-year average,"Recreation area, cemetery",30.0
+2012,Hectre per day,Moving four-year average,"Recreation area, cemetery",25.0
+2013,Hectre per day,Moving four-year average,"Recreation area, cemetery",23.0
+2014,Hectre per day,Moving four-year average,"Recreation area, cemetery",22.0
+2015,Hectre per day,Moving four-year average,"Recreation area, cemetery",18.0
+2016,Hectre per day,Moving four-year average,"Recreation area, cemetery",
+2017,Hectre per day,Moving four-year average,"Recreation area, cemetery",
+2018,Hectre per day,Moving four-year average,"Recreation area, cemetery",
+2019,Hectre per day,Moving four-year average,"Recreation area, cemetery",
+2020,Hectre per day,Moving four-year average,"Recreation area, cemetery",12.0
+2021,Hectre per day,Moving four-year average,"Recreation area, cemetery",11.0
+2022,Hectre per day,Moving four-year average,"Recreation area, cemetery",11.0
 1996,Hectre per day,Calculated annual values,,120.0
 1997,Hectre per day,Calculated annual values,,124.0
 1998,Hectre per day,Calculated annual values,,131.0
@@ -163,33 +163,6 @@ Year,Units,Time series,Type of area,Value
 2020,Hectre per day,Calculated annual values,Transport area,6.0
 2021,Hectre per day,Calculated annual values,Transport area,8.0
 2022,Hectre per day,Calculated annual values,Transport area,-1.0
-1996,Hectre per day,Calculated annual values,"Recreation area, cemetery",9.0
-1997,Hectre per day,Calculated annual values,"Recreation area, cemetery",20.0
-1998,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
-1999,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
-2000,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
-2001,Hectre per day,Calculated annual values,"Recreation area, cemetery",29.0
-2002,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
-2003,Hectre per day,Calculated annual values,"Recreation area, cemetery",34.0
-2004,Hectre per day,Calculated annual values,"Recreation area, cemetery",46.0
-2005,Hectre per day,Calculated annual values,"Recreation area, cemetery",57.0
-2006,Hectre per day,Calculated annual values,"Recreation area, cemetery",52.0
-2007,Hectre per day,Calculated annual values,"Recreation area, cemetery",33.0
-2008,Hectre per day,Calculated annual values,"Recreation area, cemetery",39.0
-2009,Hectre per day,Calculated annual values,"Recreation area, cemetery",32.0
-2010,Hectre per day,Calculated annual values,"Recreation area, cemetery",23.0
-2011,Hectre per day,Calculated annual values,"Recreation area, cemetery",27.0
-2012,Hectre per day,Calculated annual values,"Recreation area, cemetery",18.0
-2013,Hectre per day,Calculated annual values,"Recreation area, cemetery",23.0
-2014,Hectre per day,Calculated annual values,"Recreation area, cemetery",18.0
-2015,Hectre per day,Calculated annual values,"Recreation area, cemetery",12.0
-2016,Hectre per day,Calculated annual values,"Recreation area, cemetery",
-2017,Hectre per day,Calculated annual values,"Recreation area, cemetery",15.0
-2018,Hectre per day,Calculated annual values,"Recreation area, cemetery",10.0
-2019,Hectre per day,Calculated annual values,"Recreation area, cemetery",10.0
-2020,Hectre per day,Calculated annual values,"Recreation area, cemetery",12.0
-2021,Hectre per day,Calculated annual values,"Recreation area, cemetery",11.0
-2022,Hectre per day,Calculated annual values,"Recreation area, cemetery",12.0
 1996,Hectre per day,Calculated annual values,Settlement area (built on),87.0
 1997,Hectre per day,Calculated annual values,Settlement area (built on),83.0
 1998,Hectre per day,Calculated annual values,Settlement area (built on),87.0
@@ -217,3 +190,30 @@ Year,Units,Time series,Type of area,Value
 2020,Hectre per day,Calculated annual values,Settlement area (built on),40.0
 2021,Hectre per day,Calculated annual values,Settlement area (built on),39.0
 2022,Hectre per day,Calculated annual values,Settlement area (built on),37.0
+1996,Hectre per day,Calculated annual values,"Recreation area, cemetery",9.0
+1997,Hectre per day,Calculated annual values,"Recreation area, cemetery",20.0
+1998,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
+1999,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
+2000,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
+2001,Hectre per day,Calculated annual values,"Recreation area, cemetery",29.0
+2002,Hectre per day,Calculated annual values,"Recreation area, cemetery",21.0
+2003,Hectre per day,Calculated annual values,"Recreation area, cemetery",34.0
+2004,Hectre per day,Calculated annual values,"Recreation area, cemetery",46.0
+2005,Hectre per day,Calculated annual values,"Recreation area, cemetery",57.0
+2006,Hectre per day,Calculated annual values,"Recreation area, cemetery",52.0
+2007,Hectre per day,Calculated annual values,"Recreation area, cemetery",33.0
+2008,Hectre per day,Calculated annual values,"Recreation area, cemetery",39.0
+2009,Hectre per day,Calculated annual values,"Recreation area, cemetery",32.0
+2010,Hectre per day,Calculated annual values,"Recreation area, cemetery",23.0
+2011,Hectre per day,Calculated annual values,"Recreation area, cemetery",27.0
+2012,Hectre per day,Calculated annual values,"Recreation area, cemetery",18.0
+2013,Hectre per day,Calculated annual values,"Recreation area, cemetery",23.0
+2014,Hectre per day,Calculated annual values,"Recreation area, cemetery",18.0
+2015,Hectre per day,Calculated annual values,"Recreation area, cemetery",12.0
+2016,Hectre per day,Calculated annual values,"Recreation area, cemetery",
+2017,Hectre per day,Calculated annual values,"Recreation area, cemetery",15.0
+2018,Hectre per day,Calculated annual values,"Recreation area, cemetery",10.0
+2019,Hectre per day,Calculated annual values,"Recreation area, cemetery",10.0
+2020,Hectre per day,Calculated annual values,"Recreation area, cemetery",12.0
+2021,Hectre per day,Calculated annual values,"Recreation area, cemetery",11.0
+2022,Hectre per day,Calculated annual values,"Recreation area, cemetery",12.0

@@ -31,7 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
                 "Teilindex Wälder",
                 "Teilindex Siedlungen",
                 "Teilindex Agrarland",
@@ -40,7 +39,7 @@
                 ""
               ]
             },
-            "title": "Teilindex"
+            "title": "Teilindizes"
           },
           {
             "name": "Value",
