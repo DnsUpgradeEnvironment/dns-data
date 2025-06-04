@@ -1673,9 +1673,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXa) Nachhaltigkeit in Vergabeverfahren",
+                "a) Sustainability in procurement procedures",
                 "b) CO₂ emissions of commercially available vehicles in the public sector",
-                "XXXc) Nachhaltige Textilbeschaffung",
+                "c) Sustainable textile procurement",
                 ""
               ]
             },
@@ -1949,8 +1949,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXCorruption Perception Index in Germany",
-                "XXXNumber of partner countries for German development cooperation with improved CPI scores compared with 2012",
+                "a) Corruption Perception Index in Germany",
+                "b) Corruption Perceptions Index in the partner countries of German development cooperation",
                 ""
               ]
             },
@@ -1996,9 +1996,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXPeople gaining first-time or upgraded access to drinking water or sanitation",
-                "XXXPeople gaining first-time or upgraded access to drinking water",
-                "XXXNumber of people gaining first-time or improved access to sanitation",
+                "With a new or higher-quality access to the drinking water supply or connection to the sanitation supply",
+                "a) With a new or improved drinking water supply",
+                "b) With new or improved basic sanitation or wastewater treatment",
                 ""
               ]
             },
@@ -2173,8 +2173,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) 20 to 64-year-olds",
-                "b) 55 to 64-year-olds",
+                "a) Total (20 to 64-year-olds)",
+                "b) Older people (55 to 64-year-olds)",
                 ""
               ]
             },

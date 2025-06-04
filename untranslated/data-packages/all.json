@@ -1534,9 +1534,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxa) nachhaltigkeit in vergabeverfahren",
-                "b) co2 emissions of commercially available vehicles in the public sector",
-                "xxxc) nachhaltige textilbeschaffung",
+                "a) sustainability in procurement procedures",
+                "b) co₂ emissions of commercially available vehicles in the public sector",
+                "c) sustainable textile procurement",
                 ""
               ]
             }
@@ -1787,8 +1787,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxcorruption perception index in germany",
-                "xxxnumber of partner countries for german development cooperation with improved cpi scores compared with 2012",
+                "a) corruption perception index in germany",
+                "b) corruption perceptions index in the partner countries of german development cooperation",
                 ""
               ]
             }
@@ -1830,9 +1830,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "xxxpeople gaining first-time or upgraded access to drinking water or sanitation",
-                "xxxpeople gaining first-time or upgraded access to drinking water",
-                "xxxnumber of people gaining first-time or improved access to sanitation",
+                "with a new or higher-quality access to the drinking water supply or connection to the sanitation supply",
+                "a) with a new or improved drinking water supply",
+                "b) with new or improved basic sanitation or wastewater treatment",
                 ""
               ]
             }
@@ -1992,8 +1992,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) 20 to 64-year-olds",
-                "b) 55 to 64-year-olds",
+                "a) total (20 to 64-year-olds)",
+                "b) older people (55 to 64-year-olds)",
                 ""
               ]
             }
@@ -2092,7 +2092,7 @@
               "enum": [
                 "ba) direct and indirect use of raw materials",
                 "bb) direct and indirect energy consumption",
-                "bc) direct and indirect co2 emissions",
+                "bc) direct and indirect co₂ emissions",
                 ""
               ]
             }

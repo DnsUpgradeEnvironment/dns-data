@@ -1,6 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 a) government deficit,1,1
 a) material and social deprivation,6,1
+a) with a new or improved drinking water supply,1,1
 aa) baltic sea,1,1
 ab) north sea,1,1
 academically qualified and professionally highly qualified persons,3,1
@@ -8,9 +9,10 @@ all wired technologies,1,1
 b) on supervisory boards of listed and fully co-determined companies,1,1
 b) severe material and social deprivation,6,1
 b) structural deficit,1,1
+b) with new or improved basic sanitation or wastewater treatment,1,1
 ba) direct and indirect use of raw materials,1,1
 bb) direct and indirect energy consumption,1,1
-bc) direct and indirect co2 emissions,1,1
+bc) direct and indirect co₂ emissions,1,1
 c) adolescents,3,1
 c) in management positions in the federal civil service,1,1
 calculated annual values,5,2
@@ -53,6 +55,4 @@ skilled labour potential (total),3,1
 students from ldcs,1,1
 students from other developing and emerging countries,1,1
 "value of consumption, investment and exports (price-adjusted)",1,1
-xxxnumber of people gaining first-time or improved access to sanitation,1,1
-xxxpeople gaining first-time or upgraded access to drinking water or sanitation,1,1
-xxxpeople gaining first-time or upgraded access to drinking water,1,1
+with a new or higher-quality access to the drinking water supply or connection to the sanitation supply,1,1
