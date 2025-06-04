@@ -313,7 +313,7 @@
             "title": "Series"
           },
           {
-            "name": "xxxart der betreuung",
+            "name": "type of care",
             "type": "string",
             "constraints": {
               "enum": [
@@ -409,7 +409,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -418,7 +418,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "type of area",
@@ -426,8 +426,8 @@
             "constraints": {
               "enum": [
                 "Verkehrsfläche",
-                "Siedlungsfläche (bebaut)",
                 "Erholungsfläche, Friedhof",
+                "Siedlungsfläche (bebaut)",
                 ""
               ]
             },
@@ -469,7 +469,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -478,7 +478,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "sea",
@@ -599,7 +599,7 @@
             "title": "Units"
           },
           {
-            "name": "xxxart der tarifverträge",
+            "name": "type of collective bargaining agreement",
             "type": "string",
             "constraints": {
               "enum": [
@@ -802,11 +802,22 @@
             "title": "Units"
           },
           {
-            "name": "xxxrisikolage",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Differenz zwischen 'Keine Risikolage' und 'Mindestens eine Risikolage'",
+                "Nach Anzahl der Risikolagen",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "risk situation",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Keine Risikolage",
                 "Mindestens eine Risikolage",
                 "Insgesamt",
@@ -1262,7 +1273,7 @@
             "constraints": {
               "enum": [
                 "<u>Zeitreihe des Indikators:</u> Daten des Statistischen Bundesamtes",
-                "<u>Zusätzliche Zeitreihe:</u> Daten des BMEL",
+                "<u>Zusätzliche Zeitreihe:</u> Daten des BMLEH",
                 ""
               ]
             },
@@ -1469,7 +1480,7 @@
             "title": "Series"
           },
           {
-            "name": "xxxlevel of compliance",
+            "name": "level of compliance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1613,7 +1624,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "xxxart der prävention",
+            "name": "type of treatment",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1702,7 +1713,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
                 "Millionen EUR",
                 ""
               ]
@@ -1710,19 +1720,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "<u>Zeitreihe des Indikators:</u> Anteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
-                "<u>Zusätzliche Zeitreihe:</u> Beitrag Deutschlands zur globalen Pandemieprävention, -vorsorge und -reaktion (PPR)",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "xxxzuordnung",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1731,7 +1729,7 @@
                 ""
               ]
             },
-            "title": "Zuordnung"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
@@ -1773,6 +1771,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Insgesamt",
                 "Teilindex Wälder",
                 "Teilindex Siedlungen",
                 "Teilindex Agrarland",
@@ -1781,7 +1780,7 @@
                 ""
               ]
             },
-            "title": "Teilindizes"
+            "title": "Teilindex"
           },
           {
             "name": "Value",
@@ -2694,7 +2693,7 @@
             "title": "Units"
           },
           {
-            "name": "xxxsektoren",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2704,7 +2703,7 @@
                 ""
               ]
             },
-            "title": "Sektoren"
+            "title": "Sektor"
           },
           {
             "name": "Value",
@@ -3113,7 +3112,7 @@
             "title": "Units"
           },
           {
-            "name": "xxxsektoren",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3123,7 +3122,7 @@
                 ""
               ]
             },
-            "title": "Sektoren"
+            "title": "Sektor"
           },
           {
             "name": "Value",

@@ -33,8 +33,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXX<u>Zeitreihe des Indikators:</u>Nachhaltigkeitszertifizierte Kultur- und Medieneinrichtungen",
-                "XXXProduktionen audiovisueller Medien, bei denen ökologische Standards eingehalten wurden",
+                "<u>Time series of the indicator:</u> Sustainability-certified cultural and media institutions",
+                "<u>Additional time series:</u> Productions of audiovisual media that meet ecological standards",
                 ""
               ]
             },
@@ -313,16 +313,16 @@
             "title": "Series"
           },
           {
-            "name": "xxxart der betreuung",
+            "name": "type of care",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXKindertageseinrichtungen",
-                "XXXTagespflege",
+                "Day care centres",
+                "Day care",
                 ""
               ]
             },
-            "title": "XXXArt der Betreuung"
+            "title": "Type of care"
           },
           {
             "name": "Value",
@@ -409,7 +409,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -418,7 +418,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "type of area",
@@ -426,8 +426,8 @@
             "constraints": {
               "enum": [
                 "Transport area",
-                "Settlement area (built on)",
                 "Recreation area, cemetery",
+                "Settlement area (built on)",
                 ""
               ]
             },
@@ -469,7 +469,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -478,7 +478,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "sea",
@@ -599,16 +599,16 @@
             "title": "Units"
           },
           {
-            "name": "xxxart der tarifverträge",
+            "name": "type of collective bargaining agreement",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXBranchen-/Flächentarifvertrag",
-                "XXXFirmen-/Haustarifvertrag",
+                "Sector/area collective agreement",
+                "Company/house collective agreement",
                 ""
               ]
             },
-            "title": "XXXArt der Tarifverträge"
+            "title": "Type of collective bargaining agreement"
           },
           {
             "name": "Value",
@@ -779,9 +779,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -802,18 +799,29 @@
             "title": "Units"
           },
           {
-            "name": "xxxrisikolage",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXDifferenz zwischen 'Keine Risikolage' und 'Mind. eine Risikolage'",
-                "XXXKeine Risikolage",
-                "XXXMindestens eine Risikolage",
+                "Difference between “No risk situation” and 'At least one risk situation'",
+                "By number of risk positions",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "risk situation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "No risk situation",
+                "At least one risk situation",
                 "Total",
                 ""
               ]
             },
-            "title": "XXXRisikolage"
+            "title": "Risk situation"
           },
           {
             "name": "Value",
@@ -891,9 +899,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Locations of organisation registered with EMAS",
-                "Employees in EMAS organisations",
-                "EMAS organisations",
+                "<u>Time series of the indicator:</u> Locations of organisation registered with EMAS",
+                "<u>Additional time series:</u> Employees in EMAS organisations",
+                "<u>Additional time series:</u> EMAS organisations",
                 ""
               ]
             },
@@ -1117,8 +1125,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXUnbereinigter Gender Pay Gap",
-                "XXXBereinigter Gender Pay Gap",
+                "<u>Time series of the indicator:</u> Unadjusted Gender Pay Gap",
+                "<u>Additional time series:</u> Adjusted Gender Pay Gap",
                 ""
               ]
             },
@@ -1261,8 +1269,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Data from the Federal Statistical Office",
-                "Data from the Federal Ministry of Food and Agriculture",
+                "<u>Time series of the indicator:</u> Data from the Federal Statistical Office",
+                "<u>Additional time series:</u> Data from the BMLEH",
                 ""
               ]
             },
@@ -1461,15 +1469,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Effectiveness",
-                "XXXTechnical compliance",
+                "<u>Time series of the indicator:</u> Effectiveness",
+                "<u>Additional time series:</u> Technical compliance",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "xxxlevel of compliance",
+            "name": "level of compliance",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1480,7 +1488,7 @@
                 ""
               ]
             },
-            "title": "xxxLevel of compliance"
+            "title": "Level of compliance"
           },
           {
             "name": "Value",
@@ -1581,7 +1589,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-9",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1613,7 +1621,7 @@
             "title": "Sex"
           },
           {
-            "name": "xxxart der prävention",
+            "name": "type of treatment",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1622,7 +1630,7 @@
                 ""
               ]
             },
-            "title": "XXXArt der Prävention"
+            "title": "Type of treatment"
           },
           {
             "name": "Value",
@@ -1702,7 +1710,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
                 "Million EUR",
                 ""
               ]
@@ -1710,19 +1717,7 @@
             "title": "Units"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "XXXAnteil der Länder, die Deutschland bei der Pandemieprävention, -vorsorge und -reaktion (PPR) unterstützt und die im Global Health Security Index (GHSI) Fortschritte gemacht haben, an der Anzahl der Länder, die Deutschland im Bereich PPR unterstützt",
-                "XXXBeitrag Deutschlands zur globalen Pandemieprävention und -reaktion",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "xxxzuordnung",
+            "name": "time series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1731,7 +1726,7 @@
                 ""
               ]
             },
-            "title": "XXXZuordnung"
+            "title": "Time series"
           },
           {
             "name": "Value",
@@ -1773,6 +1768,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Forest sub-index",
                 "Settlements sub-index",
                 "Farmland sub-index",
@@ -2130,8 +2126,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXX<u>Zeitreihe des Indikators:</u> Kinder, deren Väter Elterngeld bezogen haben",
-                "XXXMännliche Bezieher an allen genommenen Elterngeldmonaten",
+                "<u>Time series of the indicator:</u> Children whose fathers have received parental allowance",
+                "<u>Additional time series:</u> Male recipients of all parental allowance months taken",
                 ""
               ]
             },
@@ -2543,8 +2539,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXAkademisch Qualifizierte und beruflich Höherqualifizierte",
-                "XXXFachkräftepotenzial (insgesamt)",
+                "Academically qualified and professionally highly qualified persons",
+                "Skilled labour potential (total)",
                 ""
               ]
             },
@@ -2555,10 +2551,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXZweitausbildung, Ausbildung nach Abitur",
-                "XXXHöherqualifizierende Berufsausbildung",
-                "XXXHochschulabschlüsse",
-                "XXXErstausbildung",
+                "Secondary education, education after Abitur",
+                "Higher qualifying vocational training",
+                "University degree",
+                "Initial training",
                 ""
               ]
             },
@@ -2694,17 +2690,17 @@
             "title": "Units"
           },
           {
-            "name": "xxxsektoren",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXStaat und private Institutionen ohne Erwerbszweck",
-                "XXXHochschulen",
-                "XXXWirtschaft",
+                "Government and private non-profit institutions",
+                "Universities",
+                "Economy",
                 ""
               ]
             },
-            "title": "XXXSektoren"
+            "title": "Sector"
           },
           {
             "name": "Value",
@@ -2816,7 +2812,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXInsgesamt",
+                "Total",
                 "SO₂",
                 "NOₓ",
                 "NH₃",
@@ -2870,8 +2866,8 @@
                 "Raw material input productivity",
                 "Raw material input for consumption, investment and exports",
                 "Value of consumption, investment and exports (price-adjusted)",
-                "XXXRohstoffeinsatz für Konsum und Investitionen (RMC)",
-                "XXXRohstoffeinsatz für Exporte (RMC)",
+                "Raw material consumption and investment (RMC)",
+                "Raw material consumption for exports (RMC)",
                 ""
               ]
             },
@@ -3113,17 +3109,17 @@
             "title": "Units"
           },
           {
-            "name": "xxxsektoren",
+            "name": "sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "XXXNachhaltige bewirtschaftete Fläche",
-                "XXXWaldfläche nachhaltige Bewirtschaftung und Wiederherstellung",
-                "XXXTerrestrische Schutzgebiete und Mangrovenwälder in marinen Schutzgebieten",
+                "Sustainably farmed area",
+                "Forest area Sustainable management and restoration",
+                "Terrestrial protected areas and mangrove forests in marine protected areas",
                 ""
               ]
             },
-            "title": "XXXSektoren"
+            "title": "Sector"
           },
           {
             "name": "Value",
