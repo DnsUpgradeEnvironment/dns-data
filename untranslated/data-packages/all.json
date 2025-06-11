@@ -238,7 +238,7 @@
             "constraints": {
               "enum": [
                 "b) on supervisory boards of listed and fully co-determined companies",
-                "c) in management positions in the federal civil service",
+                "c) in the federal civil service",
                 ""
               ]
             }
@@ -1787,8 +1787,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) corruption perception index in germany",
-                "b) corruption perceptions index in the partner countries of german development cooperation",
+                "a) corruption perceptions index in germany",
+                "b) corruption perceptions index in partner countries for german development cooperation",
                 ""
               ]
             }
@@ -1831,8 +1831,8 @@
             "constraints": {
               "enum": [
                 "with a new or higher-quality access to the drinking water supply or connection to the sanitation supply",
-                "a) with a new or improved drinking water supply",
-                "b) with new or improved basic sanitation or wastewater treatment",
+                "a) with access to new or improved drinking water supply",
+                "b) with access to new or improved basic sanitation or wastewater treatment",
                 ""
               ]
             }

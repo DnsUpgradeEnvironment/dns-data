@@ -129,7 +129,7 @@
             "constraints": {
               "enum": [
                 "a) Finanzierungssaldo",
-                "b) struktureller Finanzierungssaldo",
+                "b) Struktureller Finanzierungssaldo",
                 "Bruttoinlandsprodukt (preisbereinigt)",
                 ""
               ]
@@ -1952,8 +1952,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Korruptionswahrnehmungsindex in Deutschland",
-                "b) Korruptionswahrnehmungsindex in den Partnerländern der deutschen Entwicklungszusammenarbeit",
+                "a) Corruption Perception Index in Deutschland",
+                "b) Corruption Perception Index in den Partnerländern der deutschen Entwicklungszusammenarbeit",
                 ""
               ]
             },
